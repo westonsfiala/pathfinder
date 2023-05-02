@@ -1,0 +1,9 @@
+build*/
+.vscode
+.vs
+*~
+*.swp
+*.log
+*.bak
+* - copy.*
+*.cache

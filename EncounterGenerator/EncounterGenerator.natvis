@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<AutoVisualizer xmlns="http://schemas.microsoft.com/vstudio/debugger/natvis/2010">
+  <Type Name="Party">
+    <DisplayString>Party {m_adventurer_map_} : Desired XP {m_desired_xp_map_}</DisplayString>
+  </Type>
+  <Type Name="Monster">
+    <DisplayString>Name {m_name_} : CR {m_cr_} : Book {m_book_} : Page {m_page_}</DisplayString>
+  </Type>
+</AutoVisualizer>

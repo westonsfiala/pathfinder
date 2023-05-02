@@ -1,0 +1,2431 @@
+Level,Rarity,Name,Traits,Size,Source
+-1,Uncommon,Animated Blades,Construct; Mindless; Uncommon,Tiny,Pathfinder #175: Broken Tusk Moon pg. 32
+-1,Common,Unseen Servant,Mindless,Medium,Core Rulebook pg. 380 4.0
+-1,Common,Miriel Grayleaf,Elf; Humanoid,Medium,Pathfinder #157: Devil at the Dreaming Palace pg. 7
+-1,Common,Red Fox,Animal,Tiny,Bestiary 3 pg. 102
+-1,Common,Teacher,Human; Humanoid,Medium,Gamemastery Guide pg. 240
+-1,Common,Animated Broom,Construct; Mindless,Small,Bestiary pg. 20
+-1,Common,Bloodseeker,Animal,Tiny,Bestiary pg. 42
+-1,Common,Eagle,Animal,Small,Bestiary pg. 141
+-1,Common,Flash Beetle,Animal,Small,Bestiary pg. 41
+-1,Common,Goblin Warrior,Goblin; Humanoid,Small,Bestiary pg. 180
+-1,Common,Librarian,Human; Humanoid,Medium,Gamemastery Guide pg. 240
+-1,Unique,Masu,Animal; Unique,Tiny,Pathfinder #179: Cradle of Quartz pg. 16
+-1,Uncommon,Floating Femur,Construct; Mindless; Uncommon,Tiny,Pathfinder #181: Zombie Feast pg. 82
+-1,Uncommon,Khefak Scuttler,Animal; Uncommon,Small,Pathfinder #173: Doorway to the Red Star pg. 87
+-1,Common,Merchant,Human; Humanoid,Medium,Gamemastery Guide pg. 244
+-1,Common,Raven,Animal,Tiny,Bestiary 2 pg. 221 2.0
+-1,Common,Server,Human; Humanoid,Medium,Gamemastery Guide pg. 238
+-1,Common,Skebs,Halfling; Humanoid,Small,Pathfinder #157: Devil at the Dreaming Palace pg. 8
+-1,Common,Skunk,Animal,Tiny,Bestiary 3 pg. 246
+-1,Common,Trilobite,Animal; Aquatic,Tiny,Bestiary 3 pg. 275
+-1,Common,Weasel,Animal,Tiny,Bestiary 3 pg. 291
+-1,Common,Abberton Ruffian,Human; Humanoid,Medium,Pathfinder #151: The Show Must Go On pg. 9
+-1,Common,Adept,Human; Humanoid,Medium,Gamemastery Guide pg. 228
+-1,Common,Apprentice,Human; Humanoid,Medium,Gamemastery Guide pg. 244
+-1,Common,Barrister,Human; Humanoid,Medium,Gamemastery Guide pg. 232
+-1,Common,Beaver,Animal,Small,Pathfinder #176: Lost Mammoth Valley pg. 82
+-1,Uncommon,Black Tear Cutthroat,Human; Humanoid; Uncommon,Medium,Kingmaker Adventure Path pg. 26
+-1,Uncommon,Burnbearer,Human; Humanoid; Uncommon,Medium,Pathfinder #175: Broken Tusk Moon pg. 23
+-1,Uncommon,Chattering Jaws,Construct; Mindless; Uncommon,Tiny,Pathfinder #181: Zombie Feast pg. 82
+-1,Uncommon,Clockwork Spy,Clockwork; Construct; Mindless; Uncommon,Tiny,Bestiary 3 pg. 48
+-1,Common,Compsognathus,Animal; Dinosaur,Tiny,Bestiary 2 pg. 80 2.0
+-1,Rare,Follower Of Shumfallow,Fungus; Leshy; Rare,Small,Pathfinder #178: Punks in a Powderkeg pg. 25
+-1,Common,Giant Centipede,Animal,Medium,Bestiary pg. 61
+-1,Common,Giant Rat,Animal,Small,Bestiary pg. 276
+-1,Uncommon,Gold Tank Investor,Human; Humanoid; Uncommon,Medium,Pathfinder #178: Punks in a Powderkeg pg. 14
+-1,Common,Guard Dog,Animal,Small,Bestiary pg. 102
+-1,Common,Kobold Warrior,Humanoid; Kobold,Small,Bestiary pg. 212
+-1,Uncommon,Sludgespine Killers,Gnoll; Humanoid; Uncommon,Medium,Pathfinder #178: Punks in a Powderkeg pg. 25
+-1,Common,Tax Collector,Human; Humanoid,Medium,Gamemastery Guide pg. 224
+-1,Uncommon,Thorn River Bandit,Human; Humanoid; Minion; Uncommon,Medium,Kingmaker Adventure Path pg. -1
+-1,Common,Tooth Fairy,Fey,Tiny,Bestiary 3 pg. 273
+-1,Common,Urchin,Human; Humanoid,Medium,Gamemastery Guide pg. 215
+-1,Common,Viper,Animal,Tiny,Bestiary pg. 302
+-1,Common,Vulture Rat,Animal,Small,Travel Guide pg. 99
+-1,Common,Antaro Boldblade,Human; Humanoid,Medium,Pathfinder #157: Devil at the Dreaming Palace pg. 8
+-1,Common,Apothecary,Human; Humanoid,Medium,Gamemastery Guide pg. 220
+-1,Common,Common Eurypterid,Amphibious; Animal,Medium,Bestiary 3 pg. 97
+-1,Common,Grimple,Fey; Gremlin,Tiny,Bestiary 3 pg. 120
+-1,Common,Haniver,Amphibious; Fey; Gremlin,Tiny,Bestiary 3 pg. 120
+-1,Common,Harrow Reader,Human; Humanoid,Medium,Gamemastery Guide pg. 228
+-1,Common,Judge,Human; Humanoid,Medium,Gamemastery Guide pg. 224
+-1,Common,Monkey,Animal,Tiny,Bestiary 3 pg. 172
+-1,Common,Physician,Human; Humanoid,Medium,Gamemastery Guide pg. 220
+-1,Common,Servant,Human; Humanoid,Medium,Gamemastery Guide pg. 222
+-1,Uncommon,Silverfish Swarm,Animal; Swarm; Uncommon,Large,Pathfinder #169: Kindled Magic pg. 84
+-1,Common,Snapping Turtle,Animal,Tiny,Bestiary 2 pg. 269 2.0
+-1,Common,Beggar,Human; Humanoid,Medium,Gamemastery Guide pg. 214
+-1,Common,Commoner,Human; Humanoid,Medium,Gamemastery Guide pg. 214
+-1,Common,Foolish Hunters,Human; Humanoid,Medium,Crown of the Kobold King pg. 25
+-1,Common,Mitflit,Fey; Gremlin,Small,Bestiary pg. 192
+-1,Common,Nyktera,Fey; Sprite,Tiny,Bestiary 3 pg. 254
+-1,Common,Three-Toed Sloth,Animal,Tiny,Bestiary 3 pg. 248
+-1,Common,Sprite,Fey; Sprite,Tiny,Bestiary pg. 308
+-1,Common,Pufferfish,Animal; Aquatic,Tiny,Bestiary 3 pg. 99
+-1,Common,Yellow Musk Thrall,Mindless; Plant,Medium,Bestiary 2 pg. 301 2.0
+-1,Common,Bolar Of Stonemoor,Dwarf; Humanoid,Medium,Pathfinder #157: Devil at the Dreaming Palace pg. 8
+-1,Uncommon,Zombie Hound,Mindless; Uncommon; Undead; Zombie,Small,Pathfinder #181: Zombie Feast pg. 16
+-1,Common,Zombie Shambler,Mindless; Undead; Zombie,Medium,Bestiary pg. 340
+-1,Common,Skeleton Guard,Mindless; Skeleton; Undead,Medium,Bestiary pg. 298
+-1,Common,Predatory Rabbit,Undead,Tiny,Book of the Dead pg. 142
+-1,Common,Severed Head,Mindless; Undead,Tiny,Bestiary 3 pg. 30
+-1,Common,Crawling Hand,Undead,Tiny,Bestiary 2 pg. 56 2.0
+0,Common,Air Wisp,Air; Elemental,Tiny,Bestiary 3 pg. 90
+0,Uncommon,Clockwork Hunter,Clockwork; Construct; Mindless; Uncommon,Small,Pathfinder #178: Punks in a Powderkeg pg. 82
+0,Common,Spear Frog,Animal,Tiny,Bestiary 2 pg. 121 2.0
+0,Common,Spider Swarm,Animal; Swarm,Large,Bestiary pg. 306
+0,Uncommon,Powderkeg Punk Gunner,Humanoid; Uncommon,Medium,Pathfinder #178: Punks in a Powderkeg pg. 39
+0,Common,Vine Leshy,Leshy; Plant,Small,Bestiary 3 pg. 160
+0,Common,Grindylow,Aberration; Amphibious,Small,Bestiary 2 pg. 138 2.0
+0,Common,Ioton,Astral; Incorporeal,Tiny,Bestiary 3 pg. 92
+0,Common,Azarketi Crab Catcher,Amphibious; Azarketi; Humanoid,Medium,"Absalom, City of Lost Omens pg. 396"
+0,Common,Badger,Animal,Small,Bestiary 2 pg. 32 2.0
+0,Common,Blue-Ringed Octopus,Animal; Aquatic,Tiny,Bestiary 2 pg. 187 2.0
+0,Uncommon,Burning Mammoth Hunters,Human; Humanoid; Uncommon,Medium,Pathfinder #175: Broken Tusk Moon pg. 17
+0,Common,Dream Spider,Animal,Small,Bestiary 2 pg. 249 2.0
+0,Common,Earth Wisp,Earth; Elemental,Tiny,Bestiary 3 pg. 90
+0,Common,Leaf Leshy,Leshy; Plant,Small,Bestiary pg. 218
+0,Rare,Oaksteward Enforcer,Human; Humanoid; Rare,Medium,Pathfinder #187: The Seventh Arch pg. 14
+0,Common,Orc Brute,Humanoid; Orc,Medium,Bestiary pg. 256
+0,Common,Pygmy Kaava,Humanoid,Small,The Mwangi Expanse pg. 300 2.0
+0,Common,Ringhorn Ram,Animal,Medium,Bestiary 3 pg. 212
+0,Common,Sea Snake,Animal,Small,Bestiary 2 pg. 245 2.0
+0,Rare,Sicklehand Construct,Construct; Mindless; Rare,Medium,Pathfinder #169: Kindled Magic pg. 41
+0,Uncommon,Spellskein,Construct; Uncommon,Tiny,Pathfinder #169: Kindled Magic pg. 85
+0,Common,Stingray,Animal; Aquatic,Medium,Bestiary 2 pg. 2262.0
+0,Common,Torchbearer,Human; Humanoid,Medium,Gamemastery Guide pg. 216
+0,Common,Vampire Squid,Animal; Aquatic,Small,Bestiary 2 pg. 2542.0
+0,Common,Vine Lasher,Plant,Small,The Fall of Plaguestone pg. 62
+0,Common,Baccali Alpaca,Animal,Medium,Travel Guide pg. 99
+0,Common,Bottlenose Dolphin,Animal,Medium,Bestiary 2 pg. 842.0
+0,Common,Duergar Sharpshooter,Duergar; Dwarf; Humanoid,Medium,Bestiary pg. 138
+0,Common,Giant Worker Bee,Animal,Medium,Pathfinder #169: Kindled Magic pg. 80
+0,Uncommon,Groplit,Amphibious; Animal; Uncommon,Small,Pathfinder #175: Broken Tusk Moon pg. 83
+0,Common,Juvenile Boar,Animal,Small,Pathfinder #151: The Show Must Go On pg. 20
+0,Uncommon,Kobold Tunnelrunner,Humanoid; Kobold; Uncommon,Small,Pathfinder Encounter: Heaving Kobolds pg. 0
+0,Common,Riding Pony,Animal,Medium,Bestiary pg. 209
+0,Rare,Shoony Tiller,Humanoid; Rare; Shoony,Small,Pathfinder #153: Life's Long Shadows pg. 82
+0,Uncommon,Stag Lord Bandit,Human; Humanoid; Uncommon,Medium,Kingmaker Adventure Path pg. 177
+0,Uncommon,Thylacine,Animal; Uncommon,Small,Kingmaker Adventure Path pg. 609
+0,Common,Whalesteed,Animal,Large,Travel Guide pg. 99
+0,Uncommon,Giant Silverfish,Animal; Uncommon,Small,Pathfinder #169: Kindled Magic pg. 84
+0,Unique,Happs Bydon,Human; Humanoid; Unique,Medium,Kingmaker Adventure Path pg. 167
+0,Common,Homunculus,Construct,Tiny,Bestiary pg. 208
+0,Common,Melixie,Fey; Sprite,Tiny,Bestiary 3 pg. 254
+0,Common,Pugwampi,Fey; Gremlin,Tiny,Bestiary pg. 193
+0,Common,Fire Wisp,Elemental; Fire,Tiny,Bestiary 3 pg. 91
+0,Common,Giant Maggot,Animal,Medium,Bestiary 2 pg. 1202.0
+0,Common,Kangaroo,Animal,Medium,Bestiary 3 pg. 146
+0,Uncommon,Scrit,Fey; Gremlin; Uncommon,Tiny,Pathfinder #169: Kindled Magic pg. 82
+0,Rare,Ardissa's Porters,Dwarf; Humanoid; Rare,Medium,Pathfinder #175: Broken Tusk Moon pg. 39
+0,Uncommon,Bone Shard Toughs,Human; Humanoid; Uncommon,Medium,Pathfinder #181: Zombie Feast pg. 35
+0,Common,Dockhand,Human; Humanoid,Medium,Gamemastery Guide pg. 222
+0,Common,Eunice,Human; Humanoid,Medium,Pathfinder #157: Devil at the Dreaming Palace pg. 12
+0,Common,Farmer,Human; Humanoid,Medium,Gamemastery Guide pg. 222
+0,Common,Lemure,Devil; Fiend; Mindless,Medium,Bestiary pg. 86
+0,Common,Logger,Human; Humanoid,Medium,Kingmaker Adventure Path pg. 71
+0,Common,Miner,Human; Humanoid,Medium,Gamemastery Guide pg. 223
+0,Uncommon,Necromunculus,Uncommon; Undead,Tiny,Pathfinder #181: Zombie Feast pg. 86
+0,Common,Water Wisp,Elemental; Water,Tiny,Bestiary 3 pg. 91
+0,Common,Wolf Skeleton,Mindless; Skeleton; Undead,Medium,Book of the Dead pg. 147
+0,Common,Mummified Cat,Mummy; Undead,Tiny,Book of the Dead pg. 130
+0,Common,Zombie Snake,Mindless; Undead; Zombie,Medium,Book of the Dead pg. 170
+1,Common,Vampire Bat Swarm,Animal; Swarm,Large,Bestiary pg. 39
+1,Common,Animated Silverware Swarm,Construct; Mindless; Swarm,Large,Bestiary 3 pg. 18
+1,Common,Augur,Fiend; Velstrac,Tiny,"Bestiary 2 pg. 2802.0 , Pathfinder #147: Tomorrow Must Burn pg. 82"
+1,Common,Cunning Guide,Beast; Incorporeal; Spirit,Small,Bestiary 3 pg. 252
+1,Uncommon,Cythnigot,Fiend; Qlippoth; Uncommon,Tiny,Bestiary 2 pg. 2122.0
+1,Uncommon,Gathlain Wanderer,Fey; Plant; Uncommon,Small,Bestiary 3 pg. 105
+1,Uncommon,Raktavarna,Fiend; Rakshasa; Uncommon,Tiny,Bestiary 3 pg. 210
+1,Common,Rat Swarm,Animal; Swarm,Large,Bestiary pg. 276
+1,Rare,Akata,Aberration; Rare,Medium,Bestiary 2 pg. 132.0
+1,Common,Goblin Pyro,Goblin; Humanoid,Small,Bestiary pg. 181
+1,Common,Imp,Devil; Fiend,Tiny,Bestiary pg. 87
+1,Unique,Linzi (Level 1),Halfling; Humanoid; Unique,Small,Kingmaker Companion Guide pg. 45
+1,Unique,Muruwa,Grippli; Humanoid; Unique,Medium,Threshold of Knowledge pg. 13
+1,Common,Undine Hydromancer,Amphibious; Human; Humanoid; Undine,Medium,Bestiary 2 pg. 2032.0
+1,Unique,Zane Ikundi,Half-Orc; Human; Humanoid; Orc; Unique,Medium,Threshold of Knowledge pg. 15
+1,Uncommon,Acolyte Of Pharasma,Human; Humanoid; Uncommon,Medium,Shadows at Sundown pg. 35
+1,Common,Acolyte of Nethys,Human; Humanoid,Medium,Gamemastery Guide pg. 212
+1,Uncommon,Clockwork Handler,Clockwork; Construct; Mindless; Uncommon,Medium,Pathfinder #178: Punks in a Powderkeg pg. 83
+1,Unique,Ekene,Elf; Humanoid; Unique,Medium,Threshold of Knowledge pg. 11
+1,Common,Esipil,Fiend; Sahkil,Tiny,Bestiary 3 pg. 218
+1,Common,Goblin War Chanter,Goblin; Humanoid,Small,Bestiary pg. 181
+1,Uncommon,Grioth Scout,Grioth; Humanoid; Uncommon,Medium,Bestiary 3 pg. 122
+1,Common,House Drake,Dragon,Tiny,Bestiary 3 pg. 135
+1,Common,Hunting Spider,Animal,Medium,Bestiary pg. 306
+1,Common,Kobold Scout,Humanoid; Kobold,Small,Bestiary pg. 213
+1,Uncommon,Phalanx Of Phalanges,Construct; Mindless; Swarm; Uncommon,Large,Pathfinder #181: Zombie Feast pg. 83
+1,Uncommon,Powderkeg Punk Bombardier,Humanoid; Uncommon,Medium,Pathfinder #178: Punks in a Powderkeg pg. 38
+1,Common,Samsaran Anchorite,Humanoid; Samsaran,Medium,Bestiary 3 pg. 224
+1,Common,Squirrel Swarm,Animal; Swarm,Large,Bestiary 3 pg. 257
+1,Common,Suli Dune Dancer,Human; Humanoid; Suli,Medium,Bestiary 2 pg. 2022.0
+1,Uncommon,Vanara Disciple,Humanoid; Uncommon; Vanara,Medium,Bestiary 3 pg. 286
+1,Rare,Wyrwood Sneak,Construct; Rare; Wyrwood,Small,Bestiary 3 pg. 298
+1,Common,Flumph,Aberration,Small,Bestiary 3 pg. 100
+1,Common,Goblin Dog,Animal,Medium,Bestiary pg. 182
+1,Common,Lizardfolk Scout,Humanoid; Lizardfolk,Medium,Bestiary pg. 231
+1,Unique,Nok-Nok (Level 1),Goblin; Humanoid; Unique,Small,Kingmaker Companion Guide pg. 57
+1,Common,Prisoner,Human; Humanoid,Medium,Gamemastery Guide pg. 215
+1,Common,Reefclaw,Aberration; Aquatic,Small,Bestiary pg. 279
+1,Common,Sylph Sneak,Human; Humanoid; Sylph,Medium,Bestiary 2 pg. 2022.0
+1,Unique,Ufi,Human; Humanoid; Unique,Medium,Threshold of Knowledge pg. 14
+1,Common,Charau-ka,Charau-ka; Humanoid,Small,Pathfinder #145: Hellknight Hill pg. 37
+1,Common,Deep Gnome Scout,Gnome; Humanoid,Small,Bestiary pg. 74
+1,Common,Drow Fighter,Drow; Elf; Humanoid,Medium,Bestiary pg. 136
+1,Common,Electric Eel,Animal; Aquatic,Small,Bestiary pg. 142
+1,Common,Fetchling Scout,Fetchling; Humanoid; Shadow,Medium,Bestiary 2 pg. 1172.0
+1,Common,Fuath,Amphibious; Fey; Gremlin,Tiny,Bestiary 3 pg. 121
+1,Common,Goblin Commando,Goblin; Humanoid,Small,Bestiary pg. 180
+1,Common,Grave Robber,Human; Humanoid,Medium,Gamemastery Guide pg. 208
+1,Common,Ifrit Pyrochemist,Human; Humanoid; Ifrit,Medium,Bestiary 2 pg. 2002.0
+1,Unique,Jubilost Narthropple (Level 1),Fey; Gnome; Humanoid; Unique,Small,Kingmaker Companion Guide pg. 33
+1,Common,Nosoi,Monitor; Psychopomp,Tiny,Bestiary pg. 270
+1,Unique,Tristian (Level 1),Aasimar; Human; Humanoid; Unique,Medium,Kingmaker Companion Guide pg. 69
+1,Common,Biloko Warrior,Fey,Small,"The Mwangi Expanse pg. 2942.0 , Pathfinder #146: Cult of Cinders pg. 82"
+1,Common,Bloody Blade Mercenary,Half-Orc; Human; Humanoid; Orc,Medium,Pathfinder #145: Hellknight Hill pg. 50
+1,Common,Catfolk Pouncer,Catfolk; Humanoid,Medium,Bestiary pg. 54
+1,Common,Jinkin,Fey; Gremlin,Tiny,Bestiary pg. 193
+1,Common,Merfolk Warrior,Aquatic; Humanoid; Merfolk,Medium,Bestiary pg. 235
+1,Rare,Stheno Harpist,Humanoid; Rare; Stheno,Medium,Bestiary 3 pg. 258
+1,Uncommon,Wayang Whisperblade,Humanoid; Shadow; Uncommon; Wayang,Small,Bestiary 3 pg. 290
+1,Uncommon,Almiraj,Beast; Uncommon,Small,Pathfinder #157: Devil at the Dreaming Palace pg. 16
+1,Uncommon,Anadi Seeker,Anadi; Humanoid; Uncommon,Medium,Pathfinder #169: Kindled Magic pg. 78
+1,Common,Ball Python,Animal,Medium,Bestiary pg. 302
+1,Uncommon,Burning Mammoth Longshield,Human; Humanoid; Uncommon,Medium,Pathfinder #175: Broken Tusk Moon pg. 25
+1,Common,Camel,Animal,Large,Bestiary 3 pg. 43
+1,Rare,Carbuncle,Beast; Rare,Tiny,Bestiary 2 pg. 472.0
+1,Common,Cassisian,Angel; Celestial,Tiny,Bestiary pg. 16
+1,Common,Cave Scorpion,Animal,Medium,Bestiary 2 pg. 2342.0
+1,Common,Charau-ka Warrior,Charau-ka; Humanoid,Small,"The Mwangi Expanse pg. 2962.0 , Pathfinder #146: Cult of Cinders pg. 84"
+1,Common,Coral Capuchin,Amphibious; Beast,Tiny,Bestiary 3 pg. 54
+1,Common,Cultist,Human; Humanoid,Medium,Gamemastery Guide pg. 229
+1,Common,Dancer,Human; Humanoid,Medium,Gamemastery Guide pg. 236
+1,Uncommon,Darkmantle,Beast; Uncommon,Small,Crown of the Kobold King pg. 118
+1,Common,Doru,Div; Fiend,Tiny,Bestiary 3 pg. 68
+1,Common,Duergar Bombardier,Duergar; Dwarf; Humanoid,Medium,Bestiary pg. 139
+1,Common,Elk,Animal,Medium,"Kingmaker Adventure Path pg. 608, Pathfinder #176: Lost Mammoth Valley pg. 85"
+1,Common,Formian Worker,Formian,Medium,Pathfinder #173: Doorway to the Red Star pg. 82
+1,Common,Giant Cockroach,Animal,Small,Bestiary 2 pg. 532.0
+1,Common,Giant Fly,Animal,Medium,Bestiary 2 pg. 1202.0
+1,Common,Giant Gecko,Animal,Medium,Bestiary pg. 228
+1,Common,Giant Solifugid,Animal,Large,"Bestiary 2 pg. 2462.0 , Pathfinder #149: Against the Scarlet Triad pg. 89"
+1,Common,Giant Tick,Animal,Small,Bestiary 2 pg. 2602.0
+1,Common,Gourd Leshy,Leshy; Plant,Small,Bestiary pg. 218
+1,Uncommon,Graveshell,Beast; Uncommon,Large,Pathfinder #145: Hellknight Hill pg. 89
+1,Common,Grig,Fey; Sprite,Tiny,Bestiary pg. 308
+1,Common,Grippli Scout,Grippli; Humanoid,Small,"Bestiary 2 pg. 1392.0 , Pathfinder #146: Cult of Cinders pg. 86"
+1,Common,Guard,Human; Humanoid,Medium,Gamemastery Guide pg. 232
+1,Common,Hobgoblin Soldier,Goblin; Humanoid,Medium,Bestiary pg. 206
+1,Common,Hyena,Animal,Medium,Bestiary pg. 211
+1,Common,Innkeeper,Human; Humanoid,Medium,Gamemastery Guide pg. 239
+1,Common,Kaava Stalker,Humanoid,Small,The Mwangi Expanse pg. 3002.0
+1,Unique,Kerrdremak,Humanoid; Kobold; Unique,Small,Crown of the Kobold King pg. 54
+1,Common,Lantern Archon,Archon; Celestial,Small,Bestiary pg. 26
+1,Common,Morlock Scavenger,Humanoid; Morlock,Small,Pathfinder #163: Ruins of Gauntlight pg. 84
+1,Common,Naiad,Amphibious; Fey; Nymph; Water,Medium,Bestiary pg. 246
+1,Unique,Nishkiv The Knife,Human; Humanoid; Unique,Medium,Kingmaker Adventure Path pg. 37
+1,Common,Oread Guard,Human; Humanoid; Oread,Medium,Bestiary 2 pg. 2012.0
+1,Common,Pickled Punk,Undead,Tiny,Pathfinder #157: Devil at the Dreaming Palace pg. 59
+1,Common,Reef Octopus,Animal; Aquatic,Small,Bestiary 2 pg. 1872.0
+1,Common,Riding Dog,Animal,Medium,Bestiary pg. 102
+1,Uncommon,Scrabbling Ribcage,Construct; Mindless; Uncommon,Small,Pathfinder #181: Zombie Feast pg. 83
+1,Common,Silvanshee,Agathion; Celestial,Tiny,Bestiary 3 pg. 10
+1,Common,Skinskitter,Aberration; Amphibious; Mindless,Small,Impossible Lands pg. 329
+1,Common,Sunflower Leshy,Leshy; Plant,Small,Bestiary 2 pg. 1602.0
+1,Unique,Svetlana,Human; Humanoid; Unique,Medium,Kingmaker Adventure Path pg. 53
+1,Common,Velociraptor,Animal; Dinosaur,Small,Bestiary pg. 96
+1,Common,War Pony,Animal,Medium,Bestiary pg. 209
+1,Unique,Warbal Bumblebrasher,Goblin; Humanoid; Unique,Small,Pathfinder #145: Hellknight Hill pg. 83
+1,Unique,Ekundayo (Level 1),Human; Humanoid; Unique,Medium,Kingmaker Companion Guide pg. 21
+1,Common,Giant Skunk,Animal,Large,Bestiary 3 pg. 246
+1,Unique,Kalaggi Nakutu,Human; Humanoid; Unique,Medium,Threshold of Knowledge pg. 12
+1,Common,Lizardfolk Defender,Humanoid; Lizardfolk,Medium,Bestiary pg. 230
+1,Common,Skulk,Humanoid; Skulk,Medium,Bestiary 2 pg. 2432.0
+1,Unique,Valerie (Level 1),Human; Humanoid; Unique,Medium,Kingmaker Companion Guide pg. 83
+1,Common,Xulgath Warrior,Humanoid; Xulgath,Medium,Bestiary pg. 336
+1,Unique,Amiri (Level 1),Human; Humanoid; Unique,Medium,Kingmaker Companion Guide pg. 7
+1,Common,Arbiter,Aeon; Inevitable; Monitor,Tiny,Bestiary pg. 8
+1,Common,Cacodaemon,Daemon; Fiend,Tiny,Bestiary pg. 70
+1,Common,Gravedigger,Human; Humanoid,Medium,Gamemastery Guide pg. 223
+1,Unique,Kressle,Human; Humanoid; Unique,Medium,Kingmaker Adventure Path pg. 170
+1,Common,Petitioner,Petitioner,Medium,Bestiary 2 pg. 1982.0
+1,Common,Riding Horse,Animal,Large,Bestiary pg. 209
+1,Common,Shaukeen,Asura; Fiend,Tiny,Bestiary 3 pg. 22
+1,Common,Orc Warrior,Humanoid; Orc,Medium,Bestiary pg. 257
+1,Common,Boggard Scout,Amphibious; Boggard; Humanoid,Medium,Bestiary pg. 44
+1,Common,Hippocampus,Animal; Aquatic,Large,Bestiary 2 pg. 1422.0
+1,Common,Manta Ray,Animal; Aquatic,Large,Bestiary 2 pg. 2262.0
+1,Common,Sarkorian Wolf,Animal,Medium,Travel Guide pg. 99
+1,Common,Vexgit,Fey; Gremlin,Tiny,Bestiary 2 pg. 1342.0
+1,Unique,Violet,Animal; Unique,Small,Pathfinder #151: The Show Must Go On pg. 22
+1,Common,Wolf,Animal,Medium,Bestiary pg. 334
+1,Common,Barkeep,Human; Humanoid,Medium,Gamemastery Guide pg. 238
+1,Common,Bodyguard,Human; Humanoid,Medium,Gamemastery Guide pg. 226
+1,Common,Brownie,Fey,Tiny,Bestiary 2 pg. 442.0
+1,Uncommon,Crooked Coffin Brewer,Human; Humanoid; Uncommon,Medium,Pathfinder #181: Zombie Feast pg. 55
+1,Unique,Dingetooth,Fey; Gremlin; Unique,Small,Kingmaker Adventure Path pg. 121
+1,Uncommon,Loblobi,Fey; Uncommon,Small,Pathfinder #175: Broken Tusk Moon pg. 85
+1,Common,Lyrakien,Azata; Celestial,Tiny,Bestiary pg. 30
+1,Common,Nixie,Aquatic; Fey,Small,Bestiary 2 pg. 1832.0
+1,Common,Quasit,Demon; Fiend,Tiny,Bestiary pg. 76
+1,Rare,Sallowdrudge,Human; Humanoid; Rare,Medium,Pathfinder #182: Graveclaw pg. 30
+1,Common,Shikigami,Kami; Spirit,Tiny,Bestiary 3 pg. 142
+1,Uncommon,Temagyr,Fey; Uncommon,Medium,Pathfinder #187: The Seventh Arch pg. 86
+1,Uncommon,Tombstone Troll,Giant; Troll; Uncommon,Small,Pathfinder #181: Zombie Feast pg. 88
+1,Common,Yzobu,Animal,Large,Bestiary 3 pg. 300
+1,Unique,Oleg,Human; Humanoid; Unique,Medium,Kingmaker Adventure Path pg. 52
+1,Unique,Jaleen,Human; Humanoid; Unique,Medium,Pathfinder #151: The Show Must Go On pg. 9
+1,Unique,Rhovo,Human; Humanoid; Unique,Medium,Pathfinder #151: The Show Must Go On pg. 9
+1,Common,Giant Frog,Animal,Medium,Bestiary 2 pg. 1212.0
+1,Common,Ostovite,Fiend,Small,Bestiary 3 pg. 193
+1,Common,Amoeba Swarm,Amphibious; Mindless; Ooze; Swarm,Large,Bestiary 2 pg. 1922.0
+1,Rare,Rime Sludge,Mindless; Ooze; Rare,Medium,Pathfinder #175: Broken Tusk Moon pg. 86
+1,Common,Sewer Ooze,Mindless; Ooze,Medium,Bestiary pg. 254
+1,Common,Giant Amoeba,Amphibious; Mindless; Ooze,Small,Bestiary 2 pg. 1922.0
+1,Unique,Jewel,Animal; Minion; Unique,Tiny,Kingmaker Adventure Path pg. 313
+1,Common,Air Mephit,Air; Elemental,Small,Bestiary pg. 150
+1,Common,Voidworm,Monitor; Protean,Tiny,Bestiary pg. 266
+1,Uncommon,Dust Mephit,Air; Earth; Elemental; Uncommon,Small,Bestiary 2 pg. 1122.0
+1,Common,Fire Mephit,Elemental; Fire,Small,Bestiary pg. 151
+1,Common,Skeletal Soldier,Mindless; Skeleton; Undead,Medium,Book of the Dead pg. 147
+1,Uncommon,Ice Mephit,Air; Elemental; Uncommon; Water,Small,Bestiary 2 pg. 1122.0
+1,Common,Festering Gnasher,Undead,Tiny,Book of the Dead pg. 74
+1,Common,Caligni Dancer,Caligni; Humanoid,Small,Bestiary pg. 50
+1,Uncommon,Steam Mephit,Elemental; Fire; Uncommon; Water,Small,Bestiary 2 pg. 1132.0
+1,Common,Earth Mephit,Earth; Elemental,Small,Bestiary pg. 150
+1,Common,Water Mephit,Aquatic; Elemental; Water,Small,Bestiary pg. 151
+1,Common,Ghoul,Ghoul; Undead,Medium,Bestiary pg. 169
+1,Uncommon,Hellcrown,Uncommon; Undead,Tiny,Pathfinder #145: Hellknight Hill pg. 90
+1,Rare,Shadern Immolator,Fire; Goblin; Humanoid; Mortic; Rare,Small,Book of the Dead pg. 126
+1,Common,Scorned Hound,Undead,Small,Book of the Dead pg. 142
+1,Uncommon,Ooze Mephit,Earth; Elemental; Uncommon; Water,Small,Bestiary 2 pg. 1132.0
+1,Common,Festrog,Undead,Medium,Bestiary 3 pg. 98
+1,Rare,Void Zombie,Rare; Undead,Medium,Bestiary 2 pg. 2882.0
+1,Common,Plague Zombie,Mindless; Undead; Zombie,Medium,Bestiary pg. 340
+1,Uncommon,Zombie Horse,Mindless; Uncommon; Undead; Zombie,Large,Pathfinder #181: Zombie Feast pg. 16
+2,Uncommon,Flickerwisp,Aberration; Air; Uncommon,Small,Pathfinder #163: Ruins of Gauntlight pg. 83
+2,Common,Spark Bat,Air; Elemental,Tiny,Bestiary 2 pg. 1062.0
+2,Common,Animated Armor,Construct; Mindless,Medium,Bestiary pg. 20
+2,Common,Cobbleswarm,Aberration; Earth; Swarm,Large,"Bestiary 3 pg. 52, Pathfinder #157: Devil at the Dreaming Palace pg. 83"
+2,Common,Cockroach Swarm,Animal; Swarm,Large,Bestiary 2 pg. 532.0
+2,Common,Ittan-Momen,Kami,Medium,Bestiary 3 pg. 276
+2,Common,Monkey Swarm,Animal; Swarm,Large,Bestiary 3 pg. 172
+2,Common,Rat Snake Swarm,Animal; Swarm,Large,Bestiary 3 pg. 249
+2,Common,Ulizmila's Cauldron,Construct; Mindless,Small,Crown of the Kobold King pg. 28
+2,Uncommon,Incutilis,Aberration; Amphibious; Uncommon,Tiny,Bestiary 3 pg. 140
+2,Unique,Chew Spider,Animal; Swarm; Unique,Large,Kingmaker Adventure Path pg. 69
+2,Common,Astronomer,Human; Humanoid,Medium,Gamemastery Guide pg. 241
+2,Common,Quarry Construct,Construct; Earth; Mindless,Medium,Pathfinder #187: The Seventh Arch pg. 47
+2,Common,Soulbound Doll,Construct; Soulbound,Tiny,Bestiary pg. 304
+2,Common,Giant Crab,Animal; Aquatic,Medium,Bestiary 2 pg. 552.0
+2,Common,Kitsune Trickster,Humanoid; Kitsune,Medium,Bestiary 3 pg. 150
+2,Common,Prophet,Human; Humanoid,Medium,Gamemastery Guide pg. 212
+2,Uncommon,Strix Kinmate,Humanoid; Strix; Uncommon,Medium,Bestiary 3 pg. 259
+2,Common,Fading Fox,Animal,Tiny,Bestiary 3 pg. 102
+2,Common,Kobold Dragon Mage,Humanoid; Kobold,Small,Bestiary pg. 213
+2,Common,Leprechaun,Fey,Small,Bestiary 2 pg. 1582.0
+2,Uncommon,Zyss Serpentfolk,Humanoid; Serpentfolk; Uncommon,Medium,Bestiary 2 pg. 2372.0
+2,Rare,Dark Talon Kobold,Humanoid; Kobold; Rare,Small,Crown of the Kobold King pg. 59
+2,Common,Drow Rogue,Drow; Elf; Humanoid,Medium,Bestiary pg. 137
+2,Common,Ekujae Guardians,Elf; Humanoid,Medium,Pathfinder #146: Cult of Cinders pg. 11
+2,Common,Giant Viper,Animal,Medium,Bestiary pg. 303
+2,Uncommon,Anadi Hunter,Anadi; Humanoid; Uncommon,Medium,"The Mwangi Expanse pg. 2092.0 , Pathfinder #145: Hellknight Hill pg. 84"
+2,Common,Blindheim,Animal,Small,Bestiary 2 pg. 392.0
+2,Uncommon,Emperor Bird,Animal; Uncommon,Medium,Pathfinder #145: Hellknight Hill pg. 87
+2,Common,Saboteur,Human; Humanoid,Medium,Gamemastery Guide pg. 246
+2,Common,Tengu Sneak,Humanoid; Tengu,Medium,Bestiary pg. 310
+2,Common,Acrobat,Human; Humanoid,Medium,Gamemastery Guide pg. 236
+2,Rare,Android Infiltrator,Android; Humanoid; Rare,Medium,Bestiary 3 pg. 16
+2,Common,Choker,Aberration,Small,Bestiary 2 pg. 512.0
+2,Uncommon,Giant Trapdoor Spider,Animal; Uncommon,Medium,Kingmaker Adventure Path pg. 56
+2,Rare,Granite Vulture,Fiend; Rare,Medium,Pathfinder #181: Zombie Feast pg. 46
+2,Unique,Gromog,Giant; Humanoid; Unique,Large,Kingmaker Adventure Path pg. 28
+2,Rare,Munavri Spellblade,Humanoid; Munavri; Rare,Medium,Bestiary 3 pg. 180
+2,Common,Nagaji Soldier,Humanoid; Nagaji,Medium,Bestiary 3 pg. 182
+2,Common,Navigator,Human; Humanoid,Medium,Gamemastery Guide pg. 242
+2,Common,Shadow Drake,Dragon; Shadow,Tiny,Bestiary 2 pg. 1002.0
+2,Uncommon,Stone Lion Cub,Celestial; Uncommon,Medium,Bestiary 3 pg. 124
+2,Rare,Vargouille,Aberration; Fiend; Rare,Small,"Crown of the Kobold King pg. 124, Pathfinder #157: Devil at the Dreaming Palace pg. 35"
+2,Common,Xulgath Skulker,Humanoid; Xulgath,Medium,Bestiary pg. 337
+2,Common,Gnoll Hunter,Gnoll; Humanoid,Medium,Bestiary pg. 178
+2,Common,Archer Sentry,Human; Humanoid,Medium,Gamemastery Guide pg. 233
+2,Common,Azarketi Explorer,Amphibious; Azarketi; Humanoid,Medium,Bestiary 3 pg. 26
+2,Common,Azarketi Sailor,Amphibious; Azarketi; Humanoid,Medium,"Absalom, City of Lost Omens pg. 396"
+2,Common,Bandit,Human; Humanoid,Medium,Gamemastery Guide pg. 208
+2,Uncommon,Blink Dog,Beast; Uncommon,Medium,Bestiary 2 pg. 402.0
+2,Common,Boar,Animal,Medium,Bestiary pg. 43
+2,Uncommon,Bog Strider,Aberration; Uncommon,Medium,Bestiary 2 pg. 432.0
+2,Uncommon,Brush Thylacine,Animal; Uncommon,Small,Kingmaker Adventure Path pg. 609
+2,Rare,Burning Mammoth Reaver,Human; Humanoid; Rare,Medium,Pathfinder #175: Broken Tusk Moon pg. 54
+2,Common,Cactus Leshy,Leshy; Plant,Small,Bestiary 3 pg. 160
+2,Common,Cave Fisher,Animal,Medium,Bestiary 2 pg. 492.0
+2,Uncommon,Corrosive Lizard,Animal; Fiend; Uncommon,Medium,Pathfinder #151: The Show Must Go On pg. 45
+2,Common,Corrupted Retainer,Human; Humanoid,Medium,Pathfinder #151: The Show Must Go On pg. 35
+2,Common,Crocodile,Animal,Large,Bestiary pg. 67
+2,Unique,Daring Danika,Human; Humanoid; Unique,Medium,Pathfinder #151: The Show Must Go On pg. 28
+2,Common,Deinonychus,Animal; Dinosaur,Medium,Bestiary pg. 97
+2,Common,Dero Stalker,Dero; Humanoid,Small,Bestiary pg. 84
+2,Unique,Dovan From Nisroch,Human; Humanoid; Unique,Medium,Kingmaker Adventure Path pg. 179
+2,Common,Duergar Taskmaster,Duergar; Dwarf; Humanoid,Medium,Bestiary pg. 139
+2,Uncommon,Faerie Dragon,Dragon; Uncommon,Tiny,Bestiary pg. 157
+2,Common,Fungus Leshy,Fungus; Leshy,Small,Bestiary pg. 219
+2,Common,Giant Ant,Animal,Medium,Bestiary 2 pg. 202.0
+2,Common,Giant Badger,Animal,Medium,Bestiary 2 pg. 322.0
+2,Common,Giant Bat,Animal,Large,Bestiary pg. 39
+2,Common,Giant Flying Squirrel,Animal,Small,Bestiary 3 pg. 257
+2,Common,Giant Mining Bee,Animal,Medium,Pathfinder #169: Kindled Magic pg. 80
+2,Common,Giant Monitor Lizard,Animal,Medium,Bestiary pg. 229
+2,Common,Giant Tapir,Animal,Large,Pathfinder #175: Broken Tusk Moon pg. 87
+2,Common,Giant Tsetse Fly,Animal,Large,Pathfinder #169: Kindled Magic pg. 81
+2,Unique,Gristleburst,Goblin; Humanoid; Unique,Small,No-Prep Character: Gristleburst pg. 0
+2,Uncommon,Gunmarshal,Humanoid; Uncommon,Medium,Pathfinder #178: Punks in a Powderkeg pg. 57
+2,Common,Gurtlekep,Humanoid; Kobold,Small,Crown of the Kobold King pg. 34
+2,Common,Ikeshti Brood-Minder,Humanoid; Ikeshti,Small,Pathfinder #173: Doorway to the Red Star pg. 86
+2,Unique,Kolo Harvan,Halfling; Humanoid; Unique,Small,Pathfinder #145: Hellknight Hill pg. 17
+2,Unique,Leandrus,Animal; Minion; Unique,Medium,Pathfinder #151: The Show Must Go On pg. 28
+2,Common,Leopard,Animal,Medium,Bestiary pg. 52
+2,Unique,Lisavet,Human; Humanoid; Unique,Medium,No-Prep Character: Lisavet pg. 0
+2,Common,Lizardfolk Stargazer,Humanoid; Lizardfolk,Medium,Bestiary pg. 231
+2,Common,Merfolk Wavecaller,Aquatic; Humanoid; Merfolk,Medium,Bestiary pg. 235
+2,Common,Poacher,Human; Humanoid,Medium,Gamemastery Guide pg. 218
+2,Rare,Ratajin Mastermind,Humanoid; Rare; Ratajin,Medium,Impossible Lands pg. 336
+2,Common,Rokurokubi,Humanoid,Medium,Bestiary 3 pg. 216
+2,Common,Rosethorn,Animal,Medium,Bestiary 3 pg. 212
+2,Unique,Sahreg the Dirge Screamer,Human; Humanoid; Unique,Medium,Pathfinder #181: Zombie Feast pg. 35
+2,Common,Sea Devil Scout,Amphibious; Humanoid; Sea Devil,Medium,Bestiary pg. 286
+2,Rare,Shieldbearer Construct,Construct; Mindless; Rare,Large,Pathfinder #169: Kindled Magic pg. 41
+2,Common,Sinspawn,Aberration,Medium,Bestiary pg. 297
+2,Common,Stinkweed Shambler,Plant,Small,Troubles in Otari pg. 63
+2,Common,Surgeon,Human; Humanoid,Medium,Gamemastery Guide pg. 221
+2,Common,Tatzlwyrm,Dragon,Medium,Bestiary 2 pg. 2562.0
+2,Common,Terror Bird,Animal,Large,Bestiary 3 pg. 264
+2,Common,Triton,Amphibious; Humanoid,Medium,Bestiary 2 pg. 2632.0
+2,Unique,Wendlyn,Elf; Half-Elf; Human; Humanoid; Unique,Medium,No-Prep Character: Wendlyn pg. 0
+2,Common,Xulgath Bilebearer,Humanoid; Xulgath,Medium,Pathfinder #151: The Show Must Go On pg. 87
+2,Unique,Ygrik,Humanoid; Kobold; Unique,Small,Crown of the Kobold King pg. 50
+2,Common,Zrukbat,Fey,Small,Pathfinder #157: Devil at the Dreaming Palace pg. 85
+2,Common,Black Bear,Animal,Large,Bestiary 2 pg. 362.0
+2,Uncommon,Contemplative,Aberration; Uncommon,Medium,Pathfinder #173: Doorway to the Red Star pg. 80
+2,Unique,Edrgin Galesong,Halfling; Humanoid; Unique,Small,Crown of the Kobold King pg. 51
+2,Unique,Eleukas,Human; Humanoid; Unique,Medium,No-Prep Character: Eleukas pg. 0
+2,Common,Giant Leech,Amphibious; Animal,Medium,Bestiary 2 pg. 1562.0
+2,Common,Giant Porcupine,Animal,Medium,Bestiary 3 pg. 207
+2,Common,Hippogriff,Animal,Large,Bestiary 2 pg. 1432.0
+2,Unique,Jellico Bounce-Bounce,Human; Humanoid; Unique,Medium,Pathfinder #151: The Show Must Go On pg. 28
+2,Common,Orc Warchief,Humanoid; Orc,Medium,Bestiary pg. 257
+2,Common,Pirate,Human; Humanoid,Medium,Gamemastery Guide pg. 242
+2,Common,Ruffian,Human; Humanoid,Medium,Gamemastery Guide pg. 209
+2,Common,Shocker Lizard,Animal,Small,Bestiary 2 pg. 2402.0
+2,Unique,Chief Sootscale,Humanoid; Kobold; Unique,Small,Kingmaker Adventure Path pg. 129
+2,Common,Mechanical Carny,Construct; Mindless,Medium,Pathfinder #151: The Show Must Go On pg. 86
+2,Unique,Alak Stagram,Human; Humanoid; Unique,Medium,Pathfinder #145: Hellknight Hill pg. 19
+2,Common,Bugbear Thug,Goblin; Humanoid,Medium,Bestiary pg. 47
+2,Common,Deep Gnome Warrior,Gnome; Humanoid,Small,Bestiary pg. 75
+2,Uncommon,Desa-Desa,Animal; Uncommon,Small,Pathfinder #187: The Seventh Arch pg. 85
+2,Common,Nuglub,Fey; Gremlin,Small,Bestiary 2 pg. 1352.0
+2,Common,Wolverine,Animal,Medium,Bestiary 2 pg. 2952.0
+2,Common,Yellow Musk Creeper,Mindless; Plant,Medium,Bestiary 2 pg. 3002.0
+2,Common,Bloodlash Bush,Plant,Small,The Fall of Plaguestone pg. 62
+2,Common,Domovoi,Fey,Tiny,Bestiary 3 pg. 136
+2,Uncommon,Duende,Earth; Fey; Uncommon,Small,Bestiary 3 pg. 87
+2,Common,Ember Fox,Elemental; Fire,Small,Bestiary 2 pg. 1102.0
+2,Common,Giant Opossum,Animal,Large,Bestiary 3 pg. 192
+2,Uncommon,Gnagrif,Fey; Gremlin; Uncommon,Tiny,Pathfinder #169: Kindled Magic pg. 83
+2,Unique,Grabbles,Fey; Gremlin; Unique,Small,Kingmaker Adventure Path pg. 125
+2,Uncommon,Grauladon,Dragon; Uncommon,Large,Pathfinder #145: Hellknight Hill pg. 88
+2,Common,Icicle Snake,Cold; Elemental; Water,Small,Bestiary 2 pg. 1142.0
+2,Common,Kappa,Amphibious; Beast,Small,Bestiary 3 pg. 147
+2,Common,Pteranodon,Animal,Large,Bestiary pg. 272
+2,Common,Slurk,Animal,Medium,Bestiary pg. 301
+2,Common,Werebat,Beast; Human; Humanoid; Werecreature,Medium,Bestiary 3 pg. 292
+2,Common,Giant Toad,Animal,Large,Bestiary 2 pg. 2612.0
+2,Common,Living Boulder,Earth; Elemental,Small,Bestiary 2 pg. 1082.0
+2,Uncommon,Lizardfolk Warrior,Humanoid; Lizardfolk; Uncommon,Medium,Kingmaker Adventure Path pg. 139
+2,Uncommon,Prairie Drake,Dragon; Earth; Uncommon,Small,Pathfinder #178: Punks in a Powderkeg pg. 87
+2,Uncommon,Sasquatch,Humanoid; Uncommon,Medium,Bestiary 3 pg. 225
+2,Common,War Horse,Animal,Large,Bestiary pg. 209
+2,Common,Warg,Beast,Medium,Bestiary pg. 322
+2,Common,Boggard Warrior,Amphibious; Boggard; Humanoid,Medium,Bestiary pg. 44
+2,Common,Morlock,Humanoid,Medium,Bestiary 2 pg. 1742.0
+2,Unique,Auchs,Human; Humanoid; Unique,Medium,Kingmaker Adventure Path pg. 178
+2,Unique,Battle Leader Rekarek,Humanoid; Kobold; Unique,Small,Pathfinder #157: Devil at the Dreaming Palace pg. 27
+2,Unique,Bolan Nogasso,Human; Humanoid; Unique,Medium,Pathfinder #187: The Seventh Arch pg. 90
+2,Unique,Dewey Daystar,Leshy; Plant; Unique,Small,Pathfinder #178: Punks in a Powderkeg pg. 46
+2,Common,Drunkard,Human; Humanoid,Medium,Gamemastery Guide pg. 239
+2,Unique,Gref,Humanoid; Ratfolk; Unique,Small,Pathfinder #157: Devil at the Dreaming Palace pg. 34
+2,Unique,Kekker,Humanoid; Ratfolk; Unique,Small,Pathfinder #157: Devil at the Dreaming Palace pg. 34
+2,Common,Ledalusca,Cold; Elemental; Water,Medium,Bestiary 3 pg. 159
+2,Common,Mudwretch,Earth; Elemental; Water,Medium,Bestiary 2 pg. 1762.0
+2,Rare,Shoony Militia Member,Humanoid; Rare; Shoony,Small,Pathfinder #153: Life's Long Shadows pg. 82
+2,Common,Skum,Amphibious; Humanoid,Medium,Bestiary pg. 12
+2,Unique,Viktor Volkano,Human; Humanoid; Unique,Medium,Pathfinder #151: The Show Must Go On pg. 29
+2,Common,Azer,Elemental; Fire; Humanoid,Medium,Bestiary 3 pg. 27
+2,Common,Dretch,Demon; Fiend,Small,Bestiary 3 pg. 60
+2,Uncommon,Thoqqua,Earth; Elemental; Fire; Uncommon,Medium,Crown of the Kobold King pg. 123
+2,Common,Wereboar,Beast; Human; Humanoid; Werecreature,Medium,Bestiary 2 pg. 2902.0
+2,Common,Wererat,Beast; Human; Humanoid; Werecreature,Medium,Bestiary pg. 329
+2,Common,Yellow Musk Brute,Mindless; Plant,Large,Bestiary 2 pg. 3012.0
+2,Common,Werecrocodile,Beast; Human; Humanoid; Werecreature,Large,Bestiary 3 pg. 293
+2,Common,Slime Mold,Fungus; Mindless; Ooze,Large,Bestiary 2 pg. 1932.0
+2,Rare,Yeast Ooze,Mindless; Ooze; Rare,Large,Pathfinder #178: Punks in a Powderkeg pg. 88
+2,Common,Dhampir Wizard,Dhampir; Human; Humanoid,Medium,Bestiary pg. 95
+2,Common,Skeletal Champion,Skeleton; Undead,Medium,Bestiary pg. 298
+2,Unique,Skeletal Hellknight,Humanoid; Undead; Unique,Medium,Pathfinder #145: Hellknight Hill pg. 40
+2,Common,Squirming Swill,Undead,Small,Bestiary 3 pg. 256
+2,Rare,Angheuvore Flesh-Gnawer,Elf; Humanoid; Mortic; Rare,Medium,Bestiary 3 pg. 174
+2,Common,Flaming Skull,Mindless; Undead,Tiny,Bestiary 3 pg. 30
+2,Common,Ghast,Ghoul; Undead,Medium,Bestiary pg. 169
+2,Uncommon,Herexen,Uncommon; Undead,Medium,Bestiary 3 pg. 134
+2,Common,Shredskin,Undead,Small,"Book of the Dead pg. 143, Pathfinder #157: Devil at the Dreaming Palace pg. 60"
+2,Common,Kemeneles,Human; Humanoid,Medium,Pathfinder #157: Devil at the Dreaming Palace pg. 53
+2,Common,Caligni Creeper,Caligni; Humanoid,Small,Bestiary pg. 50
+2,Common,Lacedon,Amphibious; Ghoul; Undead,Medium,Book of the Dead pg. 104
+2,Uncommon,Long-Horned Bison Beheaded,Mindless; Uncommon; Undead,Medium,Pathfinder #176: Lost Mammoth Valley pg. 15
+2,Common,Skeletal Horse,Mindless; Skeleton; Undead,Large,Bestiary pg. 299
+2,Common,Draugr,Undead; Water,Medium,Bestiary 2 pg. 1022.0
+2,Common,Lyrma Swampwalker,Gnome; Humanoid,Small,Pathfinder #157: Devil at the Dreaming Palace pg. 54
+2,Rare,Corpselight,Rare; Undead,Medium,Pathfinder #163: Ruins of Gauntlight pg. 84
+2,Common,Decrepit Mummy,Mummy; Undead,Medium,Book of the Dead pg. 130
+2,Common,Husk Zombie,Undead; Zombie,Medium,Book of the Dead pg. 170
+2,Common,Zombie Brute,Mindless; Undead; Zombie,Large,Bestiary pg. 341
+3,Common,Fen Mosquito Swarm,Animal; Swarm,Large,Bestiary 2 pg. 1752.0
+3,Uncommon,Quickling,Fey; Uncommon,Small,Bestiary 2 pg. 2182.0
+3,Common,Tooth Fairy Swarm,Fey; Swarm,Large,Bestiary 3 pg. 273
+3,Common,Tiefling Adept,Human; Humanoid; Tiefling,Medium,Bestiary pg. 262
+3,Common,Centipede Swarm,Animal; Swarm,Large,Bestiary pg. 61
+3,Common,Raven Swarm,Animal; Swarm,Large,Bestiary 2 pg. 2212.0
+3,Common,Trilobite Swarm,Animal; Aquatic; Swarm,Large,Bestiary 3 pg. 275
+3,Common,Zebub,Devil; Fiend,Small,Bestiary 2 pg. 722.0
+3,Common,Mage for Hire,Human; Humanoid,Medium,Gamemastery Guide pg. 226
+3,Common,Animated Statue,Construct; Earth; Mindless,Medium,Bestiary pg. 21
+3,Uncommon,Anugobu Apprentice,Anugobu; Humanoid; Uncommon,Tiny,Pathfinder #166: Despair on Danger Island pg. 80
+3,Uncommon,Bogey,Fey; Uncommon,Small,Pathfinder #152: Legacy of the Lost God pg. 78
+3,Unique,Calmont,Halfling; Humanoid; Unique,Small,Pathfinder #145: Hellknight Hill pg. 27
+3,Uncommon,Grick,Aberration; Uncommon,Medium,"Crown of the Kobold King pg. 120, Pathfinder #157: Devil at the Dreaming Palace pg. 35"
+3,Uncommon,Kasesh,Earth; Elemental; Uncommon,Small,Impossible Lands pg. 330
+3,Uncommon,Shulsaga,Astral; Uncommon,Medium,Bestiary 3 pg. 93
+3,Common,Vampiric Mist,Aberration,Medium,Bestiary 2 pg. 2782.0
+3,Rare,Zuipnyrn,Aberration; Rare,Small,Pathfinder #152: Legacy of the Lost God pg. 85
+3,Common,Ganzi Martial Artist,Ganzi; Human; Humanoid,Medium,Bestiary 3 pg. 205
+3,Common,Zephyr Hawk,Air; Elemental,Small,Bestiary pg. 144
+3,Unique,Irkem Dresh,Dwarf; Humanoid; Unique,Medium,Pathfinder #178: Punks in a Powderkeg pg. 17
+3,Uncommon,Siege Shard,Construct; Uncommon,Tiny,Pathfinder #157: Devil at the Dreaming Palace pg. 84
+3,Common,Locathah Hunter,Amphibious; Humanoid; Locathah,Medium,Bestiary 3 pg. 164
+3,Common,Troubadour,Human; Humanoid,Medium,Gamemastery Guide pg. 237
+3,Common,Drow Priestess,Drow; Elf; Humanoid,Medium,Bestiary pg. 137
+3,Common,Ankhrav,Animal,Large,Bestiary pg. 22
+3,Common,Boggard Swampseer,Amphibious; Boggard; Humanoid,Medium,Bestiary pg. 45
+3,Common,Centaur,Beast,Large,Bestiary pg. 60
+3,Common,Charlatan,Human; Humanoid,Medium,Gamemastery Guide pg. 209
+3,Uncommon,Clockwork Brewer,Clockwork; Construct; Mindless; Uncommon,Medium,Pathfinder #178: Punks in a Powderkeg pg. 84
+3,Unique,Edolpho Phinelli,Elf; Half-Elf; Human; Humanoid; Unique,Medium,Pathfinder Encounter: Phinelli's Miracle Elixir pg. 0
+3,Common,Giant Mantis,Animal,Large,Bestiary pg. 233
+3,Rare,Grioth Cultist,Grioth; Humanoid; Rare,Medium,Bestiary 3 pg. 123
+3,Common,Hell Hound,Beast; Fiend; Fire,Medium,Bestiary pg. 205
+3,Common,Kovintus Geomancer,Humanoid; Kovintus,Medium,Bestiary 3 pg. 153
+3,Unique,Kreeth-Ni,Fey; Sprite; Unique,Tiny,Pathfinder #179: Cradle of Quartz pg. 38
+3,Common,Piranha Swarm,Animal; Aquatic; Swarm,Large,Bestiary 3 pg. 99
+3,Common,Rust Monster,Aberration,Medium,Bestiary pg. 283
+3,Uncommon,Tixitog,Aberration; Uncommon,Medium,Pathfinder #145: Hellknight Hill pg. 91
+3,Common,Ugvashi,Animal,Medium,Impossible Lands pg. 339
+3,Common,Megalictis,Animal,Medium,Bestiary 3 pg. 291
+3,Uncommon,Thasteron Khefak,Beast; Uncommon,Medium,Pathfinder #173: Doorway to the Red Star pg. 87
+3,Common,Bugbear Tormentor,Goblin; Humanoid,Medium,Bestiary pg. 47
+3,Common,Dvorovoi,Fey,Small,Bestiary 3 pg. 137
+3,Common,Grippli Archer,Grippli; Humanoid,Small,Pathfinder #146: Cult of Cinders pg. 87
+3,Rare,Mutant Giant Toad,Animal; Mutant; Rare,Large,Pathfinder #179: Cradle of Quartz pg. 84
+3,Unique,Shoma Lyzerius,Human; Humanoid; Ifrit; Unique,Medium,Pathfinder #178: Punks in a Powderkeg pg. 90
+3,Common,Sod Hound,Earth; Elemental,Small,Bestiary pg. 146
+3,Common,Xulgath Leader,Humanoid; Xulgath,Medium,Bestiary pg. 337
+3,Uncommon,Anadi Lurker,Anadi; Humanoid; Uncommon,Medium,Pathfinder #169: Kindled Magic pg. 78
+3,Unique,Ardissa Prendergant,Human; Humanoid; Unique,Medium,Pathfinder #175: Broken Tusk Moon pg. 39
+3,Common,Bosun,Human; Humanoid,Medium,Gamemastery Guide pg. 243
+3,Rare,Bramble Champion Construct,Construct; Mindless; Rare,Large,Pathfinder #169: Kindled Magic pg. 41
+3,Common,Brine Shark,Aquatic; Elemental; Water,Medium,Bestiary pg. 152
+3,Common,Bunyip,Animal; Aquatic,Medium,Bestiary pg. 49
+3,Common,Castoroides,Animal,Medium,Pathfinder #176: Lost Mammoth Valley pg. 82
+3,Common,Changeling Exile,Changeling; Human; Humanoid,Medium,Bestiary pg. 62
+3,Common,Charau-ka Acolyte of Angazhan,Charau-ka; Humanoid,Small,"The Mwangi Expanse pg. 2972.0 , Pathfinder #146: Cult of Cinders pg. 85"
+3,Common,Chronicler,Human; Humanoid,Medium,Gamemastery Guide pg. 216
+3,Common,Chupacabra,Beast,Small,Bestiary 2 pg. 522.0
+3,Common,Cinder Rat,Elemental; Fire,Small,Bestiary pg. 148
+3,Common,Cockatrice,Beast,Small,Bestiary pg. 66
+3,Unique,Corrupted Priest,Human; Humanoid; Unique,Medium,Pathfinder #151: The Show Must Go On pg. 39
+3,Common,D'ziriak,Aberration; Shadow,Medium,Bestiary 2 pg. 1042.0
+3,Common,Dero Strangler,Dero; Humanoid,Small,Bestiary pg. 84
+3,Common,Draxie,Fey; Sprite,Tiny,Bestiary 3 pg. 255
+3,Rare,Ghoran Manipulator,Ghoran; Humanoid; Plant; Rare,Medium,Bestiary 3 pg. 106
+3,Common,Giant Eagle,Beast,Large,Bestiary pg. 141
+3,Common,Giant Scorpion,Animal,Large,Bestiary pg. 285
+3,Common,Giant Wasp,Animal,Large,Bestiary pg. 324
+3,Common,Giant Whiptail Centipede,Animal,Huge,Bestiary 2 pg. 502.0
+3,Common,Gnoll Cultist,Gnoll; Humanoid,Medium,Bestiary pg. 179
+3,Common,Gorilla,Animal,Large,Bestiary pg. 23
+3,Common,Grizzly Bear,Animal,Large,Bestiary pg. 40
+3,Unique,Hobji,Humanoid; Morlock; Unique,Medium,Pathfinder #175: Broken Tusk Moon pg. 45
+3,Common,Hyaenodon,Animal,Large,Bestiary pg. 211
+3,Common,Jailer,Human; Humanoid,Medium,Gamemastery Guide pg. 233
+3,Unique,Kiru,Human; Humanoid; Unique,Medium,Pathfinder #170: Spoken on the Song Wind pg. 27
+3,Common,Lion,Animal,Large,Bestiary pg. 52
+3,Unique,Nemmia Bramblecloak,Halfling; Humanoid; Unique,Small,Pathfinder #151: The Show Must Go On pg. 90
+3,Common,Noble,Human; Humanoid,Medium,Gamemastery Guide pg. 206
+3,Common,River Drake,Amphibious; Dragon; Water,Medium,Bestiary pg. 131
+3,Common,Scalescribe,Aberration,Tiny,Bestiary 3 pg. 226
+3,Uncommon,Scalliwing,Beast; Couatl; Uncommon,Tiny,Troubles in Otari pg. 62
+3,Common,Sea Hag,Amphibious; Hag; Humanoid,Medium,Bestiary pg. 200
+3,Common,Seaweed Leshy,Amphibious; Leshy; Plant,Small,Bestiary 3 pg. 161
+3,Uncommon,Skull Fairy,Shadow; Uncommon,Tiny,Pathfinder #181: Zombie Feast pg. 87
+3,Uncommon,Smoldering Leopard,Animal; Fiend; Uncommon,Medium,Pathfinder #151: The Show Must Go On pg. 44
+3,Rare,Spring-Heeled Jack,Fey; Rare,Small,Monsters of Myth pg. 94
+3,Common,Tracker,Human; Humanoid,Medium,Gamemastery Guide pg. 219
+3,Uncommon,Tree Fisher,Animal; Uncommon,Medium,Pathfinder #187: The Seventh Arch pg. 45
+3,Common,Unicorn,Beast; Fey,Large,Bestiary pg. 316
+3,Rare,Vishkanya Infiltrator,Humanoid; Rare; Vishkanya,Medium,Bestiary 3 pg. 288
+3,Common,Watch Officer,Human; Humanoid,Medium,Gamemastery Guide pg. 234
+3,Common,Web Lurker,Aberration,Medium,Bestiary pg. 325
+3,Common,Giant Dragonfly Nymph,Animal; Aquatic,Small,Bestiary 2 pg. 982.0
+3,Common,Harbormaster,Human; Humanoid,Medium,Gamemastery Guide pg. 225
+3,Uncommon,Morlock Engineer,Humanoid; Morlock; Uncommon,Medium,Pathfinder #163: Ruins of Gauntlight pg. 84
+3,Common,Platecarpus,Animal,Large,Bestiary 3 pg. 178
+3,Unique,Pruana Two-Punch,Dwarf; Humanoid; Unique,Medium,Pathfinder #151: The Show Must Go On pg. 22
+3,Common,Buso,Humanoid,Medium,Bestiary 3 pg. 39
+3,Common,Spriggan Bully,Gnome; Humanoid; Spriggan,Small,Bestiary 2 pg. 2522.0
+3,Unique,Volodmyra,Human; Humanoid; Unique,Medium,Kingmaker Adventure Path pg. 38
+3,Uncommon,Blood Wolf,Animal; Fiend; Uncommon,Medium,Pathfinder #151: The Show Must Go On pg. 43
+3,Common,Dire Wolf,Animal,Large,Bestiary pg. 334
+3,Uncommon,Doppelganger,Humanoid; Uncommon,Medium,Bestiary pg. 103
+3,Common,Giant Flea,Animal,Large,Pathfinder #151: The Show Must Go On pg. 83
+3,Common,Giant Vulture,Animal,Large,Bestiary 3 pg. 289
+3,Uncommon,Green Monkey,Beast; Incorporeal; Spirit; Uncommon,Tiny,Pathfinder #188: They Watched the Stars pg. 90
+3,Common,Grothlut,Aberration; Mindless,Medium,Bestiary pg. 158
+3,Uncommon,Immolis,Beast; Uncommon,Medium,Pathfinder #187: The Seventh Arch pg. 88
+3,Unique,Kurshkin,Fey; Gremlin; Unique,Tiny,Pathfinder #169: Kindled Magic pg. 86
+3,Common,Moose,Animal,Large,Bestiary 3 pg. 173
+3,Common,Narwhal,Animal; Aquatic,Large,Bestiary 3 pg. 184
+3,Common,Necrophidius,Construct; Mindless,Medium,Bestiary 2 pg. 1802.0
+3,Common,Ogre Warrior,Giant; Humanoid,Large,Bestiary pg. 252
+3,Rare,Oil Living Graffiti,Construct; Rare,Medium,"Bestiary 3 pg. 162, Pathfinder #151: The Show Must Go On pg. 84"
+3,Common,Smith,Human; Humanoid,Medium,Gamemastery Guide pg. 245
+3,Common,Snapping Flytrap,Mindless; Plant,Large,Bestiary pg. 160
+3,Uncommon,Tattoo Guardian,Construct; Mindless; Uncommon,Small,Bestiary 3 pg. 262
+3,Common,Twigjack,Fey; Plant,Tiny,Bestiary 2 pg. 2702.0
+3,Rare,Umbo,Fungus; Rare,Medium,Pathfinder #169: Kindled Magic pg. 22
+3,Unique,Akiros Ismort,Human; Humanoid; Unique,Medium,Kingmaker Adventure Path pg. 180
+3,Rare,Goblin Bat-Dog,Animal; Mutant; Rare,Medium,Kingmaker Companion Guide pg. 64
+3,Unique,Corax,Human; Humanoid; Unique,Medium,Kingmaker Adventure Path pg. 71
+3,Common,Dryad,Fey; Nymph; Plant,Medium,Bestiary pg. 246
+3,Common,Esobok,Monitor; Psychopomp,Medium,Bestiary 2 pg. 2082.0
+3,Uncommon,Lagofir,Animal; Uncommon,Large,Pathfinder #176: Lost Mammoth Valley pg. 86
+3,Uncommon,Ocluai,Fey; Uncommon,Medium,Pathfinder #187: The Seventh Arch pg. 87
+3,Common,Pegasus,Beast,Large,Bestiary pg. 260
+3,Uncommon,Skin Beetle,Animal; Uncommon,Tiny,Pathfinder #188: They Watched the Stars pg. 89
+3,Common,Street Skelm,Humanoid; Skelm,Medium,Bestiary 3 pg. 238
+3,Rare,Ulgrem-Lurann,Amphibious; Beast; Rare,Large,Monsters of Myth pg. 119
+3,Common,Vermlek,Demon; Fiend,Medium,Pathfinder #151: The Show Must Go On pg. 82
+3,Common,Wolliped,Animal,Large,Bestiary 3 pg. 295
+3,Common,Yeth Hound,Beast; Fiend,Medium,Bestiary 2 pg. 3022.0
+3,Unique,Lekmek,Humanoid; Kobold; Unique,Small,Crown of the Kobold King pg. 57
+3,Common,Giant Seahorse,Animal,Large,Bestiary 3 pg. 227
+3,Uncommon,Aapoph Serpentfolk,Humanoid; Mutant; Serpentfolk; Uncommon,Medium,Bestiary 2 pg. 2382.0
+3,Common,Giant Chameleon,Animal,Large,Bestiary 2 pg. 1682.0
+3,Common,Violet Fungus,Fungus; Mindless,Medium,Bestiary 2 pg. 2862.0
+3,Common,Werewolf,Beast; Human; Humanoid; Werecreature,Medium,Bestiary pg. 330
+3,Common,Pachycephalosaurus,Animal; Dinosaur,Large,Bestiary 2 pg. 802.0
+3,Common,Trollhound,Beast; Troll,Medium,Bestiary 2 pg. 2682.0
+3,Common,Assassin Vine,Mindless; Plant,Large,Bestiary 2 pg. 262.0
+3,Unique,Bargott,Fey; Nymph; Plant; Unique,Medium,Pathfinder #176: Lost Mammoth Valley pg. 33
+3,Uncommon,Rust Ooze,Mindless; Ooze; Uncommon,Medium,Pathfinder #178: Punks in a Powderkeg pg. 87
+3,Common,Gelatinous Cube,Mindless; Ooze,Large,Bestiary pg. 254
+3,Common,Binumir,Incorporeal; Spirit; Undead,Medium,Pathfinder #157: Devil at the Dreaming Palace pg. 82
+3,Rare,Cobblebone Swarm,Earth; Rare; Swarm; Undead,Large,Pathfinder #181: Zombie Feast pg. 85
+3,Common,Fiddling Bones,Undead,Medium,Book of the Dead pg. 92
+3,Common,Deathless Acolyte of Urgathoa,Undead,Medium,Book of the Dead pg. 88
+3,Common,Akizendri,Monitor; Protean,Small,Bestiary 2 pg. 2042.0
+3,Uncommon,Arboreal Snag,Mindless; Uncommon; Undead,Large,Pathfinder #182: Graveclaw pg. 80
+3,Unique,Smiler,Ghoul; Undead; Unique,Medium,Pathfinder #151: The Show Must Go On pg. 38
+3,Common,Trailgaunt,Undead,Medium,Bestiary 3 pg. 274
+3,Uncommon,Virulak Villager,Uncommon; Undead,Medium,Pathfinder #182: Graveclaw pg. 97
+3,Uncommon,Caligni Slayer,Caligni; Humanoid; Uncommon,Small,Bestiary 2 pg. 462.0
+3,Unique,Opkherab,Undead; Unique,Medium,Pathfinder #181: Zombie Feast pg. 44
+3,Common,Skeletal Giant,Mindless; Skeleton; Undead,Large,Bestiary pg. 299
+3,Common,Wight,Undead; Wight,Medium,Bestiary pg. 332
+3,Unique,Jurgrindor,Cold; Giant; Humanoid; Unique,Large,Kingmaker Adventure Path pg. 31
+3,Common,Chimpanzee Visitant,Animal; Undead,Small,Pathfinder #152: Legacy of the Lost God pg. 83
+3,Common,Urdefhan Warrior,Humanoid; Urdefhan,Medium,Bestiary 2 pg. 2722.0
+3,Common,Combusted,Fire; Undead,Medium,Book of the Dead pg. 80
+3,Unique,"Mosghuta, Boss Cow",Mindless; Undead; Unique; Zombie,Large,Pathfinder #181: Zombie Feast pg. 15
+3,Common,Zombie Owlbear,Mindless; Undead; Zombie,Large,Book of the Dead pg. 171
+3,Rare,Dirge Piper,Rare; Undead; Zombie,Medium,Pathfinder #181: Zombie Feast pg. 89
+4,Common,Brood Leech Swarm,Amphibious; Animal; Swarm,Large,Bestiary 2 pg. 1562.0
+4,Common,Gargoyle,Beast; Earth,Medium,Bestiary pg. 161
+4,Common,Kapoacinth,Aquatic; Beast; Earth,Medium,Pathfinder #182: Graveclaw pg. 28
+4,Common,Kushtaka,Amphibious; Beast,Small,Bestiary 3 pg. 158
+4,Common,Pixie,Fey; Sprite,Small,Bestiary pg. 309
+4,Common,Shadow,Incorporeal; Undead,Medium,Bestiary pg. 289
+4,Common,Hermit Crab Swarm,Amphibious; Animal; Swarm,Large,Bestiary 3 pg. 58
+4,Common,Leiko,Shadow,Medium,Pathfinder #187: The Seventh Arch pg. 37
+4,Uncommon,Phantom Knight,Ethereal; Incorporeal; Phantom; Spirit; Uncommon,Medium,Bestiary 3 pg. 202
+4,Common,Shae,Shadow,Medium,Bestiary 3 pg. 230
+4,Common,Wasp Swarm,Animal; Swarm,Large,Bestiary pg. 324
+4,Uncommon,Coil Spy,Humanoid; Serpentfolk; Uncommon,Medium,Bestiary 2 pg. 2382.0
+4,Common,Barghest,Fiend,Medium,Bestiary pg. 36
+4,Rare,Clockwork Door Warden,Clockwork; Construct; Mindless; Rare,Medium,Pathfinder #179: Cradle of Quartz pg. 80
+4,Uncommon,Clockwork Fabricator,Clockwork; Construct; Mindless; Uncommon,Medium,Pathfinder #178: Punks in a Powderkeg pg. 85
+4,Common,Hobgoblin Archer,Goblin; Humanoid,Medium,Bestiary pg. 207
+4,Rare,Kashrishi Evaluator,Kashrishi; Rare,Small,Impossible Lands pg. 331
+4,Common,Living Thunderclap,Air; Elemental,Medium,Bestiary 2 pg. 1062.0
+4,Uncommon,Poracha,Beast; Uncommon,Medium,Bestiary pg. 265
+4,Uncommon,Stone Lion,Celestial; Uncommon,Large,Bestiary 3 pg. 125
+4,Common,Viper Swarm,Animal; Swarm,Large,Bestiary 3 pg. 249
+4,Common,False Priest,Human; Humanoid,Medium,Gamemastery Guide pg. 229
+4,Unique,Dmiri Yoltosha,Hobgoblin; Humanoid; Unique,Medium,Pathfinder #145: Hellknight Hill pg. 51
+4,Common,Beast Tamer,Human; Humanoid,Medium,Gamemastery Guide pg. 237
+4,Common,Charming Scoundrel,Gnome; Humanoid,Small,Character Guide pg. 1182.0
+4,Common,Mastermind,Human; Humanoid,Medium,Gamemastery Guide pg. 246
+4,Common,Rain-Scribe,Elf; Human; Humanoid,Medium,Character Guide pg. 1242.0
+4,Common,Giant Stag Beetle,Animal,Large,Bestiary pg. 41
+4,Unique,Ralso,Human; Humanoid; Orc; Unique,Medium,Pathfinder #157: Devil at the Dreaming Palace pg. 90
+4,Common,Scorpion Swarm,Animal; Swarm,Large,Bestiary pg. 285
+4,Unique,Aives The Smoke Dragon,Humanoid; Tiefling; Unique,Medium,Pathfinder #152: Legacy of the Lost God pg. 16
+4,Common,Duskwalker Ghost Hunter,Duskwalker; Human; Humanoid,Medium,Bestiary pg. 262
+4,Uncommon,Anadi Sage,Anadi; Humanoid; Uncommon,Medium,"The Mwangi Expanse pg. 2902.0 , Pathfinder #145: Hellknight Hill pg. 85"
+4,Common,Biloko Veteran,Fey,Small,"The Mwangi Expanse pg. 2942.0 , Pathfinder #146: Cult of Cinders pg. 82"
+4,Unique,Cursed Guardian,Beast; Unique,Large,Kingmaker Adventure Path pg. 62
+4,Uncommon,Megaloceros,Animal; Uncommon,Large,"Kingmaker Adventure Path pg. 608, Pathfinder #176: Lost Mammoth Valley pg. 85"
+4,Common,Mist Stalker,Amphibious; Elemental; Water,Medium,Bestiary 2 pg. 1142.0
+4,Uncommon,Morlock Cultist,Humanoid; Morlock; Uncommon,Medium,Pathfinder #163: Ruins of Gauntlight pg. 85
+4,Common,Zealot of Asmodeus,Human; Humanoid,Medium,Gamemastery Guide pg. 213
+4,Common,Ovinnik,Fey,Tiny,Bestiary 3 pg. 137
+4,Unique,Akrida,Animal; Mutant; Unique,Small,Pathfinder #179: Cradle of Quartz pg. 39
+4,Common,Aphorite Sharpshooter,Aphorite; Human; Humanoid,Medium,Bestiary 3 pg. 204
+4,Common,Bounty Hunter,Human; Humanoid,Medium,Gamemastery Guide pg. 227
+4,Common,Burglar,Human; Humanoid,Medium,Gamemastery Guide pg. 210
+4,Uncommon,Carrion Golem,Construct; Golem; Mindless; Uncommon,Medium,Bestiary 2 pg. 1282.0
+4,Rare,Copper Hand Rogue,Human; Humanoid; Rare,Medium,Pathfinder #158: Sixty Feet Under pg. 16
+4,Common,Daeodon,Animal,Large,Bestiary pg. 43
+4,Uncommon,Drow Warden,Drow; Elf; Humanoid; Uncommon,Medium,Pathfinder #165: Eyes of Empty Death pg. 82
+4,Common,Faceless Stalker,Aberration,Medium,Bestiary pg. 13
+4,Common,Giant Dragonfly,Animal,Medium,Bestiary 2 pg. 982.0
+4,Uncommon,Gilded Gunner Goon,Human; Humanoid; Uncommon,Medium,Pathfinder #179: Cradle of Quartz pg. 19
+4,Unique,Glaz “Brick Blaster” Nixbrix,Humanoid; Unique,Small,Pathfinder #178: Punks in a Powderkeg pg. 88
+4,Common,Gnoll Sergeant,Gnoll; Humanoid,Medium,Bestiary pg. 179
+4,Common,Gray Ooze,Mindless; Ooze,Medium,Bestiary 2 pg. 1942.0
+4,Common,Great White Shark,Animal; Aquatic,Huge,Bestiary pg. 291
+4,Common,Griffon,Animal,Large,Bestiary pg. 194
+4,Common,Grippli Skirmisher,Grippli; Humanoid,Small,Pathfinder #170: Spoken on the Song Wind pg. 82
+4,Common,Guide,Human; Humanoid,Medium,Gamemastery Guide pg. 217
+4,Common,Hadrosaurid,Animal; Dinosaur,Huge,Bestiary 2 pg. 812.0
+4,Uncommon,Hellbound Attorney,Devil; Fiend; Human; Humanoid; Uncommon,Medium,Bestiary 3 pg. 64
+4,Common,Janni,Elemental; Genie,Medium,Bestiary pg. 162
+4,Unique,Jekkajak,Humanoid; Kobold; Unique,Small,Crown of the Kobold King pg. 62
+4,Rare,Kadlaka,Beast; Rare,Medium,Pathfinder #175: Broken Tusk Moon pg. 84
+4,Unique,Kapmek,Humanoid; Kobold; Unique,Small,Crown of the Kobold King pg. 60
+4,Uncommon,Karumzek,Aberration; Uncommon,Medium,Pathfinder #171: Hurricane's Howl pg. 81
+4,Common,Kelpie,Amphibious; Fey,Large,Bestiary 2 pg. 1542.0
+4,Common,Mandragora,Plant,Small,Bestiary 2 pg. 1702.0
+4,Unique,Morlibint,Human; Humanoid; Unique,Medium,No-Prep Character: Morlibint pg. 0
+4,Uncommon,Najra Lizard,Dragon; Uncommon,Tiny,Pathfinder #158: Sixty Feet Under pg. 83
+4,Uncommon,Nightgaunt,Aberration; Dream; Uncommon,Medium,Bestiary 3 pg. 186
+4,Common,Palace Guard,Human; Humanoid,Medium,Gamemastery Guide pg. 206
+4,Common,Pathfinder Field Agent,Elf; Human; Humanoid,Medium,Character Guide pg. 1262.0
+4,Common,Peryton,Beast,Medium,Bestiary 2 pg. 1972.0
+4,Common,Ratfolk Grenadier,Humanoid; Ratfolk,Small,Bestiary pg. 277
+4,Unique,Renali,Anadi; Humanoid; Unique,Medium,Pathfinder #145: Hellknight Hill pg. 78
+4,Unique,Sakuachi,Human; Humanoid; Unique,Medium,Pathfinder #188: They Watched the Stars pg. 92
+4,Uncommon,Scalathrax,Aberration; Uncommon,Medium,Pathfinder #163: Ruins of Gauntlight pg. 86
+4,Common,Scarecrow,Construct,Medium,Bestiary 2 pg. 2322.0
+4,Common,Sea Devil Brute,Amphibious; Humanoid; Sea Devil,Medium,Bestiary pg. 287
+4,Rare,Shoony Hierarch,Humanoid; Rare; Shoony,Small,Pathfinder #153: Life's Long Shadows pg. 83
+4,Unique,Takulu Ot,Human; Humanoid; Unique,Medium,Pathfinder #169: Kindled Magic pg. 90
+4,Common,Tenome,Humanoid,Medium,Pathfinder #158: Sixty Feet Under pg. 85
+4,Common,Terror Shrike,Animal,Large,Bestiary 3 pg. 264
+4,Common,Tiger,Animal,Large,Bestiary pg. 53
+4,Unique,"Varilyn ""Vare"" Eridge",Halfling; Human; Unique,Small,Pathfinder #176: Lost Mammoth Valley pg. 10
+4,Common,Damibwa,Animal,Medium,Pathfinder #170: Spoken on the Song Wind pg. 80
+4,Common,Giant Pangolin,Animal,Large,Bestiary 3 pg. 199
+4,Rare,Bone Warrior,Human; Humanoid; Rare,Medium,Pathfinder #176: Lost Mammoth Valley pg. 35
+4,Common,Giant Wolverine,Animal,Large,Bestiary 2 pg. 2952.0
+4,Common,Horned Archon,Archon; Celestial,Medium,Bestiary pg. 27
+4,Common,Kasa-Obake,Kami,Medium,Bestiary 3 pg. 276
+4,Uncommon,Korred,Fey; Uncommon,Small,Bestiary 2 pg. 1552.0
+4,Unique,Lickweed,Goblin; Humanoid; Unique,Small,Kingmaker Companion Guide pg. 62
+4,Uncommon,Ogre Hurler,Giant; Humanoid; Uncommon,Large,Pathfinder Encounter: Heaving Kobolds pg. 0
+4,Rare,Swardlands Delinquent,Human; Humanoid; Rare,Medium,Pathfinder #153: Life's Long Shadows pg. 15
+4,Unique,Tartuccio,Gnome; Humanoid; Unique,Small,Kingmaker Adventure Path pg. 605
+4,Unique,Ruanna Nyamma,Elf; Human; Humanoid; Unique,Medium,Pathfinder #152: Legacy of the Lost God pg. 17
+4,Uncommon,Cairn Wight,Uncommon; Undead; Wight,Medium,Bestiary 2 pg. 2922.0
+4,Unique,Urbel,Fey; Gremlin; Unique,Small,Pathfinder #169: Kindled Magic pg. 55
+4,Common,Abrikandilu,Demon; Fiend,Medium,"Bestiary 3 pg. 61, Pathfinder #151: The Show Must Go On pg. 81"
+4,Common,Amphisbaena,Animal,Medium,Bestiary 3 pg. 15
+4,Common,Bison,Animal,Large,Bestiary 3 pg. 32
+4,Unique,Davik Nettles,Undead; Unique,Medium,Kingmaker Adventure Path pg. 67
+4,Common,Filth Fire,Elemental; Fire,Medium,Bestiary 2 pg. 1102.0
+4,Common,Green Hag,Hag; Humanoid,Medium,Bestiary pg. 201
+4,Common,Hound Archon,Archon; Celestial,Medium,Bestiary 2 pg. 222.0
+4,Uncommon,Huldra,Fey; Uncommon,Medium,Bestiary 3 pg. 138
+4,Common,Minotaur,Humanoid,Large,Bestiary pg. 237
+4,Common,Myceloid,Fungus,Medium,Bestiary 3 pg. 181
+4,Common,Ogre Glutton,Giant; Humanoid,Large,Bestiary pg. 253
+4,Common,Otyugh,Aberration,Large,Bestiary pg. 258
+4,Common,Owlbear,Animal,Large,Bestiary pg. 259
+4,Unique,Pakano,Human; Humanoid; Unique,Medium,Pathfinder #175: Broken Tusk Moon pg. 88
+4,Common,Pinacosaurus,Animal; Dinosaur,Large,Pathfinder #151: The Show Must Go On pg. 50
+4,Rare,Rhino Warrior,Human; Humanoid; Rare,Medium,Pathfinder #177: Burning Tundra pg. 12
+4,Common,Rhinoceros,Animal,Large,Bestiary 2 pg. 2282.0
+4,Unique,The Looksee Man,Fetchling; Human; Shadow; Unique,Medium,Pathfinder #187: The Seventh Arch pg. 39
+4,Common,Virtuous Defender,Human; Humanoid,Medium,Character Guide pg. 1222.0
+4,Uncommon,Amelekana,Amphibious; Beast; Uncommon,Large,Pathfinder #187: The Seventh Arch pg. 84
+4,Uncommon,Dreshkan,Aberration; Construct; Uncommon,Medium,Pathfinder #164: Hands of the Devil pg. 78
+4,Common,Earthen Destrier,Earth; Elemental,Large,Bestiary 2 pg. 1082.0
+4,Common,Flytrap Leshy,Leshy; Plant,Small,Bestiary 2 pg. 1612.0
+4,Common,Aghash,Div; Fiend,Medium,Bestiary 3 pg. 69
+4,Common,Arboreal Warden,Plant,Large,Bestiary pg. 24
+4,Common,Calathgar,Cold; Plant,Small,Bestiary 2 pg. 452.0
+4,Common,Gancanagh,Azata; Celestial,Medium,Bestiary pg. 31
+4,Common,Hellknight Armiger,Dwarf; Humanoid,Medium,Character Guide pg. 1202.0
+4,Common,Mimic,Aberration,Medium,Bestiary pg. 236
+4,Common,Nucol,Fiend; Sahkil,Medium,Bestiary 3 pg. 219
+4,Rare,Shabti Redeemer,Humanoid; Rare; Shabti,Medium,Bestiary 3 pg. 229
+4,Uncommon,Werebear,Beast; Human; Humanoid; Uncommon; Werecreature,Large,Bestiary pg. 331
+4,Common,Weretiger,Beast; Human; Humanoid; Werecreature,Large,Bestiary 2 pg. 2912.0
+4,Rare,Daelum,Construct; Rare,Large,Pathfinder #179: Cradle of Quartz pg. 82
+4,Unique,Kaneepo The Slim,Fey; Unique,Medium,Pathfinder #187: The Seventh Arch pg. 83
+4,Common,Luminous Ooze,Mindless; Ooze,Small,Pathfinder #151: The Show Must Go On pg. 85
+4,Common,Satyr,Fey,Medium,Bestiary pg. 284
+4,Common,Blood Ooze,Mindless; Ooze,Large,The Fall of Plaguestone pg. 63
+4,Uncommon,Frost Troll,Cold; Giant; Troll; Uncommon,Large,Bestiary 2 pg. 2642.0
+4,Uncommon,Glimmervine,Mindless; Plant; Uncommon,Medium,Pathfinder #188: They Watched the Stars pg. 86
+4,Common,Ghost Commoner,Ghost; Incorporeal; Spirit; Undead,Medium,Bestiary pg. 167
+4,Uncommon,Charghar,Incorporeal; Spirit; Uncommon; Undead,Medium,Pathfinder #181: Zombie Feast pg. 84
+4,Common,Vampire Spawn,Undead; Vampire,Medium,Bestiary pg. 320
+4,Rare,Corrupted Relic,Incorporeal; Rare; Spirit; Undead,Medium,Bestiary 3 pg. 55
+4,Common,Shanrigol Heap,Aberration; Undead,Medium,Pathfinder #164: Hands of the Devil pg. 84
+4,Rare,Jitterbone Contortionist,Halfling; Humanoid; Mortic; Rare,Small,Book of the Dead pg. 126
+4,Common,Attic Whisperer,Undead,Small,Bestiary 2 pg. 282.0
+4,Uncommon,Ghoul Crocodile,Amphibious; Ghoul; Uncommon; Undead,Large,Pathfinder #182: Graveclaw pg. 32
+4,Uncommon,Lovelorn,Uncommon; Undead,Tiny,Bestiary 3 pg. 165
+4,Unique,Pesgahi the Poisoner,Ghoul; Undead; Unique,Medium,Pathfinder #181: Zombie Feast pg. 57
+4,Common,Caligni Stalker,Caligni; Humanoid,Medium,Bestiary pg. 51
+4,Uncommon,Ichor Slinger,Uncommon; Undead,Medium,Book of the Dead pg. 115
+4,Unique,Harlo Krant,Undead; Unique; Zombie,Medium,Book of the Dead pg. 210
+4,Uncommon,Zombie Lord,Uncommon; Undead; Zombie,Medium,Book of the Dead pg. 172
+4,Common,Shambler Troop,Mindless; Troop; Undead; Zombie,Gargantuan,Bestiary 3 pg. 302
+5,Unique,Stone Ghost,Human; Humanoid; Oread; Unique,Medium,Pathfinder #169: Kindled Magic pg. 88
+5,Rare,Caligni Vanguard,Caligni; Humanoid; Rare,Medium,Bestiary 3 pg. 40
+5,Common,Living Whirlwind,Air; Elemental,Medium,Bestiary pg. 144
+5,Common,Cecaelia Trapper,Amphibious; Humanoid,Medium,Bestiary 3 pg. 45
+5,Common,Army Ant Swarm,Animal; Swarm,Large,Bestiary 2 pg. 202.0
+5,Common,Flea Swarm,Animal; Swarm,Large,Pathfinder #151: The Show Must Go On pg. 83
+5,Uncommon,Mechanical Laborer,Construct; Earth; Mindless; Uncommon,Large,Pathfinder #182: Graveclaw pg. 41
+5,Rare,Teaching Assistant,Human; Humanoid; Rare,Medium,Pathfinder #182: Graveclaw pg. 57
+5,Common,Advisor,Human; Humanoid,Medium,Gamemastery Guide pg. 207
+5,Common,Despot,Human; Humanoid,Medium,Gamemastery Guide pg. 248
+5,Common,Dismemberment Table,Construct; Mindless,Medium,Crown of the Kobold King pg. 104
+5,Common,Necromancer,Human; Humanoid,Medium,Gamemastery Guide pg. 230
+5,Rare,Trapjaw Tangle,Construct; Rare; Swarm,Large,Pathfinder #179: Cradle of Quartz pg. 87
+5,Common,Barbazu,Devil; Fiend,Medium,Bestiary pg. 88
+5,Common,Bore Worm Swarm,Animal; Swarm,Large,Bestiary 3 pg. 36
+5,Common,Dandasuka,Fiend; Rakshasa,Small,Bestiary pg. 274
+5,Uncommon,Divine Warden Of Nethys,Construct; Mindless; Uncommon,Large,Bestiary 3 pg. 73
+5,Uncommon,Doorwarden,Construct; Uncommon,Large,Pathfinder #145: Hellknight Hill pg. 86
+5,Unique,Eobald,Human; Humanoid; Unique,Medium,Kingmaker Companion Guide pg. 53
+5,Common,Grimstalker,Fey,Medium,Bestiary 2 pg. 1372.0
+5,Uncommon,Meat Guardian,Construct; Divine; Golem; Mindless; Uncommon,Medium,Pathfinder #182: Graveclaw pg. 34
+5,Common,Deep Gnome Rockwarden,Gnome; Humanoid,Small,Bestiary pg. 75
+5,Unique,Malarunk,Charau-ka; Humanoid; Unique,Small,Pathfinder #145: Hellknight Hill pg. 58
+5,Unique,Animated Fireplace,Construct; Mindless; Unique,Large,Pathfinder #182: Graveclaw pg. 14
+5,Uncommon,Dero Magister,Dero; Humanoid; Uncommon,Small,Bestiary pg. 85
+5,Common,Dig-Widget,Construct; Mindless,Small,Bestiary 2 pg. 792.0
+5,Common,Giant Moray Eel,Animal; Aquatic,Large,Bestiary pg. 142
+5,Rare,Gilded Gunner Safecracker,Humanoid; Rare,Medium,Pathfinder #179: Cradle of Quartz pg. 57
+5,Common,Glyptodon,Animal,Large,Pathfinder #175: Broken Tusk Moon pg. 82
+5,Common,Wizard Sponge,Fungus; Mindless; Swarm,Large,Bestiary 3 pg. 294
+5,Unique,Nok-Nok (Level 5),Goblin; Humanoid; Unique,Small,Kingmaker Companion Guide pg. 58
+5,Common,Ostiarius,Fiend; Velstrac,Medium,Bestiary 2 pg. 2812.0
+5,Common,Harpy,Humanoid,Medium,Bestiary pg. 204
+5,Unique,"""Lucky"" Lanks",Halfling; Humanoid; Unique,Small,Pathfinder #179: Cradle of Quartz pg. 24
+5,Uncommon,Clockwork Disposer,Clockwork; Construct; Mindless; Uncommon,Small,Pathfinder #179: Cradle of Quartz pg. 80
+5,Common,Copper Hand Illusionist,Human; Humanoid,Medium,Pathfinder #158: Sixty Feet Under pg. 23
+5,Common,Fence,Human; Humanoid,Medium,Gamemastery Guide pg. 210
+5,Common,Hieracosphinx,Beast,Large,Bestiary 3 pg. 250
+5,Common,Ogre Spider,Animal,Huge,Bestiary 2 pg. 2492.0
+5,Common,Spiny Eurypterid,Amphibious; Animal,Large,Bestiary 3 pg. 97
+5,Uncommon,Trapdoor Ogre Spider,Animal; Uncommon,Huge,Kingmaker Adventure Path pg. 89
+5,Common,Winter Wolf,Beast,Large,Bestiary pg. 322
+5,Uncommon,Djinni,Air; Elemental; Genie; Uncommon,Large,Bestiary pg. 163
+5,Common,Grippli Greenspeaker,Grippli; Humanoid,Small,Pathfinder #146: Cult of Cinders pg. 87
+5,Common,Albino Giant Bat,Animal,Large,Crown of the Kobold King pg. 108
+5,Common,Lurker In Light,Fey,Small,Bestiary 2 pg. 1692.0
+5,Common,Aasimar Redeemer,Aasimar; Human; Humanoid,Medium,Bestiary pg. 263
+5,Common,Plague Doctor,Human; Humanoid,Medium,Gamemastery Guide pg. 221
+5,Common,Polar Bear,Animal,Large,Bestiary 2 pg. 362.0
+5,Uncommon,Anadi Fateweaver,Anadi; Humanoid; Uncommon,Medium,Pathfinder #169: Kindled Magic pg. 79
+5,Common,Antipaladin,Human; Humanoid,Medium,Gamemastery Guide pg. 247
+5,Common,Basilisk,Beast,Medium,Bestiary pg. 38
+5,Rare,Bloom Cultist,Human; Humanoid; Rare,Medium,Kingmaker Adventure Path pg. 240
+5,Common,Catrina,Monitor; Psychopomp,Medium,Bestiary 2 pg. 2092.0
+5,Rare,Centaur Scout,Beast; Rare,Large,Kingmaker Adventure Path pg. 267
+5,Common,City Guard Squadron,Human; Humanoid; Troop,Gargantuan,Bestiary 3 pg. 47
+5,Common,Ether Spider,Beast; Ethereal,Large,Bestiary pg. 155
+5,Common,Flame Drake,Dragon; Fire,Large,Bestiary pg. 131
+5,Common,Giant Frilled Lizard,Animal,Large,Bestiary pg. 229
+5,Rare,Gilded Gunner Assassin,Humanoid; Rare,Medium,Pathfinder #179: Cradle of Quartz pg. 57
+5,Unique,Kepgeda the Hag-Nailed,Changeling; Human; Humanoid; Unique,Medium,Pathfinder #181: Zombie Feast pg. 90
+5,Uncommon,Leadsmith,Dwarf; Humanoid; Uncommon,Medium,Pathfinder #180: The Smoking Gun pg. 9
+5,Unique,Mashkudu The Bully,Human; Humanoid; Unique,Medium,Pathfinder #170: Spoken on the Song Wind pg. 27
+5,Common,Mercenary Sailor,Human; Humanoid,Medium,Pathfinder #147: Tomorrow Must Burn pg. 18
+5,Uncommon,Mindmoppet,Ooze; Uncommon,Tiny,Pathfinder #189: Dreamers of the Nameless Spires pg. 86
+5,Uncommon,Mutant Bat,Animal; Uncommon,Huge,Pathfinder #180: The Smoking Gun pg. 22
+5,Unique,Narlynark,Humanoid; Kobold; Unique,Small,Crown of the Kobold King pg. 106
+5,Unique,Nugrah,Human; Humanoid; Unique,Medium,Kingmaker Adventure Path pg. 183
+5,Common,Orca,Animal,Huge,Bestiary 2 pg. 842.0
+5,Common,Sigbin,Beast,Small,Pathfinder #166: Despair on Danger Island pg. 89
+5,Uncommon,Stone-Breasted Owl,Beast; Incorporeal; Spirit; Uncommon,Small,Pathfinder #188: They Watched the Stars pg. 91
+5,Common,Tomb Raider,Human; Humanoid,Medium,Gamemastery Guide pg. 217
+5,Uncommon,Gibtas Bounder,Aberration; Uncommon,Small,Pathfinder #164: Hands of the Devil pg. 80
+5,Uncommon,Eunemvro,Humanoid; Positive; Uncommon,Medium,Bestiary 3 pg. 96
+5,Unique,Melianse,Aquatic; Fey; Unique,Small,Kingmaker Adventure Path pg. 71
+5,Unique,Old Crackjaw,Animal; Unique,Medium,Kingmaker Adventure Path pg. 77
+5,Common,Sabosan,Humanoid,Medium,"Bestiary 3 pg. 217, Pathfinder #146: Cult of Cinders pg. 91"
+5,Common,Basidirond,Fungus; Mindless,Medium,Bestiary 2 pg. 342.0
+5,Common,Brimorak,Demon; Fiend,Small,Bestiary 3 pg. 62
+5,Common,Cloaker,Aberration,Large,Bestiary pg. 65
+5,Uncommon,Cyclops,Giant; Humanoid; Uncommon,Large,Bestiary pg. 68
+5,Common,Emperor Cobra,Animal,Large,Bestiary 2 pg. 2452.0
+5,Unique,Ghodrak The Quick,Goblin; Humanoid; Unique,Medium,Pathfinder #188: They Watched the Stars pg. 17
+5,Unique,Hateful Hermit,Human; Humanoid; Unique,Medium,Kingmaker Adventure Path pg. 74
+5,Uncommon,Ice Golem,Cold; Construct; Golem; Mindless; Uncommon,Medium,Bestiary 2 pg. 1292.0
+5,Uncommon,Kvernknurr,Amphibious; Fey; Uncommon; Water,Large,Pathfinder #188: They Watched the Stars pg. 87
+5,Uncommon,Nwanyian Defender,Human; Humanoid; Uncommon,Medium,Pathfinder #183: Field of Maidens pg. 38
+5,Common,Rompo,Beast,Medium,The Mwangi Expanse pg. 3042.0
+5,Common,Shrine Skelm,Humanoid; Skelm,Medium,Bestiary 3 pg. 239
+5,Common,Skaveling,Undead,Large,Bestiary 2 pg. 2412.0
+5,Unique,Temteki,Earth; Elemental; Unique,Medium,Monsters of Myth pg. 112
+5,Unique,Xulgath Demon-Caller,Humanoid; Unique; Xulgath,Medium,Pathfinder #152: Legacy of the Lost God pg. 26
+5,Unique,Cavnakash,Humanoid; Unique; Xulgath; Zombie,Medium,Pathfinder #151: The Show Must Go On pg. 88
+5,Common,Penanggalan,Aberration; Tanggal,Medium,Bestiary 3 pg. 200
+5,Common,Hippopotamus,Animal,Large,Bestiary 2 pg. 1442.0
+5,Common,Irriseni Owlbear,Animal,Large,Travel Guide pg. 99
+5,Unique,Kereek,Humanoid; Kobold; Unique,Small,Kingmaker Adventure Path pg. 196
+5,Common,Lampad,Earth; Fey; Nymph,Medium,Bestiary 3 pg. 188
+5,Common,Leucrotta,Beast,Large,Bestiary 2 pg. 1622.0
+5,Unique,Malgorzata Niska,Human; Humanoid; Unique,Medium,Kingmaker Adventure Path pg. 197
+5,Common,Megatherium,Animal,Huge,Bestiary 3 pg. 248
+5,Common,Namorrodor,Shadow; Undead,Medium,Bestiary 3 pg. 183
+5,Unique,Prazil,Humanoid; Kobold; Unique,Small,Kingmaker Adventure Path pg. 196
+5,Uncommon,Spellscar Sky Marauder,Humanoid; Mutant; Uncommon,Medium,Pathfinder #179: Cradle of Quartz pg. 30
+5,Common,Grodair,Amphibious; Beast; Fey; Water,Medium,Bestiary 2 pg. 1402.0
+5,Rare,Elder Thing,Aberration; Amphibious; Rare,Medium,Pathfinder #189: Dreamers of the Nameless Spires pg. 84
+5,Common,Living Landslide,Earth; Elemental,Medium,Bestiary pg. 146
+5,Common,Living Waterfall,Aquatic; Elemental; Water,Large,Bestiary pg. 152
+5,Rare,Venexus's Wyrmlings,Cold; Dragon; Rare,Medium,Pathfinder #176: Lost Mammoth Valley pg. 58
+5,Unique,Gurija,Giant; Troll; Unique,Large,Kingmaker Adventure Path pg. 207
+5,Uncommon,Kareq,Animal; Uncommon,Large,Pathfinder #187: The Seventh Arch pg. 89
+5,Common,Karina,Beast; Fiend,Large,The Mwangi Expanse pg. 3012.0
+5,Common,Kodama,Kami; Spirit,Small,Bestiary 3 pg. 143
+5,Uncommon,Skinstitch,Construct; Mindless; Uncommon,Large,"Bestiary 3 pg. 242, Pathfinder #158: Sixty Feet Under pg. 84"
+5,Common,Storm Hag,Air; Electricity; Hag; Humanoid,Medium,Bestiary 3 pg. 128
+5,Common,Xulgath Spinesnapper,Humanoid; Xulgath,Large,Pathfinder #152: Legacy of the Lost God pg. 84
+5,Common,Giant Hermit Crab,Amphibious; Animal,Large,Bestiary 3 pg. 57
+5,Common,Troll,Giant; Troll,Large,Bestiary pg. 314
+5,Uncommon,Yeti,Humanoid; Uncommon,Large,Bestiary pg. 338
+5,Common,Gibbering Mouther,Aberration,Medium,Bestiary pg. 176
+5,Common,Ochre Jelly,Mindless; Ooze,Large,Bestiary pg. 255
+5,Common,Globster,Aquatic; Ooze,Large,Bestiary 3 pg. 115
+5,Rare,Hollow Husks,Mindless; Rare; Undead; Zombie,Medium,Pathfinder #183: Field of Maidens pg. 26
+5,Unique,Syarstik Painted-Tiger,Ghost; Incorporeal; Spirit; Undead; Unique,Large,Pathfinder #175: Broken Tusk Moon pg. 90
+5,Uncommon,Bone Croupier,Uncommon; Undead,Medium,"Book of the Dead pg. 77, Pathfinder #151: The Show Must Go On pg. 80"
+5,Uncommon,Muse Phantom,Incorporeal; Spirit; Uncommon; Undead,Medium,Pathfinder #152: Legacy of the Lost God pg. 81
+5,Common,Poltergeist,Incorporeal; Spirit; Undead,Medium,Bestiary pg. 264
+5,Unique,Voz Lirayne,Elf; Human; Humanoid; Unique,Medium,Pathfinder #145: Hellknight Hill pg. 80
+5,Common,Redcap,Fey,Small,Bestiary pg. 278
+5,Common,Crawling Hand Swarm,Swarm; Undead,Large,Pathfinder #176: Lost Mammoth Valley pg. 38
+5,Common,Harpy Skeleton,Mindless; Skeleton; Undead,Medium,Bestiary 3 pg. 236
+5,Common,Skeletal Mage,Skeleton; Undead,Medium,Book of the Dead pg. 148
+5,Common,Priest of Kabriri,Ghoul; Undead,Medium,Book of the Dead pg. 105
+5,Common,Azuretzi,Monitor; Protean,Small,Bestiary 2 pg. 2052.0
+5,Common,Giant Crawling Hand,Undead,Medium,Bestiary 2 pg. 562.0
+5,Rare,Necrohusk,Rare; Undead,Medium,Pathfinder #176: Lost Mammoth Valley pg. 87
+5,Uncommon,Skeletal Woolly Rhinoceros,Mindless; Skeleton; Uncommon; Undead,Large,Pathfinder #176: Lost Mammoth Valley pg. 36
+5,Uncommon,Forge-Spurned,Fire; Uncommon; Undead,Medium,"Crown of the Kobold King pg. 119, Pathfinder #148: Fires of the Haunted City pg. 83"
+5,Common,Iruxi Ossature,Lizardfolk; Undead,Medium,Book of the Dead pg. 116
+5,Common,Urdefhan Tormentor,Humanoid; Urdefhan,Medium,Bestiary 2 pg. 2732.0
+5,Unique,Hymmir Urath,Ghoul; Undead; Unique,Medium,Crown of the Kobold King pg. 82
+5,Common,Taunting Skull,Undead,Tiny,Book of the Dead pg. 74
+5,Common,Withered,Undead; Zombie,Medium,Book of the Dead pg. 172
+5,Common,Living Wildfire,Elemental; Fire,Medium,Bestiary pg. 148
+5,Common,Bog Mummy,Mummy; Undead,Medium,Bestiary 2 pg. 1772.0
+5,Common,Ghul,Genie; Ghul; Undead,Medium,Book of the Dead pg. 106
+5,Common,Lion Visitant,Animal; Undead,Large,Pathfinder #152: Legacy of the Lost God pg. 83
+6,Unique,Mutated Sewer Ooze,Mindless; Mutant; Ooze; Unique,Large,Pathfinder #170: Spoken on the Song Wind pg. 37
+6,Common,Will-o’-Wisp,Aberration; Air,Small,Bestiary pg. 333
+6,Unique,Ekundayo's Dog,Animal; Minion; Unique,Medium,Kingmaker Companion Guide pg. 22
+6,Common,Ethereal Sailor,Mindless,Medium,Grand Bazaar pg. 77
+6,Unique,Duhgik,Humanoid; Kobold; Unique,Small,No-Prep Character: Duhgik pg. 0
+6,Uncommon,Caligni Caller,Caligni; Humanoid; Uncommon,Medium,Bestiary 3 pg. 40
+6,Uncommon,Gibtas Spawn Swarm,Aberration; Swarm; Uncommon,Large,Pathfinder #164: Hands of the Devil pg. 80
+6,Rare,Spawn Of Kothogaz,Beast; Rare,Large,Monsters of Myth pg. 53
+6,Unique,Nketiah,Elf; Human; Humanoid; Unique,Medium,Pathfinder #146: Cult of Cinders pg. 79
+6,Common,Chouchin-Obake,Kami,Medium,Bestiary 3 pg. 277
+6,Unique,Satinder Morne,Human; Humanoid; Unique,Medium,Kingmaker Adventure Path pg. 306
+6,Uncommon,Seugathi Servant,Aberration; Seugathi; Uncommon,Large,Pathfinder #164: Hands of the Devil pg. 82
+6,Common,Skull Peeler,Beast,Small,Bestiary 3 pg. 243
+6,Common,Belker,Air; Elemental,Large,Bestiary 2 pg. 1062.0
+6,Unique,Melfesh Monster,Fungus; Unique,Medium,Monsters of Myth pg. 70
+6,Rare,Apothecary's Cabinet,Construct; Mindless; Rare,Large,Pathfinder #188: They Watched the Stars pg. 14
+6,Uncommon,Clockwork Rifler,Clockwork; Construct; Mindless; Uncommon,Medium,Pathfinder #182: Graveclaw pg. 44
+6,Uncommon,Clockwork Soldier,Clockwork; Construct; Mindless; Uncommon,Medium,Bestiary 3 pg. 49
+6,Common,Giant Mosquito,Animal,Medium,Bestiary 2 pg. 1752.0
+6,Common,Priest of Pharasma,Human; Humanoid,Medium,Gamemastery Guide pg. 213
+6,Common,Annis Hag,Hag; Humanoid,Large,Bestiary pg. 202
+6,Rare,Imperfect Automaton,Automaton; Construct; Rare,Medium,Monsters of Myth pg. 125
+6,Unique,Iron Taviah,Hag; Humanoid; Unique,Large,Pathfinder #182: Graveclaw pg. 88
+6,Common,Sage,Human; Humanoid,Medium,Gamemastery Guide pg. 241
+6,Common,Ankylosaurus,Animal; Dinosaur,Huge,Bestiary pg. 97
+6,Uncommon,Charau-ka Dragon Priest,Charau-ka; Dragon; Fire; Humanoid; Uncommon,Small,Pathfinder #146: Cult of Cinders pg. 59
+6,Unique,Delamar Gianvin,Human; Humanoid; Unique,Medium,Pathfinder #152: Legacy of the Lost God pg. 16
+6,Unique,Elga Verniex,Human; Humanoid; Unique,Medium,Kingmaker Adventure Path pg. 76
+6,Common,Evangelist,Fiend; Velstrac,Medium,"Bestiary 2 pg. 2822.0 , Pathfinder #147: Tomorrow Must Burn pg. 83"
+6,Common,Hobgoblin General,Goblin; Humanoid,Medium,Bestiary pg. 207
+6,Uncommon,Hodag,Beast; Uncommon,Large,Bestiary 2 pg. 1452.0
+6,Common,Jungle Drake,Dragon; Earth,Large,Bestiary pg. 132
+6,Common,Manticore,Beast,Large,Bestiary pg. 232
+6,Uncommon,Owb,Shadow; Uncommon,Medium,Bestiary 3 pg. 196
+6,Common,Ship Captain,Human; Humanoid,Medium,Gamemastery Guide pg. 243
+6,Common,Spy,Human; Humanoid,Medium,Gamemastery Guide pg. 207
+6,Rare,Summer Hora,Fey; Nymph; Rare,Medium,Pathfinder #177: Burning Tundra pg. 80
+6,Unique,Ekundayo (Level 6),Human; Humanoid; Unique,Medium,Kingmaker Companion Guide pg. 22
+6,Common,Maftet Guardian,Humanoid,Medium,Bestiary 3 pg. 166
+6,Common,Reckless Scientist,Human; Humanoid,Medium,Gamemastery Guide pg. 248
+6,Common,Sand Sentry,Earth; Elemental,Medium,Bestiary 2 pg. 1092.0
+6,Uncommon,Anadi Elder,Anadi; Humanoid; Uncommon,Medium,"The Mwangi Expanse pg. 2912.0 , Pathfinder #145: Hellknight Hill pg. 85"
+6,Common,Asanbosam,Humanoid,Large,"The Mwangi Expanse pg. 2932.0 , Pathfinder #146: Cult of Cinders pg. 80"
+6,Rare,Bitter Truth Bandit,Human; Humanoid; Rare,Medium,Pathfinder #153: Life's Long Shadows pg. 17
+6,Uncommon,Bugaboo,Fey; Uncommon,Medium,Pathfinder #152: Legacy of the Lost God pg. 78
+6,Common,Captain of the Guard,Human; Humanoid,Medium,Gamemastery Guide pg. 234
+6,Common,Cave Bear,Animal,Large,Bestiary pg. 40
+6,Common,Charau-ka Butcher,Charau-ka; Humanoid,Small,"The Mwangi Expanse pg. 2972.0 , Pathfinder #146: Cult of Cinders pg. 85"
+6,Common,Drider,Aberration,Large,Bestiary pg. 159
+6,Common,Elananx,Fey; Fire,Medium,Bestiary pg. 143
+6,Common,Grippli Jinxer,Grippli; Humanoid,Small,Pathfinder #170: Spoken on the Song Wind pg. 83
+6,Common,Iguanodon,Animal; Dinosaur,Huge,Bestiary 2 pg. 822.0
+6,Unique,Kreekoss,Beast; Fiend; Unique,Large,Pathfinder #170: Spoken on the Song Wind pg. 53
+6,Common,Lamia,Beast,Large,Bestiary pg. 216
+6,Uncommon,Rhu-Chalik,Aberration; Uncommon,Small,Bestiary 3 pg. 214
+6,Uncommon,Scarlet Triad Sneak,Human; Humanoid; Uncommon,Medium,Pathfinder #147: Tomorrow Must Burn pg. 8
+6,Common,Sea Devil Baron,Amphibious; Humanoid; Mutant; Sea Devil,Medium,Bestiary pg. 287
+6,Common,Sea Drake,Amphibious; Dragon; Water,Large,Bestiary 2 pg. 1012.0
+6,Uncommon,Wood Golem,Construct; Golem; Mindless; Uncommon,Medium,Bestiary 2 pg. 1302.0
+6,Common,Wyvern,Dragon,Large,Bestiary pg. 133
+6,Uncommon,Xulgath Skirmisher,Humanoid; Uncommon; Xulgath,Medium,Pathfinder #153: Life's Long Shadows pg. 27
+6,Common,Warden,Human; Humanoid,Medium,Gamemastery Guide pg. 225
+6,Common,Blood Boar,Animal,Medium,Pathfinder #147: Tomorrow Must Burn pg. 76
+6,Uncommon,Kurnugian Jackal,Beast; Uncommon,Medium,Troubles in Otari pg. 61
+6,Common,Awakened Tree,Plant,Huge,Bestiary pg. 25
+6,Uncommon,Bauble Beast,Beast; Earth; Uncommon,Large,Bestiary 3 pg. 28
+6,Common,Choral,Angel; Celestial,Small,Bestiary pg. 17
+6,Rare,Cleansed Cultist,Human; Humanoid; Rare,Medium,Kingmaker Companion Guide pg. 78
+6,Unique,Hendrid Pratchett,Elf; Human; Humanoid; Unique,Medium,Pathfinder #157: Devil at the Dreaming Palace pg. 89
+6,Unique,Loakan,Humanoid; Lizardfolk; Unique,Medium,Pathfinder #170: Spoken on the Song Wind pg. 28
+6,Uncommon,Lunar Naga,Aberration; Uncommon,Large,Bestiary 2 pg. 1782.0
+6,Common,Nightmare,Beast; Fiend,Large,Bestiary pg. 244
+6,Rare,Scarecophagus,Construct; Rare,Large,Pathfinder #179: Cradle of Quartz pg. 86
+6,Uncommon,Terwa Prodigy,Humanoid; Lizardfolk; Uncommon,Medium,Pathfinder #171: Hurricane's Howl pg. 82
+6,Common,Woolly Rhinoceros,Animal,Large,Bestiary 2 pg. 2282.0
+6,Uncommon,Xill,Aberration; Ethereal; Uncommon,Medium,Bestiary 2 pg. 2992.0
+6,Uncommon,Ahuizotl,Amphibious; Beast; Uncommon,Large,Bestiary 2 pg. 122.0
+6,Uncommon,Baobhan Sith,Fey; Uncommon,Medium,Bestiary 2 pg. 332.0
+6,Common,Blizzardborn,Cold; Elemental; Water,Medium,Bestiary 2 pg. 1152.0
+6,Uncommon,Blodeuwedd,Fey; Plant; Uncommon,Medium,Bestiary 2 pg. 412.0
+6,Common,Executioner,Human; Humanoid,Medium,Gamemastery Guide pg. 235
+6,Unique,Ntavi,Human; Humanoid; Unique,Medium,Kingmaker Companion Guide pg. 30
+6,Common,Scythe Tree,Plant,Huge,Bestiary 2 pg. 2352.0
+6,Common,Vulpinal,Agathion; Celestial,Small,Bestiary 3 pg. 11
+6,Common,Wihsaak,Fiend; Sahkil,Medium,Bestiary 3 pg. 220
+6,Common,Monster Hunter,Human; Humanoid,Medium,Gamemastery Guide pg. 227
+6,Uncommon,Cat Sith,Fey; Uncommon,Tiny,Pathfinder #153: Life's Long Shadows pg. 77
+6,Common,Cave Giant,Giant; Humanoid,Large,Bestiary 3 pg. 108
+6,Common,Ettin,Giant; Humanoid,Large,Bestiary pg. 156
+6,Uncommon,I'iko Dragon,Amphibious; Dragon; Uncommon,Small,Pathfinder #170: Spoken on the Song Wind pg. 84
+6,Common,Long-Horned Bison,Animal,Huge,Pathfinder #176: Lost Mammoth Valley pg. 83
+6,Rare,Mpeshi,Beast; Electricity; Rare,Large,Pathfinder #170: Spoken on the Song Wind pg. 85
+6,Common,Smilodon,Animal,Large,Bestiary pg. 53
+6,Unique,The Stag Lord,Human; Humanoid; Unique,Medium,Kingmaker Adventure Path pg. 604
+6,Uncommon,Witchwyrd,Humanoid; Uncommon,Medium,"Bestiary 2 pg. 2942.0 , Pathfinder #149: Against the Scarlet Triad pg. 90"
+6,Unique,King Vesket,Humanoid; Lizardfolk; Unique,Medium,Kingmaker Adventure Path pg. 140
+6,Unique,Kolbo,Dwarf; Humanoid; Unique,Medium,Pathfinder #170: Spoken on the Song Wind pg. 49
+6,Common,Striding Fire,Elemental; Fire,Medium,Bestiary 2 pg. 1112.0
+6,Rare,Venexus's Chosen,Beast; Beastkin; Humanoid; Rare,Medium,Pathfinder #176: Lost Mammoth Valley pg. 55
+6,Common,Young White Dragon,Cold; Dragon,Large,Bestiary pg. 113
+6,Uncommon,Afziaka Brute,Animal; Mindless; Uncommon,Large,Pathfinder #185: A Taste of Ashes pg. 82
+6,Uncommon,Bone Skipper Swarm,Animal; Swarm; Uncommon,Large,Pathfinder #158: Sixty Feet Under pg. 80
+6,Common,Bralani,Azata; Celestial,Medium,Bestiary 2 pg. 302.0
+6,Uncommon,Mi-Go,Fungus; Uncommon,Medium,Bestiary 3 pg. 168
+6,Rare,Myroga,Dragon; Rare,Large,Pathfinder #188: They Watched the Stars pg. 88
+6,Uncommon,Serpentfolk Granitescale,Humanoid; Mutant; Serpentfolk; Uncommon,Medium,Pathfinder #170: Spoken on the Song Wind pg. 86
+6,Common,Shambler,Plant,Large,Bestiary pg. 290
+6,Rare,Shimmernewt,Amphibious; Beast; Rare,Medium,Pathfinder #183: Field of Maidens pg. 85
+6,Rare,Skinsaw Murderer,Human; Humanoid; Rare,Medium,Pathfinder #158: Sixty Feet Under pg. 50
+6,Common,Terra-Cotta Soldier,Construct,Medium,Bestiary 3 pg. 263
+6,Common,Wood Giant,Giant; Humanoid,Large,Bestiary 2 pg. 1242.0
+6,Uncommon,Zuntishan Guard,Human; Humanoid; Uncommon,Medium,Pathfinder #183: Field of Maidens pg. 42
+6,Common,Babau,Demon; Fiend,Medium,Bestiary 2 pg. 642.0
+6,Common,Ceustodaemon,Daemon; Fiend,Large,Bestiary pg. 71
+6,Uncommon,Cavern Troll,Earth; Giant; Troll; Uncommon,Large,Bestiary 2 pg. 2652.0
+6,Common,Giant Tarantula,Animal,Large,Bestiary pg. 307
+6,Uncommon,Vaultbreaker Ooze,Mindless; Ooze; Uncommon,Large,Pathfinder #158: Sixty Feet Under pg. 87
+6,Common,Fire Jellyfish Swarm,Animal; Aquatic; Mindless; Swarm,Large,Bestiary 2 pg. 1522.0
+6,Common,Verdurous Ooze,Mindless; Ooze,Medium,Bestiary 2 pg. 1942.0
+6,Uncommon,Living Sap,Mindless; Ooze; Uncommon,Medium,Pathfinder #146: Cult of Cinders pg. 89
+6,Unique,The Lonely Warrior,Undead; Unique; Wight,Medium,Kingmaker Adventure Path pg. 135
+6,Common,Mummy Guardian,Mummy; Undead,Medium,Bestiary pg. 240
+6,Common,Revenant,Undead,Medium,Bestiary 2 pg. 2272.0
+6,Rare,Blackfrost Zombie,Cold; Mindless; Rare; Undead; Zombie,Medium,Pathfinder #189: Dreamers of the Nameless Spires pg. 80
+6,Rare,Gurgist Mauler,Human; Humanoid; Mortic; Rare,Medium,Bestiary 3 pg. 175
+6,Common,Sulfur Zombie,Fire; Mindless; Undead; Zombie,Medium,Bestiary 3 pg. 303
+6,Common,Skrik Nettle,Aberration,Large,Bestiary 2 pg. 2422.0
+6,Uncommon,Tar Zombie Snatcher,Mindless; Uncommon; Undead; Zombie,Medium,Pathfinder #177: Burning Tundra pg. 84
+6,Uncommon,Shock Zombie,Electricity; Mindless; Uncommon; Undead; Zombie,Medium,Pathfinder #180: The Smoking Gun pg. 85
+6,Common,Zombie Hulk,Mindless; Undead; Zombie,Huge,Bestiary pg. 341
+6,Common,Hungry Ghost,Ghost; Incorporeal; Spirit; Undead,Medium,Book of the Dead pg. 100
+6,Common,Vampire Count,Undead; Vampire,Medium,Bestiary pg. 320
+6,Rare,Stone Sister,Rare; Undead,Medium,Impossible Lands pg. 338
+6,Unique,Grimbal,Ghost; Incorporeal; Spirit; Undead; Unique,Medium,Crown of the Kobold King pg. 76
+6,Common,Abandoned Zealot,Incorporeal; Spirit; Undead,Medium,Bestiary 3 pg. 8
+6,Common,Wraith,Incorporeal; Undead; Wraith,Medium,Bestiary pg. 335
+6,Uncommon,Graveknight Captain,Uncommon; Undead,Medium,Pathfinder #172: Secrets of the Temple City pg. 82
+6,Common,Beetle Carapace,Mindless; Skeleton; Undead,Large,Book of the Dead pg. 148
+6,Uncommon,Kurobozu,Uncommon; Undead,Medium,Bestiary 3 pg. 157
+6,Common,Hydra,Beast,Huge,Bestiary pg. 210
+6,Common,Urdefhan Death Scout,Humanoid,Medium,Pathfinder #165: Eyes of Empty Death pg. 84
+6,Uncommon,Faithless Ecclesiarach,Uncommon; Undead,Medium,Book of the Dead pg. 112
+6,Rare,Little Man in the Woods,Rare; Undead,Small,Book of the Dead pg. 124
+6,Common,Vrykolakas Spawn,Undead; Vampire,Medium,Bestiary 2 pg. 2762.0
+6,Uncommon,Umasi,Aberration; Humanoid; Uncommon,Medium,Bestiary 3 pg. 280
+7,Common,Solar Ibis,Beast,Medium,The Mwangi Expanse pg. 3062.0
+7,Unique,Snowy Owl,Human; Humanoid; Unique,Medium,Pathfinder #189: Dreamers of the Nameless Spires pg. 7
+7,Unique,Spirit Of Stisshak,Aberration; Air; Unique,Medium,Kingmaker Adventure Path pg. 141
+7,Common,Invisible Stalker,Air; Elemental,Medium,Bestiary pg. 144
+7,Unique,Rigg Gargadilly,Fey; Unique,Small,Kingmaker Adventure Path pg. 150
+7,Common,Greater Shadow,Incorporeal; Undead,Medium,Bestiary pg. 289
+7,Unique,Linzi (Level 7),Halfling; Humanoid; Unique,Small,Kingmaker Companion Guide pg. 45
+7,Uncommon,Soul Eater,Fiend; Uncommon,Medium,Bestiary 2 pg. 2472.0
+7,Uncommon,Stygira,Earth; Fey; Uncommon,Medium,Bestiary 2 pg. 2552.0
+7,Common,Sportlebore Swarm,Animal; Swarm,Large,Bestiary 2 pg. 2512.0
+7,Common,Tupilaq,Construct,Small,Bestiary 3 pg. 278
+7,Uncommon,Anugobu Wondercrafter,Anugobu; Humanoid; Uncommon,Tiny,Pathfinder #166: Despair on Danger Island pg. 81
+7,Rare,Hound of Tindalos,Aberration; Rare; Time,Medium,Bestiary 2 pg. 1462.0
+7,Common,Invidiak,Demon; Fiend; Incorporeal,Medium,Bestiary 2 pg. 652.0
+7,Rare,Mothman,Aberration; Rare,Medium,Bestiary 3 pg. 179
+7,Common,Zetogeki,Animal; Earth,Large,Bestiary 3 pg. 301
+7,Unique,Jaggedbriar Hag,Hag; Humanoid; Unique,Medium,Kingmaker Companion Guide pg. 54
+7,Common,Cult Leader,Human; Humanoid,Medium,Gamemastery Guide pg. 230
+7,Common,Chuul,Aberration; Amphibious,Large,Bestiary pg. 64
+7,Common,Demonologist,Human; Humanoid,Medium,Gamemastery Guide pg. 231
+7,Uncommon,Dweomercat,Beast; Uncommon,Medium,Bestiary 2 pg. 1032.0
+7,Common,Giant Animated Statue,Construct; Earth; Mindless,Huge,Bestiary pg. 21
+7,Common,Legion Archon,Archon; Celestial,Medium,Bestiary pg. 28
+7,Uncommon,Naiad Queen,Amphibious; Fey; Nymph; Uncommon; Water,Medium,Bestiary pg. 248
+7,Uncommon,Pukwudgie,Fey; Uncommon,Small,Bestiary 3 pg. 208
+7,Unique,Shristi Melipdra,Human; Humanoid; Unique,Medium,Pathfinder #158: Sixty Feet Under pg. 90
+7,Common,Succubus,Demon; Fiend,Medium,Bestiary pg. 77
+7,Common,Gang Leader,Human; Humanoid,Medium,Gamemastery Guide pg. 249
+7,Uncommon,Caulborn,Astral; Uncommon,Medium,Bestiary 3 pg. 94
+7,Uncommon,Culdewen,Amphibious; Fey; Uncommon,Small,Bestiary 2 pg. 572.0
+7,Uncommon,Greater Barghest,Fiend; Mutant; Uncommon,Large,Bestiary pg. 37
+7,Rare,Id Ooze,Amphibious; Ooze; Rare,Medium,Crown of the Kobold King pg. 121
+7,Common,Levaloch,Construct; Devil; Fiend,Large,Bestiary 3 pg. 65
+7,Common,Medusa,Humanoid,Medium,Bestiary pg. 234
+7,Common,Pairaka,Div; Fiend,Medium,Bestiary 3 pg. 70
+7,Uncommon,Serpentfolk Venom Caller,Humanoid; Serpentfolk; Uncommon,Medium,Pathfinder #170: Spoken on the Song Wind pg. 87
+7,Uncommon,Shoggti,Amphibious; Fiend; Qlippoth; Uncommon,Large,Bestiary 2 pg. 2132.0
+7,Common,Vanth,Monitor; Psychopomp,Medium,Bestiary 2 pg. 2102.0
+7,Uncommon,Young Crystal Dragon,Dragon; Earth; Elemental; Uncommon,Large,Bestiary 2 pg. 912.0
+7,Rare,Azmakian Effigy,Construct; Fiend; Rare,Large,Pathfinder #182: Graveclaw pg. 81
+7,Unique,Grigori,Human; Humanoid; Unique,Medium,Kingmaker Adventure Path pg. 596
+7,Common,Hellcat,Beast; Fiend,Large,Bestiary 2 pg. 1412.0
+7,Unique,I,Aberration; Unique,Medium,Pathfinder #179: Cradle of Quartz pg. 35
+7,Uncommon,Iridescent Elephant,Animal; Uncommon,Huge,Pathfinder #152: Legacy of the Lost God pg. 80
+7,Uncommon,Manticore Paaridar,Human; Humanoid; Paaridar; Uncommon,Medium,Bestiary 3 pg. 198
+7,Common,Quetzalcoatlus,Animal,Huge,Bestiary pg. 272
+7,Uncommon,Shaitan,Earth; Elemental; Genie; Uncommon,Large,Bestiary pg. 164
+7,Unique,Yana No-Trail,Humanoid; Kitsune; Unique,Medium,Pathfinder #177: Burning Tundra pg. 7
+7,Common,Azarketi Tide Tamer,Amphibious; Azarketi; Humanoid,Medium,"Absalom, City of Lost Omens pg. 397"
+7,Uncommon,Capstan Swabbie,Construct; Mindless; Uncommon,Large,Pathfinder #188: They Watched the Stars pg. 84
+7,Uncommon,Dark Naga,Aberration; Uncommon,Large,Bestiary pg. 242
+7,Uncommon,Dreamscraper,Aberration; Dream; Uncommon,Large,Pathfinder #189: Dreamers of the Nameless Spires pg. 83
+7,Uncommon,Drow Hunter,Drow; Elf; Humanoid; Uncommon,Medium,Pathfinder #165: Eyes of Empty Death pg. 82
+7,Unique,Drusilla,Fey; Unique,Medium,Pathfinder #182: Graveclaw pg. 9
+7,Common,Eloko,Fey,Small,"The Mwangi Expanse pg. 2952.0 , Pathfinder #146: Cult of Cinders pg. 83"
+7,Unique,Evora Yarket,Human; Humanoid; Orc; Unique,Medium,Pathfinder #152: Legacy of the Lost God pg. 52
+7,Common,Frost Drake,Cold; Dragon,Large,Bestiary pg. 134
+7,Uncommon,Giant Bone Skipper,Animal; Uncommon,Large,Pathfinder #158: Sixty Feet Under pg. 80
+7,Common,Hunter,Human; Humanoid,Medium,Gamemastery Guide pg. 219
+7,Rare,Ilverani Sentry,Elf; Humanoid; Rare,Medium,Pathfinder #189: Dreamers of the Nameless Spires pg. 30
+7,Rare,Kirin,Air; Beast; Fire; Rare,Large,Bestiary 3 pg. 148
+7,Uncommon,Nwanyian Archer,Human; Humanoid; Uncommon,Medium,Pathfinder #183: Field of Maidens pg. 36
+7,Unique,Reth,Humanoid; Lizardfolk; Unique,Medium,Pathfinder #170: Spoken on the Song Wind pg. 29
+7,Uncommon,Terwa Star Reader,Humanoid; Lizardfolk; Uncommon,Medium,Pathfinder #171: Hurricane's Howl pg. 82
+7,Common,Xorn,Earth; Elemental,Medium,Bestiary pg. 146
+7,Uncommon,Xulgath Bomber,Humanoid; Uncommon; Xulgath,Medium,Pathfinder #153: Life's Long Shadows pg. 28
+7,Common,Xulgath Mage,Humanoid; Xulgath,Medium,Pathfinder #152: Legacy of the Lost God pg. 27
+7,Uncommon,Young Linnorm,Dragon; Uncommon,Large,Monsters of Myth pg. 29
+7,Uncommon,Young Underworld Dragon,Dragon; Fire; Uncommon,Large,Bestiary 3 pg. 83
+7,Unique,Aecora Silverfire,Beast; Unique,Large,Kingmaker Adventure Path pg. 269
+7,Unique,Ashen Swale,Human; Humanoid; Unique,Medium,Pathfinder #176: Lost Mammoth Valley pg. 88
+7,Rare,Burning Mammoth Commando,Human; Humanoid; Rare,Medium,Pathfinder #177: Burning Tundra pg. 52
+7,Rare,Chimeric Manticore,Beast; Rare; Zombie,Large,Pathfinder #179: Cradle of Quartz pg. 31
+7,Uncommon,Corrupt Shieldmarshal,Humanoid; Uncommon,Medium,Pathfinder #180: The Smoking Gun pg. 7
+7,Rare,False Priestess,Human; Humanoid; Rare,Medium,Kingmaker Companion Guide pg. 91
+7,Common,Quatoid,Aquatic; Elemental; Water,Small,Bestiary pg. 153
+7,Uncommon,Remorhaz,Beast; Uncommon,Huge,Bestiary pg. 280
+7,Uncommon,Roru,Demon; Fiend; Uncommon,Medium,Pathfinder #176: Lost Mammoth Valley pg. 84
+7,Unique,Sabora Sharkosa,Elf; Half-Elf; Human; Humanoid; Unique,Medium,Pathfinder #179: Cradle of Quartz pg. 91
+7,Unique,Sahni Bride-Of-The-Sea,Amphibious; Hag; Humanoid; Unique,Medium,Pathfinder #182: Graveclaw pg. 90
+7,Uncommon,Scarlet Triad Thug,Dwarf; Humanoid; Uncommon,Medium,Pathfinder #147: Tomorrow Must Burn pg. 16
+7,Common,Spriggan Warlord,Gnome; Humanoid; Spriggan,Small,Bestiary 2 pg. 2532.0
+7,Common,Tendriculos,Fungus; Plant,Huge,Bestiary 2 pg. 2572.0
+7,Unique,Yniesse Zenderholm,Human; Humanoid; Unique,Medium,Shadows at Sundown pg. 35
+7,Common,Elasmosaurus,Animal,Huge,Bestiary 2 pg. 1052.0
+7,Unique,Idovik,Beast; Eidolon; Unique,Large,Pathfinder #176: Lost Mammoth Valley pg. 89
+7,Common,Megalania,Animal,Huge,Bestiary 2 pg. 1682.0
+7,Common,Salamander,Elemental; Fire,Medium,Bestiary pg. 148
+7,Common,Stegosaurus,Animal; Dinosaur,Huge,Bestiary pg. 98
+7,Common,Theletos,Aeon; Monitor,Medium,Bestiary 2 pg. 82.0
+7,Common,Young Black Dragon,Acid; Amphibious; Dragon,Large,Bestiary pg. 105
+7,Common,Young Brass Dragon,Dragon; Fire,Large,Bestiary pg. 117
+7,Common,Adhukait,Asura; Fiend,Medium,Bestiary 3 pg. 22
+7,Common,Arboreal Reaper,Plant,Large,Bestiary 3 pg. 20
+7,Common,Elephant,Animal,Huge,Bestiary pg. 154
+7,Unique,Great Grodair,Amphibious; Beast; Fey; Unique; Water,Large,Pathfinder #170: Spoken on the Song Wind pg. 59
+7,Common,Ogre Boss,Giant; Humanoid,Large,Bestiary pg. 253
+7,Unique,The Guest,Aberration; Humanoid; Unique,Medium,Pathfinder #189: Dreamers of the Nameless Spires pg. 23
+7,Uncommon,Alghollthu Master,Aberration; Aquatic; Uncommon,Huge,Bestiary pg. 14
+7,Uncommon,Drainberry Bush,Plant; Uncommon,Large,Bestiary 2 pg. 992.0
+7,Common,Gluttondark Babau,Demon; Fiend,Medium,Pathfinder #152: Legacy of the Lost God pg. 23
+7,Common,Boggard Hunter,Amphibious; Boggard; Humanoid,Medium,Pathfinder #171: Hurricane's Howl pg. 34
+7,Uncommon,Cu Sith,Fey; Uncommon,Large,Pathfinder #153: Life's Long Shadows pg. 79
+7,Rare,Elysian Sheep,Animal; Rare,Large,Pathfinder #156: The Apocalypse Prophet pg. 32
+7,Common,Empress Bore Worm,Animal,Huge,Bestiary 3 pg. 37
+7,Common,Gahlepod,Amphibious; Fey,Small,Pathfinder #154: Siege of the Dinosaurs pg. 78
+7,Common,Hill Giant,Earth; Giant; Humanoid,Large,Bestiary pg. 170
+7,Unique,Kundal,Beast; Human; Humanoid; Undine; Unique; Werecreature,Medium,Kingmaker Adventure Path pg. 190
+7,Uncommon,Hungering Growths,Aberration; Uncommon,Small,Pathfinder #183: Field of Maidens pg. 13
+7,Common,Lillend,Azata; Celestial,Large,Bestiary pg. 32
+7,Rare,Smog Giant,Giant; Humanoid; Rare,Large,Pathfinder #179: Cradle of Quartz pg. 83
+7,Rare,Tallow Guardian,Construct; Mindless; Rare,Medium,Crown of the Kobold King pg. 122
+7,Common,Winter Hag,Cold; Hag; Humanoid,Medium,Bestiary 3 pg. 129
+7,Common,Tiddalik,Amphibious; Beast,Huge,Bestiary 3 pg. 265
+7,Uncommon,Ahvothian,Fiend; Uncommon,Medium,The Slithering pg. 62
+7,Uncommon,Fuming Sludge,Mindless; Ooze; Uncommon,Medium,The Slithering pg. 63
+7,Common,Black Pudding,Mindless; Ooze,Huge,Bestiary pg. 255
+7,Common,Giant Jellyfish,Animal; Aquatic; Mindless,Large,Bestiary 2 pg. 1522.0
+7,Rare,Slithering Pit,Mindless; Ooze; Rare,Medium,Bestiary 3 pg. 247
+7,Rare,Fortune Eater,Incorporeal; Rare; Spirit; Undead,Large,Bestiary 3 pg. 101
+7,Rare,Sceaduinar,Aberration; Negative; Rare,Medium,Bestiary 2 pg. 2332.0
+7,Uncommon,Spellscar Fext,Uncommon; Undead,Medium,Impossible Lands pg. 337
+7,Unique,Turkek,Dhampir; Human; Humanoid; Unique,Medium,Pathfinder #176: Lost Mammoth Valley pg. 39
+7,Common,Skeletal Hulk,Mindless; Skeleton; Undead,Huge,Bestiary pg. 299
+7,Uncommon,Hunter Wight,Uncommon; Undead; Wight,Medium,Book of the Dead pg. 168
+7,Uncommon,Mulventok,Aberration; Uncommon,Medium,Pathfinder #164: Hands of the Devil pg. 79
+7,Rare,Virulak Necromancer,Rare; Undead,Medium,Pathfinder #182: Graveclaw pg. 87
+7,Rare,Crossroads Guardian,Fey; Rare,Medium,Bestiary 3 pg. 59
+7,Common,Naunet,Monitor; Protean,Large,Bestiary pg. 267
+7,Common,Urdefhan Lasher,Humanoid; Urdefhan,Medium,Pathfinder #165: Eyes of Empty Death pg. 84
+7,Common,Totenmaske,Undead,Medium,Bestiary 2 pg. 2622.0
+7,Unique,The Disciples,Undead; Unique,Medium,Crown of the Kobold King pg. 89
+7,Unique,Ulgrem-Axaan,Amphibious; Beast; Undead; Unique,Large,Monsters of Myth pg. 118
+7,Rare,Tanglebones,Rare; Undead,Large,Malevolence pg. 71
+7,Common,Cyclops Zombie,Mindless; Undead; Zombie,Large,Kingmaker Adventure Path pg. 275
+7,Uncommon,Excorion,Uncommon; Undead,Medium,"Book of the Dead pg. 91, Pathfinder #158: Sixty Feet Under pg. 82"
+7,Uncommon,Tar Zombie Predator,Mindless; Uncommon; Undead; Zombie,Large,Pathfinder #177: Burning Tundra pg. 84
+7,Rare,Ofalth Zombie,Aberration; Mindless; Rare; Undead; Zombie,Large,Pathfinder #158: Sixty Feet Under pg. 47
+7,Unique,Zombie Chuul,Amphibious; Mindless; Undead; Unique; Zombie,Large,Pathfinder #182: Graveclaw pg. 33
+7,Uncommon,Deathless Hierophant of Urgathoa,Uncommon; Undead,Medium,Book of the Dead pg. 88
+7,Uncommon,Dullahan,Uncommon; Undead,Medium,Bestiary pg. 140
+7,Common,Specter,Incorporeal; Undead,Medium,Bestiary 2 pg. 2482.0
+8,Rare,Voidglutton,Aberration; Air; Rare,Medium,Pathfinder #163: Ruins of Gauntlight pg. 87
+8,Common,Hellwasp Swarm,Fiend; Swarm,Large,Bestiary 3 pg. 133
+8,Unique,Pug Tingwheely,Fey; Sprite; Unique,Small,Pathfinder #153: Life's Long Shadows pg. 20
+8,Common,Azi,Human; Humanoid,Medium,Pathfinder #176: Lost Mammoth Valley pg. 54
+8,Uncommon,Crownbound Constellation,Astral; Uncommon,Huge,Pathfinder #189: Dreamers of the Nameless Spires pg. 82
+8,Unique,Clockwork Gunner,Clockwork; Construct; Mindless; Unique,Medium,Pathfinder #179: Cradle of Quartz pg. 61
+8,Uncommon,Graylok Artillerist,Cold; Giant; Humanoid; Uncommon,Large,Pathfinder #177: Burning Tundra pg. 19
+8,Unique,Horagnamon,Animal; Minion; Unique,Tiny,Kingmaker Adventure Path pg. 254
+8,Unique,Jubilost Narthropple (Level 8),Fey; Gnome; Humanoid; Unique,Small,Kingmaker Companion Guide pg. 33
+8,Unique,Yshula,Div; Fiend; Unique,Medium,Pathfinder #183: Field of Maidens pg. 11
+8,Uncommon,Animate Dream,Dream; Incorporeal; Uncommon,Medium,Bestiary 2 pg. 182.0
+8,Uncommon,Bone Prophet,Humanoid; Serpentfolk; Uncommon,Medium,Bestiary 2 pg. 2392.0
+8,Uncommon,Shantak,Beast; Uncommon,Huge,Bestiary 3 pg. 231
+8,Uncommon,Hadrinnex,Aberration; Uncommon,Large,Bestiary 3 pg. 127
+8,Uncommon,Animated Tea Cart,Construct; Mindless; Uncommon,Medium,Pathfinder #183: Field of Maidens pg. 51
+8,Unique,Annamede Belavarah,Human; Humanoid; Unique,Medium,Kingmaker Adventure Path pg. 225
+8,Common,Bulette,Animal,Huge,Bestiary pg. 48
+8,Uncommon,Drow Shootist,Drow; Elf; Humanoid; Uncommon,Medium,Pathfinder #165: Eyes of Empty Death pg. 83
+8,Common,Erinys,Devil; Fiend,Medium,Bestiary pg. 89
+8,Uncommon,Harrow Doll,Construct; Uncommon,Large,Pathfinder #154: Siege of the Dinosaurs pg. 81
+8,Uncommon,Hive Mother,Animal; Uncommon,Huge,Bestiary pg. 22
+8,Uncommon,Phantom Beast,Ethereal; Incorporeal; Phantom; Spirit; Uncommon,Medium,Bestiary 3 pg. 203
+8,Common,Sarglagon,Amphibious; Devil; Fiend,Large,Bestiary 2 pg. 722.0
+8,Rare,Shadowbound Monk Statue,Construct; Earth; Mindless; Rare; Shadow,Large,Pathfinder #183: Field of Maidens pg. 56
+8,Unique,Darricus Stallit,Human; Humanoid; Unique,Medium,Pathfinder #152: Legacy of the Lost God pg. 57
+8,Unique,Hezle,Humanoid; Kobold; Unique,Small,Pathfinder #146: Cult of Cinders pg. 50
+8,Rare,Krampus Celebrant,Humanoid; Rare,Medium,Monsters of Myth pg. 58
+8,Common,Onidoshi,Fiend; Giant; Humanoid; Oni,Large,Bestiary 2 pg. 1882.0
+8,Uncommon,Skin Beetle Swarm,Animal; Swarm; Uncommon,Large,Pathfinder #188: They Watched the Stars pg. 89
+8,Common,Assassin,Human; Humanoid,Medium,Gamemastery Guide pg. 211
+8,Rare,Clockwork Sphinx,Clockwork; Construct; Mindless; Rare,Large,Pathfinder #179: Cradle of Quartz pg. 81
+8,Uncommon,Golgopo,Construct; Uncommon,Small,Pathfinder #171: Hurricane's Howl pg. 80
+8,Uncommon,Graylok Ambusher,Cold; Giant; Humanoid; Uncommon,Large,Pathfinder #177: Burning Tundra pg. 21
+8,Uncommon,Graylok Gatebreaker,Cold; Giant; Humanoid; Uncommon,Large,Pathfinder #177: Burning Tundra pg. 20
+8,Uncommon,Intellect Devourer,Aberration; Uncommon,Small,Bestiary 2 pg. 1472.0
+8,Rare,Skinsaw Seamer,Human; Humanoid; Rare,Medium,Pathfinder #158: Sixty Feet Under pg. 51
+8,Common,Abendego Brute,Human; Humanoid,Medium,Pathfinder #171: Hurricane's Howl pg. 37
+8,Uncommon,Bida,Dragon; Uncommon,Huge,Pathfinder #146: Cult of Cinders pg. 81
+8,Unique,Bloom Wyvern,Dragon; Unique,Large,Kingmaker Adventure Path pg. 224
+8,Rare,Boggard Cultist,Amphibious; Boggard; Humanoid; Rare,Medium,Kingmaker Adventure Path pg. 95
+8,Common,Celestial Menagerie Bruiser,Human; Humanoid,Medium,Pathfinder #152: Legacy of the Lost God pg. 47
+8,Uncommon,Chimera,Beast; Uncommon,Large,Bestiary pg. 63
+8,Common,Desert Drake,Dragon; Earth,Large,Bestiary pg. 135
+8,Unique,Desiak,Aberration; Human; Unique,Medium,Pathfinder #176: Lost Mammoth Valley pg. 53
+8,Common,Destrachan,Aberration,Large,Bestiary 2 pg. 712.0
+8,Uncommon,Drelev Guard,Human; Humanoid; Uncommon,Medium,Kingmaker Adventure Path pg. 304
+8,Unique,Froglegs,Grippli; Humanoid; Unique,Small,Pathfinder #170: Spoken on the Song Wind pg. 91
+8,Unique,Gerhard Pendergrast,Human; Humanoid; Unique,Medium,Pathfinder #146: Cult of Cinders pg. 37
+8,Common,Giant Octopus,Animal; Aquatic,Huge,Bestiary pg. 250
+8,Uncommon,Glass Golem,Construct; Golem; Mindless; Uncommon,Large,Bestiary 2 pg. 1312.0
+8,Uncommon,Gorgon,Beast; Uncommon,Large,Bestiary 2 pg. 1322.0
+8,Common,Guildmaster,Human; Humanoid,Medium,Gamemastery Guide pg. 245
+8,Common,Hellknight Cavalry Brigade,Animal; Human; Humanoid; Troop,Gargantuan,Bestiary 3 pg. 44
+8,Unique,Jahsi,Elf; Humanoid; Unique,Medium,Pathfinder #146: Cult of Cinders pg. 11
+8,Unique,Kelda Halrig,Dwarf; Humanoid; Unique,Medium,Pathfinder #148: Fires of the Haunted City pg. 87
+8,Common,Lamia Matriarch,Beast,Large,Bestiary pg. 217
+8,Uncommon,Mix Couatl,Beast; Couatl; Uncommon,Large,Bestiary 3 pg. 56
+8,Unique,Palzu,Gnoll; Humanoid; Unique,Medium,Pathfinder #179: Cradle of Quartz pg. 35
+8,Unique,Racharak,Charau-ka; Dragon; Fire; Humanoid; Unique,Small,Pathfinder #146: Cult of Cinders pg. 34
+8,Uncommon,Rust Hag,Hag; Humanoid; Uncommon,Medium,Pathfinder #182: Graveclaw pg. 84
+8,Uncommon,Scarlet Triad Poisoner,Human; Humanoid; Uncommon,Medium,Pathfinder #147: Tomorrow Must Burn pg. 41
+8,Common,Sphinx,Beast,Large,Bestiary pg. 305
+8,Uncommon,Svartalfar Killer,Fey; Uncommon,Medium,Pathfinder #159: All or Nothing pg. 85
+8,Unique,The Dancing Lady,Fey; Unique,Medium,Kingmaker Adventure Path pg. 153
+8,Unique,Virthad,Humanoid; Unique,Medium,Kingmaker Adventure Path pg. 237
+8,Common,Xulgath Herd-Tender,Humanoid; Xulgath,Medium,Pathfinder #154: Siege of the Dinosaurs pg. 10
+8,Uncommon,Xulgath Stoneliege,Humanoid; Uncommon; Xulgath,Medium,Pathfinder #153: Life's Long Shadows pg. 84
+8,Common,Young Green Dragon,Amphibious; Dragon,Large,Bestiary pg. 109
+8,Common,Tylosaurus,Animal,Gargantuan,Bestiary 3 pg. 178
+8,Common,Kishi,Fey,Medium,"Bestiary 3 pg. 149, Pathfinder #146: Cult of Cinders pg. 88"
+8,Unique,Windchaser,Beast; Unique,Large,Kingmaker Adventure Path pg. 105
+8,Uncommon,Aigamuxa,Giant; Humanoid; Uncommon,Large,The Mwangi Expanse pg. 2922.0
+8,Unique,Ambrost Mugland,Halfling; Humanoid; Unique,Small,Pathfinder #179: Cradle of Quartz pg. 88
+8,Common,Behir,Beast; Electricity,Huge,Bestiary 2 pg. 382.0
+8,Uncommon,Brain Collector,Aberration; Uncommon,Large,Bestiary pg. 46
+8,Unique,Enormous Flame Drake,Dragon; Fire; Unique,Large,Kingmaker Adventure Path pg. 85
+8,Unique,Fire-Pot Ubanu,Human; Humanoid; Unique,Medium,Pathfinder #170: Spoken on the Song Wind pg. 91
+8,Uncommon,Flesh Golem,Construct; Golem; Mindless; Uncommon,Large,Bestiary pg. 185
+8,Uncommon,Gibtanius,Aberration; Uncommon,Large,Pathfinder #164: Hands of the Devil pg. 81
+8,Common,K'nonna,Aberration,Medium,The Mwangi Expanse pg. 2992.0
+8,Unique,King Merlokrep,Humanoid; Kobold; Unique,Small,Crown of the Kobold King pg. 109
+8,Unique,Mother Mitera,Human; Unique,Medium,Dark Archive pg. 152
+8,Unique,Old Thrasher,Animal; Unique,Large,Pathfinder #170: Spoken on the Song Wind pg. 48
+8,Unique,Onyiji,Human; Humanoid; Orc; Unique,Medium,Pathfinder #171: Hurricane's Howl pg. 9
+8,Uncommon,Terwa Chosen,Humanoid; Lizardfolk; Uncommon,Medium,Pathfinder #171: Hurricane's Howl pg. 83
+8,Common,Triceratops,Animal; Dinosaur,Huge,Bestiary pg. 99
+8,Uncommon,Young Sea Dragon,Amphibious; Dragon; Uncommon; Water,Large,Bestiary 3 pg. 77
+8,Uncommon,Young Brine Dragon,Amphibious; Dragon; Elemental; Uncommon; Water,Large,Bestiary 2 pg. 872.0
+8,Common,Balisse,Angel; Celestial,Medium,Bestiary pg. 18
+8,Common,Fleshforged Conformer,Aberration,Medium,Impossible Lands pg. 327
+8,Common,Granite Glyptodont,Earth; Elemental,Large,Bestiary 2 pg. 1092.0
+8,Common,Arboreal Regent,Plant,Huge,Bestiary pg. 25
+8,Uncommon,Avarek,Amphibious; Fey; Uncommon,Small,Pathfinder #159: All or Nothing pg. 80
+8,Unique,Fayati Alummur,Human; Humanoid; Unique,Medium,Pathfinder #158: Sixty Feet Under pg. 26
+8,Common,Krooth,Amphibious; Animal,Large,Bestiary pg. 215
+8,Common,Marsh Giant,Amphibious; Giant; Humanoid,Large,Bestiary 2 pg. 1252.0
+8,Common,Megaprimatus,Animal,Gargantuan,Bestiary pg. 23
+8,Common,Stone Giant,Earth; Giant; Humanoid,Large,Bestiary pg. 170
+8,Common,Young Copper Dragon,Dragon; Earth,Large,Bestiary pg. 121
+8,Common,Axiomite,Aeon; Monitor,Medium,Bestiary pg. 9
+8,Common,Magma Scorpion,Elemental; Fire,Large,Bestiary 2 pg. 1112.0
+8,Common,Palace Skelm,Humanoid; Skelm,Medium,Bestiary 3 pg. 240
+8,Rare,Dreadsong Dancer,Fiend; Rare,Medium,Pathfinder #158: Sixty Feet Under pg. 81
+8,Common,Girtablilu Sentry,Beast,Large,Bestiary 3 pg. 112
+8,Common,Muckish Creep,Aberration,Medium,Pathfinder #166: Despair on Danger Island pg. 88
+8,Uncommon,Tiger Lord,Human; Humanoid; Uncommon,Medium,Kingmaker Adventure Path pg. 320
+8,Common,Nabasu,Demon; Fiend,Medium,Bestiary 2 pg. 662.0
+8,Unique,Sandpoint Devil,Beast; Fiend; Unique,Large,Bestiary 2 pg. 2302.0
+8,Common,Slug,Animal,Huge,Bestiary 2 pg. 2442.0
+8,Common,Anancus,Animal,Huge,Bestiary 2 pg. 1162.0
+8,Common,Blood Hag,Hag; Humanoid,Medium,Bestiary 3 pg. 130
+8,Uncommon,Dragon's Blood Puffball,Fungus; Mindless; Uncommon,Large,Pathfinder #165: Eyes of Empty Death pg. 79
+8,Uncommon,Giant Hippocampus,Animal; Aquatic; Uncommon,Huge,Bestiary 2 pg. 1422.0
+8,Common,Procyal,Agathion; Celestial,Medium,Bestiary 3 pg. 11
+8,Uncommon,Yaiafineti,Mindless; Plant; Uncommon,Large,Pathfinder #189: Dreamers of the Nameless Spires pg. 87
+8,Common,Giant Anaconda,Animal,Huge,Bestiary pg. 303
+8,Common,Angazhani,Beast,Large,Bestiary 3 pg. 17
+8,Common,Manananggal,Aberration; Tanggal,Medium,Pathfinder #166: Despair on Danger Island pg. 87
+8,Unique,Hargulka,Giant; Troll; Unique,Large,Kingmaker Adventure Path pg. 598
+8,Uncommon,Two-Headed Troll,Giant; Troll; Uncommon,Large,Bestiary 2 pg. 2662.0
+8,Common,Vetalarana Emergent,Undead; Vampire,Medium,Book of the Dead pg. 162
+8,Common,Ghost Pirate Captain,Ghost; Incorporeal; Spirit; Undead,Medium,Book of the Dead pg. 101
+8,Uncommon,Polong,Incorporeal; Spirit; Uncommon; Undead,Medium,Book of the Dead pg. 138
+8,Uncommon,Waldgeist,Incorporeal; Spirit; Uncommon; Undead,Small,Book of the Dead pg. 164
+8,Uncommon,Denizen of Leng,Aberration; Dream; Uncommon,Medium,Bestiary 2 pg. 702.0
+8,Uncommon,Ghostly Mob,Ghost; Incorporeal; Troop; Uncommon; Undead,Gargantuan,Pathfinder #182: Graveclaw pg. 83
+8,Rare,Blackfrost Guecubu,Cold; Earth; Rare; Undead,Medium,Pathfinder #189: Dreamers of the Nameless Spires pg. 31
+8,Uncommon,Guecubu,Earth; Uncommon; Undead,Medium,Bestiary 3 pg. 126
+8,Uncommon,Skeletal Knight,Mindless; Skeleton; Uncommon; Undead,Medium,Pathfinder #183: Field of Maidens pg. 58
+8,Unique,Drazmorg the Damned,Undead; Unique; Wight,Medium,Crown of the Kobold King pg. 92
+8,Uncommon,Moonflower,Plant; Uncommon,Huge,Bestiary 2 pg. 1732.0
+8,Common,Mohrg,Undead,Medium,Bestiary 2 pg. 1722.0
+8,Uncommon,Cadaverous Rake,Uncommon; Undead,Medium,Book of the Dead pg. 78
+8,Common,Drake Skeleton,Mindless; Skeleton; Undead,Large,Book of the Dead pg. 148
+8,Uncommon,Fallen Champion,Uncommon; Undead,Medium,Book of the Dead pg. 113
+8,Uncommon,Ice Mummy,Cold; Mummy; Uncommon; Undead,Medium,Book of the Dead pg. 131
+8,Uncommon,Nosferatu Thrall,Human; Humanoid; Uncommon,Medium,Bestiary 3 pg. 284
+8,Rare,Everburning Mammoths,Rare; Undead,Medium,Pathfinder #177: Burning Tundra pg. 56
+8,Unique,Kieragan Skross,Undead; Unique,Medium,Crown of the Kobold King pg. 105
+8,Common,Urdefhan Blood Mage,Humanoid; Urdefhan,Medium,Pathfinder #165: Eyes of Empty Death pg. 85
+8,Common,Raw Nerve,Undead,Medium,Book of the Dead pg. 139
+8,Uncommon,Bodak,Uncommon; Undead,Medium,Bestiary 2 pg. 422.0
+8,Rare,Child of Urgathoa,Rare; Undead,Large,Book of the Dead pg. 79
+8,Rare,Lifeleecher Brawler,Humanoid; Mortic; Orc; Rare,Medium,Bestiary 3 pg. 176
+8,Common,Zombie Mammoths,Mindless; Undead; Zombie,Huge,Pathfinder #176: Lost Mammoth Valley pg. 56
+8,Unique,Ulthadar,Incorporeal; Spirit; Undead; Unique,Medium,Pathfinder #152: Legacy of the Lost God pg. 90
+8,Rare,Skeletal Tiger Lord,Rare; Skeleton; Undead,Medium,Kingmaker Adventure Path pg. 327
+9,Rare,Yithian,Aberration; Rare,Large,Bestiary 3 pg. 299
+9,Uncommon,Clockwork Mage,Clockwork; Construct; Mindless; Uncommon,Medium,Bestiary 3 pg. 50
+9,Uncommon,Seugathi Reality Warper,Aberration; Seugathi; Uncommon,Large,Pathfinder #164: Hands of the Devil pg. 83
+9,Common,Storm Lord,Air; Elemental,Large,Bestiary pg. 145
+9,Unique,The Beast,Animal; Unique,Huge,Kingmaker Adventure Path pg. 212
+9,Uncommon,Hantu Denai,Beast; Hantu; Incorporeal; Spirit; Uncommon,Large,Pathfinder #166: Despair on Danger Island pg. 84
+9,Unique,Ji-yook (Level 9),Humanoid; Kitsune; Unique,Medium,Pathfinder #166: Despair on Danger Island pg. 11
+9,Uncommon,Shoki,Monitor; Psychopomp; Uncommon,Medium,Pathfinder #186: Ghost King's Rage pg. 82
+9,Common,Tick Swarm,Animal; Swarm,Large,Bestiary 2 pg. 2602.0
+9,Unique,Yabin the Just (Level 9),Humanoid; Nagaji; Unique,Medium,Pathfinder #166: Despair on Danger Island pg. 11
+9,Unique,Valerie (Level 9),Human; Humanoid; Unique,Medium,Kingmaker Companion Guide pg. 83
+9,Common,Animated Furnace,Construct; Mindless,Huge,Bestiary 3 pg. 18
+9,Common,Garuda,Celestial,Medium,Bestiary 3 pg. 104
+9,Common,Osyluth,Devil; Fiend,Large,"Bestiary 2 pg. 732.0 , Pathfinder #147: Tomorrow Must Burn pg. 78"
+9,Unique,Pr'rall,Catfolk; Humanoid; Unique,Medium,No-Prep Character: Pr’rall pg. 0
+9,Uncommon,Clockwork Buccaneer,Clockwork; Construct; Mindless; Uncommon,Medium,Pathfinder #180: The Smoking Gun pg. 80
+9,Common,Dragon Turtle,Amphibious; Dragon,Huge,Bestiary pg. 128
+9,Unique,Etward Ritalson,Human; Humanoid; Unique,Medium,Pathfinder #189: Dreamers of the Nameless Spires pg. 91
+9,Common,Pakalchi,Fiend; Sahkil,Medium,Bestiary 3 pg. 220
+9,Unique,Urok,Aphorite; Humanoid; Kobold; Unique,Small,No-Prep Character: Urok pg. 0
+9,Unique,Belmazog,Acid; Amphibious; Boggard; Dragon; Humanoid; Unique,Medium,Pathfinder #146: Cult of Cinders pg. 77
+9,Uncommon,Marid,Elemental; Genie; Uncommon; Water,Large,Bestiary pg. 165
+9,Uncommon,Alchemical Golem,Alchemical; Construct; Golem; Mindless; Uncommon,Large,Bestiary pg. 185
+9,Common,Frost Giant,Cold; Giant; Humanoid,Large,Bestiary pg. 171
+9,Unique,Keznin Nevarmo,Humanoid; Tengu; Unique,Medium,Night of the Gray Death pg. 8
+9,Rare,Murder Of Crows,Animal; Rare; Swarm,Large,Kingmaker Adventure Path pg. 257
+9,Rare,Mutant Desert Drake,Dragon; Earth; Mutant; Rare,Large,Pathfinder #179: Cradle of Quartz pg. 85
+9,Common,Nessian Warhound,Beast; Fiend; Fire,Large,Bestiary pg. 205
+9,Unique,Pavetta Stroon-Drelev,Human; Humanoid; Unique,Medium,Kingmaker Adventure Path pg. 313
+9,Unique,Salathiss,Humanoid; Mutant; Serpentfolk; Unique,Medium,Pathfinder #170: Spoken on the Song Wind pg. 93
+9,Unique,Thiarvo The Quick,Halfling; Humanoid; Unique,Small,Pathfinder #171: Hurricane's Howl pg. 90
+9,Unique,Tino (Level 9),Human; Humanoid; Unique,Medium,Pathfinder #166: Despair on Danger Island pg. 10
+9,Common,Irnakurse,Aberration,Large,Bestiary 2 pg. 1182.0
+9,Unique,Agai,Gnome; Humanoid; Spriggan; Unique,Small,Kingmaker Adventure Path pg. 264
+9,Common,Blood Painter,Aberration,Large,Bestiary 3 pg. 33
+9,Unique,Chea,Beast; Beastkin; Humanoid; Unique,Medium,No-Prep Character: Chea pg. 0
+9,Uncommon,Cyclops Bully,Giant; Humanoid; Uncommon,Large,Pathfinder #171: Hurricane's Howl pg. 48
+9,Uncommon,Deepwater Dhuthorex,Aberration; Aquatic; Uncommon,Large,Pathfinder #165: Eyes of Empty Death pg. 80
+9,Uncommon,Dracolisk,Beast; Dragon; Uncommon,Large,Bestiary 2 pg. 352.0
+9,Common,Giant Squid,Animal; Aquatic,Huge,Bestiary 2 pg. 2542.0
+9,Uncommon,Grave Hag,Hag; Humanoid; Uncommon,Medium,Pathfinder #182: Graveclaw pg. 85
+9,Unique,Heuberk Thropp,Human; Humanoid; Unique,Medium,Pathfinder #147: Tomorrow Must Burn pg. 7
+9,Common,Jyoti,Fire; Humanoid; Positive,Medium,Bestiary 2 pg. 1532.0
+9,Common,Leukodaemon,Daemon; Fiend,Large,Bestiary pg. 72
+9,Rare,Loreavor,Astral; Rare,Small,Shadows at Sundown pg. 56
+9,Uncommon,Mamlambo,Aquatic; Beast; Uncommon,Huge,The Mwangi Expanse pg. 3032.0
+9,Uncommon,Roiling Incant,Arcane; Evocation; Mindless; Uncommon,Large,Bestiary 3 pg. 215
+9,Unique,Tanesse Fleer,Human; Humanoid; Unique,Medium,Pathfinder #153: Life's Long Shadows pg. 16
+9,Common,Tidal Master,Aquatic; Elemental; Water,Large,Bestiary pg. 153
+9,Common,Titan Centipede,Animal,Gargantuan,Bestiary 2 pg. 502.0
+9,Uncommon,Young Sky Dragon,Dragon; Electricity; Uncommon,Large,Bestiary 3 pg. 79
+9,Common,Galvo,Aberration; Amphibious,Medium,Bestiary 3 pg. 103
+9,Rare,Boggard Warden,Amphibious; Boggard; Humanoid; Rare,Medium,Kingmaker Adventure Path pg. 155
+9,Rare,Gliminal,Incorporeal; Positive; Rare; Spirit,Large,Bestiary 3 pg. 114
+9,Common,Khravgodon,Animal,Huge,Bestiary 3 pg. 192
+9,Unique,Nilak,Human; Humanoid; Unique,Medium,Kingmaker Companion Guide pg. 14
+9,Unique,Sir Fredero Sinnet,Human; Humanoid; Unique,Medium,Kingmaker Companion Guide pg. 88
+9,Uncommon,Spirit Naga,Aberration; Uncommon,Large,Bestiary 2 pg. 1792.0
+9,Common,Zelekhut,Aeon; Inevitable; Monitor,Large,Bestiary 2 pg. 92.0
+9,Unique,Viewslog,Giant; Humanoid; Unique,Large,Pathfinder #180: The Smoking Gun pg. 21
+9,Common,Enormous Dragonfly,Animal,Large,Kingmaker Adventure Path pg. 99
+9,Common,Aurumvorax,Animal,Small,Bestiary 2 pg. 292.0
+9,Uncommon,Gbahali,Beast; Uncommon,Huge,Pathfinder #170: Spoken on the Song Wind pg. 81
+9,Common,Giant Snapping Turtle,Animal,Gargantuan,Bestiary 2 pg. 2692.0
+9,Common,Night Hag,Fiend; Hag; Humanoid,Medium,Bestiary pg. 202
+9,Unique,Venexus,Cold; Dragon; Unique,Large,Pathfinder #176: Lost Mammoth Valley pg. 91
+9,Common,Young Blue Dragon,Dragon; Electricity,Large,Bestiary pg. 107
+9,Common,Young Bronze Dragon,Amphibious; Dragon; Water,Large,Bestiary pg. 119
+9,Uncommon,Mokele-Mbembe,Animal; Uncommon,Huge,"Bestiary 3 pg. 171, Pathfinder #146: Cult of Cinders pg. 90"
+9,Common,Deinosuchus,Animal,Huge,Bestiary pg. 67
+9,Uncommon,Efreeti,Elemental; Fire; Genie; Uncommon,Large,Bestiary pg. 164
+9,Common,Hesperid,Fey; Light; Nymph,Medium,Bestiary 3 pg. 188
+9,Common,Mastodon,Animal,Huge,Bestiary 2 pg. 1162.0
+9,Uncommon,Teraphant,Beast; Uncommon,Huge,Pathfinder #158: Sixty Feet Under pg. 86
+9,Uncommon,Young Magma Dragon,Dragon; Elemental; Fire; Uncommon,Large,"Bestiary 2 pg. 942.0 , Pathfinder #148: Fires of the Haunted City pg. 80"
+9,Uncommon,Bregdi,Animal; Aquatic; Uncommon,Large,Pathfinder #159: All or Nothing pg. 81
+9,Unique,Kallas Devil,Amphibious; Hag; Humanoid; Unique,Medium,Monsters of Myth pg. 46
+9,Uncommon,Megalodon,Animal; Aquatic; Uncommon,Gargantuan,Bestiary pg. 291
+9,Common,Roc,Animal,Gargantuan,Bestiary pg. 281
+9,Common,Stone Mauler,Earth; Elemental,Large,Bestiary pg. 147
+9,Common,Desert Giant,Giant; Humanoid,Large,Bestiary 3 pg. 109
+9,Unique,Grouloop,Amphibious; Boggard; Humanoid; Unique,Medium,Pathfinder #171: Hurricane's Howl pg. 33
+9,Common,Vrock,Demon; Fiend,Large,Bestiary pg. 78
+9,Unique,Freshly Bloomed Basilisk,Beast; Unique,Medium,Kingmaker Adventure Path pg. 229
+9,Common,Drakauthix,Fungus,Huge,Bestiary pg. 129
+9,Common,Nuckelavee,Amphibious; Fey,Large,Bestiary 2 pg. 1862.0
+9,Common,Mutant Gnoll Hulk,Gnoll; Humanoid; Mutant,Large,Impossible Lands pg. 333
+9,Uncommon,Reaper Skull Puffball,Fungus; Mindless; Uncommon,Large,Pathfinder #165: Eyes of Empty Death pg. 79
+9,Uncommon,Tikbalang,Amphibious; Beast; Uncommon,Large,Bestiary 3 pg. 267
+9,Uncommon,Kithangian,Demon; Fiend; Uncommon,Large,Pathfinder #188: They Watched the Stars pg. 85
+9,Unique,Takatorra (Level 9),Humanoid; Tengu; Unique,Medium,Pathfinder #166: Despair on Danger Island pg. 11
+9,Uncommon,Clockwork Shambler Horde,Construct; Mindless; Troop; Uncommon; Zombie,Gargantuan,Pathfinder #180: The Smoking Gun pg. 31
+9,Uncommon,Smog Wraith,Incorporeal; Uncommon; Undead; Wraith,Medium,Pathfinder #180: The Smoking Gun pg. 84
+9,Common,Ghost Monk,Ghost; Incorporeal; Spirit; Undead,Medium,Pathfinder #166: Despair on Danger Island pg. 15
+9,Rare,Bright Walker,Incorporeal; Rare; Spirit; Undead,Medium,Pathfinder #165: Eyes of Empty Death pg. 78
+9,Uncommon,Vampire Mastermind,Uncommon; Undead; Vampire,Medium,Bestiary pg. 321
+9,Unique,Jin Durwhimmer,Ghost; Incorporeal; Spirit; Undead; Unique,Small,Kingmaker Adventure Path pg. 245
+9,Common,Geist,Incorporeal; Undead,Medium,Book of the Dead pg. 96
+9,Unique,Frefferth,Undead; Unique,Medium,Pathfinder #158: Sixty Feet Under pg. 35
+9,Uncommon,Grappling Spirit,Incorporeal; Spirit; Uncommon; Undead,Medium,Book of the Dead pg. 107
+9,Uncommon,Witchfire,Incorporeal; Spirit; Uncommon; Undead,Medium,Bestiary 2 pg. 2932.0
+9,Common,Dread Wraith,Incorporeal; Undead; Wraith,Large,Bestiary 2 pg. 2982.0
+9,Rare,Bog Mummy Cultist,Mummy; Rare; Undead,Medium,Kingmaker Adventure Path pg. 102
+9,Unique,Ghastly Bear,Ghoul; Undead; Unique,Large,Pathfinder #147: Tomorrow Must Burn pg. 50
+9,Unique,Cephal Lorentus,Undead; Unique,Medium,Kingmaker Adventure Path pg. 280
+9,Uncommon,Shanrigol Behemoth,Aberration; Uncommon; Undead,Gargantuan,Pathfinder #164: Hands of the Devil pg. 85
+9,Common,Tyrannosaurus Skeleton,Mindless; Skeleton; Undead,Gargantuan,Bestiary 3 pg. 237
+9,Uncommon,Barnacle Ghoul,Ghoul; Uncommon; Undead,Medium,Pathfinder #159: All or Nothing pg. 83
+9,Uncommon,Ghast Outlaw,Ghoul; Uncommon; Undead,Medium,Pathfinder #183: Field of Maidens pg. 45
+9,Uncommon,Ghoul Antipaladin,Ghoul; Uncommon; Undead,Medium,Pathfinder #184: The Ghouls Hunger pg. 84
+9,Uncommon,Prowler Wight,Uncommon; Undead; Wight,Medium,Book of the Dead pg. 168
+9,Unique,Terrion Numesti,Human; Humanoid; Unique,Medium,Kingmaker Adventure Path pg. 316
+9,Unique,Bog Mummy Amalgamation,Mummy; Undead; Unique,Large,Pathfinder #171: Hurricane's Howl pg. 20
+9,Rare,Mummy Pharaoh,Mummy; Rare; Undead,Medium,Bestiary pg. 241
+9,Common,Firewyrm,Elemental; Fire,Huge,Bestiary pg. 149
+9,Rare,Daqqanoenyent,Rare; Undead,Large,Book of the Dead pg. 75
+9,Rare,Arboreal Tar Tree,Plant; Rare; Undead,Large,Pathfinder #177: Burning Tundra pg. 31
+9,Rare,Blackfrost Prophet,Cold; Rare; Undead,Large,Pathfinder #189: Dreamers of the Nameless Spires pg. 81
+9,Unique,Sulvik,Undead; Unique,Large,Pathfinder #182: Graveclaw pg. 56
+9,Common,Baykok,Undead,Medium,Bestiary 3 pg. 29
+9,Common,Zombie Dragon,Dragon; Mindless; Undead; Zombie,Huge,Bestiary 3 pg. 303
+9,Uncommon,Tar Zombie Mammoth,Mindless; Uncommon; Undead; Zombie,Huge,Pathfinder #177: Burning Tundra pg. 85
+9,Uncommon,Dread Wisp,Aberration; Uncommon,Small,Pathfinder #165: Eyes of Empty Death pg. 81
+10,Common,Shield Archon,Archon; Celestial,Large,Bestiary pg. 29
+10,Unique,Lasheeli Aminda,Aasimar; Human; Humanoid; Unique,Medium,Pathfinder #183: Field of Maidens pg. 90
+10,Unique,Tristian (Level 10),Aasimar; Human; Humanoid; Unique,Medium,Kingmaker Companion Guide pg. 69
+10,Rare,Ancient Wisp,Aberration; Air; Rare,Small,Kingmaker Adventure Path pg. 364
+10,Common,Dezullon,Plant,Medium,Bestiary pg. 94
+10,Rare,Chyzaedu,Aberration; Rare,Gargantuan,Bestiary 3 pg. 46
+10,Uncommon,Divine Warden Of Brigh,Clockwork; Construct; Divine; Mindless; Uncommon,Medium,Pathfinder Bestiary 3 Bonus Monster pg. 0
+10,Rare,Remnant of Barzillai,Incorporeal; Rare; Undead,Medium,Pathfinder #147: Tomorrow Must Burn pg. 80
+10,Unique,Calcifda,Earth; Fey; Unique,Medium,Pathfinder #177: Burning Tundra pg. 40
+10,Uncommon,Aluum Enforcer,Construct; Mindless; Uncommon,Large,Pathfinder #149: Against the Scarlet Triad pg. 82
+10,Unique,Ibrium,Human; Humanoid; Unique,Medium,Pathfinder #180: The Smoking Gun pg. 88
+10,Uncommon,Weykoward,Construct; Mindless; Uncommon,Medium,Pathfinder #177: Burning Tundra pg. 83
+10,Unique,Claws Of Time,Aberration; Time; Unique,Medium,Pathfinder #179: Cradle of Quartz pg. 41
+10,Uncommon,Dromornis,Animal; Uncommon,Large,Pathfinder #166: Despair on Danger Island pg. 83
+10,Unique,Jesseri The Hailstorm,Human; Humanoid; Unique,Medium,Pathfinder #177: Burning Tundra pg. 52
+10,Common,Nilith,Aberration,Medium,Bestiary pg. 245
+10,Common,Phistophilus,Devil; Fiend,Medium,Bestiary pg. 90
+10,Common,Raja Rakshasa,Fiend; Rakshasa,Medium,Bestiary pg. 275
+10,Unique,Rusty Mae,Hag; Humanoid; Unique,Large,Pathfinder #147: Tomorrow Must Burn pg. 14
+10,Common,Feathered Bear,Beast; Incorporeal; Spirit,Large,Bestiary 3 pg. 253
+10,Unique,Mialari Docur,Elf; Humanoid; Unique,Medium,Pathfinder #147: Tomorrow Must Burn pg. 89
+10,Common,Mobogo,Amphibious; Beast,Huge,Bestiary 3 pg. 170
+10,Common,Melody On The Wind,Air; Elemental,Huge,Bestiary 2 pg. 1072.0
+10,Common,Norgorberite Spy,Human; Humanoid,Medium,Pathfinder #171: Hurricane's Howl pg. 63
+10,Common,Peluda,Dragon; Fire,Large,Bestiary 2 pg. 1962.0
+10,Rare,Shadowforged Guardian,Construct; Mindless; Rare,Medium,Pathfinder #183: Field of Maidens pg. 84
+10,Common,Soul Skelm,Fiend; Humanoid; Skelm,Medium,Bestiary 3 pg. 241
+10,Rare,Water Orm,Aquatic; Beast; Rare; Water,Huge,Bestiary 2 pg. 2892.0
+10,Common,Abendego Jailer,Human; Humanoid,Medium,Pathfinder #171: Hurricane's Howl pg. 42
+10,Unique,Ameon Trask,Human; Humanoid; Unique,Medium,Kingmaker Adventure Path pg. 298
+10,Unique,Andera Paldreen,Human; Humanoid; Unique,Medium,Pathfinder #152: Legacy of the Lost God pg. 88
+10,Uncommon,Biloko Reaver,Fey; Uncommon,Small,Pathfinder #172: Secrets of the Temple City pg. 36
+10,Uncommon,Clay Golem,Construct; Golem; Mindless; Uncommon,Large,Bestiary pg. 186
+10,Common,Einherji,Aesir; Monitor,Medium,Bestiary 3 pg. 89
+10,Common,Fire Giant,Fire; Giant; Humanoid,Large,Bestiary pg. 172
+10,Common,Ghonhatine,Aberration,Large,Bestiary 2 pg. 1192.0
+10,Unique,Grace “The Rhino” Owano,Human; Humanoid; Unique,Medium,Pathfinder #183: Field of Maidens pg. 86
+10,Uncommon,Guardian Naga,Aberration; Uncommon,Large,Bestiary pg. 243
+10,Common,Gug,Aberration,Large,Bestiary pg. 198
+10,Common,Nereid,Aquatic; Fey; Water,Medium,Bestiary 2 pg. 1822.0
+10,Uncommon,Nyogoth,Fiend; Qlippoth; Uncommon,Medium,Bestiary 2 pg. 2142.0
+10,Uncommon,Quetz Couatl,Beast; Couatl; Uncommon,Large,Bestiary 2 pg. 542.0
+10,Common,Sacristan,Fiend; Velstrac,Medium,Bestiary 2 pg. 2832.0
+10,Uncommon,Young Cloud Dragon,Air; Dragon; Elemental; Uncommon,Large,Bestiary 2 pg. 892.0
+10,Common,Adlet,Cold; Humanoid,Medium,Bestiary 3 pg. 9
+10,Uncommon,Jackal Guard,Human; Humanoid; Uncommon,Medium,Pathfinder #172: Secrets of the Temple City pg. 9
+10,Unique,Mosquito Witch,Fey; Unique,Medium,Monsters of Myth pg. 76
+10,Rare,Quintessivore,Beast; Rare,Medium,Bestiary 3 pg. 209
+10,Unique,Scarlet Triad Bruiser,Human; Humanoid; Unique,Medium,Pathfinder #147: Tomorrow Must Burn pg. 23
+10,Common,Tyrannosaurus,Animal; Dinosaur,Gargantuan,Bestiary pg. 101
+10,Unique,Wrent Dicaspiron,Human; Humanoid; Unique,Medium,Pathfinder #157: Devil at the Dreaming Palace pg. 88
+10,Common,Giant Flytrap,Mindless; Plant,Huge,Bestiary pg. 160
+10,Common,Icewyrm,Amphibious; Cold; Elemental; Water,Huge,Bestiary 2 pg. 1152.0
+10,Unique,Abridan Ashau,Human; Humanoid; Unique,Medium,Shadows at Sundown pg. 26
+10,Common,Behemoth Hippopotamus,Animal,Huge,Bestiary 2 pg. 1442.0
+10,Rare,Hooklimb Xulgath,Humanoid; Rare; Xulgath,Medium,Pathfinder #153: Life's Long Shadows pg. 55
+10,Common,Mammoth,Animal,Huge,Bestiary pg. 154
+10,Uncommon,Moon Hag,Fiend; Hag; Humanoid; Uncommon,Medium,Bestiary 3 pg. 131
+10,Common,Xulgath Gutrager,Humanoid; Xulgath,Medium,Pathfinder #154: Siege of the Dinosaurs pg. 85
+10,Unique,Akuzhail,Beast; Mutant; Unique,Huge,Kingmaker Adventure Path pg. 247
+10,Common,Movanic Deva,Angel; Celestial,Medium,Bestiary 2 pg. 142.0
+10,Rare,Resin-Seep Xulgath,Humanoid; Rare; Xulgath,Medium,Pathfinder #153: Life's Long Shadows pg. 51
+10,Uncommon,Young Forest Dragon,Dragon; Plant; Uncommon,Large,Bestiary 3 pg. 74
+10,Common,Bebilith,Beast; Fiend,Huge,Bestiary 2 pg. 372.0
+10,Common,Kalavakus,Demon; Fiend,Medium,Pathfinder #147: Tomorrow Must Burn pg. 77
+10,Common,Piscodaemon,Amphibious; Daemon; Fiend,Medium,Bestiary 2 pg. 582.0
+10,Uncommon,Yaganty,Fey; Uncommon,Large,Pathfinder #153: Life's Long Shadows pg. 85
+10,Common,Young Silver Dragon,Cold; Dragon,Large,Bestiary pg. 126
+10,Common,Zuishin,Kami; Spirit,Medium,Bestiary 3 pg. 144
+10,Unique,Prachalla,Construct; Soulbound; Unique,Small,Pathfinder #183: Field of Maidens pg. 51
+10,Unique,Adrivallo,Fey; Unique,Medium,Pathfinder #152: Legacy of the Lost God pg. 49
+10,Uncommon,Aukashungi Swarm,Aberration; Amphibious; Swarm; Uncommon,Huge,Pathfinder #154: Siege of the Dinosaurs pg. 50
+10,Unique,Bloom Of Lamashtu,Fiend; Plant; Unique,Large,Kingmaker Adventure Path pg. 611
+10,Common,Brughadatch,Amphibious; Fey,Medium,Pathfinder #154: Siege of the Dinosaurs pg. 78
+10,Common,Young Red Dragon,Dragon; Fire,Large,Bestiary pg. 112
+10,Common,Adult White Dragon,Cold; Dragon,Large,Bestiary pg. 114
+10,Uncommon,Roper,Aberration; Uncommon,Large,Bestiary pg. 282
+10,Rare,Elder Thing Researcher,Aberration; Amphibious; Rare,Medium,Pathfinder #189: Dreamers of the Nameless Spires pg. 85
+10,Common,Brontosaurus,Animal; Dinosaur,Gargantuan,Bestiary pg. 100
+10,Common,Counteflora,Plant,Large,Pathfinder #153: Life's Long Shadows pg. 78
+10,Rare,Cranium Preserver,Construct; Rare,Large,Pathfinder #180: The Smoking Gun pg. 82
+10,Unique,Darivan,Human; Humanoid; Orc; Unique,Medium,Kingmaker Adventure Path pg. 594
+10,Common,Troll King,Giant; Troll,Large,Bestiary pg. 315
+10,Rare,Zinba,Amphibious; Beast; Rare,Large,The Mwangi Expanse pg. 3072.0
+10,Uncommon,Tar Ooze,Mindless; Ooze; Uncommon,Huge,Pathfinder #177: Burning Tundra pg. 82
+10,Common,Eberark,Beast; Fire,Huge,Pathfinder #159: All or Nothing pg. 82
+10,Common,Swordkeeper,Construct; Mindless,Large,Bestiary 3 pg. 261
+10,Unique,Tyrroicese,Construct; Ooze; Unique,Large,Pathfinder #158: Sixty Feet Under pg. 40
+10,Rare,Pyronite Ooze,Mindless; Ooze; Rare,Large,Pathfinder #180: The Smoking Gun pg. 83
+10,Common,Clacking Skull Swarm,Mindless; Swarm; Undead,Large,Bestiary 3 pg. 244
+10,Uncommon,Screaming Sulfur,Incorporeal; Spirit; Uncommon,Huge,Pathfinder #171: Hurricane's Howl pg. 84
+10,Uncommon,Pyrogeist,Incorporeal; Spirit; Uncommon; Undead,Large,Pathfinder #184: The Ghouls Hunger pg. 86
+10,Rare,Strigoi Servant,Rare; Shadow; Undead; Vampire,Medium,Shadows at Sundown pg. 25
+10,Rare,Vampire Guardian,Rare; Undead; Vampire,Medium,Pathfinder #184: The Ghouls Hunger pg. 50
+10,Uncommon,Nosferatu Malefactor,Uncommon; Undead; Vampire,Medium,Bestiary 3 pg. 284
+10,Common,Ghost Mage,Ghost; Incorporeal; Spirit; Undead,Medium,Bestiary pg. 167
+10,Unique,Spectral Devil,Fiend; Incorporeal; Spirit; Undead; Unique,Large,Monsters of Myth pg. 82
+10,Rare,Etioling Blightmage,Gnome; Humanoid; Mortic; Rare,Small,Bestiary 3 pg. 177
+10,Rare,Pale Stranger,Rare; Undead,Medium,Book of the Dead pg. 140
+10,Unique,Parsus,Dhampir; Human; Humanoid; Unique,Medium,Pathfinder #180: The Smoking Gun pg. 90
+10,Common,Ofalth,Aberration,Large,Bestiary pg. 251
+10,Uncommon,Bogeyman,Fey; Uncommon,Medium,Pathfinder #152: Legacy of the Lost God pg. 79
+10,Common,Imentesh,Monitor; Protean,Large,Bestiary 2 pg. 2072.0
+10,Common,Graveknight,Undead,Medium,Bestiary pg. 191
+10,Unique,Ixamè,Air; Dragon; Elemental; Undead; Unique,Large,Pathfinder #171: Hurricane's Howl pg. 22
+10,Uncommon,Sluagh Reaper,Fey; Uncommon; Undead,Medium,Book of the Dead pg. 150
+10,Uncommon,Leng Ghoul,Dream; Ghoul; Uncommon; Undead,Medium,Bestiary 3 pg. 107
+10,Rare,Profane Ghoul,Ghoul; Rare; Undead,Medium,Shadows at Sundown pg. 33
+10,Rare,Iroran Mummy,Mummy; Rare; Undead,Medium,Book of the Dead pg. 132
+10,Common,Vrykolakas Master,Undead; Vampire,Medium,Bestiary 2 pg. 2762.0
+10,Common,Urdefhan High Tormentor,Humanoid; Urdefhan,Medium,Pathfinder #155: Lord of the Black Sands pg. 82
+10,Uncommon,Herecite of Zevgavizeb,Uncommon; Undead,Medium,Pathfinder #153: Life's Long Shadows pg. 80
+10,Common,Cursed King,Mummy; Undead,Medium,Impossible Lands pg. 525
+10,Rare,Gholdako,Rare; Undead,Huge,Book of the Dead pg. 97
+10,Uncommon,Straugh,Ghoul; Uncommon; Undead,Large,Pathfinder #184: The Ghouls Hunger pg. 88
+11,Common,Elemental Hurricane,Air; Elemental,Huge,Bestiary pg. 145
+11,Common,Algea,Monitor; Psychopomp; Swarm,Large,Malevolence pg. 70
+11,Unique,Ancient Tupilaq,Construct; Unique,Medium,Pathfinder #189: Dreamers of the Nameless Spires pg. 56
+11,Common,Hellknight Paravicar,Human; Humanoid,Medium,Character Guide pg. 1212.0
+11,Unique,Ogmunzorius,Dream; Incorporeal; Unique,Large,Pathfinder #189: Dreamers of the Nameless Spires pg. 16
+11,Unique,Quintessa Maray,Human; Humanoid; Unique,Medium,Kingmaker Adventure Path pg. 314
+11,Common,Tempest-Sun Mage,Human; Humanoid,Medium,Character Guide pg. 1252.0
+11,Uncommon,Hantu Belian,Beast; Hantu; Incorporeal; Spirit; Uncommon,Small,Pathfinder #166: Despair on Danger Island pg. 85
+11,Common,Hamatula,Devil; Fiend,Medium,Bestiary 2 pg. 742.0
+11,Common,Munagola,Devil; Fiend,Medium,Bestiary 3 pg. 66
+11,Unique,Ulistul,Automaton; Construct; Unique,Large,Monsters of Myth pg. 124
+11,Unique,Barushak Il-Varashma,Human; Humanoid; Unique,Medium,Pathfinder #147: Tomorrow Must Burn pg. 44
+11,Common,Spiral Centurion,Construct; Mindless,Medium,Bestiary 2 pg. 2502.0
+11,Common,Abendego Priest,Human; Humanoid,Medium,Pathfinder #171: Hurricane's Howl pg. 46
+11,Uncommon,Faceless Butcher,Humanoid; Uncommon,Medium,Pathfinder #154: Siege of the Dinosaurs pg. 80
+11,Rare,Howling Spawn,Aberration; Rare,Large,Monsters of Myth pg. 23
+11,Uncommon,Karumzek Swarm,Aberration; Swarm; Uncommon,Large,Pathfinder #171: Hurricane's Howl pg. 81
+11,Common,Privateer Captain,Human; Humanoid,Medium,Character Guide pg. 1192.0
+11,Uncommon,Stone Golem,Construct; Golem; Mindless; Uncommon,Large,Bestiary pg. 187
+11,Unique,Nydazuul,Fiend; Qlippoth; Unique,Huge,Pathfinder #184: The Ghouls Hunger pg. 25
+11,Uncommon,Adult Crystal Dragon,Dragon; Earth; Elemental; Uncommon,Huge,Bestiary 2 pg. 922.0
+11,Unique,Nolly Peltry,Halfling; Humanoid; Unique,Small,Pathfinder #147: Tomorrow Must Burn pg. 91
+11,Uncommon,Harmona,Fey; Uncommon,Tiny,Bestiary 3 pg. 132
+11,Uncommon,Kongamato,Dragon; Uncommon,Large,Bestiary 3 pg. 152
+11,Uncommon,Mari Lwyd,Fey; Uncommon,Large,A Caroling Horse (Of Course. Of Course.) pg. 0
+11,Unique,Protosoul,Divine; Mindless; Necromancy; Unique,Large,Pathfinder #189: Dreamers of the Nameless Spires pg. 58
+11,Unique,Rumin Purgo,Gnome; Humanoid; Unique,Small,Pathfinder #184: The Ghouls Hunger pg. 42
+11,Uncommon,Adult Underworld Dragon,Dragon; Fire; Uncommon,Huge,Bestiary 3 pg. 84
+11,Unique,Amiri (Level 11),Human; Humanoid; Unique,Medium,Kingmaker Companion Guide pg. 8
+11,Uncommon,Dread Dhuthorex,Aberration; Amphibious; Uncommon,Large,Pathfinder #165: Eyes of Empty Death pg. 80
+11,Common,Elemental Tsunami,Aquatic; Elemental; Water,Huge,Bestiary pg. 153
+11,Unique,Ginjana Mindkeeper,Dero; Humanoid; Unique,Small,Pathfinder #153: Life's Long Shadows pg. 86
+11,Uncommon,Gosreg,Aberration; Uncommon,Medium,Bestiary 2 pg. 1332.0
+11,Unique,Halbrux Far-Sight,Giant; Humanoid; Unique,Large,Pathfinder #171: Hurricane's Howl pg. 88
+11,Unique,Headless Xulgath,Humanoid; Unique; Xulgath,Large,Pathfinder #153: Life's Long Shadows pg. 50
+11,Unique,Ilakni,Aberration; Humanoid; Unique,Medium,Pathfinder #189: Dreamers of the Nameless Spires pg. 35
+11,Unique,Mistress Dusklight,Catfolk; Humanoid; Unique,Medium,Pathfinder #152: Legacy of the Lost God pg. 88
+11,Common,Pathfinder Venture-Captain,Human; Humanoid,Medium,Character Guide pg. 1272.0
+11,Common,Quoppopak,Aberration; Aquatic,Large,Bestiary 2 pg. 2192.0
+11,Rare,River Elasmosaurus,Animal; Rare,Huge,Kingmaker Adventure Path pg. 275
+11,Unique,Scarlet Triad Agent,Human; Humanoid; Unique,Medium,Pathfinder #148: Fires of the Haunted City pg. 31
+11,Rare,Scarlet Triad Sniper,Elf; Human; Humanoid; Rare,Medium,Pathfinder #147: Tomorrow Must Burn pg. 56
+11,Rare,Solar Glass Golem,Construct; Golem; Mindless; Rare,Medium,Pathfinder #184: The Ghouls Hunger pg. 40
+11,Common,Veteran Reclaimer,Human; Humanoid; Orc,Medium,Character Guide pg. 1232.0
+11,Common,Xulgath Roughrider,Humanoid; Xulgath,Medium,Pathfinder #154: Siege of the Dinosaurs pg. 23
+11,Uncommon,Young Sovereign Dragon,Dragon; Earth; Uncommon,Large,Bestiary 3 pg. 81
+11,Uncommon,Young Umbral Dragon,Dragon; Shadow; Uncommon,Large,Bestiary 2 pg. 962.0
+11,Unique,Anjelique Loveless,Changeling; Elf; Humanoid; Unique,Medium,Pathfinder #180: The Smoking Gun pg. 86
+11,Rare,Brainchild,Illusion; Mental; Rare,Large,Bestiary 3 pg. 38
+11,Unique,Gambulami,Fey; Unique,Small,Pathfinder #172: Secrets of the Temple City pg. 37
+11,Common,Greater Nightmare,Beast; Fiend,Huge,Bestiary pg. 244
+11,Unique,Hillstomper,Animal; Unique,Huge,Kingmaker Adventure Path pg. 114
+11,Unique,Sepoko,Amphibious; Boggard; Humanoid; Unique,Medium,Kingmaker Adventure Path pg. 159
+11,Common,Spinosaurus,Animal; Dinosaur,Gargantuan,Bestiary 2 pg. 822.0
+11,Uncommon,Thunderbird,Air; Beast; Electricity; Uncommon,Gargantuan,Bestiary 2 pg. 2592.0
+11,Unique,Yonsuu,Catfolk; Humanoid; Unique,Medium,Pathfinder #171: Hurricane's Howl pg. 44
+11,Unique,Lomok,Aasimar; Human; Humanoid; Unique,Medium,Pathfinder #177: Burning Tundra pg. 57
+11,Common,Adult Black Dragon,Acid; Amphibious; Dragon,Large,Bestiary pg. 105
+11,Common,Adult Brass Dragon,Dragon; Fire,Large,Bestiary pg. 118
+11,Common,Elemental Avalanche,Earth; Elemental,Huge,Bestiary pg. 147
+11,Common,Cloud Giant,Air; Giant; Humanoid,Huge,Bestiary pg. 173
+11,Common,Deadly Mantis,Animal,Gargantuan,Bestiary pg. 233
+11,Common,Goliath Spider,Animal,Gargantuan,Bestiary pg. 307
+11,Unique,Tulvak,Hag; Humanoid; Unique,Medium,Kingmaker Companion Guide pg. 92
+11,Common,Meladaemon,Daemon; Fiend,Large,Bestiary 2 pg. 582.0
+11,Uncommon,Isqulug,Aberration; Amphibious; Uncommon,Medium,Bestiary 2 pg. 1492.0
+11,Common,Young Gold Dragon,Dragon; Fire,Large,Bestiary pg. 124
+11,Rare,Grave Karina,Beast; Fiend; Rare,Large,Pathfinder #172: Secrets of the Temple City pg. 31
+11,Unique,Somnalu Oculus,Aberration; Dream; Unique,Medium,Monsters of Myth pg. 88
+11,Common,Hezrou,Amphibious; Demon; Fiend,Large,Bestiary 2 pg. 672.0
+11,Rare,Planar Terra-Cotta Soldier,Construct; Rare,Medium,Pathfinder #166: Despair on Danger Island pg. 52
+11,Common,Tallow Ooze,Mindless; Ooze,Medium,Pathfinder #154: Siege of the Dinosaurs pg. 83
+11,Common,Carnivorous Crystal,Earth; Mindless; Ooze,Medium,Pathfinder #148: Fires of the Haunted City pg. 76
+11,Common,Provincial Jiang-Shi,Undead; Vampire,Medium,"Book of the Dead pg. 158, Pathfinder #167: Ready? Fight! pg. 86"
+11,Uncommon,Vetalarana Manipulator,Uncommon; Undead; Vampire,Medium,Book of the Dead pg. 163
+11,Uncommon,Seething Spirit,Incorporeal; Spirit; Uncommon; Undead,Medium,Bestiary 3 pg. 228
+11,Common,Xae,Ghost; Incorporeal; Spirit; Undead,Small,Kingmaker Companion Guide pg. 38
+11,Unique,Bishop Keppira D'bear,Shadow; Undead; Unique; Vampire,Medium,Shadows at Sundown pg. 26
+11,Common,Bhuta,Incorporeal; Undead,Medium,Book of the Dead pg. 76
+11,Uncommon,Devourer,Uncommon; Undead,Large,"Bestiary 2 pg. 782.0 , Pathfinder #148: Fires of the Haunted City pg. 79"
+11,Unique,Equendia,Cold; Mummy; Undead; Unique,Medium,Pathfinder #189: Dreamers of the Nameless Spires pg. 52
+11,Rare,Spawn Of Taon,Rare; Undead,Medium,Pathfinder #173: Doorway to the Red Star pg. 29
+11,Unique,Lintwerth,Air; Earth; Elemental; Unique,Small,Kingmaker Adventure Path pg. 310
+11,Common,Skeleton Infantry,Mindless; Skeleton; Troop; Undead,Gargantuan,Bestiary 3 pg. 237
+11,Unique,Bharlen Sajor,Undead; Unique,Medium,Pathfinder #171: Hurricane's Howl pg. 27
+11,Uncommon,Ghoul Gnawer,Ghoul; Uncommon; Undead,Medium,Pathfinder #184: The Ghouls Hunger pg. 23
+11,Rare,Reborn Sun Hunter,Fire; Rare; Undead,Medium,Pathfinder #172: Secrets of the Temple City pg. 10
+11,Rare,Reborn Sun Mage,Fire; Rare; Undead,Medium,Pathfinder #172: Secrets of the Temple City pg. 11
+11,Unique,Yulthruk,Ghoul; Undead; Unique,Medium,Pathfinder #183: Field of Maidens pg. 46
+11,Common,Rancorous Priesthood,Humanoid; Troop,Gargantuan,Bestiary 3 pg. 213
+11,Rare,Creeping Crone,Rare; Undead,Medium,Pathfinder #182: Graveclaw pg. 82
+11,Common,Elemental Inferno,Elemental; Fire,Huge,Bestiary pg. 149
+11,Common,Unrisen,Undead,Medium,Book of the Dead pg. 153
+11,Common,Corpseroot,Undead,Huge,Book of the Dead pg. 81
+11,Rare,Reborn Sun Warrior,Fire; Rare; Undead,Medium,Pathfinder #172: Secrets of the Temple City pg. 11
+11,Common,Zombie Mammoth,Mindless; Undead; Zombie,Huge,Book of the Dead pg. 173
+11,Rare,Sodden Sentinel,Rare; Undead,Medium,Pathfinder #154: Siege of the Dinosaurs pg. 32
+12,Rare,Vicious Army Ant Swarm,Animal; Rare; Swarm,Large,Kingmaker Adventure Path pg. 326
+12,Rare,Misery Siktempora,Rare; Siktempora; Time,Large,Bestiary 3 pg. 232
+12,Uncommon,Betobeto-San,Incorporeal; Shadow; Spirit; Uncommon,Medium,Bestiary 3 pg. 31
+12,Unique,Vaklish,Fiend; Rakshasa; Unique,Medium,Pathfinder #147: Tomorrow Must Burn pg. 54
+12,Rare,Fossil Golem,Construct; Golem; Mindless; Rare,Huge,Bestiary 3 pg. 116
+12,Rare,Lazurite-Infused Stone Golem,Construct; Golem; Mindless; Rare,Large,Pathfinder #148: Fires of the Haunted City pg. 45
+12,Rare,Shuln,Beast; Rare,Huge,Bestiary pg. 294
+12,Rare,Bugul Noz,Fey; Rare,Medium,Pathfinder #153: Life's Long Shadows pg. 76
+12,Rare,Peng,Air; Beast; Cold; Rare,Gargantuan,Pathfinder #167: Ready? Fight! pg. 82
+12,Uncommon,Ssumzili,Fey; Uncommon,Medium,Pathfinder #171: Hurricane's Howl pg. 85
+12,Uncommon,Clockwork Puppeteer,Clockwork; Construct; Mindless; Uncommon,Large,Pathfinder #180: The Smoking Gun pg. 81
+12,Common,Girtablilu Seer,Beast,Large,Bestiary 3 pg. 112
+12,Unique,Imeckus Stroon,Human; Humanoid; Unique,Medium,Kingmaker Adventure Path pg. 311
+12,Uncommon,Sea Serpent,Animal; Uncommon,Gargantuan,Bestiary pg. 288
+12,Unique,Ivarsa,Human; Humanoid; Unique,Medium,Pathfinder #177: Burning Tundra pg. 88
+12,Unique,Kuworsys,Aberration; Unique,Large,Monsters of Myth pg. 64
+12,Common,Adult Green Dragon,Amphibious; Dragon,Huge,Bestiary pg. 110
+12,Unique,Ainamuuren (Corrupted),Cold; Humanoid; Unique,Large,Pathfinder #189: Dreamers of the Nameless Spires pg. 88
+12,Common,Catoblepas,Beast,Large,Bestiary 2 pg. 482.0
+12,Common,Cauthooj,Beast,Medium,Bestiary pg. 55
+12,Rare,Corrupt Guards,Dwarf; Humanoid; Rare,Medium,Pathfinder #148: Fires of the Haunted City pg. 27
+12,Common,Deculi,Beast,Large,Pathfinder #148: Fires of the Haunted City pg. 78
+12,Rare,Grisantian Lion,Beast; Primal; Rare,Huge,Monsters of Myth pg. 34
+12,Common,Interlocutor,Fiend; Velstrac,Large,"Bestiary 2 pg. 2852.0 , Pathfinder #147: Tomorrow Must Burn pg. 84"
+12,Common,Kokogiak,Beast,Huge,Bestiary 3 pg. 151
+12,Common,Kolyarut,Aeon; Inevitable; Monitor,Medium,Bestiary pg. 10
+12,Unique,Ngara,Aberration; Unique,Large,Kingmaker Adventure Path pg. 99
+12,Rare,Pitax Warden,Human; Humanoid; Rare,Medium,Kingmaker Adventure Path pg. 336
+12,Common,Shining Child,Astral,Medium,Bestiary pg. 292
+12,Unique,Tashlock Banyan,Human; Humanoid; Unique,Medium,Pathfinder #154: Siege of the Dinosaurs pg. 39
+12,Common,Valkyrie,Aesir; Monitor,Medium,Bestiary 3 pg. 281
+12,Uncommon,Xilvirek,Fiend; Uncommon,Large,Pathfinder #154: Siege of the Dinosaurs pg. 84
+12,Uncommon,Xulgath Deepmouth,Humanoid; Uncommon; Xulgath,Medium,Pathfinder #155: Lord of the Black Sands pg. 85
+12,Common,Xulgath Hardscale,Humanoid; Xulgath,Medium,Pathfinder #154: Siege of the Dinosaurs pg. 53
+12,Uncommon,Sun Warrior Brigade,Humanoid; Troop; Uncommon,Gargantuan,Pathfinder #172: Secrets of the Temple City pg. 57
+12,Uncommon,Chernobue,Fiend; Qlippoth; Uncommon,Large,Bestiary 2 pg. 2142.0
+12,Unique,Hannis Drelev,Human; Humanoid; Unique,Medium,Kingmaker Adventure Path pg. 597
+12,Unique,Ilora Nuski,Human; Humanoid; Unique,Medium,Kingmaker Adventure Path pg. 112
+12,Rare,Oversized Chimera,Beast; Rare,Large,Kingmaker Adventure Path pg. 107
+12,Unique,Talon Peak Roc,Animal; Unique,Gargantuan,Kingmaker Adventure Path pg. 91
+12,Uncommon,War Sauropelta,Animal; Dinosaur; Uncommon,Large,Pathfinder #154: Siege of the Dinosaurs pg. 46
+12,Rare,Xiuh Couatl,Beast; Couatl; Rare,Large,Bestiary 3 pg. 57
+12,Uncommon,Adult Brine Dragon,Amphibious; Dragon; Elemental; Uncommon; Water,Huge,Bestiary 2 pg. 872.0
+12,Uncommon,Adult Sea Dragon,Amphibious; Dragon; Uncommon; Water,Huge,Bestiary 3 pg. 78
+12,Common,Frost Worm,Animal; Cold,Huge,Bestiary 2 pg. 1232.0
+12,Rare,Scarlet Walker,Aberration; Dream; Rare,Huge,Shadows at Sundown pg. 57
+12,Common,Arboreal Archive,Plant,Huge,Bestiary 3 pg. 21
+12,Uncommon,Drake Courser,Cold; Dragon; Uncommon,Large,Pathfinder #167: Ready? Fight! pg. 13
+12,Uncommon,Drenchdead,Uncommon; Undead; Water,Medium,Pathfinder #172: Secrets of the Temple City pg. 81
+12,Common,Rusalka,Aquatic; Fey; Water,Medium,"Bestiary 2 pg. 2292.0 , Pathfinder #147: Tomorrow Must Burn pg. 81"
+12,Unique,Stirvyn Banyan,Human; Humanoid; Unique,Medium,Pathfinder #154: Siege of the Dinosaurs pg. 39
+12,Common,Taiga Giant,Giant; Humanoid,Huge,Bestiary 2 pg. 1262.0
+12,Common,Adult Copper Dragon,Dragon; Earth,Large,Bestiary pg. 122
+12,Uncommon,Calikang,Humanoid; Uncommon,Large,"Bestiary 3 pg. 42, Pathfinder #149: Against the Scarlet Triad pg. 84"
+12,Uncommon,Gimmerling,Fey; Uncommon,Small,Bestiary pg. 177
+12,Unique,Gomwai,Goblin; Humanoid; Unique,Medium,Pathfinder #166: Despair on Danger Island pg. 48
+12,Uncommon,Great Cyclops,Giant; Humanoid; Mutant; Uncommon,Huge,Bestiary pg. 69
+12,Common,Japalisura,Asura; Fiend,Medium,Bestiary 3 pg. 23
+12,Unique,Kerinza,Humanoid; Unique,Medium,Pathfinder #183: Field of Maidens pg. 88
+12,Common,Derghodaemon,Daemon; Fiend,Large,Bestiary 2 pg. 592.0
+12,Unique,Glass Elephant,Clockwork; Construct; Mindless; Unique,Huge,Pathfinder #180: The Smoking Gun pg. 50
+12,Common,Monadic Deva,Angel; Celestial,Medium,Bestiary 2 pg. 152.0
+12,Uncommon,Aeolaeka (Stone Azata),Azata; Celestial; Uncommon,Large,Pathfinder #183: Field of Maidens pg. 83
+12,Uncommon,Afziaka Stalker,Animal; Mindless; Uncommon,Large,Pathfinder #185: A Taste of Ashes pg. 82
+12,Common,Athach,Giant; Humanoid,Huge,Bestiary 2 pg. 272.0
+12,Unique,Darg,Earth; Giant; Humanoid; Unique,Large,Kingmaker Adventure Path pg. 106
+12,Common,Gogiteth,Aberration,Large,Bestiary pg. 183
+12,Uncommon,Guloval,Agathion; Celestial; Uncommon,Small,Pathfinder #183: Field of Maidens pg. 81
+12,Unique,Sister Of The Bloodshot Eye,Human; Humanoid; Unique,Medium,Kingmaker Adventure Path pg. 323
+12,Unique,Arskuva The Gnasher,Minion; Undead; Unique,Medium,Pathfinder #154: Siege of the Dinosaurs pg. 55
+12,Rare,Fen Pudding,Amphibious; Mindless; Ooze; Rare,Huge,Kingmaker Adventure Path pg. 317
+12,Uncommon,Omox,Demon; Fiend; Ooze; Uncommon,Medium,Bestiary 3 pg. 63
+12,Uncommon,Feral Skull Swarm,Mindless; Swarm; Uncommon; Undead,Huge,Bestiary 3 pg. 244
+12,Uncommon,Seetangeist,Aquatic; Mindless; Swarm; Uncommon; Undead,Huge,Book of the Dead pg. 165
+12,Common,Llorona,Incorporeal; Spirit; Undead,Medium,Book of the Dead pg. 125
+12,Unique,Vampire Taviah,Undead; Unique; Vampire,Large,Pathfinder #183: Field of Maidens pg. 59
+12,Uncommon,Onryo,Uncommon; Undead,Medium,Book of the Dead pg. 135
+12,Rare,Saggorak Poltergeist,Incorporeal; Rare; Spirit; Undead,Medium,Pathfinder #148: Fires of the Haunted City pg. 45
+12,Rare,Lich,Rare; Undead,Medium,Bestiary pg. 221
+12,Common,Urdefhan Hunter,Humanoid; Urdefhan,Medium,Pathfinder #155: Lord of the Black Sands pg. 82
+12,Unique,Vordakai,Undead; Unique,Large,Kingmaker Adventure Path pg. 606
+12,Uncommon,Zealborn,Uncommon; Undead,Medium,Pathfinder #161: Belly of the Black Whale pg. 87
+12,Rare,Tidehawk,Amphibious; Beast; Rare; Water,Huge,Bestiary 3 pg. 266
+12,Unique,Zorek,Human; Humanoid; Unique,Medium,Kingmaker Adventure Path pg. 328
+12,Rare,Wight Commander,Rare; Undead; Wight,Medium,Book of the Dead pg. 169
+12,Rare,Wight Cultist,Rare; Undead,Medium,Pathfinder #154: Siege of the Dinosaurs pg. 34
+12,Uncommon,Rotbomber,Mindless; Uncommon; Undead,Large,Pathfinder #184: The Ghouls Hunger pg. 87
+12,Common,Tomb Giant,Giant; Humanoid,Large,Bestiary 3 pg. 110
+12,Rare,Relictner Eroder,Dwarf; Humanoid; Mortic; Rare,Medium,Book of the Dead pg. 127
+13,Unique,Yabin the Just (Level 13),Humanoid; Nagaji; Unique,Medium,Pathfinder #167: Ready? Fight! pg. 27
+13,Uncommon,Agile Warrior,Human; Humanoid; Uncommon,Medium,Pathfinder #166: Despair on Danger Island pg. 23
+13,Uncommon,Archery Specialist,Human; Humanoid; Uncommon,Medium,Pathfinder #166: Despair on Danger Island pg. 24
+13,Rare,Gold Defender,Construct; Golem; Mindless; Rare,Huge,Pathfinder #172: Secrets of the Temple City pg. 49
+13,Uncommon,Iron Golem,Construct; Golem; Mindless; Uncommon,Large,Bestiary pg. 188
+13,Unique,Ji-yook (Level 13),Humanoid; Kitsune; Unique,Medium,Pathfinder #167: Ready? Fight! pg. 26
+13,Rare,Summer Hora Queen,Fey; Nymph; Rare,Medium,Pathfinder #177: Burning Tundra pg. 81
+13,Unique,Umbasi,Elf; Humanoid; Unique,Medium,Pathfinder #167: Ready? Fight! pg. 40
+13,Common,Animated Trebuchet,Construct; Mindless,Gargantuan,Bestiary 3 pg. 19
+13,Uncommon,Consonite Choir,Earth; Elemental; Swarm; Uncommon,Gargantuan,Bestiary 3 pg. 53
+13,Unique,Harmony In Agony,Undead; Unique; Vampire,Medium,Pathfinder #184: The Ghouls Hunger pg. 60
+13,Unique,Ibrique,Ghoul; Undead; Unique,Small,Shadows at Sundown pg. 36
+13,Common,Living-Sun Spire,Construct; Mindless,Gargantuan,Pathfinder #172: Secrets of the Temple City pg. 57
+13,Uncommon,Dragonscarred Dead,Fire; Uncommon; Undead,Medium,Pathfinder #148: Fires of the Haunted City pg. 82
+13,Unique,Evindra,Aquatic; Fey; Unique; Water,Medium,Kingmaker Adventure Path pg. 365
+13,Unique,Weeping Jack,Undead; Unique; Vampire,Small,Pathfinder #184: The Ghouls Hunger pg. 61
+13,Common,Gelugon,Devil; Fiend,Large,Bestiary pg. 91
+13,Rare,Amalgamite,Aberration; Rare,Medium,Bestiary 3 pg. 14
+13,Uncommon,Dryad Queen,Fey; Nymph; Plant; Uncommon,Medium,Bestiary pg. 249
+13,Uncommon,Mage of Many Styles,Human; Humanoid; Uncommon,Medium,Pathfinder #166: Despair on Danger Island pg. 25
+13,Rare,Rivka,Aberration; Rare,Medium,Pathfinder #167: Ready? Fight! pg. 83
+13,Unique,Surjit Hamelan,Gnome; Humanoid; Unique,Small,Pathfinder #167: Ready? Fight! pg. 39
+13,Uncommon,Adachros,Astral; Uncommon,Large,Bestiary 3 pg. 95
+13,Unique,Ajbal Kimon,Human; Humanoid; Unique,Medium,Pathfinder #171: Hurricane's Howl pg. 86
+13,Unique,Hegremon,Cold; Giant; Humanoid; Unique,Large,Pathfinder #177: Burning Tundra pg. 86
+13,Rare,Owb Prophet,Rare; Shadow,Large,Bestiary 3 pg. 197
+13,Unique,Akila Stormheel,Halfling; Humanoid; Unique,Small,Pathfinder #167: Ready? Fight! pg. 38
+13,Uncommon,Clockwork Assassin,Clockwork; Construct; Mindless; Uncommon,Medium,Pathfinder #160: Assault on Hunting Lodge Seven pg. 82
+13,Common,Ice Yai,Cold; Fiend; Giant; Humanoid; Oni,Large,Bestiary 2 pg. 1892.0
+13,Uncommon,Ki Adept,Human; Humanoid; Uncommon,Medium,Pathfinder #166: Despair on Danger Island pg. 24
+13,Rare,Soul Swarm,Ghost; Incorporeal; Rare; Spirit; Troop; Undead,Gargantuan,Pathfinder #172: Secrets of the Temple City pg. 42
+13,Uncommon,Adult Sky Dragon,Dragon; Electricity; Uncommon,Huge,Bestiary 3 pg. 80
+13,Uncommon,Butterfly Blade Warrior,Human; Humanoid; Uncommon,Medium,Pathfinder #166: Despair on Danger Island pg. 60
+13,Rare,Caustic Monitor,Animal; Rare,Huge,Pathfinder #166: Despair on Danger Island pg. 86
+13,Rare,Crimson Acolyte,Human; Humanoid; Rare,Medium,Pathfinder #173: Doorway to the Red Star pg. 62
+13,Common,Ghaele,Azata; Celestial,Medium,Bestiary pg. 33
+13,Common,Iobane Magi,Human; Humanoid,Medium,Pathfinder #173: Doorway to the Red Star pg. 21
+13,Unique,Irahkatu,Amphibious; Beast; Unique,Large,Kingmaker Adventure Path pg. 96
+13,Unique,Laslunn,Gnoll; Humanoid; Unique,Medium,Pathfinder #147: Tomorrow Must Burn pg. 87
+13,Common,Storm Giant,Amphibious; Giant; Humanoid,Huge,Bestiary pg. 174
+13,Unique,Xevalorg,Aberration; Unique,Large,Pathfinder #148: Fires of the Haunted City pg. 14
+13,Uncommon,Dalos,Earth; Fey; Fire; Uncommon,Huge,Pathfinder #148: Fires of the Haunted City pg. 77
+13,Rare,Duergar Slave Lord,Duergar; Dwarf; Humanoid; Rare,Medium,Pathfinder #148: Fires of the Haunted City pg. 50
+13,Rare,Gold Defender Garrison,Construct; Mindless; Rare; Troop,Gargantuan,Pathfinder #172: Secrets of the Temple City pg. 50
+13,Unique,The First Faithful,Fiend; Human; Humanoid; Unique,Medium,Kingmaker Companion Guide pg. 80
+13,Unique,Tino Tung (Level 13),Human; Humanoid; Unique,Medium,Pathfinder #167: Ready? Fight! pg. 26
+13,Rare,Arcane Living Rune,Construct; Rare,Small,Bestiary 3 pg. 163
+13,Common,Ba'aupa Mdoudu,Beast,Medium,Pathfinder #172: Secrets of the Temple City pg. 80
+13,Rare,Barking Stag,Animal; Rare,Large,Pathfinder #156: The Apocalypse Prophet pg. 40
+13,Common,Doblagub,Amphibious; Fey,Large,Pathfinder #154: Siege of the Dinosaurs pg. 79
+13,Uncommon,Weapon Master,Human; Humanoid; Uncommon,Medium,Pathfinder #166: Despair on Danger Island pg. 22
+13,Common,Adult Blue Dragon,Dragon; Electricity,Huge,Bestiary pg. 108
+13,Common,Adult Bronze Dragon,Amphibious; Dragon; Water,Huge,Bestiary pg. 120
+13,Unique,Hummingbird,Gnoll; Humanoid; Unique,Medium,Pathfinder #167: Ready? Fight! pg. 39
+13,Unique,Phuthi,Gnoll; Humanoid; Unique,Medium,Pathfinder #167: Ready? Fight! pg. 39
+13,Unique,Skarja,Fiend; Hag; Humanoid; Unique,Medium,Pathfinder #153: Life's Long Shadows pg. 88
+13,Common,Irlgaunt,Aberration; Earth,Large,Bestiary 2 pg. 1482.0
+13,Uncommon,Adult Magma Dragon,Dragon; Elemental; Fire; Uncommon,Huge,"Bestiary 2 pg. 942.0 , Pathfinder #148: Fires of the Haunted City pg. 80"
+13,Uncommon,Jorogumo,Humanoid; Uncommon,Medium,"Bestiary 3 pg. 141, Pathfinder #160: Assault on Hunting Lodge Seven pg. 83"
+13,Common,Purple Worm,Animal,Gargantuan,Bestiary pg. 56
+13,Common,Thanadaemon,Daemon; Fiend,Medium,Bestiary 2 pg. 602.0
+13,Common,Viper Vine,Plant,Large,Bestiary 2 pg. 2872.0
+13,Common,Millindemalion,Fey,Small,Bestiary 3 pg. 169
+13,Common,Shadow Giant,Giant; Humanoid; Shadow,Large,"Bestiary 2 pg. 1272.0 , Pathfinder #147: Tomorrow Must Burn pg. 79"
+13,Common,Glabrezu,Demon; Fiend,Huge,Bestiary pg. 79
+13,Uncommon,Froghemoth,Aberration; Amphibious; Uncommon,Huge,Bestiary 2 pg. 1222.0
+13,Unique,Cocoon Of Lucid Potential,Aberration; Unique,Gargantuan,Dark Archive pg. 17
+13,Uncommon,Urglid (Grave Demon),Fiend; Uncommon,Large,Pathfinder #184: The Ghouls Hunger pg. 83
+13,Common,Carnivorous Blob,Mindless; Ooze,Gargantuan,Bestiary 2 pg. 1952.0
+13,Unique,Takatorra (Level 13),Humanoid; Tengu; Unique,Medium,Pathfinder #167: Ready? Fight! pg. 27
+13,Common,Fionn,Cold; Incorporeal; Spirit; Undead,Large,Kingmaker Companion Guide pg. 18
+13,Unique,Kannitri,Ghost; Incorporeal; Spirit; Undead; Unique,Medium,Pathfinder #166: Despair on Danger Island pg. 19
+13,Rare,Strigoi Progenitor,Rare; Shadow; Undead; Vampire,Medium,Shadows at Sundown pg. 60
+13,Unique,Talamira,Ghost; Incorporeal; Spirit; Undead; Unique,Medium,Pathfinder #148: Fires of the Haunted City pg. 8
+13,Uncommon,Jaggaki,Uncommon; Undead,Large,Pathfinder #147: Tomorrow Must Burn pg. 52
+13,Unique,Tehialai-Thief-Of-Ships,Amphibious; Aquatic; Beast; Unique,Gargantuan,Monsters of Myth pg. 106
+13,Uncommon,Bloodshroud,Uncommon; Undead,Medium,Pathfinder #184: The Ghouls Hunger pg. 82
+13,Common,Skeletal Titan,Mindless; Skeleton; Undead,Gargantuan,Book of the Dead pg. 149
+13,Common,Silent Stalker,Undead,Small,Book of the Dead pg. 141
+13,Uncommon,Gashadokuro,Uncommon; Undead,Huge,"Book of the Dead pg. 95, Pathfinder #148: Fires of the Haunted City pg. 84"
+13,Uncommon,Ghoul Razorclaw,Ghoul; Uncommon; Undead,Medium,Pathfinder #184: The Ghouls Hunger pg. 85
+13,Uncommon,Leng Spider,Aberration; Dream; Uncommon,Huge,Bestiary 2 pg. 1572.0
+13,Uncommon,Death Drider,Uncommon; Undead,Large,Pathfinder #155: Lord of the Black Sands pg. 35
+13,Unique,Ileosa's Shell,Undead; Unique,Medium,Shadows at Sundown pg. 49
+13,Rare,Raptor Guard,Rare; Undead,Medium,Pathfinder #155: Lord of the Black Sands pg. 32
+13,Unique,Hooktongue Hydra,Beast; Unique,Huge,Kingmaker Adventure Path pg. 103
+13,Common,Terra-Cotta Garrison,Construct; Troop,Gargantuan,Bestiary 3 pg. 263
+13,Unique,Metuak,Fiend; Human; Humanoid; Unique,Medium,Pathfinder #177: Burning Tundra pg. 90
+13,Uncommon,Mummy Prophet of Set,Mummy; Uncommon; Undead,Medium,Book of the Dead pg. 132
+13,Uncommon,Vrykolakas Ancient,Uncommon; Undead; Vampire,Medium,Bestiary 2 pg. 2772.0
+13,Uncommon,Necrohulk Flailer,Mutant; Uncommon; Undead,Large,Pathfinder #185: A Taste of Ashes pg. 86
+13,Common,Vanyver,Darvakka; Shadow; Undead,Huge,Book of the Dead pg. 82
+14,Unique,Old Man Statue,Construct; Divine; Mindless; Unique,Huge,Pathfinder #166: Despair on Danger Island pg. 20
+14,Rare,Triumph Siktempora,Rare; Siktempora; Time,Small,Bestiary 3 pg. 233
+14,Common,Grikkitog,Aberration; Earth,Huge,Bestiary pg. 195
+14,Rare,Sixth Pillar Students,Human; Humanoid; Nagaji; Rare,Medium,Pathfinder #167: Ready? Fight! pg. 14
+14,Unique,Syu Tak-nwa,Human; Humanoid; Unique,Medium,Pathfinder #166: Despair on Danger Island pg. 62
+14,Uncommon,Augnagar,Fiend; Qlippoth; Uncommon,Huge,Bestiary 2 pg. 2162.0
+14,Unique,General Avinash Jurrg,Giant; Oni; Shapechanger; Unique,Large,Kingmaker Adventure Path pg. 385
+14,Uncommon,Kun,Aquatic; Beast; Cold; Uncommon,Gargantuan,Pathfinder #167: Ready? Fight! pg. 79
+14,Common,Gylou,Devil; Fiend,Medium,Bestiary 2 pg. 752.0
+14,Unique,Juspix Rammel,Halfling; Humanoid; Unique,Small,Pathfinder #167: Ready? Fight! pg. 42
+14,Common,Nightmarchers,Incorporeal; Spirit; Troop; Undead,Gargantuan,Bestiary 3 pg. 187
+14,Unique,Alasen,Beast; Human; Humanoid; Unique; Werecreature,Large,Kingmaker Adventure Path pg. 389
+14,Common,Angoyang,Aberration,Small,Pathfinder #167: Ready? Fight! pg. 78
+14,Common,Fire Yai,Fiend; Fire; Giant; Humanoid; Oni,Large,Bestiary 2 pg. 1902.0
+14,Rare,Master Xun,Human; Humanoid; Rare,Medium,Pathfinder #167: Ready? Fight! pg. 23
+14,Unique,Shino Hakusa,Human; Humanoid; Unique,Medium,Pathfinder #166: Despair on Danger Island pg. 63
+14,Unique,Troff Frostknuckles,Goblin; Humanoid; Unique,Small,Pathfinder #167: Ready? Fight! pg. 43
+14,Common,Uthul,Air; Elemental,Huge,Bestiary pg. 317
+14,Unique,Zhang Yong,Half-Orc; Human; Humanoid; Orc; Unique,Medium,No-Prep Character: Zhang Yong pg. 0
+14,Rare,Kuchisake-Onna,Aberration; Rare,Medium,Bestiary 3 pg. 156
+14,Uncommon,Adult Cloud Dragon,Air; Dragon; Elemental; Uncommon,Huge,Bestiary 2 pg. 902.0
+14,Uncommon,Bul-Gae,Beast; Cold; Fire; Uncommon,Medium,Pathfinder #168: King of the Mountain pg. 79
+14,Rare,Elder Cauthooj,Beast; Rare,Medium,Pathfinder #166: Despair on Danger Island pg. 49
+14,Rare,Gray Gardener Assassin,Human; Humanoid; Rare,Medium,Night of the Gray Death pg. 20
+14,Unique,Kralgurn,Duergar; Dwarf; Humanoid; Unique,Medium,Pathfinder #148: Fires of the Haunted City pg. 31
+14,Common,Peri,Celestial; Fire,Medium,Bestiary 3 pg. 201
+14,Unique,Speartooth,Animal; Unique,Large,Kingmaker Adventure Path pg. 104
+14,Uncommon,Sunburst Corpse,Uncommon; Undead,Medium,Pathfinder #172: Secrets of the Temple City pg. 85
+14,Rare,Terrorguard,Construct; Dream; Mindless; Rare,Medium,Pathfinder #184: The Ghouls Hunger pg. 89
+14,Unique,Thessekka,Humanoid; Unique; Xulgath,Medium,Pathfinder #153: Life's Long Shadows pg. 90
+14,Rare,Thresholder Disciple,Human; Humanoid; Rare,Medium,Kingmaker Adventure Path pg. 409
+14,Uncommon,Vanth Warrior,Monitor; Psychopomp; Uncommon,Medium,Pathfinder #186: Ghost King's Rage pg. 18
+14,Uncommon,Zephyr Guard,Human; Humanoid; Uncommon,Medium,Pathfinder #149: Against the Scarlet Triad pg. 51
+14,Unique,Ainamuuren,Cold; Humanoid; Unique,Large,Monsters of Myth pg. 9
+14,Unique,Blue Viper,Humanoid; Ratfolk; Unique,Small,Pathfinder #166: Despair on Danger Island pg. 63
+14,Common,Doprillu,Aberration,Medium,Bestiary 2 pg. 852.0
+14,Common,Elder Elemental Tsunami,Aquatic; Elemental; Water,Huge,Kingmaker Adventure Path pg. 429
+14,Rare,Hill Giant Butcher,Earth; Giant; Humanoid; Rare,Large,Kingmaker Adventure Path pg. 110
+14,Unique,Jamandi Aldori,Elf; Human; Humanoid; Unique,Medium,Kingmaker Adventure Path pg. 599
+14,Unique,Ledorick Banyan,Human; Humanoid; Unique,Medium,Pathfinder #154: Siege of the Dinosaurs pg. 88
+14,Rare,Mezlan,Ooze; Rare,Medium,Bestiary 3 pg. 167
+14,Unique,Nkiruka,Human; Humanoid; Unique,Medium,Pathfinder #172: Secrets of the Temple City pg. 88
+14,Rare,Tyrannosaurus Imperator,Animal; Dinosaur; Rare,Gargantuan,Pathfinder #166: Despair on Danger Island pg. 31
+14,Uncommon,Crag Linnorm,Dragon; Fire; Uncommon,Gargantuan,Bestiary pg. 224
+14,Rare,Mammoth Turtle,Animal; Rare,Gargantuan,Pathfinder #166: Despair on Danger Island pg. 31
+14,Rare,Veiled Master,Aberration; Aquatic; Rare,Large,Bestiary pg. 14
+14,Unique,Hooktongue,Amphibious; Animal; Unique,Huge,Kingmaker Adventure Path pg. 97
+14,Common,Ancient Rivener,Humanoid; Ikeshti,Large,Pathfinder #173: Doorway to the Red Star pg. 86
+14,Common,Ankou,Fey,Large,Bestiary 2 pg. 192.0
+14,Unique,Huldrin Skolsdottir,Human; Humanoid; Unique,Medium,Pathfinder #167: Ready? Fight! pg. 42
+14,Unique,K.H.W.'s Echo,Human; Humanoid; Unique,Medium,Dark Archive pg. 214
+14,Common,Astral Deva,Angel; Celestial,Medium,Bestiary pg. 19
+14,Common,Plague Giant,Giant; Humanoid,Huge,Bestiary 3 pg. 111
+14,Common,Trumpet Archon,Archon; Celestial,Medium,Bestiary 2 pg. 232.0
+14,Uncommon,Adult Forest Dragon,Dragon; Plant; Uncommon,Huge,Bestiary 3 pg. 75
+14,Uncommon,Dramofir,Aberration; Dream; Uncommon,Large,Bestiary 3 pg. 86
+14,Rare,Overgrown Viper Vine,Plant; Rare,Large,Kingmaker Adventure Path pg. 360
+14,Common,Adult Silver Dragon,Cold; Dragon,Huge,Bestiary pg. 126
+14,Unique,Armag,Human; Humanoid; Unique,Medium,Kingmaker Adventure Path pg. 592
+14,Common,Chakanaj,Fiend; Sahkil,Tiny,Night of the Gray Death pg. 70
+14,Uncommon,Giant Aukashungi,Aberration; Amphibious; Uncommon,Huge,Pathfinder #154: Siege of the Dinosaurs pg. 77
+14,Rare,Wild Hunt Hound,Fey; Rare; Wild Hunt,Medium,Kingmaker Adventure Path pg. 616
+14,Common,Adult Red Dragon,Dragon; Fire,Huge,Bestiary pg. 112
+14,Uncommon,Shatterling,Fey; Uncommon,Small,Pathfinder #160: Assault on Hunting Lodge Seven pg. 84
+14,Rare,Ravenile,Humanoid; Lizardfolk; Rare,Large,Pathfinder #159: All or Nothing pg. 84
+14,Unique,Urnak Lostwind,Human; Humanoid; Orc; Unique,Medium,Pathfinder #167: Ready? Fight! pg. 41
+14,Unique,Gaetane,Beast; Human; Humanoid; Unique; Werecreature,Medium,Kingmaker Adventure Path pg. 359
+14,Common,Nikaramsa,Asura; Fiend,Large,Bestiary 3 pg. 24
+14,Unique,Morrowkin,Aberration; Time; Unique,Medium,Dark Archive pg. 192
+14,Rare,Ravener Husk,Dragon; Rare; Undead,Gargantuan,Bestiary 2 pg. 2242.0
+14,Unique,Ran-to,Goblin; Humanoid; Unique,Small,Pathfinder #166: Despair on Danger Island pg. 64
+14,Common,Sepid,Div; Fiend,Large,Bestiary 3 pg. 71
+14,Common,Nalfeshnee,Demon; Fiend,Huge,"Bestiary 2 pg. 682.0 , Pathfinder #149: Against the Scarlet Triad pg. 86"
+14,Common,Gunpowder Ooze,Mindless; Ooze,Large,Impossible Lands pg. 334
+14,Common,Minister Of Tumult,Undead; Vampire,Medium,"Book of the Dead pg. 159, Pathfinder #167: Ready? Fight! pg. 87"
+14,Rare,Sorcerous Skull Swarm,Rare; Swarm; Undead,Large,Bestiary 3 pg. 245
+14,Unique,Watchtower Poltergeist,Incorporeal; Spirit; Undead; Unique,Medium,Pathfinder #166: Despair on Danger Island pg. 35
+14,Unique,King Harral,Undead; Unique,Medium,Pathfinder #148: Fires of the Haunted City pg. 42
+14,Uncommon,Worm That Walks Cultist,Aberration; Swarm; Uncommon,Medium,Bestiary 2 pg. 2972.0
+14,Uncommon,Death Coach,Incorporeal; Spirit; Uncommon; Undead,Huge,Book of the Dead pg. 86
+14,Unique,Yurgak,Ghoul; Undead; Unique,Medium,Pathfinder #184: The Ghouls Hunger pg. 30
+14,Unique,Falrok,Ghoul; Undead; Unique,Medium,Pathfinder #148: Fires of the Haunted City pg. 46
+14,Uncommon,Obrousian,Amphibious; Uncommon; Undead,Medium,"Book of the Dead pg. 134, Pathfinder #161: Belly of the Black Whale pg. 86"
+14,Unique,Starved Staff,Undead; Unique,Huge,Pathfinder #154: Siege of the Dinosaurs pg. 16
+14,Common,Tormented,Undead,Medium,Book of the Dead pg. 152
+14,Common,Urdefhan Dominator,Humanoid; Urdefhan,Medium,Pathfinder #155: Lord of the Black Sands pg. 83
+14,Uncommon,Graveknight Warmaster,Uncommon; Undead,Medium,Book of the Dead pg. 110
+14,Rare,Kellid Graveknight,Rare; Undead,Medium,Kingmaker Adventure Path pg. 401
+14,Unique,Sié Goluo,Beast; Incorporeal; Spirit; Unique,Huge,The Mwangi Expanse pg. 3052.0
+15,Unique,Jaiban,Beast; Unique,Gargantuan,Pathfinder #166: Despair on Danger Island pg. 41
+15,Uncommon,Penqual,Fiend; Sahkil; Swarm; Uncommon,Huge,Pathfinder #162: Ruins of the Radiant Siege pg. 84
+15,Rare,Mastiff Of Tindalos,Aberration; Evil; Rare; Time,Medium,Kingmaker Adventure Path pg. 416
+15,Common,Crucidaemon,Daemon; Fiend,Medium,Pathfinder #149: Against the Scarlet Triad pg. 85
+15,Rare,Defaced Naiad Queen,Amphibious; Fey; Nymph; Rare; Water,Medium,Kingmaker Adventure Path pg. 471
+15,Common,Marut,Aeon; Inevitable; Monitor,Large,Bestiary 2 pg. 102.0
+15,Uncommon,Lampad Queen,Earth; Fey; Nymph; Uncommon,Medium,Bestiary 3 pg. 189
+15,Common,Morrigna,Monitor; Psychopomp,Medium,Bestiary pg. 271
+15,Common,Animated Colossus,Construct; Mindless,Gargantuan,Bestiary 3 pg. 19
+15,Rare,Tolokand,Aberration; Rare,Large,Bestiary 3 pg. 272
+15,Rare,Clockwork Cannoneer,Clockwork; Construct; Mindless; Rare,Huge,Impossible Lands pg. 325
+15,Unique,Halspin the Stung,Catfolk; Humanoid; Unique,Medium,Pathfinder #167: Ready? Fight! pg. 40
+15,Unique,Joon-seo,Humanoid; Samsaran; Unique,Medium,Pathfinder #167: Ready? Fight! pg. 41
+15,Unique,Yarrika,Human; Humanoid; Unique,Medium,Pathfinder #167: Ready? Fight! pg. 34
+15,Unique,Zashathal Head-Taker,Humanoid; Unique; Xulgath,Medium,Pathfinder #154: Siege of the Dinosaurs pg. 90
+15,Unique,Yoh Souran,Human; Humanoid; Unique,Medium,Pathfinder #168: King of the Mountain pg. 90
+15,Unique,Zuferian,Human; Humanoid; Unique,Medium,Pathfinder #148: Fires of the Haunted City pg. 37
+15,Unique,Ancient Skaveling,Undead; Unique,Large,Pathfinder #184: The Ghouls Hunger pg. 63
+15,Unique,Hana's Hundreds,Human; Humanoid; Troop; Unique,Medium,Pathfinder #166: Despair on Danger Island pg. 51
+15,Unique,Ilssrah Embermead,Dwarf; Humanoid; Unique,Medium,Pathfinder #148: Fires of the Haunted City pg. 88
+15,Uncommon,Popobawa,Humanoid; Uncommon,Medium,Bestiary 3 pg. 206
+15,Common,Scarlet Triad Mage,Human; Humanoid; Tiefling,Medium,Pathfinder #149: Against the Scarlet Triad pg. 57
+15,Common,Taiga Yai,Fiend; Giant; Humanoid; Oni,Huge,Pathfinder #167: Ready? Fight! pg. 81
+15,Uncommon,Adult Sovereign Dragon,Dragon; Earth; Uncommon,Huge,Bestiary 3 pg. 82
+15,Uncommon,Adult Umbral Dragon,Dragon; Shadow; Uncommon,Huge,Bestiary 2 pg. 962.0
+15,Rare,Amihan,Human; Humanoid; Rare,Medium,Pathfinder #167: Ready? Fight! pg. 40
+15,Common,Black Scorpion,Animal,Gargantuan,Bestiary 2 pg. 2342.0
+15,Rare,Contemplative Meditant,Aberration; Rare,Medium,Pathfinder #173: Doorway to the Red Star pg. 80
+15,Unique,Helg Eats-The-Eaters,Aberration; Unique,Large,Pathfinder #154: Siege of the Dinosaurs pg. 86
+15,Uncommon,Hyakume,Aberration; Uncommon,Large,Bestiary 3 pg. 139
+15,Unique,Lantondo,Construct; Unique; Wyrwood,Small,Pathfinder #167: Ready? Fight! pg. 35
+15,Rare,Maalya,Human; Humanoid; Rare,Medium,Pathfinder #167: Ready? Fight! pg. 40
+15,Rare,Red Guard Ant,Beast; Rare,Large,Pathfinder #174: Shadows of the Ancients pg. 72
+15,Rare,Scarlet Triad Enforcer,Human; Humanoid; Rare,Medium,Pathfinder #149: Against the Scarlet Triad pg. 41
+15,Unique,The Stabbing Beast,Fiend; Herald; Unique,Huge,Pathfinder #160: Assault on Hunting Lodge Seven pg. 85
+15,Uncommon,Viskithrel,Beast; Uncommon,Huge,Pathfinder #156: The Apocalypse Prophet pg. 84
+15,Unique,Grave Spinosaurus,Animal; Dinosaur; Unique,Gargantuan,Pathfinder #166: Despair on Danger Island pg. 32
+15,Common,Marrmora,Fey; Fire,Medium,Bestiary 2 pg. 1712.0
+15,Rare,Xulgath Thoughtmaw,Amphibious; Humanoid; Rare; Xulgath,Medium,Pathfinder #156: The Apocalypse Prophet pg. 85
+15,Unique,Mpondo,Human; Humanoid; Unique,Medium,Pathfinder #173: Doorway to the Red Star pg. 20
+15,Rare,Convergent Giant Eagle,Beast; Rare,Large,Pathfinder #156: The Apocalypse Prophet pg. 13
+15,Rare,Dread Roc,Animal; Rare,Gargantuan,Pathfinder #166: Despair on Danger Island pg. 30
+15,Unique,Somnalu,Aberration; Dream; Unique,Huge,Monsters of Myth pg. 88
+15,Uncommon,Sanzuwu,Beast; Fire; Uncommon,Tiny,Pathfinder #168: King of the Mountain pg. 85
+15,Uncommon,Shoal Linnorm,Amphibious; Dragon; Uncommon,Gargantuan,Bestiary 2 pg. 1642.0
+15,Uncommon,Arms Of Balance,Human; Humanoid; Uncommon,Medium,Pathfinder #167: Ready? Fight! pg. 33
+15,Unique,Grandfather Mantis,Minion; Monitor; Spirit; Unique,Medium,Pathfinder #167: Ready? Fight! pg. 35
+15,Common,Mukradi,Beast,Gargantuan,Bestiary pg. 239
+15,Rare,Planar Terra-Cotta Squadron,Construct; Rare; Troop,Medium,Pathfinder #166: Despair on Danger Island pg. 53
+15,Uncommon,Sordesdaemon,Daemon; Fiend; Uncommon,Large,Pathfinder #162: Ruins of the Radiant Siege pg. 78
+15,Common,Quelaunt,Aberration,Large,Bestiary pg. 273
+15,Uncommon,Berberoka,Giant; Humanoid; Uncommon,Huge,Pathfinder #166: Despair on Danger Island pg. 82
+15,Unique,"Redacted, The Weaver In Dreams",Aberration; Human; Humanoid; Unique,Medium,Dark Archive pg. 16
+15,Uncommon,Azure Worm,Amphibious; Animal; Uncommon,Gargantuan,Bestiary pg. 57
+15,Uncommon,Umonlee,Amphibious; Beast; Cold; Uncommon,Huge,Bestiary 2 pg. 2712.0
+15,Rare,Wild Hunt Horse,Fey; Rare; Wild Hunt,Large,Kingmaker Adventure Path pg. 617
+15,Common,Adult Gold Dragon,Dragon; Fire,Huge,Bestiary pg. 124
+15,Uncommon,Ancient White Dragon,Cold; Dragon; Uncommon,Huge,Bestiary pg. 115
+15,Unique,Artus Rodrivan,Elf; Human; Humanoid; Unique,Medium,Pathfinder #167: Ready? Fight! pg. 35
+15,Rare,Troll Guard,Giant; Rare; Troll,Large,Kingmaker Adventure Path pg. 383
+15,Uncommon,Bellator Mortus Soldier,Human; Humanoid; Uncommon,Medium,Pathfinder #186: Ghost King's Rage pg. 39
+15,Uncommon,Kilia Mwibo,Plant; Uncommon,Huge,Pathfinder #172: Secrets of the Temple City pg. 84
+15,Uncommon,Neothelid,Aberration; Uncommon,Gargantuan,Bestiary 2 pg. 1812.0
+15,Rare,Immortal Ichor,Ooze; Rare,Medium,Pathfinder #149: Against the Scarlet Triad pg. 88
+15,Unique,Villamor Koth,Human; Humanoid; Unique,Medium,Kingmaker Adventure Path pg. 347
+15,Rare,Jotund Troll,Giant; Mutant; Rare; Troll,Huge,Bestiary 2 pg. 2672.0
+15,Rare,Toshigami,Kami; Rare; Spirit,Medium,Bestiary 3 pg. 145
+15,Uncommon,Dybbuk,Incorporeal; Spirit; Uncommon; Undead,Medium,Bestiary 3 pg. 88
+15,Unique,Watchtower Shadow,Incorporeal; Undead; Unique,Medium,Pathfinder #166: Despair on Danger Island pg. 36
+15,Unique,Tollvych,Ghost; Incorporeal; Spirit; Undead; Unique,Medium,Pathfinder #173: Doorway to the Red Star pg. 27
+15,Rare,Ghostly Guard,Ghost; Incorporeal; Rare; Spirit; Undead,Medium,Kingmaker Adventure Path pg. 461
+15,Unique,Aliriel,Shadow; Undead; Unique; Vampire,Medium,Shadows at Sundown pg. 47
+15,Rare,Nosferatu Overlord,Rare; Undead; Vampire,Medium,Bestiary 3 pg. 285
+15,Rare,Demilich,Rare; Undead,Tiny,Bestiary pg. 222
+15,Unique,Taon,Undead; Unique,Medium,Pathfinder #173: Doorway to the Red Star pg. 31
+15,Unique,Hyrune Loxenna,Undead; Unique; Vampire,Medium,Pathfinder #184: The Ghouls Hunger pg. 90
+15,Common,Hegessik,Monitor; Protean,Large,Pathfinder #162: Ruins of the Radiant Siege pg. 80
+15,Rare,Horde Lich,Rare; Undead,Medium,Book of the Dead pg. 121
+15,Uncommon,Nemhaith,Incorporeal; Spirit; Uncommon; Undead,Medium,Bestiary 3 pg. 185
+15,Rare,Kargstaad's Giant,Cold; Giant; Humanoid; Rare,Large,Kingmaker Adventure Path pg. 434
+15,Uncommon,Graveknight Champion,Uncommon; Undead,Medium,Pathfinder #172: Secrets of the Temple City pg. 83
+15,Common,Gallowdead,Undead,Medium,Book of the Dead pg. 94
+15,Common,Hollow Serpent,Undead,Large,Book of the Dead pg. 114
+15,Unique,Lyrt Cozurn,Incorporeal; Spirit; Undead; Unique,Medium,Pathfinder #154: Siege of the Dinosaurs pg. 40
+15,Unique,Accursed Forge-Spurned,Fire; Undead; Unique,Large,Pathfinder #148: Fires of the Haunted City pg. 32
+15,Common,Shraen Graveknight,Undead,Medium,Pathfinder #155: Lord of the Black Sands pg. 52
+15,Rare,Phoenix,Beast; Fire; Rare,Gargantuan,Bestiary pg. 261
+15,Rare,Factbound Nullifier,Rare; Undead,Medium,Pathfinder #185: A Taste of Ashes pg. 84
+15,Common,Soulbound Ruin,Construct; Undead,Gargantuan,Pathfinder #148: Fires of the Haunted City pg. 85
+15,Rare,Ectoplasmic Amalgam,Rare; Undead,Large,Pathfinder #186: Ghost King's Rage pg. 34
+15,Common,Sykever,Darvakka; Shadow; Undead,Huge,Book of the Dead pg. 83
+15,Common,Wemmuth,Plant,Huge,Bestiary pg. 326
+15,Uncommon,Necrohulk Smasher,Mutant; Uncommon; Undead,Large,Pathfinder #185: A Taste of Ashes pg. 87
+16,Rare,Love Siktempora,Rare; Siktempora; Time,Medium,Bestiary 3 pg. 233
+16,Rare,Mithral Golem,Construct; Golem; Mindless; Rare,Huge,Bestiary 3 pg. 117
+16,Unique,Gedovius,Beast; Earth; Unique,Medium,Kingmaker Adventure Path pg. 391
+16,Uncommon,"Elemental Vessel, Water",Aquatic; Elemental; Uncommon; Water,Large,Pathfinder #161: Belly of the Black Whale pg. 82
+16,Uncommon,Obsidian Golem,Construct; Golem; Mindless; Uncommon,Large,Pathfinder #155: Lord of the Black Sands pg. 80
+16,Rare,Wheel Archon,Archon; Celestial; Rare,Huge,Pathfinder #183: Field of Maidens pg. 82
+16,Common,Astradaemon,Daemon; Fiend,Large,Bestiary pg. 73
+16,Rare,Formian Mageslayer,Formian; Mutant; Rare,Medium,Pathfinder #173: Doorway to the Red Star pg. 83
+16,Uncommon,Bythos,Aeon; Monitor; Uncommon,Large,Bestiary 2 pg. 102.0
+16,Unique,Syu Tak-nwa (Level 16),Human; Humanoid; Unique,Medium,Pathfinder #167: Ready? Fight! pg. 35
+16,Uncommon,Shabti Slayer,Humanoid; Shabti; Uncommon,Medium,Pathfinder #186: Ghost King's Rage pg. 84
+16,Rare,Spiritbound Aluum,Construct; Mindless; Rare; Soulbound,Large,Pathfinder #149: Against the Scarlet Triad pg. 83
+16,Rare,Clockwork Dragon,Clockwork; Construct; Mindless; Rare,Huge,Bestiary 3 pg. 51
+16,Unique,The Vanish Man,Humanoid; Unique,Medium,Pathfinder #154: Siege of the Dinosaurs pg. 47
+16,Rare,Ancient Crystal Dragon,Dragon; Earth; Elemental; Rare,Gargantuan,Bestiary 2 pg. 922.0
+16,Common,Ecorche,Undead,Medium,Book of the Dead pg. 90
+16,Rare,Melodic Squalls,Air; Elemental; Rare,Huge,Pathfinder #167: Ready? Fight! pg. 57
+16,Unique,Engelidis,Aberration; Unique,Large,Kingmaker Adventure Path pg. 393
+16,Common,Shadow Yai,Fiend; Giant; Humanoid; Oni; Shadow,Large,Pathfinder #167: Ready? Fight! pg. 80
+16,Unique,Skartitch Chip-Tooth,Humanoid; Ratfolk; Unique,Small,Pathfinder #173: Doorway to the Red Star pg. 51
+16,Rare,Thresholder Hermeticist,Human; Humanoid; Rare,Medium,Kingmaker Adventure Path pg. 407
+16,Common,Zaramuun,Earth; Elemental,Large,Bestiary pg. 339
+16,Rare,Alate Ant,Beast; Rare,Large,Pathfinder #174: Shadows of the Ancients pg. 72
+16,Rare,Ancient Underworld Dragon,Dragon; Fire; Rare,Gargantuan,Bestiary 3 pg. 85
+16,Unique,Grogrisant,Beast; Primal; Unique,Huge,Monsters of Myth pg. 34
+16,Unique,Kob Moleg,Earth; Giant; Humanoid; Unique,Large,Kingmaker Adventure Path pg. 352
+16,Uncommon,Precentor,Fiend; Uncommon; Velstrac,Medium,Pathfinder #147: Tomorrow Must Burn pg. 85
+16,Unique,Qormintur,Duergar; Dwarf; Humanoid; Unique,Medium,Pathfinder #155: Lord of the Black Sands pg. 90
+16,Unique,Tamikan,Dragon; Unique,Large,Pathfinder #166: Despair on Danger Island pg. 39
+16,Unique,Blue Viper (Level 16),Humanoid; Ratfolk; Unique,Small,Pathfinder #167: Ready? Fight! pg. 36
+16,Unique,Castruccio Irovetti,Human; Humanoid; Unique,Medium,Kingmaker Adventure Path pg. 593
+16,Common,Cornugon,Devil; Fiend,Large,"Bestiary 2 pg. 762.0 , Pathfinder #149: Against the Scarlet Triad pg. 87"
+16,Rare,Crawling Slurry,Acid; Mindless; Ooze; Rare,Medium,Pathfinder #174: Shadows of the Ancients pg. 82
+16,Rare,Elder Sphinx,Beast; Rare,Huge,Bestiary 3 pg. 250
+16,Rare,Gray Gardener Director General,Human; Humanoid; Rare,Medium,Night of the Gray Death pg. 21
+16,Rare,Inmyeonjo,Air; Beast; Rare,Huge,Pathfinder #168: King of the Mountain pg. 82
+16,Unique,Lorthact,Devil; Fiend; Unique,Medium,Shadows at Sundown pg. 62
+16,Rare,Muurfeli,Air; Elemental; Genie; Rare,Large,Pathfinder #155: Lord of the Black Sands pg. 78
+16,Uncommon,Planetar,Angel; Celestial; Uncommon,Large,Bestiary 2 pg. 152.0
+16,Rare,Rai Sho Disciple,Human; Humanoid; Rare,Medium,Pathfinder #168: King of the Mountain pg. 14
+16,Unique,Shino Hakusa (Level 16),Human; Humanoid; Unique,Medium,Pathfinder #167: Ready? Fight! pg. 36
+16,Unique,Veshumirix,Dragon; Fire; Unique,Huge,Pathfinder #148: Fires of the Haunted City pg. 90
+16,Rare,Vilderavn,Fey; Rare,Medium,Bestiary 3 pg. 287
+16,Rare,Wereant Disciple,Beast; Human; Humanoid; Rare; Werecreature,Medium,Pathfinder #174: Shadows of the Ancients pg. 86
+16,Unique,Worknesh,Human; Humanoid; Unique,Medium,Pathfinder #172: Secrets of the Temple City pg. 952
+16,Common,Zomok,Dragon; Plant,Gargantuan,Bestiary 2 pg. 3032.0
+16,Rare,Convergent Soldier,Human; Humanoid; Rare,Medium,Pathfinder #156: The Apocalypse Prophet pg. 14
+16,Uncommon,Fjord Linnorm,Amphibious; Dragon; Uncommon,Gargantuan,Bestiary 2 pg. 1652.0
+16,Uncommon,Shobhad Enforcer,Humanoid; Uncommon,Large,Pathfinder #173: Doorway to the Red Star pg. 88
+16,Uncommon,Ancient Black Dragon,Acid; Amphibious; Dragon; Uncommon,Huge,Bestiary pg. 106
+16,Uncommon,Ancient Brass Dragon,Dragon; Fire; Uncommon,Huge,Bestiary pg. 118
+16,Uncommon,Rune Giant,Evil; Giant; Humanoid; Uncommon,Gargantuan,Bestiary pg. 175
+16,Rare,Thorn Guardian,Construct; Mindless; Rare,Small,Pathfinder #174: Shadows of the Ancients pg. 19
+16,Uncommon,Saurian Warmonger,Dinosaur; Humanoid; Uncommon,Huge,Pathfinder #156: The Apocalypse Prophet pg. 80
+16,Rare,Wild Hunt Archer,Fey; Rare; Wild Hunt,Medium,Kingmaker Adventure Path pg. 618
+16,Common,Shemhazian,Demon; Fiend,Gargantuan,Bestiary pg. 80
+16,Rare,Rai Sho Postulant,Humanoid; Rare,Large,Pathfinder #168: King of the Mountain pg. 13
+16,Uncommon,Kemnebi's Puppets,Human; Humanoid; Uncommon,Medium,Pathfinder #186: Ghost King's Rage pg. 44
+16,Uncommon,Grootslang,Beast; Uncommon,Gargantuan,The Mwangi Expanse pg. 2982.0
+16,Rare,Storm-Struck Arboreal,Plant; Rare,Huge,Kingmaker Adventure Path pg. 447
+16,Unique,Ran-to (Level 16),Goblin; Humanoid; Unique,Small,Pathfinder #167: Ready? Fight! pg. 37
+16,Uncommon,Rival Necromancer,Human; Humanoid; Uncommon,Medium,Pathfinder #186: Ghost King's Rage pg. 30
+16,Rare,Siabrae,Rare; Undead,Medium,Book of the Dead pg. 145
+16,Unique,The Gardener Creature,Ghost; Incorporeal; Spirit; Undead; Unique,Small,Kingmaker Adventure Path pg. 364
+16,Unique,Zinogyvaz,Undead; Unique; Vampire,Large,Pathfinder #155: Lord of the Black Sands pg. 35
+16,Rare,Lesser Death,Rare; Undead,Medium,Bestiary pg. 197
+16,Uncommon,Theater Phantasm,Incorporeal; Uncommon; Undead,Large,Pathfinder #185: A Taste of Ashes pg. 89
+16,Rare,Facetbound Cascader,Rare; Undead,Medium,Pathfinder #185: A Taste of Ashes pg. 85
+16,Unique,War Champion Kharostan,Fiend; Humanoid; Unique; Urdefhan,Large,Pathfinder #155: Lord of the Black Sands pg. 88
+16,Unique,Watchtower Wraith,Incorporeal; Undead; Unique; Wraith,Medium,Pathfinder #166: Despair on Danger Island pg. 36
+16,Common,Sumbreiva,Humanoid; Negative,Large,Bestiary 3 pg. 260
+16,Unique,Korog,Undead; Unique,Medium,Kingmaker Adventure Path pg. 403
+16,Rare,Pale Sovereign,Rare; Undead,Medium,Book of the Dead pg. 136
+16,Uncommon,Warsworn,Uncommon; Undead,Gargantuan,Bestiary pg. 323
+16,Uncommon,Rival Corpsekiller,Human; Humanoid; Uncommon,Medium,Pathfinder #186: Ghost King's Rage pg. 30
+17,Unique,Mafika Ayuwari,Human; Humanoid; Unique,Medium,Pathfinder #167: Ready? Fight! pg. 38
+17,Uncommon,Formian Queen,Formian; Uncommon,Large,Pathfinder #173: Doorway to the Red Star pg. 84
+17,Rare,Whimwyrm,Air; Dragon; Rare,Medium,Kingmaker Adventure Path pg. 615
+17,Common,Deimavigga,Devil; Fiend,Medium,Bestiary 3 pg. 66
+17,Unique,Ghiasi The Unraveler,Shadow; Unique,Medium,Pathfinder #185: A Taste of Ashes pg. 91
+17,Uncommon,Maliadi,Beast; Uncommon,Gargantuan,The Mwangi Expanse pg. 3022.0
+17,Rare,Eseneth,Monitor; Psychopomp; Rare,Medium,Pathfinder #186: Ghost King's Rage pg. 83
+17,Unique,Koto Zekora,Fiend; Giant; Humanoid; Oni; Unique,Large,Pathfinder #166: Despair on Danger Island pg. 55
+17,Common,Water Yai,Fiend; Giant; Humanoid; Oni; Water,Huge,Bestiary 2 pg. 1912.0
+17,Unique,Kas Xi Rai,Human; Humanoid; Unique,Medium,Pathfinder #167: Ready? Fight! pg. 23
+17,Uncommon,Radiant Warden,Construct; Uncommon,Gargantuan,Bestiary 2 pg. 2202.0
+17,Rare,Alapolo,Fey; Rare; Shadow,Medium,Pathfinder #174: Shadows of the Ancients pg. 80
+17,Uncommon,Gumiho,Fey; Uncommon,Medium,Pathfinder #168: King of the Mountain pg. 81
+17,Uncommon,Ancient Green Dragon,Amphibious; Dragon; Uncommon,Gargantuan,Bestiary pg. 110
+17,Unique,Dead Fane,Human; Humanoid; Unique,Medium,Pathfinder #186: Ghost King's Rage pg. 51
+17,Uncommon,Leydroth,Beast; Uncommon,Large,Bestiary 2 pg. 1632.0
+17,Rare,Red Commander Ant,Beast; Rare,Huge,Pathfinder #174: Shadows of the Ancients pg. 73
+17,Common,Scarlet Triad Boss,Human; Humanoid,Medium,Pathfinder #149: Against the Scarlet Triad pg. 57
+17,Rare,Thresholder Mystic,Human; Humanoid; Rare,Medium,Kingmaker Adventure Path pg. 408
+17,Uncommon,Wendigo,Beast; Cold; Uncommon,Large,Bestiary pg. 327
+17,Uncommon,Camarach,Monitor; Uncommon,Gargantuan,Pathfinder #162: Ruins of the Radiant Siege pg. 77
+17,Uncommon,Lusca,Aberration; Aquatic; Uncommon,Gargantuan,Pathfinder #161: Belly of the Black Whale pg. 83
+17,Uncommon,Shobhad Sniper,Humanoid; Uncommon,Large,Pathfinder #173: Doorway to the Red Star pg. 89
+17,Rare,Ancient Brine Dragon,Amphibious; Dragon; Elemental; Rare; Water,Gargantuan,Bestiary 2 pg. 882.0
+17,Unique,Bshez “Sand Claws” Shak,Human; Humanoid; Unique,Medium,Pathfinder #149: Against the Scarlet Triad pg. 34
+17,Uncommon,Ice Linnorm,Cold; Dragon; Uncommon,Gargantuan,Bestiary pg. 225
+17,Rare,Promise Guard,Human; Humanoid; Rare,Medium,Pathfinder #150: Broken Promises pg. 29
+17,Unique,Rezatha,Beast; Unique,Huge,Kingmaker Adventure Path pg. 392
+17,Rare,Ankou Assassin,Fey; Rare,Large,Kingmaker Adventure Path pg. 462
+17,Common,Vaspercham,Aberration; Aquatic,Huge,Bestiary 2 pg. 2792.0
+17,Rare,Qurashith,Aberration; Fiend; Rare,Huge,Pathfinder #154: Siege of the Dinosaurs pg. 82
+17,Rare,Xotanispawn,Animal; Fire; Rare,Large,Pathfinder #149: Against the Scarlet Triad pg. 91
+17,Uncommon,Ancient Copper Dragon,Dragon; Earth; Uncommon,Huge,Bestiary pg. 122
+17,Rare,Ancient Sea Dragon,Amphibious; Dragon; Rare; Water,Gargantuan,Bestiary 3 pg. 78
+17,Rare,Thrasfyr,Beast; Fire; Rare; Tane,Huge,Bestiary 2 pg. 2582.0
+17,Rare,Wereant Poisoner,Beast; Human; Humanoid; Rare; Werecreature,Medium,Pathfinder #174: Shadows of the Ancients pg. 87
+17,Unique,Cuetzmonquali,Beast; Fire; Unique,Huge,Monsters of Myth pg. 16
+17,Rare,Bloomborn Athach,Giant; Humanoid; Rare,Huge,Kingmaker Adventure Path pg. 434
+17,Rare,Avatar Of Walkena,Divine; Humanoid; Rare,Huge,Pathfinder #172: Secrets of the Temple City pg. 60
+17,Unique,Kimilekki,Demon; Fiend; Unique,Huge,Pathfinder #156: The Apocalypse Prophet pg. 17
+17,Common,Marilith,Demon; Fiend,Large,Bestiary pg. 81
+17,Common,Ximtal,Fiend; Sahkil,Large,Bestiary 3 pg. 221
+17,Common,Firebrand Bastion,Human; Humanoid,Medium,Pathfinder #186: Ghost King's Rage pg. 53
+17,Unique,Ruby,Halfling; Humanoid; Unique,Small,Pathfinder #186: Ghost King's Rage pg. 52
+17,Uncommon,Banshee,Incorporeal; Spirit; Uncommon; Undead,Medium,Bestiary pg. 34
+17,Rare,Fluxwraith,Incorporeal; Rare; Spirit; Undead,Medium,Book of the Dead pg. 93
+17,Rare,Lignified Adamantine Golem,Construct; Golem; Mindless; Rare,Large,Pathfinder #174: Shadows of the Ancients pg. 16
+17,Unique,Dwandek,Undead; Unique,Medium,Pathfinder #173: Doorway to the Red Star pg. 32
+17,Rare,Wyrmwraith,Dragon; Incorporeal; Rare; Undead; Wraith,Gargantuan,"Bestiary 3 pg. 296, Pathfinder #150: Broken Promises pg. 84"
+17,Common,Keketar,Monitor; Protean,Large,Bestiary pg. 269
+17,Rare,Ingnovim's Assistants,Human; Humanoid; Rare,Medium,Pathfinder #150: Broken Promises pg. 40
+17,Rare,Drowned Mummy,Amphibious; Mummy; Rare; Undead,Medium,Pathfinder #186: Ghost King's Rage pg. 81
+17,Rare,Gray Gardener Enforcer,Human; Humanoid; Mortic; Rare,Medium,Night of the Gray Death pg. 14
+17,Rare,Tenebric Giant,Rare; Shadow; Undead,Large,Pathfinder #185: A Taste of Ashes pg. 88
+17,Unique,Seldeg Bheldis,Undead; Unique,Medium,Pathfinder #186: Ghost King's Rage pg. 36
+18,Rare,Hatred Siktempora,Rare; Siktempora; Time,Medium,Bestiary 3 pg. 235
+18,Rare,Ravager Of Tindalos,Aberration; Rare; Time,Large,Pathfinder #173: Doorway to the Red Star pg. 39
+18,Unique,Razu,Humanoid; Tengu; Unique,Medium,Pathfinder #167: Ready? Fight! pg. 90
+18,Rare,Animated Dragonstorms,Construct; Mindless; Rare,Huge,Pathfinder #150: Broken Promises pg. 10
+18,Rare,Aolaz,Construct; Rare,Gargantuan,Bestiary 2 pg. 212.0
+18,Unique,Yabin The Just (White Serpent Form),Humanoid; Nagaji; Unique,Medium,Pathfinder #168: King of the Mountain pg. 48
+18,Uncommon,Shabti Votary,Humanoid; Shabti; Uncommon,Medium,Pathfinder #186: Ghost King's Rage pg. 85
+18,Rare,Guillotine Golem,Rare,Medium,Night of the Gray Death pg. 32
+18,Unique,Unshadowed Anchor Root,Gnoll; Humanoid; Unique,Small,Pathfinder #174: Shadows of the Ancients pg. 23
+18,Unique,Unshadowed Mariama,Human; Humanoid; Unique,Medium,Pathfinder #174: Shadows of the Ancients pg. 20
+18,Unique,Unshadowed Okoro,Human; Humanoid; Unique,Medium,Pathfinder #174: Shadows of the Ancients pg. 18
+18,Rare,Ararda,Earth; Elemental; Genie; Rare,Large,Pathfinder #155: Lord of the Black Sands pg. 79
+18,Rare,Fleshforged Dreadnought,Construct; Mindless; Rare,Gargantuan,Impossible Lands pg. 328
+18,Uncommon,Skulltaker,Uncommon; Undead,Huge,Bestiary pg. 300
+18,Common,Tumblak,Fiend; Incorporeal; Sahkil,Medium,Night of the Gray Death pg. 71
+18,Rare,Flying Mountain Kaminari,Humanoid; Kami; Rare,Huge,Pathfinder #168: King of the Mountain pg. 23
+18,Unique,Tino (Oni Form),Fiend; Giant; Humanoid; Oni; Unique,Large,Pathfinder #168: King of the Mountain pg. 47
+18,Rare,Barbtongued Wyvern,Dragon; Rare,Huge,Kingmaker Adventure Path pg. 469
+18,Uncommon,Saurian Worldwatcher,Dinosaur; Humanoid; Uncommon,Huge,Pathfinder #156: The Apocalypse Prophet pg. 81
+18,Unique,Unshadowed Haibram,Dwarf; Humanoid; Unique,Medium,Pathfinder #174: Shadows of the Ancients pg. 24
+18,Unique,Ji-Yook (Gumiho Form),Humanoid; Kitsune; Unique; Zombie,Medium,Pathfinder #168: King of the Mountain pg. 47
+18,Unique,Takatorra (Daitengu Form),Humanoid; Tengu; Unique,Medium,Pathfinder #168: King of the Mountain pg. 48
+18,Rare,Ancient Sky Dragon,Dragon; Electricity; Rare,Gargantuan,Bestiary 3 pg. 80
+18,Unique,Cloudsplitter,Air; Fire; Phantom; Spirit; Unique,Large,Pathfinder #168: King of the Mountain pg. 19
+18,Rare,Contemplative Mentor,Aberration; Rare,Medium,Pathfinder #173: Doorway to the Red Star pg. 81
+18,Common,Purrodaemon,Daemon; Fiend,Large,Bestiary 2 pg. 612.0
+18,Unique,Red Queen,Beast; Unique,Huge,Pathfinder #174: Shadows of the Ancients pg. 41
+18,Rare,Worm Prophet,Human; Humanoid; Rare,Medium,Night of the Gray Death pg. 47
+18,Common,Ghiono,Shadow,Medium,Pathfinder #186: Ghost King's Rage pg. 62
+18,Rare,Cataclysm Beetle,Beast; Rare,Huge,Pathfinder #174: Shadows of the Ancients pg. 40
+18,Common,Duneshaker Solifugid,Animal,Gargantuan,"Bestiary 2 pg. 2462.0 , Pathfinder #149: Against the Scarlet Triad pg. 89"
+18,Unique,Ishti,Beast; Unique,Large,Pathfinder #149: Against the Scarlet Triad pg. 47
+18,Unique,Jin-Hae,Ethereal; Phantom; Spirit; Unique,Medium,Pathfinder #168: King of the Mountain pg. 18
+18,Rare,Myrucarx,Aberration; Rare,Large,Pathfinder #161: Belly of the Black Whale pg. 85
+18,Unique,Abbot Tsujon,Humanoid; Samsaran; Unique,Medium,Pathfinder #168: King of the Mountain pg. 15
+18,Rare,Ammut,Fiend; Rare,Huge,Pathfinder #155: Lord of the Black Sands pg. 77
+18,Rare,Fetch Stalker,Fey; Plant; Rare,Medium,Kingmaker Adventure Path pg. 612
+18,Rare,Simurgh,Beast; Rare,Gargantuan,Bestiary pg. 295
+18,Unique,The Horned Hunter,Fey; Unique,Medium,Kingmaker Adventure Path pg. 431
+18,Uncommon,Vavakia,Demon; Fiend; Uncommon,Huge,Pathfinder #156: The Apocalypse Prophet pg. 79
+18,Unique,Hollow Hush,Aberration; Unique,Large,Pathfinder #155: Lord of the Black Sands pg. 39
+18,Uncommon,Ancient Bronze Dragon,Amphibious; Dragon; Uncommon; Water,Gargantuan,Bestiary pg. 120
+18,Uncommon,Cairn Linnorm,Dragon; Uncommon,Gargantuan,Bestiary 2 pg. 1662.0
+18,Rare,Desecrated Guardian,Construct; Rare,Gargantuan,Pathfinder #168: King of the Mountain pg. 80
+18,Uncommon,Kraken,Aquatic; Beast; Uncommon,Gargantuan,Bestiary pg. 214
+18,Uncommon,Ancient Blue Dragon,Dragon; Electricity; Uncommon,Huge,Bestiary pg. 108
+18,Rare,Wild Hunt Scout,Fey; Rare; Wild Hunt,Medium,Kingmaker Adventure Path pg. 619
+18,Common,Winged Owlbear,Animal,Gargantuan,Kingmaker Adventure Path pg. 451
+18,Rare,Ancient Magma Dragon,Dragon; Elemental; Fire; Rare,Gargantuan,"Bestiary 2 pg. 952.0 , Pathfinder #148: Fires of the Haunted City pg. 81"
+18,Rare,Dragonstorm Fire Giant,Giant; Humanoid; Rare,Huge,Pathfinder #150: Broken Promises pg. 12
+18,Unique,Taljjae,Fey; Unique,Large,Monsters of Myth pg. 100
+18,Rare,Tree That Weeps,Plant; Rare,Gargantuan,Kingmaker Adventure Path pg. 117
+18,Rare,Bone Ship,Rare; Undead,Gargantuan,Bestiary 3 pg. 34
+18,Uncommon,Children Of Mhar,Aberration; Uncommon,Huge,Pathfinder #156: The Apocalypse Prophet pg. 78
+18,Rare,Portal Eater,Astral; Rare,Gargantuan,Pathfinder #167: Ready? Fight! pg. 56
+18,Rare,Soul Slime,Mindless; Ooze; Rare,Large,Pathfinder #186: Ghost King's Rage pg. 87
+18,Unique,The Misbegotten Troll,Giant; Troll; Unique,Large,Kingmaker Adventure Path pg. 437
+18,Rare,Minchgorm,Aquatic; Fey; Rare; Water,Huge,Pathfinder #161: Belly of the Black Whale pg. 84
+18,Rare,Chromatic Ooze,Mindless; Ooze; Rare,Large,Pathfinder #174: Shadows of the Ancients pg. 81
+18,Rare,Mandragora Swarm,Plant; Rare; Swarm,Large,Kingmaker Adventure Path pg. 430
+18,Rare,Leng Envoy,Aberration; Dream; Rare,Medium,Kingmaker Adventure Path pg. 416
+18,Unique,Vice-Chancellor Vikroti Stroh,Undead; Unique,Medium,Pathfinder #186: Ghost King's Rage pg. 42
+18,Rare,Adamantine Golem,Construct; Golem; Mindless; Rare,Huge,Bestiary pg. 189
+18,Rare,Shoggoth,Aberration; Amphibious; Rare,Huge,Bestiary pg. 293
+18,Rare,Aiudara Wraith,Astral; Incorporeal; Rare; Undead; Wraith,Medium,Pathfinder #150: Broken Promises pg. 78
+18,Uncommon,Thulgant,Fiend; Qlippoth; Uncommon,Large,Bestiary 2 pg. 2172.0
+18,Unique,Shianshi Waymaker,Humanoid; Negative; Unique,Large,Pathfinder #174: Shadows of the Ancients pg. 21
+18,Unique,Pokmit Bloody-Pike,Undead; Unique,Medium,Pathfinder #185: A Taste of Ashes pg. 92
+18,Rare,Orochi,Amphibious; Beast; Rare,Gargantuan,Pathfinder #168: King of the Mountain pg. 84
+18,Rare,Crimson Worm,Beast; Fire; Rare,Gargantuan,Bestiary pg. 59
+18,Rare,Queen Sluagh,Fey; Rare; Undead,Huge,Book of the Dead pg. 151
+18,Rare,Vitalia,Aberration; Aquatic; Mindless; Rare,Large,Pathfinder #155: Lord of the Black Sands pg. 84
+18,Common,Urveth,Darvakka; Shadow; Undead,Gargantuan,Book of the Dead pg. 84
+19,Uncommon,Necromancer Troop,Humanoid; Troop; Uncommon,Gargantuan,Pathfinder #186: Ghost King's Rage pg. 40
+19,Unique,Matron Uldrula,Monitor; Psychopomp; Unique,Medium,Pathfinder #186: Ghost King's Rage pg. 90
+19,Uncommon,Sturzstromer,Aberration; Earth; Swarm; Uncommon,Huge,Bestiary 3 pg. 52
+19,Unique,Unshadowed Koride,Human; Humanoid; Unique,Medium,Pathfinder #174: Shadows of the Ancients pg. 90
+19,Unique,Minognos-Ushad,Dragon; Unique,Huge,Kingmaker Adventure Path pg. 118
+19,Unique,Phomandala,Dragon; Humanoid; Unique,Medium,Kingmaker Adventure Path pg. 473
+19,Unique,The King of Biting Ants,Aberration; Swarm; Unique,Medium,Pathfinder #173: Doorway to the Red Star pg. 90
+19,Uncommon,Hesperid Queen,Fey; Light; Nymph; Uncommon,Medium,Bestiary 3 pg. 191
+19,Rare,Guthallath,Construct; Rare,Gargantuan,Bestiary pg. 199
+19,Unique,Desert's Howl,Aberration; Unique,Huge,Monsters of Myth pg. 22
+19,Unique,Ingnovim,Human; Humanoid; Unique,Medium,Pathfinder #150: Broken Promises pg. 39
+19,Unique,Uri Zandivar,Hobgoblin; Human; Unique,Medium,Pathfinder #149: Against the Scarlet Triad pg. 92
+19,Rare,Ancient Cloud Dragon,Air; Dragon; Elemental; Rare,Gargantuan,Bestiary 2 pg. 902.0
+19,Unique,Foras,Human; Humanoid; Unique,Medium,Kingmaker Adventure Path pg. 595
+19,Rare,Intellect Assemblage,Construct; Rare,Medium,Pathfinder #186: Ghost King's Rage pg. 80
+19,Uncommon,Nenchuuj,Fiend; Sahkil; Uncommon,Medium,Pathfinder #162: Ruins of the Radiant Siege pg. 85
+19,Unique,Grendel,Humanoid; Unique,Large,Bestiary 2 pg. 1362.0
+19,Unique,Laruhao,Humanoid; Unique,Medium,Pathfinder #168: King of the Mountain pg. 41
+19,Rare,Terotricus,Fungus; Rare,Gargantuan,Bestiary pg. 311
+19,Rare,Vilderavn Herald,Fey; Rare,Medium,Kingmaker Adventure Path pg. 614
+19,Uncommon,Vrolikai,Demon; Fiend; Uncommon,Large,Bestiary 2 pg. 682.0
+19,Rare,Hermean Mutant,Aberration; Mutant; Rare,Medium,Pathfinder #150: Broken Promises pg. 40
+19,Uncommon,Taiga Linnorm,Dragon; Uncommon,Gargantuan,Bestiary 2 pg. 1672.0
+19,Rare,Agradaemon,Daemon; Fiend; Fire; Rare,Gargantuan,Pathfinder #162: Ruins of the Radiant Siege pg. 79
+19,Rare,Sard,Electricity; Plant; Rare; Tane,Gargantuan,Bestiary 2 pg. 2312.0
+19,Common,Star Archon,Archon; Celestial,Medium,Bestiary 2 pg. 232.0
+19,Rare,Wereant Sentinel,Beast; Human; Humanoid; Rare; Werecreature,Medium,Pathfinder #174: Shadows of the Ancients pg. 50
+19,Rare,Ancient Forest Dragon,Dragon; Plant; Rare,Gargantuan,Bestiary 3 pg. 76
+19,Uncommon,Ancient Silver Dragon,Cold; Dragon; Uncommon,Gargantuan,Bestiary pg. 127
+19,Rare,Riekanoy,Amphibious; Fey; Rare; Water,Medium,Night of the Gray Death pg. 69
+19,Uncommon,Ancient Red Dragon,Dragon; Fire; Uncommon,Huge,Bestiary pg. 112
+19,Unique,Convergent Kendley Nathrael,Elf; Human; Humanoid; Unique,Medium,Pathfinder #156: The Apocalypse Prophet pg. 86
+19,Rare,Ta'apundo,Fey; Plant; Rare,Huge,Pathfinder #174: Shadows of the Ancients pg. 85
+19,Rare,Canopy Elder,Plant; Rare,Gargantuan,Pathfinder #168: King of the Mountain pg. 78
+19,Uncommon,Gluttonworm,Beast; Uncommon,Gargantuan,Pathfinder #173: Doorway to the Red Star pg. 85
+19,Unique,Niodrhast,Aberration; Unique,Gargantuan,Kingmaker Adventure Path pg. 414
+19,Unique,Dancing Night Parade,Spirit; Troop; Unique,Gargantuan,Pathfinder #168: King of the Mountain pg. 41
+19,Unique,Teyam Ishtori,Undead; Unique,Tiny,Pathfinder #149: Against the Scarlet Triad pg. 61
+19,Rare,Runecarved Lich,Rare; Undead,Medium,Book of the Dead pg. 122
+19,Unique,Kargstaad,Cold; Giant; Humanoid; Unique,Large,Kingmaker Adventure Path pg. 448
+19,Unique,Dyzallin Shraen,Mummy; Undead; Unique,Medium,Pathfinder #155: Lord of the Black Sands pg. 86
+19,Uncommon,Tzitzimitl,Electricity; Uncommon; Undead,Gargantuan,"Bestiary 3 pg. 279, Pathfinder #150: Broken Promises pg. 82"
+19,Common,Primal Bandersnatch,Beast; Tane,Gargantuan,Kingmaker Adventure Path pg. 610
+19,Unique,"Basiri, Wellspring Keeper",Aquatic; Skeleton; Undead; Unique,Large,Pathfinder #186: Ghost King's Rage pg. 38
+20,Common,Baomal,Aberration; Aquatic,Gargantuan,Bestiary pg. 35
+20,Rare,Maharaja,Fiend; Rakshasa; Rare,Medium,Bestiary 3 pg. 211
+20,Unique,The Knurly Witch,Hag; Humanoid; Unique,Large,Kingmaker Adventure Path pg. 453
+20,Rare,Clockwork Clock Tower,Clockwork; Construct; Mindless; Rare,Gargantuan,Pathfinder #174: Shadows of the Ancients pg. 81
+20,Rare,Quantium Golem,Construct; Golem; Mindless; Rare,Gargantuan,Impossible Lands pg. 335
+20,Rare,Gray Death,Incorporeal; Rare; Spirit; Undead,Huge,Night of the Gray Death pg. 68
+20,Common,Pit Fiend,Devil; Fiend,Large,Bestiary pg. 92
+20,Common,Pleroma,Aeon; Monitor,Large,Bestiary pg. 10
+20,Unique,Ilgreth,Human; Humanoid; Unique,Medium,Pathfinder #150: Broken Promises pg. 57
+20,Unique,Shino Hakusa (Level 20),Human; Humanoid; Unique,Medium,Pathfinder #168: King of the Mountain pg. 53
+20,Unique,Syu Tak-Nwa (Level 20),Human; Humanoid; Unique,Medium,Pathfinder #168: King of the Mountain pg. 52
+20,Unique,Blue Viper (Level 20),Humanoid; Ratfolk; Unique,Medium,Pathfinder #168: King of the Mountain pg. 54
+20,Common,Draconal,Agathion; Celestial,Large,Bestiary 3 pg. 12
+20,Rare,Ancient Umbral Dragon,Dragon; Rare; Shadow,Gargantuan,Bestiary 2 pg. 972.0
+20,Unique,Emaliza Zandivar,Human; Humanoid; Unique,Medium,Pathfinder #150: Broken Promises pg. 86
+20,Common,Eremite,Fiend; Velstrac,Medium,Bestiary 2 pg. 2852.0
+20,Unique,Inizra Arumelo,Human; Humanoid; Unique,Medium,Pathfinder #150: Broken Promises pg. 88
+20,Unique,Kirosthrek,Humanoid; Unique; Xulgath,Medium,Pathfinder #156: The Apocalypse Prophet pg. 88
+20,Unique,Nai Yan Fei,Human; Humanoid; Unique,Medium,Pathfinder #166: Despair on Danger Island pg. 91
+20,Rare,Norn,Fey; Rare,Large,Bestiary 2 pg. 1842.0
+20,Unique,Nightmare Rook,Beast; Unique,Gargantuan,Kingmaker Adventure Path pg. 450
+20,Rare,Vazgorlu,Aberration; Astral; Rare,Large,Pathfinder #150: Broken Promises pg. 83
+20,Unique,Xotani,Beast; Fire; Unique,Gargantuan,Pathfinder #150: Broken Promises pg. 81
+20,Unique,Immense Mandragora,Plant; Unique,Gargantuan,Kingmaker Adventure Path pg. 450
+20,Unique,Rinnarv Bontimar,Elf; Human; Humanoid; Unique,Medium,Pathfinder #150: Broken Promises pg. 24
+20,Uncommon,Tarn Linnorm,Acid; Amphibious; Dragon; Uncommon,Gargantuan,Bestiary pg. 226
+20,Unique,Tatterthread,Fey; Unique,Large,Pathfinder #174: Shadows of the Ancients pg. 88
+20,Rare,Ancient Sovereign Dragon,Dragon; Earth; Rare,Gargantuan,Bestiary 3 pg. 83
+20,Common,Kimenhul,Fiend; Sahkil,Huge,Bestiary 3 pg. 222
+20,Unique,Irovetti's Fetch,Fey; Unique,Large,Kingmaker Adventure Path pg. 492
+20,Uncommon,Ancient Gold Dragon,Dragon; Fire; Uncommon,Gargantuan,Bestiary pg. 125
+20,Common,Olethrodaemon,Daemon; Fiend,Gargantuan,Bestiary 2 pg. 632.0
+20,Rare,Wild Hunt Monarch,Fey; Rare; Wild Hunt,Medium,Kingmaker Adventure Path pg. 620
+20,Rare,Clockwork Amalgam,Clockwork; Construct; Mindless; Rare,Large,Pathfinder #161: Belly of the Black Whale pg. 81
+20,Rare,Fetch Behemoth,Fey; Plant; Rare,Large,Kingmaker Adventure Path pg. 613
+20,Unique,Ran-To (Level 20),Goblin; Humanoid; Unique,Medium,Pathfinder #168: King of the Mountain pg. 54
+20,Common,Veranallia,Azata; Celestial,Medium,Bestiary 2 pg. 312.0
+20,Common,Balor,Demon; Fiend,Large,Bestiary pg. 83
+20,Rare,Bastion Archon,Archon; Celestial; Rare,Huge,Bestiary 2 pg. 242.0
+20,Uncommon,Last Guard,Incorporeal; Spirit; Troop; Uncommon; Undead,Gargantuan,Book of the Dead pg. 117
+20,Uncommon,Izfiitar,Monitor; Protean; Uncommon,Medium,Pathfinder #162: Ruins of the Radiant Siege pg. 81
+20,Uncommon,Yamaraj,Monitor; Psychopomp; Uncommon,Huge,Bestiary 2 pg. 2112.0
+20,Rare,Slana,Humanoid; Rare,Gargantuan,Pathfinder #174: Shadows of the Ancients pg. 84
+20,Rare,Shadow Worm,Animal; Rare; Shadow,Gargantuan,Pathfinder #186: Ghost King's Rage pg. 86
+20,Uncommon,Sthira,Cold; Uncommon; Undead,Large,Pathfinder #168: King of the Mountain pg. 87
+20,Common,Nasurgeth,Aquatic; Darvakka; Shadow; Undead,Gargantuan,Book of the Dead pg. 85
+21,Rare,Spirit Turtle,Fey; Rare,Gargantuan,Pathfinder #168: King of the Mountain pg. 86
+21,Rare,Baatamidar,Monitor; Rare,Medium,Pathfinder #162: Ruins of the Radiant Siege pg. 76
+21,Common,Mu Spore,Fungus,Gargantuan,Bestiary pg. 238
+21,Unique,Werendegar,Fey; Unique,Small,Kingmaker Adventure Path pg. 488
+21,Unique,Krampus,Humanoid; Unique,Large,Bestiary 3 pg. 154
+21,Rare,Elysian Titan,Humanoid; Rare; Titan,Gargantuan,"Bestiary 3 pg. 268, Pathfinder #156: The Apocalypse Prophet pg. 82"
+21,Rare,Ironclad Annihilator Beetle,Beast; Rare,Gargantuan,Pathfinder #174: Shadows of the Ancients pg. 49
+21,Unique,"Kothogaz, Dance Of Disharmony",Beast; Unique,Gargantuan,Monsters of Myth pg. 52
+21,Uncommon,Lophiithu,Aberration; Aquatic; Uncommon,Gargantuan,Pathfinder #168: King of the Mountain pg. 83
+21,Rare,Lesser Jabberwock,Dragon; Rare; Tane,Huge,Kingmaker Adventure Path pg. 440
+21,Uncommon,Tor Linnorm,Dragon; Fire; Uncommon,Gargantuan,Bestiary pg. 227
+21,Unique,Ilthuliak,Acid; Amphibious; Dragon; Unique,Gargantuan,Kingmaker Adventure Path pg. 455
+21,Rare,Conqueror Worm,Aberration; Rare,Gargantuan,Night of the Gray Death pg. 66
+21,Common,Lerritan,Earth; Elemental; Fire,Gargantuan,Bestiary 2 pg. 1592.0
+21,Rare,Ouroboros,Astral; Beast; Rare,Gargantuan,Bestiary 3 pg. 195
+21,Rare,Ravener,Dragon; Fire; Rare; Undead,Gargantuan,Bestiary 2 pg. 2242.0
+21,Common,Candlaron's Echo,Ghost; Incorporeal; Spirit,Medium,Pathfinder #150: Broken Promises pg. 56
+21,Unique,Grim Reaper,Undead; Unique,Medium,Bestiary pg. 196
+21,Unique,The Wriggling Man,Aberration; Swarm; Unique,Medium,Kingmaker Adventure Path pg. 466
+21,Unique,Chancellor Kemnebi,Undead; Unique; Vampire,Medium,Pathfinder #186: Ghost King's Rage pg. 88
+21,Unique,Iffdahsil,Aberration; Undead; Unique,Gargantuan,Pathfinder #155: Lord of the Black Sands pg. 81
+21,Rare,Umbraex,Cold; Darvakka; Rare; Shadow; Undead,Gargantuan,Pathfinder #185: A Taste of Ashes pg. 83
+21,Unique,Benthic Reaver,Cold; Undead; Unique,Gargantuan,Impossible Lands pg. 324
+22,Rare,Rhevanna,Fiend; Rare,Large,Pathfinder #162: Ruins of the Radiant Siege pg. 83
+22,Unique,Dragonshard Guardian,Construct; Unique,Large,Pathfinder #150: Broken Promises pg. 79
+22,Unique,Sarvel Ever-Hunger,Fiend; Humanoid; Unique; Xulgath,Large,Pathfinder #156: The Apocalypse Prophet pg. 90
+22,Rare,Risen Fetch,Fey; Plant; Rare,Large,Kingmaker Adventure Path pg. 613
+22,Unique,Lesser Manifestation Of Dahak,Dragon; Fire; Unique,Gargantuan,Pathfinder #150: Broken Promises pg. 16
+22,Rare,Thanatotic Titan,Humanoid; Rare; Titan,Gargantuan,"Bestiary 3 pg. 268, Pathfinder #156: The Apocalypse Prophet pg. 83"
+22,Unique,Syndara The Sculptor,Aeon; Monitor; Unique,Medium,Pathfinder #168: King of the Mountain pg. 90
+23,Rare,Danava Titan,Humanoid; Rare; Titan; Water,Gargantuan,Bestiary 3 pg. 269
+23,Unique,Nyrissa,Fey; Nymph; Unique,Medium,Kingmaker Adventure Path pg. 602
+23,Rare,Jabberwock,Dragon; Rare; Tane,Huge,Bestiary 2 pg. 1502.0
+23,Rare,Solar,Angel; Celestial; Rare,Large,Bestiary 2 pg. 162.0
+23,Unique,Mengkare,Dragon; Fire; Unique,Gargantuan,Pathfinder #150: Broken Promises pg. 90
+23,Rare,Elder Wyrmwraith,Dragon; Incorporeal; Rare; Undead; Wraith,Gargantuan,"Bestiary 3 pg. 297, Pathfinder #150: Broken Promises pg. 85"
+24,Unique,Avatar of the Lantern King,Fey; Fire; Unique,Gargantuan,Kingmaker Adventure Path pg. 600
+24,Unique,Fafnheir,Dragon; Unique,Gargantuan,Monsters of Myth pg. 28
+24,Rare,Hekatonkheires Titan,Aberration; Rare; Titan,Gargantuan,Bestiary 3 pg. 270
+24,Rare,Green Man,Leshy; Plant; Rare,Medium,Bestiary 3 pg. 118
+24,Unique,Spinel Leviathan Syndara,Aeon; Monitor; Unique,Gargantuan,Pathfinder #168: King of the Mountain pg. 58
+24,Unique,Manifestation Of Dahak,Acid; Cold; Dragon; Electricity; Fire; Poison; Unique,Gargantuan,Pathfinder #150: Broken Promises pg. 63
+25,Unique,Tarrasque,Beast; Unique,Gargantuan,Pathfinder #150: Broken Promises pg. 80
+25,Unique,Dimari-Diji,Plant; Unique,Gargantuan,Pathfinder #172: Secrets of the Temple City pg. 86
+25,Unique,Treerazer,Amphibious; Demon; Fiend; Unique,Huge,Bestiary pg. 312

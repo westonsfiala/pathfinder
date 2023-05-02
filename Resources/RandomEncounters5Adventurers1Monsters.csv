@@ -1,0 +1,2000 @@
+1,Medium,1,4,Daeodon,Animal;,Bestiary pg. 43
+2,Medium,2,1,Weak Giant Badger,Animal;,Bestiary 2 pg. 322.0
+3,Medium,3,-1,Weak Spear Frog,Animal;,Bestiary 2 pg. 121 2.0
+4,Medium,1,4,Weak Irriseni Owlbear,Animal;,Travel Guide pg. 99
+5,Medium,2,1,Elite Sicklehand Construct,Construct;Mindless;Rare;,Pathfinder #169: Kindled Magic pg. 41
+6,Medium,3,-1,Skebs,Halfling;Humanoid;,Pathfinder #157: Devil at the Dreaming Palace pg. 8
+7,Medium,1,4,Elite Kurshkin,Fey;Gremlin;Unique;,Pathfinder #169: Kindled Magic pg. 86
+8,Medium,2,1,Weak Sea Devil Scout,Amphibious;Humanoid;Sea Devil;,Bestiary pg. 286
+9,Medium,3,-1,Weak Kobold Tunnelrunner,Humanoid;Kobold;Uncommon;,Pathfinder Encounter: Heaving Kobolds pg. 0
+10,Medium,1,4,Elite Calmont,Halfling;Humanoid;Unique;,Pathfinder #145: Hellknight Hill pg. 27
+11,Medium,2,1,Fetchling Scout,Fetchling;Humanoid;Shadow;,Bestiary 2 pg. 1172.0
+12,Medium,3,-1,Pufferfish,Animal;Aquatic;,Bestiary 3 pg. 99
+13,Medium,1,4,Elite Grizzly Bear,Animal;,Bestiary pg. 40
+14,Medium,2,1,Weak Battle Leader Rekarek,Humanoid;Kobold;Unique;,Pathfinder #157: Devil at the Dreaming Palace pg. 27
+15,Medium,3,-1,Weak Eunice,Human;Humanoid;,Pathfinder #157: Devil at the Dreaming Palace pg. 12
+16,Medium,1,4,The Looksee Man,Fetchling;Human;Shadow;Unique;,Pathfinder #187: The Seventh Arch pg. 39
+17,Medium,2,1,Weak Ulizmila's Cauldron,Construct;Mindless;,Crown of the Kobold King pg. 28
+18,Medium,3,-1,Barrister,Human;Humanoid;,Gamemastery Guide pg. 232
+19,Medium,1,4,Myceloid,Fungus;,Bestiary 3 pg. 181
+20,Medium,2,1,Elite Orc Brute,Humanoid;Orc;,Bestiary pg. 256
+21,Medium,3,-1,Severed Head,Mindless;Undead;,Bestiary 3 pg. 30
+22,Medium,1,4,Elite Chimpanzee Visitant,Animal;Undead;,Pathfinder #152: Legacy of the Lost God pg. 83
+23,Medium,2,1,Weak Acrobat,Human;Humanoid;,Gamemastery Guide pg. 236
+24,Medium,3,-1,Compsognathus,Animal;Dinosaur;,Bestiary 2 pg. 80 2.0
+25,Medium,1,4,Weak Winter Wolf,Beast;,Bestiary pg. 322
+26,Medium,2,1,Elite Duergar Sharpshooter,Duergar;Dwarf;Humanoid;,Bestiary pg. 138
+27,Medium,3,-1,Apothecary,Human;Humanoid;,Gamemastery Guide pg. 220
+28,Medium,1,4,Calathgar,Cold;Plant;,Bestiary 2 pg. 452.0
+29,Medium,2,1,Stheno Harpist,Humanoid;Rare;Stheno;,Bestiary 3 pg. 258
+30,Medium,3,-1,Weak Dockhand,Human;Humanoid;,Gamemastery Guide pg. 222
+31,Hard,3,0,Weak Linzi (Level 1),Halfling;Humanoid;Unique;,Kingmaker Companion Guide pg. 45
+32,Hard,4,-1,Foolish Hunters,Human;Humanoid;,Crown of the Kobold King pg. 25
+33,Hard,1,5,Elite Ratfolk Grenadier,Humanoid;Ratfolk;,Bestiary pg. 277
+34,Hard,2,2,Elite Lantern Archon,Archon;Celestial;,Bestiary pg. 26
+35,Hard,3,0,Elite Vulture Rat,Animal;,Travel Guide pg. 99
+36,Hard,4,-1,Weak Blue-Ringed Octopus,Animal;Aquatic;,Bestiary 2 pg. 187 2.0
+37,Hard,1,5,Elite Terror Shrike,Animal;,Bestiary 3 pg. 264
+38,Hard,2,2,Dark Talon Kobold,Humanoid;Kobold;Rare;,Crown of the Kobold King pg. 59
+39,Hard,3,0,Badger,Animal;,Bestiary 2 pg. 32 2.0
+40,Hard,4,-1,Weak Ioton,Astral;Incorporeal;,Bestiary 3 pg. 92
+41,Hard,1,5,Ghodrak The Quick,Goblin;Humanoid;Unique;,Pathfinder #188: They Watched the Stars pg. 17
+42,Hard,2,2,Elite Formian Worker,Formian;,Pathfinder #173: Doorway to the Red Star pg. 82
+43,Hard,3,0,Melixie,Fey;Sprite;,Bestiary 3 pg. 254
+44,Hard,4,-1,Weak Spider Swarm,Animal;Swarm;,Bestiary pg. 306
+45,Hard,1,5,Weak Blackfrost Zombie,Cold;Mindless;Rare;Undead;Zombie;,Pathfinder #189: Dreamers of the Nameless Spires pg. 80
+46,Hard,2,2,Weak Umbo,Fungus;Rare;,Pathfinder #169: Kindled Magic pg. 22
+47,Hard,3,0,Weak Dingetooth,Fey;Gremlin;Unique;,Kingmaker Adventure Path pg. 121
+48,Hard,4,-1,Server,Human;Humanoid;,Gamemastery Guide pg. 238
+49,Hard,1,5,Priest of Kabriri,Ghoul;Undead;,Book of the Dead pg. 105
+50,Hard,2,2,Elite Hunting Spider,Animal;,Bestiary pg. 306
+51,Hard,3,0,Weak Squirrel Swarm,Animal;Swarm;,Bestiary 3 pg. 257
+52,Hard,4,-1,Weak Happs Bydon,Human;Humanoid;Unique;,Kingmaker Adventure Path pg. 167
+53,Hard,1,5,Elite Hellbound Attorney,Devil;Fiend;Human;Humanoid;Uncommon;,Bestiary 3 pg. 64
+54,Hard,2,2,Weak Vermlek,Demon;Fiend;,Pathfinder #151: The Show Must Go On pg. 82
+55,Hard,3,0,Elite Crawling Hand,Undead;,Bestiary 2 pg. 56 2.0
+56,Hard,4,-1,Sprite,Fey;Sprite;,Bestiary pg. 308
+57,Hard,1,5,Tomb Raider,Human;Humanoid;,Gamemastery Guide pg. 217
+58,Hard,2,2,Elite Zombie Horse,Mindless;Uncommon;Undead;Zombie;,Pathfinder #181: Zombie Feast pg. 16
+59,Hard,3,0,Orc Brute,Humanoid;Orc;,Bestiary pg. 256
+60,Hard,4,-1,Weak Powderkeg Punk Gunner,Humanoid;Uncommon;,Pathfinder #178: Punks in a Powderkeg pg. 39
+61,Deadly,1,7,Turkek,Dhampir;Human;Humanoid;Unique;,Pathfinder #176: Lost Mammoth Valley pg. 39
+62,Deadly,4,1,Electric Eel,Animal;Aquatic;,Bestiary pg. 142
+63,Deadly,5,0,Miner,Human;Humanoid;,Gamemastery Guide pg. 223
+64,Deadly,3,2,Weak Bramble Champion Construct,Construct;Mindless;Rare;,Pathfinder #169: Kindled Magic pg. 41
+65,Deadly,2,4,Elite Lekmek,Humanoid;Kobold;Unique;,Crown of the Kobold King pg. 57
+66,Deadly,6,-1,Weak Oaksteward Enforcer,Human;Humanoid;Rare;,Pathfinder #187: The Seventh Arch pg. 14
+67,Deadly,1,7,Elite Striding Fire,Elemental;Fire;,Bestiary 2 pg. 1112.0
+68,Deadly,4,1,Weak Drunkard,Human;Humanoid;,Gamemastery Guide pg. 239
+69,Deadly,5,0,Weak Giant Fly,Animal;,Bestiary 2 pg. 1202.0
+70,Deadly,3,2,Elite Steam Mephit,Elemental;Fire;Uncommon;Water;,Bestiary 2 pg. 1132.0
+71,Deadly,2,4,Drow Warden,Drow;Elf;Humanoid;Uncommon;,Pathfinder #165: Eyes of Empty Death pg. 82
+72,Deadly,6,-1,Weak Lemure,Devil;Fiend;Mindless;,Bestiary pg. 86
+73,Deadly,1,7,Scarlet Triad Thug,Dwarf;Humanoid;Uncommon;,Pathfinder #147: Tomorrow Must Burn pg. 16
+74,Deadly,4,1,Linzi (Level 1),Halfling;Humanoid;Unique;,Kingmaker Companion Guide pg. 45
+75,Deadly,5,0,Weak Kobold Scout,Humanoid;Kobold;,Bestiary pg. 213
+76,Deadly,3,2,Elite Goblin War Chanter,Goblin;Humanoid;,Bestiary pg. 181
+77,Deadly,2,4,Weak Leadsmith,Dwarf;Humanoid;Uncommon;,Pathfinder #180: The Smoking Gun pg. 9
+78,Deadly,6,-1,Weak Powderkeg Punk Gunner,Humanoid;Uncommon;,Pathfinder #178: Punks in a Powderkeg pg. 39
+79,Deadly,1,7,Elite Hendrid Pratchett,Elf;Human;Humanoid;Unique;,Pathfinder #157: Devil at the Dreaming Palace pg. 89
+80,Deadly,4,1,Weak Leandrus,Animal;Minion;Unique;,Pathfinder #151: The Show Must Go On pg. 28
+81,Deadly,5,0,Weak Acolyte of Nethys,Human;Humanoid;,Gamemastery Guide pg. 212
+82,Deadly,3,2,Elite Wayang Whisperblade,Humanoid;Shadow;Uncommon;Wayang;,Bestiary 3 pg. 290
+83,Deadly,2,4,Weak Karina,Beast;Fiend;,The Mwangi Expanse pg. 3012.0
+84,Deadly,6,-1,Haniver,Amphibious;Fey;Gremlin;,Bestiary 3 pg. 120
+85,Deadly,1,7,Elite Seugathi Servant,Aberration;Seugathi;Uncommon;,Pathfinder #164: Hands of the Devil pg. 82
+86,Deadly,4,1,Weak Skeletal Hellknight,Humanoid;Undead;Unique;,Pathfinder #145: Hellknight Hill pg. 40
+87,Deadly,5,0,Weak Zombie Horse,Mindless;Uncommon;Undead;Zombie;,Pathfinder #181: Zombie Feast pg. 16
+88,Deadly,3,2,Elite Air Mephit,Air;Elemental;,Bestiary pg. 150
+89,Deadly,2,4,Hound Archon,Archon;Celestial;,Bestiary 2 pg. 222.0
+90,Deadly,6,-1,Weak Miner,Human;Humanoid;,Gamemastery Guide pg. 223
+91,Insanity,2,5,Giant Moray Eel,Animal;Aquatic;,Bestiary pg. 142
+92,Insanity,6,0,Weak Ostovite,Fiend;,Bestiary 3 pg. 193
+93,Insanity,5,1,Weak Sahreg the Dirge Screamer,Human;Humanoid;Unique;,Pathfinder #181: Zombie Feast pg. 35
+94,Insanity,8,-1,Black Tear Cutthroat,Human;Humanoid;Uncommon;,Kingmaker Adventure Path pg. 26
+95,Insanity,4,2,Dark Talon Kobold,Humanoid;Kobold;Rare;,Crown of the Kobold King pg. 59
+96,Insanity,3,3,Weak Luminous Ooze,Mindless;Ooze;,Pathfinder #151: The Show Must Go On pg. 85
+97,Insanity,7,-1,Weak Giant Silverfish,Animal;Uncommon;,Pathfinder #169: Kindled Magic pg. 84
+98,Insanity,2,5,Elite Earthen Destrier,Earth;Elemental;,Bestiary 2 pg. 1082.0
+99,Insanity,6,0,Weak Rhovo,Human;Humanoid;Unique;,Pathfinder #151: The Show Must Go On pg. 9
+100,Insanity,5,1,Powderkeg Punk Bombardier,Humanoid;Uncommon;,Pathfinder #178: Punks in a Powderkeg pg. 38
+101,Medium,1,5,Weak Xulgath Skirmisher,Humanoid;Uncommon;Xulgath;,Pathfinder #153: Life's Long Shadows pg. 27
+102,Medium,2,2,Weak Shoma Lyzerius,Human;Humanoid;Ifrit;Unique;,Pathfinder #178: Punks in a Powderkeg pg. 90
+103,Medium,3,0,Elite Sprite,Fey;Sprite;,Bestiary pg. 308
+104,Medium,1,5,Giant Frilled Lizard,Animal;,Bestiary pg. 229
+105,Medium,2,2,Husk Zombie,Undead;Zombie;,Book of the Dead pg. 170
+106,Medium,3,0,Elite Predatory Rabbit,Undead;,Book of the Dead pg. 142
+107,Medium,1,5,Troll,Giant;Troll;,Bestiary pg. 314
+108,Medium,2,2,Yeast Ooze,Mindless;Ooze;Rare;,Pathfinder #178: Punks in a Powderkeg pg. 88
+109,Medium,3,0,Weak Quasit,Demon;Fiend;,Bestiary pg. 76
+110,Medium,1,5,Necromancer,Human;Humanoid;,Gamemastery Guide pg. 230
+111,Medium,2,2,Weak Charlatan,Human;Humanoid;,Gamemastery Guide pg. 209
+112,Medium,3,0,Weak Void Zombie,Rare;Undead;,Bestiary 2 pg. 2882.0
+113,Medium,1,5,Elite Kelpie,Amphibious;Fey;,Bestiary 2 pg. 1542.0
+114,Medium,2,2,Giant Monitor Lizard,Animal;,Bestiary pg. 229
+115,Medium,3,0,Elite Animated Broom,Construct;Mindless;,Bestiary pg. 20
+116,Medium,1,5,Elite Viper Swarm,Animal;Swarm;,Bestiary 3 pg. 249
+117,Medium,2,2,Weak Unicorn,Beast;Fey;,Bestiary pg. 316
+118,Medium,3,0,Leaf Leshy,Leshy;Plant;,Bestiary pg. 218
+119,Medium,1,5,Nok-Nok (Level 5),Goblin;Humanoid;Unique;,Kingmaker Companion Guide pg. 58
+120,Medium,2,2,Elite Ostovite,Fiend;,Bestiary 3 pg. 193
+121,Medium,3,0,Vine Lasher,Plant;,The Fall of Plaguestone pg. 62
+122,Medium,1,5,Troll,Giant;Troll;,Bestiary pg. 314
+123,Medium,2,2,Elite Wolf,Animal;,Bestiary pg. 334
+124,Medium,3,0,Weak Augur,Fiend;Velstrac;,Bestiary 2 pg. 2802.0; Pathfinder #147: Tomorrow Must Burn pg. 82
+125,Medium,1,5,Weak Umasi,Aberration;Humanoid;Uncommon;,Bestiary 3 pg. 280
+126,Medium,2,2,Weak Charlatan,Human;Humanoid;,Gamemastery Guide pg. 209
+127,Medium,3,0,Weak Grippli Scout,Grippli;Humanoid;,Bestiary 2 pg. 1392.0; Pathfinder #146: Cult of Cinders pg. 86
+128,Medium,1,5,Weak Blodeuwedd,Fey;Plant;Uncommon;,Bestiary 2 pg. 412.0
+129,Medium,2,2,Elite Caligni Dancer,Caligni;Humanoid;,Bestiary pg. 50
+130,Medium,3,0,Elite Bolar Of Stonemoor,Dwarf;Humanoid;,Pathfinder #157: Devil at the Dreaming Palace pg. 8
+131,Hard,4,0,Weak Fuath,Amphibious;Fey;Gremlin;,Bestiary 3 pg. 121
+132,Hard,1,6,Weak Elysian Sheep,Animal;Rare;,Pathfinder #156: The Apocalypse Prophet pg. 32
+133,Hard,3,1,Valerie (Level 1),Human;Humanoid;Unique;,Kingmaker Companion Guide pg. 83
+134,Hard,2,3,Elite Quarry Construct,Construct;Earth;Mindless;,Pathfinder #187: The Seventh Arch pg. 47
+135,Hard,5,-1,Bolar Of Stonemoor,Dwarf;Humanoid;,Pathfinder #157: Devil at the Dreaming Palace pg. 8
+136,Hard,4,0,Weak Giant Fly,Animal;,Bestiary 2 pg. 1202.0
+137,Hard,1,6,Revenant,Undead;,Bestiary 2 pg. 2272.0
+138,Hard,3,1,Flumph,Aberration;,Bestiary 3 pg. 100
+139,Hard,2,3,Weak Blood Ooze,Mindless;Ooze;,The Fall of Plaguestone pg. 63
+140,Hard,5,-1,Weak Whalesteed,Animal;,Travel Guide pg. 99
+141,Hard,4,0,Weak Temagyr,Fey;Uncommon;,Pathfinder #187: The Seventh Arch pg. 86
+142,Hard,1,6,Elite Forge-Spurned,Fire;Uncommon;Undead;,Crown of the Kobold King pg. 119; Pathfinder #148: Fires of the Haunted City pg. 83
+143,Hard,3,1,Amoeba Swarm,Amphibious;Mindless;Ooze;Swarm;,Bestiary 2 pg. 1922.0
+144,Hard,2,3,Sod Hound,Earth;Elemental;,Bestiary pg. 146
+145,Hard,5,-1,Haniver,Amphibious;Fey;Gremlin;,Bestiary 3 pg. 120
+146,Hard,4,0,Weak Sunflower Leshy,Leshy;Plant;,Bestiary 2 pg. 1602.0
+147,Hard,1,6,Elite Lucky" Lanks,Halfling;Humanoid;Unique;,Pathfinder #179: Cradle of Quartz pg. 24
+148,Hard,3,1,Weak Viktor Volkano,Human;Humanoid;Unique;,Pathfinder #151: The Show Must Go On pg. 29
+149,Hard,2,3,Weak Hellknight Armiger,Dwarf;Humanoid;,Character Guide pg. 1202.0
+150,Hard,5,-1,Skebs,Halfling;Humanoid;,Pathfinder #157: Devil at the Dreaming Palace pg. 8
+151,Hard,4,0,Weak Amoeba Swarm,Amphibious;Mindless;Ooze;Swarm;,Bestiary 2 pg. 1922.0
+152,Hard,1,6,Weak Zombie Chuul,Amphibious;Mindless;Undead;Unique;Zombie;,Pathfinder #182: Graveclaw pg. 33
+153,Hard,3,1,Electric Eel,Animal;Aquatic;,Bestiary pg. 142
+154,Hard,2,3,Charlatan,Human;Humanoid;,Gamemastery Guide pg. 209
+155,Hard,5,-1,Animated Broom,Construct;Mindless;,Bestiary pg. 20
+156,Hard,4,0,Weak Amoeba Swarm,Amphibious;Mindless;Ooze;Swarm;,Bestiary 2 pg. 1922.0
+157,Hard,1,6,Weak Crossroads Guardian,Fey;Rare;,Bestiary 3 pg. 59
+158,Hard,3,1,Weak Dhampir Wizard,Dhampir;Human;Humanoid;,Bestiary pg. 95
+159,Hard,2,3,Weak Bone Warrior,Human;Humanoid;Rare;,Pathfinder #176: Lost Mammoth Valley pg. 35
+160,Hard,5,-1,Sprite,Fey;Sprite;,Bestiary pg. 308
+161,Deadly,1,8,Onidoshi,Fiend;Giant;Humanoid;Oni;,Bestiary 2 pg. 1882.0
+162,Deadly,2,5,Kodama,Kami;Spirit;,Bestiary 3 pg. 143
+163,Deadly,7,-1,Weak Giant Worker Bee,Animal;,Pathfinder #169: Kindled Magic pg. 80
+164,Deadly,3,3,Elite Poacher,Human;Humanoid;,Gamemastery Guide pg. 218
+165,Deadly,4,2,Weak Morlock Engineer,Humanoid;Morlock;Uncommon;,Pathfinder #163: Ruins of Gauntlight pg. 84
+166,Deadly,6,0,Whalesteed,Animal;,Travel Guide pg. 99
+167,Deadly,5,1,Charau-ka Warrior,Charau-ka;Humanoid;,The Mwangi Expanse pg. 2962.0; Pathfinder #146: Cult of Cinders pg. 84
+168,Deadly,1,8,Hellwasp Swarm,Fiend;Swarm;,Bestiary 3 pg. 133
+169,Deadly,2,5,Weak Verdurous Ooze,Mindless;Ooze;,Bestiary 2 pg. 1942.0
+170,Deadly,7,-1,Red Fox,Animal;,Bestiary 3 pg. 102
+171,Deadly,3,3,Chimpanzee Visitant,Animal;Undead;,Pathfinder #152: Legacy of the Lost God pg. 83
+172,Deadly,4,2,Elite Muruwa,Grippli;Humanoid;Unique;,Threshold of Knowledge pg. 13
+173,Deadly,6,0,Weak Catfolk Pouncer,Catfolk;Humanoid;,Bestiary pg. 54
+174,Deadly,5,1,Weak Quarry Construct,Construct;Earth;Mindless;,Pathfinder #187: The Seventh Arch pg. 47
+175,Deadly,1,8,Weak Clockwork Shambler Horde,Construct;Mindless;Troop;Uncommon;Zombie;,Pathfinder #180: The Smoking Gun pg. 31
+176,Deadly,2,5,Leucrotta,Beast;,Bestiary 2 pg. 1622.0
+177,Deadly,7,-1,Weak Pugwampi,Fey;Gremlin;,Bestiary pg. 193
+178,Deadly,3,3,Elite Living Boulder,Earth;Elemental;,Bestiary 2 pg. 1082.0
+179,Deadly,4,2,Werecrocodile,Beast;Human;Humanoid;Werecreature;,Bestiary 3 pg. 293
+180,Deadly,6,0,Burning Mammoth Hunters,Human;Humanoid;Uncommon;,Pathfinder #175: Broken Tusk Moon pg. 17
+181,Deadly,5,1,Weak Monkey Swarm,Animal;Swarm;,Bestiary 3 pg. 172
+182,Deadly,1,8,Weak Nilak,Human;Humanoid;Unique;,Kingmaker Companion Guide pg. 14
+183,Deadly,2,5,Weak Spawn Of Kothogaz,Beast;Rare;,Monsters of Myth pg. 53
+184,Deadly,7,-1,Server,Human;Humanoid;,Gamemastery Guide pg. 238
+185,Deadly,3,3,Harbormaster,Human;Humanoid;,Gamemastery Guide pg. 225
+186,Deadly,4,2,Daring Danika,Human;Humanoid;Unique;,Pathfinder #151: The Show Must Go On pg. 28
+187,Deadly,6,0,Riding Pony,Animal;,Bestiary pg. 209
+188,Deadly,5,1,Weak Giant Ant,Animal;,Bestiary 2 pg. 202.0
+189,Deadly,1,8,Balisse,Angel;Celestial;,Bestiary pg. 18
+190,Deadly,2,5,Elite Corrupted Relic,Incorporeal;Rare;Spirit;Undead;,Bestiary 3 pg. 55
+191,Insanity,9,-1,Weak Groplit,Amphibious;Animal;Uncommon;,Pathfinder #175: Broken Tusk Moon pg. 83
+192,Insanity,4,3,Weak Stone Lion,Celestial;Uncommon;,Bestiary 3 pg. 125
+193,Insanity,2,6,Weak Linzi (Level 7),Halfling;Humanoid;Unique;,Kingmaker Companion Guide pg. 45
+194,Insanity,7,0,Kangaroo,Animal;,Bestiary 3 pg. 146
+195,Insanity,3,4,Weak Animated Fireplace,Construct;Mindless;Unique;,Pathfinder #182: Graveclaw pg. 14
+196,Insanity,5,2,Anadi Hunter,Anadi;Humanoid;Uncommon;,The Mwangi Expanse pg. 2092.0; Pathfinder #145: Hellknight Hill pg. 84
+197,Insanity,6,1,Weak Anadi Hunter,Anadi;Humanoid;Uncommon;,The Mwangi Expanse pg. 2092.0; Pathfinder #145: Hellknight Hill pg. 84
+198,Insanity,10,-1,Weak Scrit,Fey;Gremlin;Uncommon;,Pathfinder #169: Kindled Magic pg. 82
+199,Insanity,9,-1,Weak Fire Wisp,Elemental;Fire;,Bestiary 3 pg. 91
+200,Insanity,4,3,Elite Azer,Elemental;Fire;Humanoid;,Bestiary 3 pg. 27
+201,Medium,2,3,Aapoph Serpentfolk,Humanoid;Mutant;Serpentfolk;Uncommon;,Bestiary 2 pg. 2382.0
+202,Medium,1,6,Weak Virulak Necromancer,Rare;Undead;,Pathfinder #182: Graveclaw pg. 87
+203,Medium,3,1,Weak Dretch,Demon;Fiend;,Bestiary 3 pg. 60
+204,Medium,4,-1,Weak Water Wisp,Elemental;Water;,Bestiary 3 pg. 91
+205,Medium,2,3,Weak Bison,Animal;,Bestiary 3 pg. 32
+206,Medium,1,6,Weak Urdefhan Lasher,Humanoid;Urdefhan;,Pathfinder #165: Eyes of Empty Death pg. 84
+207,Medium,3,1,Weak Fading Fox,Animal;,Bestiary 3 pg. 102
+208,Medium,4,-1,Masu,Animal;Unique;,Pathfinder #179: Cradle of Quartz pg. 16
+209,Medium,2,3,Elite Deinonychus,Animal;Dinosaur;,Bestiary pg. 97
+210,Medium,1,6,Elite Voz Lirayne,Elf;Human;Humanoid;Unique;,Pathfinder #145: Hellknight Hill pg. 80
+211,Medium,3,1,Earth Mephit,Earth;Elemental;,Bestiary pg. 150
+212,Medium,4,-1,Skeleton Guard,Mindless;Skeleton;Undead;,Bestiary pg. 298
+213,Medium,2,3,Weak Gnoll Sergeant,Gnoll;Humanoid;,Bestiary pg. 179
+214,Medium,1,6,Weak Urdefhan Lasher,Humanoid;Urdefhan;,Pathfinder #165: Eyes of Empty Death pg. 84
+215,Medium,3,1,Elite Giant Worker Bee,Animal;,Pathfinder #169: Kindled Magic pg. 80
+216,Medium,4,-1,Haniver,Amphibious;Fey;Gremlin;,Bestiary 3 pg. 120
+217,Medium,2,3,Weak Rhino Warrior,Human;Humanoid;Rare;,Pathfinder #177: Burning Tundra pg. 12
+218,Medium,1,6,Elite Muse Phantom,Incorporeal;Spirit;Uncommon;Undead;,Pathfinder #152: Legacy of the Lost God pg. 81
+219,Medium,3,1,Weak Dretch,Demon;Fiend;,Bestiary 3 pg. 60
+220,Medium,4,-1,Animated Blades,Construct;Mindless;Uncommon;,Pathfinder #175: Broken Tusk Moon pg. 32
+221,Medium,2,3,Akiros Ismort,Human;Humanoid;Unique;,Kingmaker Adventure Path pg. 180
+222,Medium,1,6,Weak Sceaduinar,Aberration;Negative;Rare;,Bestiary 2 pg. 2332.0
+223,Medium,3,1,Weak Leprechaun,Fey;,Bestiary 2 pg. 1582.0
+224,Medium,4,-1,Nyktera,Fey;Sprite;,Bestiary 3 pg. 254
+225,Medium,2,3,Dryad,Fey;Nymph;Plant;,Bestiary pg. 246
+226,Medium,1,6,Elite Megatherium,Animal;,Bestiary 3 pg. 248
+227,Medium,3,1,Weak Chew Spider,Animal;Swarm;Unique;,Kingmaker Adventure Path pg. 69
+228,Medium,4,-1,Skeleton Guard,Mindless;Skeleton;Undead;,Bestiary pg. 298
+229,Medium,2,3,Hyaenodon,Animal;,Bestiary pg. 211
+230,Medium,1,6,Elite Emperor Cobra,Animal;,Bestiary 2 pg. 2452.0
+231,Hard,1,7,Elite Cleansed Cultist,Human;Humanoid;Rare;,Kingmaker Companion Guide pg. 78
+232,Hard,3,2,Werebat,Beast;Human;Humanoid;Werecreature;,Bestiary 3 pg. 292
+233,Hard,5,-1,Beaver,Animal;,Pathfinder #176: Lost Mammoth Valley pg. 82
+234,Hard,4,1,Elite Fire Wisp,Elemental;Fire;,Bestiary 3 pg. 91
+235,Hard,6,-1,Weak Badger,Animal;,Bestiary 2 pg. 32 2.0
+236,Hard,2,4,Elite Opkherab,Undead;Unique;,Pathfinder #181: Zombie Feast pg. 44
+237,Hard,1,7,Weak Child of Urgathoa,Rare;Undead;,Book of the Dead pg. 79
+238,Hard,3,2,Emperor Bird,Animal;Uncommon;,Pathfinder #145: Hellknight Hill pg. 87
+239,Hard,5,-1,Servant,Human;Humanoid;,Gamemastery Guide pg. 222
+240,Hard,4,1,Weak Battle Leader Rekarek,Humanoid;Kobold;Unique;,Pathfinder #157: Devil at the Dreaming Palace pg. 27
+241,Hard,6,-1,Weak Vine Leshy,Leshy;Plant;,Bestiary 3 pg. 160
+242,Hard,2,4,Elite Ugvashi,Animal;,Impossible Lands pg. 339
+243,Hard,1,7,Elite Grippli Jinxer,Grippli;Humanoid;,Pathfinder #170: Spoken on the Song Wind pg. 83
+244,Hard,3,2,Weak Smith,Human;Humanoid;,Gamemastery Guide pg. 245
+245,Hard,5,-1,Weak Giant Silverfish,Animal;Uncommon;,Pathfinder #169: Kindled Magic pg. 84
+246,Hard,4,1,Weak Animated Armor,Construct;Mindless;,Bestiary pg. 20
+247,Hard,6,-1,Grimple,Fey;Gremlin;,Bestiary 3 pg. 120
+248,Hard,2,4,Weak Shrine Skelm,Humanoid;Skelm;,Bestiary 3 pg. 239
+249,Hard,1,7,Hunter,Human;Humanoid;,Gamemastery Guide pg. 219
+250,Hard,3,2,Weak Assassin Vine,Mindless;Plant;,Bestiary 2 pg. 262.0
+251,Hard,5,-1,Weak Whalesteed,Animal;,Travel Guide pg. 99
+252,Hard,4,1,House Drake,Dragon;,Bestiary 3 pg. 135
+253,Hard,6,-1,Weak Leaf Leshy,Leshy;Plant;,Bestiary pg. 218
+254,Hard,2,4,Weak Narlynark,Humanoid;Kobold;Unique;,Crown of the Kobold King pg. 106
+255,Hard,1,7,Elite Choral,Angel;Celestial;,Bestiary pg. 17
+256,Hard,3,2,Elite Acolyte Of Pharasma,Human;Humanoid;Uncommon;,Shadows at Sundown pg. 35
+257,Hard,5,-1,Teacher,Human;Humanoid;,Gamemastery Guide pg. 240
+258,Hard,4,1,Elite Grindylow,Aberration;Amphibious;,Bestiary 2 pg. 138 2.0
+259,Hard,6,-1,Physician,Human;Humanoid;,Gamemastery Guide pg. 220
+260,Hard,2,4,Weak Barbazu,Devil;Fiend;,Bestiary pg. 88
+261,Deadly,1,9,Weak Profane Ghoul,Ghoul;Rare;Undead;,Shadows at Sundown pg. 33
+262,Deadly,6,1,Weak Kappa,Amphibious;Beast;,Bestiary 3 pg. 147
+263,Deadly,4,3,Elite Contemplative,Aberration;Uncommon;,Pathfinder #173: Doorway to the Red Star pg. 80
+264,Deadly,2,6,Annis Hag,Hag;Humanoid;,Bestiary pg. 202
+265,Deadly,7,0,Elite Tax Collector,Human;Humanoid;,Gamemastery Guide pg. 224
+266,Deadly,8,-1,Judge,Human;Humanoid;,Gamemastery Guide pg. 224
+267,Deadly,3,4,Weak Urdefhan Tormentor,Humanoid;Urdefhan;,Bestiary 2 pg. 2732.0
+268,Deadly,5,2,Elite Water Mephit,Aquatic;Elemental;Water;,Bestiary pg. 151
+269,Deadly,9,-1,Weak Dream Spider,Animal;,Bestiary 2 pg. 249 2.0
+270,Deadly,1,9,Weak Leng Ghoul,Dream;Ghoul;Uncommon;Undead;,Bestiary 3 pg. 107
+271,Deadly,6,1,Elite Farmer,Human;Humanoid;,Gamemastery Guide pg. 222
+272,Deadly,4,3,Brine Shark,Aquatic;Elemental;Water;,Bestiary pg. 152
+273,Deadly,2,6,Hodag,Beast;Uncommon;,Bestiary 2 pg. 1452.0
+274,Deadly,7,0,Weak Quasit,Demon;Fiend;,Bestiary pg. 76
+275,Deadly,8,-1,Weasel,Animal;,Bestiary 3 pg. 291
+276,Deadly,3,4,Shanrigol Heap,Aberration;Undead;,Pathfinder #164: Hands of the Devil pg. 84
+277,Deadly,5,2,Elite Kalaggi Nakutu,Human;Humanoid;Unique;,Threshold of Knowledge pg. 12
+278,Deadly,9,-1,Beaver,Animal;,Pathfinder #176: Lost Mammoth Valley pg. 82
+279,Deadly,1,9,Elite Muckish Creep,Aberration;,Pathfinder #166: Despair on Danger Island pg. 88
+280,Deadly,6,1,Weak Granite Vulture,Fiend;Rare;,Pathfinder #181: Zombie Feast pg. 46
+281,Deadly,4,3,Elite Mudwretch,Earth;Elemental;Water;,Bestiary 2 pg. 1762.0
+282,Deadly,2,6,Smilodon,Animal;,Bestiary pg. 53
+283,Deadly,7,0,Weak Giant Gecko,Animal;,Bestiary pg. 228
+284,Deadly,8,-1,Weak Badger,Animal;,Bestiary 2 pg. 32 2.0
+285,Deadly,3,4,False Priest,Human;Humanoid;,Gamemastery Guide pg. 229
+286,Deadly,5,2,Weak Doppelganger,Humanoid;Uncommon;,Bestiary pg. 103
+287,Deadly,9,-1,Weak Spellskein,Construct;Uncommon;,Pathfinder #169: Kindled Magic pg. 85
+288,Deadly,1,9,Seugathi Reality Warper,Aberration;Seugathi;Uncommon;,Pathfinder #164: Hands of the Devil pg. 83
+289,Deadly,6,1,Quasit,Demon;Fiend;,Bestiary pg. 76
+290,Deadly,4,3,Giant Eagle,Beast;,Bestiary pg. 141
+291,Insanity,11,-1,Antaro Boldblade,Human;Humanoid;,Pathfinder #157: Devil at the Dreaming Palace pg. 8
+292,Insanity,3,5,Advisor,Human;Humanoid;,Gamemastery Guide pg. 207
+293,Insanity,12,-1,Masu,Animal;Unique;,Pathfinder #179: Cradle of Quartz pg. 16
+294,Insanity,10,-1,Librarian,Human;Humanoid;,Gamemastery Guide pg. 240
+295,Insanity,7,1,Weak Pirate,Human;Humanoid;,Gamemastery Guide pg. 242
+296,Insanity,6,2,Elite Grig,Fey;Sprite;,Bestiary pg. 308
+297,Insanity,5,3,Weak Carrion Golem,Construct;Golem;Mindless;Uncommon;,Bestiary 2 pg. 1282.0
+298,Insanity,2,7,Virulak Necromancer,Rare;Undead;,Pathfinder #182: Graveclaw pg. 87
+299,Insanity,4,4,Weak Melianse,Aquatic;Fey;Unique;,Kingmaker Adventure Path pg. 71
+300,Insanity,9,0,Elite Viper,Animal;,Bestiary pg. 302
+301,Medium,2,4,Daeodon,Animal;,Bestiary pg. 43
+302,Medium,1,7,Elite Iron Taviah,Hag;Humanoid;Unique;,Pathfinder #182: Graveclaw pg. 88
+303,Medium,3,2,Weak Akiros Ismort,Human;Humanoid;Unique;,Kingmaker Adventure Path pg. 180
+304,Medium,4,0,Weak House Drake,Dragon;,Bestiary 3 pg. 135
+305,Medium,5,-1,Skeleton Guard,Mindless;Skeleton;Undead;,Bestiary pg. 298
+306,Medium,2,4,Elite Grick,Aberration;Uncommon;,Crown of the Kobold King pg. 120; Pathfinder #157: Devil at the Dreaming Palace pg. 35
+307,Medium,1,7,Weak Mother Mitera,Human;Unique;,Dark Archive pg. 152
+308,Medium,3,2,Giant Mining Bee,Animal;,Pathfinder #169: Kindled Magic pg. 80
+309,Medium,4,0,Necromunculus,Uncommon;Undead;,Pathfinder #181: Zombie Feast pg. 86
+310,Medium,5,-1,Skunk,Animal;,Bestiary 3 pg. 246
+311,Medium,2,4,Weak Troll,Giant;Troll;,Bestiary pg. 314
+312,Medium,1,7,Elite Mpeshi,Beast;Electricity;Rare;,Pathfinder #170: Spoken on the Song Wind pg. 85
+313,Medium,3,2,Elite Phalanx Of Phalanges,Construct;Mindless;Swarm;Uncommon;,Pathfinder #181: Zombie Feast pg. 83
+314,Medium,4,0,Wolf Skeleton,Mindless;Skeleton;Undead;,Book of the Dead pg. 147
+315,Medium,5,-1,Weak Fire Wisp,Elemental;Fire;,Bestiary 3 pg. 91
+316,Medium,2,4,Elite Opkherab,Undead;Unique;,Pathfinder #181: Zombie Feast pg. 44
+317,Medium,1,7,Burning Mammoth Commando,Human;Humanoid;Rare;,Pathfinder #177: Burning Tundra pg. 52
+318,Medium,3,2,Weak Rust Ooze,Mindless;Ooze;Uncommon;,Pathfinder #178: Punks in a Powderkeg pg. 87
+319,Medium,4,0,Weak Orc Warrior,Humanoid;Orc;,Bestiary pg. 257
+320,Medium,5,-1,Silverfish Swarm,Animal;Swarm;Uncommon;,Pathfinder #169: Kindled Magic pg. 84
+321,Medium,2,4,Great White Shark,Animal;Aquatic;,Bestiary pg. 291
+322,Medium,1,7,Evora Yarket,Human;Humanoid;Orc;Unique;,Pathfinder #152: Legacy of the Lost God pg. 52
+323,Medium,3,2,Weak Giant Mantis,Animal;,Bestiary pg. 233
+324,Medium,4,0,Elite Common Eurypterid,Amphibious;Animal;,Bestiary 3 pg. 97
+325,Medium,5,-1,Guard Dog,Animal;,Bestiary pg. 102
+326,Medium,2,4,Weak Catrina,Monitor;Psychopomp;,Bestiary 2 pg. 2092.0
+327,Medium,1,7,Elite Abandoned Zealot,Incorporeal;Spirit;Undead;,Bestiary 3 pg. 8
+328,Medium,3,2,Weak Zephyr Hawk,Air;Elemental;,Bestiary pg. 144
+329,Medium,4,0,Elite Eagle,Animal;,Bestiary pg. 141
+330,Medium,5,-1,Predatory Rabbit,Undead;,Book of the Dead pg. 142
+331,Hard,1,8,Two-Headed Troll,Giant;Troll;Uncommon;,Bestiary 2 pg. 2662.0
+332,Hard,5,0,Weak Giant Skunk,Animal;,Bestiary 3 pg. 246
+333,Hard,4,2,Weak Megalictis,Animal;,Bestiary 3 pg. 291
+334,Hard,7,-1,Weak Spider Swarm,Animal;Swarm;,Bestiary pg. 306
+335,Hard,3,3,Goblin Bat-Dog,Animal;Mutant;Rare;,Kingmaker Companion Guide pg. 64
+336,Hard,2,5,Weak Spawn Of Kothogaz,Beast;Rare;,Monsters of Myth pg. 53
+337,Hard,1,8,Giant Anaconda,Animal;,Bestiary pg. 303
+338,Hard,5,0,Elite Librarian,Human;Humanoid;,Gamemastery Guide pg. 240
+339,Hard,4,2,Weak Grizzly Bear,Animal;,Bestiary pg. 40
+340,Hard,7,-1,Weak Sicklehand Construct,Construct;Mindless;Rare;,Pathfinder #169: Kindled Magic pg. 41
+341,Hard,3,3,Elite Cobbleswarm,Aberration;Earth;Swarm;,Bestiary 3 pg. 52; Pathfinder #157: Devil at the Dreaming Palace pg. 83
+342,Hard,2,5,Weak Owb,Shadow;Uncommon;,Bestiary 3 pg. 196
+343,Hard,1,8,Elite Grigori,Human;Humanoid;Unique;,Kingmaker Adventure Path pg. 596
+344,Hard,5,0,Weak Deep Gnome Scout,Gnome;Humanoid;,Bestiary pg. 74
+345,Hard,4,2,Elite Xulgath Warrior,Humanoid;Xulgath;,Bestiary pg. 336
+346,Hard,7,-1,Weak Sicklehand Construct,Construct;Mindless;Rare;,Pathfinder #169: Kindled Magic pg. 41
+347,Hard,3,3,Weak Kapmek,Humanoid;Kobold;Unique;,Crown of the Kobold King pg. 60
+348,Hard,2,5,Elite Scalathrax,Aberration;Uncommon;,Pathfinder #163: Ruins of Gauntlight pg. 86
+349,Hard,1,8,Elite Caulborn,Astral;Uncommon;,Bestiary 3 pg. 94
+350,Hard,5,0,Weak Jaleen,Human;Humanoid;Unique;,Pathfinder #151: The Show Must Go On pg. 9
+351,Hard,4,2,Elite Suli Dune Dancer,Human;Humanoid;Suli;,Bestiary 2 pg. 2022.0
+352,Hard,7,-1,Weak Bone Shard Toughs,Human;Humanoid;Uncommon;,Pathfinder #181: Zombie Feast pg. 35
+353,Hard,3,3,Weak Ralso,Human;Humanoid;Orc;Unique;,Pathfinder #157: Devil at the Dreaming Palace pg. 90
+354,Hard,2,5,Gurija,Giant;Troll;Unique;,Kingmaker Adventure Path pg. 207
+355,Hard,1,8,Elite Greater Shadow,Incorporeal;Undead;,Bestiary pg. 289
+356,Hard,5,0,Weak Acolyte of Nethys,Human;Humanoid;,Gamemastery Guide pg. 212
+357,Hard,4,2,Elite Reefclaw,Aberration;Aquatic;,Bestiary pg. 279
+358,Hard,7,-1,Three-Toed Sloth,Animal;,Bestiary 3 pg. 248
+359,Hard,3,3,Weak Mandragora,Plant;,Bestiary 2 pg. 1702.0
+360,Hard,2,5,Weak Elananx,Fey;Fire;,Bestiary pg. 143
+361,Deadly,4,4,Renali,Anadi;Humanoid;Unique;,Pathfinder #145: Hellknight Hill pg. 78
+362,Deadly,7,1,Kobold Scout,Humanoid;Kobold;,Bestiary pg. 213
+363,Deadly,6,2,Ulizmila's Cauldron,Construct;Mindless;,Crown of the Kobold King pg. 28
+364,Deadly,5,3,Elite Deep Gnome Warrior,Gnome;Humanoid;,Bestiary pg. 75
+365,Deadly,3,5,Elite Varilyn "Vare" Eridge,Halfling;Human;Unique;,Pathfinder #176: Lost Mammoth Valley pg. 10
+366,Deadly,10,-1,Follower Of Shumfallow,Fungus;Leshy;Rare;,Pathfinder #178: Punks in a Powderkeg pg. 25
+367,Deadly,2,7,Elite Zuntishan Guard,Human;Humanoid;Uncommon;,Pathfinder #183: Field of Maidens pg. 42
+368,Deadly,8,0,Weak Temagyr,Fey;Uncommon;,Pathfinder #187: The Seventh Arch pg. 86
+369,Deadly,11,-1,Snapping Turtle,Animal;,Bestiary 2 pg. 269 2.0
+370,Deadly,1,10,Elite Galvo,Aberration;Amphibious;,Bestiary 3 pg. 103
+371,Deadly,4,4,Elite Opkherab,Undead;Unique;,Pathfinder #181: Zombie Feast pg. 44
+372,Deadly,7,1,Void Zombie,Rare;Undead;,Bestiary 2 pg. 2882.0
+373,Deadly,6,2,Weak Giant Dragonfly Nymph,Animal;Aquatic;,Bestiary 2 pg. 982.0
+374,Deadly,5,3,Weak Frost Troll,Cold;Giant;Troll;Uncommon;,Bestiary 2 pg. 2642.0
+375,Deadly,3,5,Elite Bone Warrior,Human;Humanoid;Rare;,Pathfinder #176: Lost Mammoth Valley pg. 35
+376,Deadly,10,-1,Antaro Boldblade,Human;Humanoid;,Pathfinder #157: Devil at the Dreaming Palace pg. 8
+377,Deadly,2,7,Weak The Dancing Lady,Fey;Unique;,Kingmaker Adventure Path pg. 153
+378,Deadly,8,0,Kobold Tunnelrunner,Humanoid;Kobold;Uncommon;,Pathfinder Encounter: Heaving Kobolds pg. 0
+379,Deadly,11,-1,Flash Beetle,Animal;,Bestiary pg. 41
+380,Deadly,1,10,Weak Unrisen,Undead;,Book of the Dead pg. 153
+381,Deadly,4,4,Elite Oil Living Graffiti,Construct;Rare;,Bestiary 3 pg. 162; Pathfinder #151: The Show Must Go On pg. 84
+382,Deadly,7,1,Festrog,Undead;,Bestiary 3 pg. 98
+383,Deadly,6,2,Shadow Drake,Dragon;Shadow;,Bestiary 2 pg. 1002.0
+384,Deadly,5,3,Weak Daeodon,Animal;,Bestiary pg. 43
+385,Deadly,3,5,Elite Urbel,Fey;Gremlin;Unique;,Pathfinder #169: Kindled Magic pg. 55
+386,Deadly,10,-1,Raven,Animal;,Bestiary 2 pg. 221 2.0
+387,Deadly,2,7,Elite Xulgath Skirmisher,Humanoid;Uncommon;Xulgath;,Pathfinder #153: Life's Long Shadows pg. 27
+388,Deadly,8,0,Shoony Tiller,Humanoid;Rare;Shoony;,Pathfinder #153: Life's Long Shadows pg. 82
+389,Deadly,11,-1,Weak Spellskein,Construct;Uncommon;,Pathfinder #169: Kindled Magic pg. 85
+390,Deadly,1,10,Elite Keznin Nevarmo,Humanoid;Tengu;Unique;,Night of the Gray Death pg. 8
+391,Insanity,4,5,Elite Barghest,Fiend;,Bestiary pg. 36
+392,Insanity,6,3,Siege Shard,Construct;Uncommon;,Pathfinder #157: Devil at the Dreaming Palace pg. 84
+393,Insanity,15,-1,Weak Ioton,Astral;Incorporeal;,Bestiary 3 pg. 92
+394,Insanity,13,-1,Apothecary,Human;Humanoid;,Gamemastery Guide pg. 220
+395,Insanity,14,-1,Weak Scrit,Fey;Gremlin;Uncommon;,Pathfinder #169: Kindled Magic pg. 82
+396,Insanity,9,1,Elite Spider Swarm,Animal;Swarm;,Bestiary pg. 306
+397,Insanity,10,0,Elite Server,Human;Humanoid;,Gamemastery Guide pg. 238
+398,Insanity,7,2,Elite Merfolk Warrior,Aquatic;Humanoid;Merfolk;,Bestiary pg. 235
+399,Insanity,3,6,Elite Hippopotamus,Animal;,Bestiary 2 pg. 1442.0
+400,Insanity,2,8,Weak Spirit Naga,Aberration;Uncommon;,Bestiary 2 pg. 1792.0
+401,Medium,4,1,Ufi,Human;Humanoid;Unique;,Threshold of Knowledge pg. 14
+402,Medium,1,8,Weak Vrock,Demon;Fiend;,Bestiary pg. 78
+403,Medium,2,5,Elite Karumzek,Aberration;Uncommon;,Pathfinder #171: Hurricane's Howl pg. 81
+404,Medium,6,-1,Animated Broom,Construct;Mindless;,Bestiary pg. 20
+405,Medium,3,3,Kreeth-Ni,Fey;Sprite;Unique;,Pathfinder #179: Cradle of Quartz pg. 38
+406,Medium,5,0,Weak Elk,Animal;,Kingmaker Adventure Path pg. 608; Pathfinder #176: Lost Mammoth Valley pg. 85
+407,Medium,4,1,Weak Giant Opossum,Animal;,Bestiary 3 pg. 192
+408,Medium,1,8,Elite Mothman,Aberration;Rare;,Bestiary 3 pg. 179
+409,Medium,2,5,Weak Kreekoss,Beast;Fiend;Unique;,Pathfinder #170: Spoken on the Song Wind pg. 53
+410,Medium,6,-1,Raven,Animal;,Bestiary 2 pg. 221 2.0
+411,Medium,3,3,Weak Ghoul Crocodile,Amphibious;Ghoul;Uncommon;Undead;,Pathfinder #182: Graveclaw pg. 32
+412,Medium,5,0,Clockwork Hunter,Clockwork;Construct;Mindless;Uncommon;,Pathfinder #178: Punks in a Powderkeg pg. 82
+413,Medium,4,1,Elite Badger,Animal;,Bestiary 2 pg. 32 2.0
+414,Medium,1,8,Weak Yithian,Aberration;Rare;,Bestiary 3 pg. 299
+415,Medium,2,5,Weak The Lonely Warrior,Undead;Unique;Wight;,Kingmaker Adventure Path pg. 135
+416,Medium,6,-1,Common Eurypterid,Amphibious;Animal;,Bestiary 3 pg. 97
+417,Medium,3,3,Elite Shredskin,Undead;,Book of the Dead pg. 143; Pathfinder #157: Devil at the Dreaming Palace pg. 60
+418,Medium,5,0,Elite Abberton Ruffian,Human;Humanoid;,Pathfinder #151: The Show Must Go On pg. 9
+419,Medium,4,1,Skulk,Humanoid;Skulk;,Bestiary 2 pg. 2432.0
+420,Medium,1,8,Elite Invidiak,Demon;Fiend;Incorporeal;,Bestiary 2 pg. 652.0
+421,Medium,2,5,Gibbering Mouther,Aberration;,Bestiary pg. 176
+422,Medium,6,-1,Weak Stingray,Animal;Aquatic;,Bestiary 2 pg. 2262.0
+423,Medium,3,3,Animated Statue,Construct;Earth;Mindless;,Bestiary pg. 21
+424,Medium,5,0,Weak Grioth Scout,Grioth;Humanoid;Uncommon;,Bestiary 3 pg. 122
+425,Medium,4,1,Esipil,Fiend;Sahkil;,Bestiary 3 pg. 218
+426,Medium,1,8,Weak Dracolisk,Beast;Dragon;Uncommon;,Bestiary 2 pg. 352.0
+427,Medium,2,5,Plague Doctor,Human;Humanoid;,Gamemastery Guide pg. 221
+428,Medium,6,-1,Foolish Hunters,Human;Humanoid;,Crown of the Kobold King pg. 25
+429,Medium,3,3,Weak Damibwa,Animal;,Pathfinder #170: Spoken on the Song Wind pg. 80
+430,Medium,5,0,Weak Ooze Mephit,Earth;Elemental;Uncommon;Water;,Bestiary 2 pg. 1132.0
+431,Hard,9,-1,Weak Grindylow,Aberration;Amphibious;,Bestiary 2 pg. 138 2.0
+432,Hard,3,4,Elite Bargott,Fey;Nymph;Plant;Unique;,Pathfinder #176: Lost Mammoth Valley pg. 33
+433,Hard,8,-1,Weak Necromunculus,Uncommon;Undead;,Pathfinder #181: Zombie Feast pg. 86
+434,Hard,5,1,Elite Burning Mammoth Hunters,Human;Humanoid;Uncommon;,Pathfinder #175: Broken Tusk Moon pg. 17
+435,Hard,4,3,Weak Glaz “Brick Blaster” Nixbrix,Humanoid;Unique;,Pathfinder #178: Punks in a Powderkeg pg. 88
+436,Hard,2,6,Elite Nugrah,Human;Humanoid;Unique;,Kingmaker Adventure Path pg. 183
+437,Hard,7,0,Elite Gold Tank Investor,Human;Humanoid;Uncommon;,Pathfinder #178: Punks in a Powderkeg pg. 14
+438,Hard,1,9,Weak Piscodaemon,Amphibious;Daemon;Fiend;,Bestiary 2 pg. 582.0
+439,Hard,9,-1,Giant Centipede,Animal;,Bestiary pg. 61
+440,Hard,3,4,Daelum,Construct;Rare;,Pathfinder #179: Cradle of Quartz pg. 82
+441,Hard,8,-1,Weak Kangaroo,Animal;,Bestiary 3 pg. 146
+442,Hard,5,1,Weak War Horse,Animal;,Bestiary pg. 209
+443,Hard,4,3,Weak Clockwork Fabricator,Clockwork;Construct;Mindless;Uncommon;,Pathfinder #178: Punks in a Powderkeg pg. 85
+444,Hard,2,6,Weak Lillend,Azata;Celestial;,Bestiary pg. 32
+445,Hard,7,0,Weak Jaleen,Human;Humanoid;Unique;,Pathfinder #151: The Show Must Go On pg. 9
+446,Hard,1,9,Mokele-Mbembe,Animal;Uncommon;,Bestiary 3 pg. 171; Pathfinder #146: Cult of Cinders pg. 90
+447,Hard,9,-1,Weak Dockhand,Human;Humanoid;,Gamemastery Guide pg. 222
+448,Hard,3,4,Weak Redcap,Fey;,Bestiary pg. 278
+449,Hard,8,-1,Sludgespine Killers,Gnoll;Humanoid;Uncommon;,Pathfinder #178: Punks in a Powderkeg pg. 25
+450,Hard,5,1,Weak Cave Fisher,Animal;,Bestiary 2 pg. 492.0
+451,Hard,4,3,Elite Gnoll Hunter,Gnoll;Humanoid;,Bestiary pg. 178
+452,Hard,2,6,Faithless Ecclesiarach,Uncommon;Undead;,Book of the Dead pg. 112
+453,Hard,7,0,Weak Vampire Bat Swarm,Animal;Swarm;,Bestiary pg. 39
+454,Hard,1,9,Elite Waldgeist,Incorporeal;Spirit;Uncommon;Undead;,Book of the Dead pg. 164
+455,Hard,9,-1,Severed Head,Mindless;Undead;,Bestiary 3 pg. 30
+456,Hard,3,4,Elite Mage for Hire,Human;Humanoid;,Gamemastery Guide pg. 226
+457,Hard,8,-1,Weasel,Animal;,Bestiary 3 pg. 291
+458,Hard,5,1,Weak Hippogriff,Animal;,Bestiary 2 pg. 1432.0
+459,Hard,4,3,Elite Giant Crab,Animal;Aquatic;,Bestiary 2 pg. 552.0
+460,Hard,2,6,Weak Frost Drake,Cold;Dragon;,Bestiary pg. 134
+461,Deadly,5,4,Elite Bargott,Fey;Nymph;Plant;Unique;,Pathfinder #176: Lost Mammoth Valley pg. 33
+462,Deadly,6,3,Irkem Dresh,Dwarf;Humanoid;Unique;,Pathfinder #178: Punks in a Powderkeg pg. 17
+463,Deadly,4,5,Nok-Nok (Level 5),Goblin;Humanoid;Unique;,Kingmaker Companion Guide pg. 58
+464,Deadly,7,2,Elite Formian Worker,Formian;,Pathfinder #173: Doorway to the Red Star pg. 82
+465,Deadly,10,0,Weak Prisoner,Human;Humanoid;,Gamemastery Guide pg. 215
+466,Deadly,1,11,Elite Ibrium,Human;Humanoid;Unique;,Pathfinder #180: The Smoking Gun pg. 88
+467,Deadly,2,8,Behir,Beast;Electricity;,Bestiary 2 pg. 382.0
+468,Deadly,8,1,Weak Daring Danika,Human;Humanoid;Unique;,Pathfinder #151: The Show Must Go On pg. 28
+469,Deadly,3,6,Bugaboo,Fey;Uncommon;,Pathfinder #152: Legacy of the Lost God pg. 78
+470,Deadly,12,-1,Beaver,Animal;,Pathfinder #176: Lost Mammoth Valley pg. 82
+471,Deadly,13,-1,Mitflit,Fey;Gremlin;,Bestiary pg. 192
+472,Deadly,5,4,Weak Lion Visitant,Animal;Undead;,Pathfinder #152: Legacy of the Lost God pg. 83
+473,Deadly,6,3,Elite Rat Snake Swarm,Animal;Swarm;,Bestiary 3 pg. 249
+474,Deadly,4,5,Fence,Human;Humanoid;,Gamemastery Guide pg. 210
+475,Deadly,7,2,Elite Shikigami,Kami;Spirit;,Bestiary 3 pg. 142
+476,Deadly,10,0,Weak Prisoner,Human;Humanoid;,Gamemastery Guide pg. 215
+477,Deadly,1,11,Tallow Ooze,Mindless;Ooze;,Pathfinder #154: Siege of the Dinosaurs pg. 83
+478,Deadly,2,8,Elite Rigg Gargadilly,Fey;Unique;,Kingmaker Adventure Path pg. 150
+479,Deadly,8,1,Weak Xulgath Bilebearer,Humanoid;Xulgath;,Pathfinder #151: The Show Must Go On pg. 87
+480,Deadly,3,6,Elga Verniex,Human;Humanoid;Unique;,Kingmaker Adventure Path pg. 76
+481,Deadly,12,-1,Skeleton Guard,Mindless;Skeleton;Undead;,Bestiary pg. 298
+482,Deadly,13,-1,Weak Homunculus,Construct;,Bestiary pg. 208
+483,Deadly,5,4,Calathgar,Cold;Plant;,Bestiary 2 pg. 452.0
+484,Deadly,6,3,Troubadour,Human;Humanoid;,Gamemastery Guide pg. 237
+485,Deadly,4,5,Weak Xill,Aberration;Ethereal;Uncommon;,Bestiary 2 pg. 2992.0
+486,Deadly,7,2,Weak Ocluai,Fey;Uncommon;,Pathfinder #187: The Seventh Arch pg. 87
+487,Deadly,10,0,Elite Animated Blades,Construct;Mindless;Uncommon;,Pathfinder #175: Broken Tusk Moon pg. 32
+488,Deadly,1,11,Weak Guloval,Agathion;Celestial;Uncommon;,Pathfinder #183: Field of Maidens pg. 81
+489,Deadly,2,8,Granite Glyptodont,Earth;Elemental;,Bestiary 2 pg. 1092.0
+490,Deadly,8,1,Jinkin,Fey;Gremlin;,Bestiary pg. 193
+491,Insanity,5,5,Elite Sakuachi,Human;Humanoid;Unique;,Pathfinder #188: They Watched the Stars pg. 92
+492,Insanity,6,4,Elite Giant Vulture,Animal;,Bestiary 3 pg. 289
+493,Insanity,15,-1,Mitflit,Fey;Gremlin;,Bestiary pg. 192
+494,Insanity,7,3,Elite Munavri Spellblade,Humanoid;Munavri;Rare;,Bestiary 3 pg. 180
+495,Insanity,16,-1,Unseen Servant,Mindless;,Core Rulebook pg. 380 4.0
+496,Insanity,17,-1,Severed Head,Mindless;Undead;,Bestiary 3 pg. 30
+497,Insanity,9,2,Giant Flying Squirrel,Animal;,Bestiary 3 pg. 257
+498,Insanity,2,9,Elite Procyal,Agathion;Celestial;,Bestiary 3 pg. 11
+499,Insanity,18,-1,Weak Melixie,Fey;Sprite;,Bestiary 3 pg. 254
+500,Insanity,4,6,Elite Bone Croupier,Uncommon;Undead;,Book of the Dead pg. 77; Pathfinder #151: The Show Must Go On pg. 80
+501,Medium,1,9,Weak Lasheeli Aminda,Aasimar;Human;Humanoid;Unique;,Pathfinder #183: Field of Maidens pg. 90
+502,Medium,8,-1,Zombie Shambler,Mindless;Undead;Zombie;,Bestiary pg. 340
+503,Medium,3,4,Elite Bosun,Human;Humanoid;,Gamemastery Guide pg. 243
+504,Medium,2,6,Kurnugian Jackal,Beast;Uncommon;,Troubles in Otari pg. 61
+505,Medium,6,0,Weak Nosoi,Monitor;Psychopomp;,Bestiary pg. 270
+506,Medium,4,2,Giant Ant,Animal;,Bestiary 2 pg. 202.0
+507,Medium,5,1,Air Mephit,Air;Elemental;,Bestiary pg. 150
+508,Medium,1,9,Arboreal Tar Tree,Plant;Rare;Undead;,Pathfinder #177: Burning Tundra pg. 31
+509,Medium,8,-1,Weak Leaf Leshy,Leshy;Plant;,Bestiary pg. 218
+510,Medium,3,4,Elite Giant Chameleon,Animal;,Bestiary 2 pg. 1682.0
+511,Medium,2,6,Elite Dandasuka,Fiend;Rakshasa;,Bestiary pg. 274
+512,Medium,6,0,Melixie,Fey;Sprite;,Bestiary 3 pg. 254
+513,Medium,4,2,Elite Shaukeen,Asura;Fiend;,Bestiary 3 pg. 22
+514,Medium,5,1,Weak Yeast Ooze,Mindless;Ooze;Rare;,Pathfinder #178: Punks in a Powderkeg pg. 88
+515,Medium,1,9,Elite Procyal,Agathion;Celestial;,Bestiary 3 pg. 11
+516,Medium,8,-1,Zombie Hound,Mindless;Uncommon;Undead;Zombie;,Pathfinder #181: Zombie Feast pg. 16
+517,Medium,3,4,Hadrosaurid,Animal;Dinosaur;,Bestiary 2 pg. 812.0
+518,Medium,2,6,Elite Nwanyian Defender,Human;Humanoid;Uncommon;,Pathfinder #183: Field of Maidens pg. 38
+519,Medium,6,0,Weak Biloko Warrior,Fey;,The Mwangi Expanse pg. 2942.0; Pathfinder #146: Cult of Cinders pg. 82
+520,Medium,4,2,Giant Tsetse Fly,Animal;,Pathfinder #169: Kindled Magic pg. 81
+521,Medium,5,1,Grig,Fey;Sprite;,Bestiary pg. 308
+522,Medium,1,9,Elite Flesh Golem,Construct;Golem;Mindless;Uncommon;,Bestiary pg. 185
+523,Medium,8,-1,Weak Happs Bydon,Human;Humanoid;Unique;,Kingmaker Adventure Path pg. 167
+524,Medium,3,4,Ruanna Nyamma,Elf;Human;Humanoid;Unique;,Pathfinder #152: Legacy of the Lost God pg. 17
+525,Medium,2,6,Elite Hateful Hermit,Human;Humanoid;Unique;,Kingmaker Adventure Path pg. 74
+526,Medium,6,0,Weak Bloody Blade Mercenary,Half-Orc;Human;Humanoid;Orc;,Pathfinder #145: Hellknight Hill pg. 50
+527,Medium,4,2,Weak Necrophidius,Construct;Mindless;,Bestiary 2 pg. 1802.0
+528,Medium,5,1,Weak Giant Viper,Animal;,Bestiary pg. 303
+529,Medium,1,9,Elite Skinsaw Seamer,Human;Humanoid;Rare;,Pathfinder #158: Sixty Feet Under pg. 51
+530,Medium,8,-1,Red Fox,Animal;,Bestiary 3 pg. 102
+531,Hard,3,5,Weak Charau-ka Butcher,Charau-ka;Humanoid;,The Mwangi Expanse pg. 2972.0; Pathfinder #146: Cult of Cinders pg. 85
+532,Hard,4,4,Elite Scalescribe,Aberration;,Bestiary 3 pg. 226
+533,Hard,8,0,Weak Samsaran Anchorite,Humanoid;Samsaran;,Bestiary 3 pg. 224
+534,Hard,10,-1,Weak Ardissa's Porters,Dwarf;Humanoid;Rare;,Pathfinder #175: Broken Tusk Moon pg. 39
+535,Hard,7,1,Weak Gnagrif,Fey;Gremlin;Uncommon;,Pathfinder #169: Kindled Magic pg. 83
+536,Hard,1,10,Weak Elemental Hurricane,Air;Elemental;,Bestiary pg. 145
+537,Hard,2,7,Fortune Eater,Incorporeal;Rare;Spirit;Undead;,Bestiary 3 pg. 101
+538,Hard,5,2,Weak Giant Vulture,Animal;,Bestiary 3 pg. 289
+539,Hard,3,5,Elite Copper Hand Rogue,Human;Humanoid;Rare;,Pathfinder #158: Sixty Feet Under pg. 16
+540,Hard,4,4,Giant Dragonfly,Animal;,Bestiary 2 pg. 982.0
+541,Hard,8,0,Weak Linzi (Level 1),Halfling;Humanoid;Unique;,Kingmaker Companion Guide pg. 45
+542,Hard,10,-1,Skunk,Animal;,Bestiary 3 pg. 246
+543,Hard,7,1,Weak Dero Stalker,Dero;Humanoid;,Bestiary pg. 84
+544,Hard,1,10,Elite Bog Mummy Amalgamation,Mummy;Undead;Unique;,Pathfinder #171: Hurricane's Howl pg. 20
+545,Hard,2,7,Elite Myroga,Dragon;Rare;,Pathfinder #188: They Watched the Stars pg. 88
+546,Hard,5,2,Elite Graveshell,Beast;Uncommon;,Pathfinder #145: Hellknight Hill pg. 89
+547,Hard,3,5,Elite Sakuachi,Human;Humanoid;Unique;,Pathfinder #188: They Watched the Stars pg. 92
+548,Hard,4,4,Elite Kovintus Geomancer,Humanoid;Kovintus;,Bestiary 3 pg. 153
+549,Hard,8,0,Weak Loblobi,Fey;Uncommon;,Pathfinder #175: Broken Tusk Moon pg. 85
+550,Hard,10,-1,Animated Blades,Construct;Mindless;Uncommon;,Pathfinder #175: Broken Tusk Moon pg. 32
+551,Hard,7,1,Elite Farmer,Human;Humanoid;,Gamemastery Guide pg. 222
+552,Hard,1,10,Elite Efreeti,Elemental;Fire;Genie;Uncommon;,Bestiary pg. 164
+553,Hard,2,7,Weak Kelda Halrig,Dwarf;Humanoid;Unique;,Pathfinder #148: Fires of the Haunted City pg. 87
+554,Hard,5,2,Elite Goblin Pyro,Goblin;Humanoid;,Bestiary pg. 181
+555,Hard,3,5,Djinni,Air;Elemental;Genie;Uncommon;,Bestiary pg. 163
+556,Hard,4,4,Elite Cockatrice,Beast;,Bestiary pg. 66
+557,Hard,8,0,Weak Riding Horse,Animal;,Bestiary pg. 209
+558,Hard,10,-1,Weak Burning Mammoth Hunters,Human;Humanoid;Uncommon;,Pathfinder #175: Broken Tusk Moon pg. 17
+559,Hard,7,1,Elite Giant Maggot,Animal;,Bestiary 2 pg. 1202.0
+560,Hard,1,10,Ofalth,Aberration;,Bestiary pg. 251
+561,Deadly,12,0,Weak Carbuncle,Beast;Rare;,Bestiary 2 pg. 472.0
+562,Deadly,4,6,Elite Centaur Scout,Beast;Rare;,Kingmaker Adventure Path pg. 267
+563,Deadly,5,5,Elite Rhino Warrior,Human;Humanoid;Rare;,Pathfinder #177: Burning Tundra pg. 12
+564,Deadly,15,-1,Masu,Animal;Unique;,Pathfinder #179: Cradle of Quartz pg. 16
+565,Deadly,6,4,Luminous Ooze,Mindless;Ooze;,Pathfinder #151: The Show Must Go On pg. 85
+566,Deadly,7,3,Elite Giant Opossum,Animal;,Bestiary 3 pg. 192
+567,Deadly,8,2,Weak Bunyip,Animal;Aquatic;,Bestiary pg. 49
+568,Deadly,2,9,Enormous Dragonfly,Animal;,Kingmaker Adventure Path pg. 99
+569,Deadly,1,12,Weak Terra-Cotta Garrison,Construct;Troop;,Bestiary 3 pg. 263
+570,Deadly,3,7,Weak Bloom Wyvern,Dragon;Unique;,Kingmaker Adventure Path pg. 224
+571,Deadly,10,1,Weak Boar,Animal;,Bestiary pg. 43
+572,Deadly,12,0,Weak Graveshell,Beast;Uncommon;,Pathfinder #145: Hellknight Hill pg. 89
+573,Deadly,4,6,Afziaka Brute,Animal;Mindless;Uncommon;,Pathfinder #185: A Taste of Ashes pg. 82
+574,Deadly,5,5,Weak Smilodon,Animal;,Bestiary pg. 53
+575,Deadly,15,-1,Weak Torchbearer,Human;Humanoid;,Gamemastery Guide pg. 216
+576,Deadly,6,4,Giant Pangolin,Animal;,Bestiary 3 pg. 199
+577,Deadly,7,3,Centipede Swarm,Animal;Swarm;,Bestiary pg. 61
+578,Deadly,8,2,Weak Moose,Animal;,Bestiary 3 pg. 173
+579,Deadly,2,9,Elite Waldgeist,Incorporeal;Spirit;Uncommon;Undead;,Book of the Dead pg. 164
+580,Deadly,1,12,Weak Mummy Prophet of Set,Mummy;Uncommon;Undead;,Book of the Dead pg. 132
+581,Deadly,3,7,Elite Captain of the Guard,Human;Humanoid;,Gamemastery Guide pg. 234
+582,Deadly,10,1,Weak Skeletal Champion,Skeleton;Undead;,Bestiary pg. 298
+583,Deadly,12,0,Spear Frog,Animal;,Bestiary 2 pg. 121 2.0
+584,Deadly,4,6,Sand Sentry,Earth;Elemental;,Bestiary 2 pg. 1092.0
+585,Deadly,5,5,Weak Melfesh Monster,Fungus;Unique;,Monsters of Myth pg. 70
+586,Deadly,15,-1,Weasel,Animal;,Bestiary 3 pg. 291
+587,Deadly,6,4,False Priest,Human;Humanoid;,Gamemastery Guide pg. 229
+588,Deadly,7,3,Elite Sasquatch,Humanoid;Uncommon;,Bestiary 3 pg. 225
+589,Deadly,8,2,Weak Platecarpus,Animal;,Bestiary 3 pg. 178
+590,Deadly,2,9,Elite Zombie Mammoths,Mindless;Undead;Zombie;,Pathfinder #176: Lost Mammoth Valley pg. 56
+591,Insanity,14,1,Elite Earth Wisp,Earth;Elemental;,Bestiary 3 pg. 90
+592,Insanity,5,6,Elite Plague Doctor,Human;Humanoid;,Gamemastery Guide pg. 221
+593,Insanity,20,-1,Weak Spider Swarm,Animal;Swarm;,Bestiary pg. 306
+594,Insanity,4,7,Elite Skrik Nettle,Aberration;,Bestiary 2 pg. 2422.0
+595,Insanity,10,2,Weak Sea Hag,Amphibious;Hag;Humanoid;,Bestiary pg. 200
+596,Insanity,7,4,Weak Fence,Human;Humanoid;,Gamemastery Guide pg. 210
+597,Insanity,2,10,Weak Somnalu Oculus,Aberration;Dream;Unique;,Monsters of Myth pg. 88
+598,Insanity,9,3,Weak Calathgar,Cold;Plant;,Bestiary 2 pg. 452.0
+599,Insanity,6,5,Elite Morlock Cultist,Humanoid;Morlock;Uncommon;,Pathfinder #163: Ruins of Gauntlight pg. 85
+600,Insanity,15,0,Weak Rime Sludge,Mindless;Ooze;Rare;,Pathfinder #175: Broken Tusk Moon pg. 86
+601,Medium,2,7,Xulgath Mage,Humanoid;Xulgath;,Pathfinder #152: Legacy of the Lost God pg. 27
+602,Medium,8,0,Weak Shikigami,Kami;Spirit;,Bestiary 3 pg. 142
+603,Medium,6,1,Prisoner,Human;Humanoid;,Gamemastery Guide pg. 215
+604,Medium,1,10,Elite Tikbalang,Amphibious;Beast;Uncommon;,Bestiary 3 pg. 267
+605,Medium,5,2,Elite Undine Hydromancer,Amphibious;Human;Humanoid;Undine;,Bestiary 2 pg. 2032.0
+606,Medium,3,5,Xulgath Spinesnapper,Humanoid;Xulgath;,Pathfinder #152: Legacy of the Lost God pg. 84
+607,Medium,4,3,Weak Great White Shark,Animal;Aquatic;,Bestiary pg. 291
+608,Medium,2,7,Elite Loakan,Humanoid;Lizardfolk;Unique;,Pathfinder #170: Spoken on the Song Wind pg. 28
+609,Medium,8,0,Weak Grig,Fey;Sprite;,Bestiary pg. 308
+610,Medium,6,1,Weak Ratajin Mastermind,Humanoid;Rare;Ratajin;,Impossible Lands pg. 336
+611,Medium,1,10,Young Red Dragon,Dragon;Fire;,Bestiary pg. 112
+612,Medium,5,2,Azer,Elemental;Fire;Humanoid;,Bestiary 3 pg. 27
+613,Medium,3,5,Antipaladin,Human;Humanoid;,Gamemastery Guide pg. 247
+614,Medium,4,3,Elite Poacher,Human;Humanoid;,Gamemastery Guide pg. 218
+615,Medium,2,7,Weak Fire-Pot Ubanu,Human;Humanoid;Unique;,Pathfinder #170: Spoken on the Song Wind pg. 91
+616,Medium,8,0,Weak Cythnigot,Fiend;Qlippoth;Uncommon;,Bestiary 2 pg. 2122.0
+617,Medium,6,1,Sarkorian Wolf,Animal;,Travel Guide pg. 99
+618,Medium,1,10,Weak Xae,Ghost;Incorporeal;Spirit;Undead;,Kingmaker Companion Guide pg. 38
+619,Medium,5,2,Lizardfolk Warrior,Humanoid;Lizardfolk;Uncommon;,Kingmaker Adventure Path pg. 139
+620,Medium,3,5,Living Waterfall,Aquatic;Elemental;Water;,Bestiary pg. 152
+621,Medium,4,3,Elite Giant Viper,Animal;,Bestiary pg. 303
+622,Medium,2,7,Elite Bone Skipper Swarm,Animal;Swarm;Uncommon;,Pathfinder #158: Sixty Feet Under pg. 80
+623,Medium,8,0,Weak Sallowdrudge,Human;Humanoid;Rare;,Pathfinder #182: Graveclaw pg. 30
+624,Medium,6,1,Bodyguard,Human;Humanoid;,Gamemastery Guide pg. 226
+625,Medium,1,10,Elite Takatorra (Level 9),Humanoid;Tengu;Unique;,Pathfinder #166: Despair on Danger Island pg. 11
+626,Medium,5,2,Elite Scrabbling Ribcage,Construct;Mindless;Uncommon;,Pathfinder #181: Zombie Feast pg. 83
+627,Medium,3,5,Elite Green Hag,Hag;Humanoid;,Bestiary pg. 201
+628,Medium,4,3,Urdefhan Warrior,Humanoid;Urdefhan;,Bestiary 2 pg. 2722.0
+629,Medium,2,7,Elite Ahuizotl,Amphibious;Beast;Uncommon;,Bestiary 2 pg. 122.0
+630,Medium,8,0,Fire Wisp,Elemental;Fire;,Bestiary 3 pg. 91
+631,Hard,7,2,Elite Scorned Hound,Undead;,Book of the Dead pg. 142
+632,Hard,10,0,Weak Gravedigger,Human;Humanoid;,Gamemastery Guide pg. 223
+633,Hard,5,3,Skin Beetle,Animal;Uncommon;,Pathfinder #188: They Watched the Stars pg. 89
+634,Hard,4,5,Albino Giant Bat,Animal;,Crown of the Kobold King pg. 108
+635,Hard,3,6,Weak Skeletal Hulk,Mindless;Skeleton;Undead;,Bestiary pg. 299
+636,Hard,2,8,Weak Witchfire,Incorporeal;Spirit;Uncommon;Undead;,Bestiary 2 pg. 2932.0
+637,Hard,1,11,Grave Karina,Beast;Fiend;Rare;,Pathfinder #172: Secrets of the Temple City pg. 31
+638,Hard,8,1,Giant Cockroach,Animal;,Bestiary 2 pg. 532.0
+639,Hard,7,2,Elite Charau-ka,Charau-ka;Humanoid;,Pathfinder #145: Hellknight Hill pg. 37
+640,Hard,10,0,Weak Wolf,Animal;,Bestiary pg. 334
+641,Hard,5,3,Elite Terror Bird,Animal;,Bestiary 3 pg. 264
+642,Hard,4,5,Weak Urdefhan Death Scout,Humanoid;,Pathfinder #165: Eyes of Empty Death pg. 84
+643,Hard,3,6,Weak Burning Mammoth Commando,Human;Humanoid;Rare;,Pathfinder #177: Burning Tundra pg. 52
+644,Hard,2,8,Elite Turkek,Dhampir;Human;Humanoid;Unique;,Pathfinder #176: Lost Mammoth Valley pg. 39
+645,Hard,1,11,Lomok,Aasimar;Human;Humanoid;Unique;,Pathfinder #177: Burning Tundra pg. 57
+646,Hard,8,1,Weak Lacedon,Amphibious;Ghoul;Undead;,Book of the Dead pg. 104
+647,Hard,7,2,Burning Mammoth Reaver,Human;Humanoid;Rare;,Pathfinder #175: Broken Tusk Moon pg. 54
+648,Hard,10,0,Elite Yellow Musk Thrall,Mindless;Plant;,Bestiary 2 pg. 301 2.0
+649,Hard,5,3,Elite Emperor Bird,Animal;Uncommon;,Pathfinder #145: Hellknight Hill pg. 87
+650,Hard,4,5,Clockwork Disposer,Clockwork;Construct;Mindless;Uncommon;,Pathfinder #179: Cradle of Quartz pg. 80
+651,Hard,3,6,Elite Yeti,Humanoid;Uncommon;,Bestiary pg. 338
+652,Hard,2,8,Froglegs,Grippli;Humanoid;Unique;,Pathfinder #170: Spoken on the Song Wind pg. 91
+653,Hard,1,11,Gambulami,Fey;Unique;,Pathfinder #172: Secrets of the Temple City pg. 37
+654,Hard,8,1,Ifrit Pyrochemist,Human;Humanoid;Ifrit;,Bestiary 2 pg. 2002.0
+655,Hard,7,2,Elite Scorned Hound,Undead;,Book of the Dead pg. 142
+656,Hard,10,0,Zombie Snake,Mindless;Undead;Zombie;,Book of the Dead pg. 170
+657,Hard,5,3,Weak Tenome,Humanoid;,Pathfinder #158: Sixty Feet Under pg. 85
+658,Hard,4,5,Elite Cursed Guardian,Beast;Unique;,Kingmaker Adventure Path pg. 62
+659,Hard,3,6,Weak Fortune Eater,Incorporeal;Rare;Spirit;Undead;,Bestiary 3 pg. 101
+660,Hard,2,8,Elite Young Brass Dragon,Dragon;Fire;,Bestiary pg. 117
+661,Deadly,5,6,Weak Excorion,Uncommon;Undead;,Book of the Dead pg. 91; Pathfinder #158: Sixty Feet Under pg. 82
+662,Deadly,4,7,Weak Jahsi,Elf;Humanoid;Unique;,Pathfinder #146: Cult of Cinders pg. 11
+663,Deadly,12,1,Weak Wolverine,Animal;,Bestiary 2 pg. 2952.0
+664,Deadly,1,13,Cocoon Of Lucid Potential,Aberration;Unique;,Dark Archive pg. 17
+665,Deadly,3,8,Weak Venexus,Cold;Dragon;Unique;,Pathfinder #176: Lost Mammoth Valley pg. 91
+666,Deadly,10,2,Weak Giant Whiptail Centipede,Animal;,Bestiary 2 pg. 502.0
+667,Deadly,8,3,Elite Terror Bird,Animal;,Bestiary 3 pg. 264
+668,Deadly,15,0,Melixie,Fey;Sprite;,Bestiary 3 pg. 254
+669,Deadly,6,5,Elite Horned Archon,Archon;Celestial;,Bestiary pg. 27
+670,Deadly,2,10,Elite Takatorra (Level 9),Humanoid;Tengu;Unique;,Pathfinder #166: Despair on Danger Island pg. 11
+671,Deadly,7,4,Elite Wolliped,Animal;,Bestiary 3 pg. 295
+672,Deadly,5,6,Elite Hollow Husks,Mindless;Rare;Undead;Zombie;,Pathfinder #183: Field of Maidens pg. 26
+673,Deadly,4,7,Elite Cave Bear,Animal;,Bestiary pg. 40
+674,Deadly,12,1,Vampire Bat Swarm,Animal;Swarm;,Bestiary pg. 39
+675,Deadly,1,13,Elite Feral Skull Swarm,Mindless;Swarm;Uncommon;Undead;,Bestiary 3 pg. 244
+676,Deadly,3,8,Elite Dreamscraper,Aberration;Dream;Uncommon;,Pathfinder #189: Dreamers of the Nameless Spires pg. 83
+677,Deadly,10,2,Weak Kreeth-Ni,Fey;Sprite;Unique;,Pathfinder #179: Cradle of Quartz pg. 38
+678,Deadly,8,3,Weak Gnoll Sergeant,Gnoll;Humanoid;,Bestiary pg. 179
+679,Deadly,15,0,Weak Nosoi,Monitor;Psychopomp;,Bestiary pg. 270
+680,Deadly,6,5,Elite Najra Lizard,Dragon;Uncommon;,Pathfinder #158: Sixty Feet Under pg. 83
+681,Deadly,2,10,Melody On The Wind,Air;Elemental;,Bestiary 2 pg. 1072.0
+682,Deadly,7,4,Elite Edolpho Phinelli,Elf;Half-Elf;Human;Humanoid;Unique;,Pathfinder Encounter: Phinelli's Miracle Elixir pg. 0
+683,Deadly,5,6,Weak Deathless Hierophant of Urgathoa,Uncommon;Undead;,Book of the Dead pg. 88
+684,Deadly,4,7,Weak Erinys,Devil;Fiend;,Bestiary pg. 89
+685,Deadly,12,1,Weak Giant Flying Squirrel,Animal;,Bestiary 3 pg. 257
+686,Deadly,1,13,Weak Kellid Graveknight,Rare;Undead;,Kingmaker Adventure Path pg. 401
+687,Deadly,3,8,Gerhard Pendergrast,Human;Humanoid;Unique;,Pathfinder #146: Cult of Cinders pg. 37
+688,Deadly,10,2,Elite Jaleen,Human;Humanoid;Unique;,Pathfinder #151: The Show Must Go On pg. 9
+689,Deadly,8,3,Elite Stinkweed Shambler,Plant;,Troubles in Otari pg. 63
+690,Deadly,15,0,Weak Kressle,Human;Humanoid;Unique;,Kingmaker Adventure Path pg. 170
+691,Insanity,6,6,Elite Ghul,Genie;Ghul;Undead;,Book of the Dead pg. 106
+692,Insanity,10,3,Elite Angheuvore Flesh-Gnawer,Elf;Humanoid;Mortic;Rare;,Bestiary 3 pg. 174
+693,Insanity,9,4,Elite Trilobite Swarm,Animal;Aquatic;Swarm;,Bestiary 3 pg. 275
+694,Insanity,7,5,Weak Hodag,Beast;Uncommon;,Bestiary 2 pg. 1452.0
+695,Insanity,3,9,Weak Icewyrm,Amphibious;Cold;Elemental;Water;,Bestiary 2 pg. 1152.0
+696,Insanity,15,1,Weak Dovan From Nisroch,Human;Humanoid;Unique;,Kingmaker Adventure Path pg. 179
+697,Insanity,4,8,Elite Azarketi Tide Tamer,Amphibious;Azarketi;Humanoid;,Absalom; City of Lost Omens pg. 397
+698,Insanity,5,7,Elite Priest of Pharasma,Human;Humanoid;,Gamemastery Guide pg. 213
+699,Insanity,14,2,Dewey Daystar,Leshy;Plant;Unique;,Pathfinder #178: Punks in a Powderkeg pg. 46
+700,Insanity,20,0,Weak Kalaggi Nakutu,Human;Humanoid;Unique;,Threshold of Knowledge pg. 12
+701,Medium,2,8,Sphinx,Beast;,Bestiary pg. 305
+702,Medium,1,11,Skeleton Infantry,Mindless;Skeleton;Troop;Undead;,Bestiary 3 pg. 237
+703,Medium,6,2,Flickerwisp,Aberration;Air;Uncommon;,Pathfinder #163: Ruins of Gauntlight pg. 83
+704,Medium,4,4,Elite Cinder Rat,Elemental;Fire;,Bestiary pg. 148
+705,Medium,8,1,Weak Tengu Sneak,Humanoid;Tengu;,Bestiary pg. 310
+706,Medium,3,6,Elite Ogre Spider,Animal;,Bestiary 2 pg. 2492.0
+707,Medium,5,3,Weak Ghoul Crocodile,Amphibious;Ghoul;Uncommon;Undead;,Pathfinder #182: Graveclaw pg. 32
+708,Medium,2,8,Stone Giant,Earth;Giant;Humanoid;,Bestiary pg. 170
+709,Medium,1,11,Elite Nosferatu Malefactor,Uncommon;Undead;Vampire;,Bestiary 3 pg. 284
+710,Medium,6,2,Weak River Drake,Amphibious;Dragon;Water;,Bestiary pg. 131
+711,Medium,4,4,Elite Gnoll Cultist,Gnoll;Humanoid;,Bestiary pg. 179
+712,Medium,8,1,Boggard Scout,Amphibious;Boggard;Humanoid;,Bestiary pg. 44
+713,Medium,3,6,Weak Mothman,Aberration;Rare;,Bestiary 3 pg. 179
+714,Medium,5,3,Mage for Hire,Human;Humanoid;,Gamemastery Guide pg. 226
+715,Medium,2,8,Elite Megalania,Animal;,Bestiary 2 pg. 1682.0
+716,Medium,1,11,Weak Girtablilu Seer,Beast;,Bestiary 3 pg. 112
+717,Medium,6,2,Thoqqua,Earth;Elemental;Fire;Uncommon;,Crown of the Kobold King pg. 123
+718,Medium,4,4,Biloko Veteran,Fey;,The Mwangi Expanse pg. 2942.0; Pathfinder #146: Cult of Cinders pg. 82
+719,Medium,8,1,Samsaran Anchorite,Humanoid;Samsaran;,Bestiary 3 pg. 224
+720,Medium,3,6,Gurgist Mauler,Human;Humanoid;Mortic;Rare;,Bestiary 3 pg. 175
+721,Medium,5,3,Elite Slurk,Animal;,Bestiary pg. 301
+722,Medium,2,8,Ghostly Mob,Ghost;Incorporeal;Troop;Uncommon;Undead;,Pathfinder #182: Graveclaw pg. 83
+723,Medium,1,11,Ancient Tupilaq,Construct;Unique;,Pathfinder #189: Dreamers of the Nameless Spires pg. 56
+724,Medium,6,2,Ittan-Momen,Kami;,Bestiary 3 pg. 276
+725,Medium,4,4,Weak Djinni,Air;Elemental;Genie;Uncommon;,Bestiary pg. 163
+726,Medium,8,1,Riding Dog,Animal;,Bestiary pg. 102
+727,Medium,3,6,Weak Kirin,Air;Beast;Fire;Rare;,Bestiary 3 pg. 148
+728,Medium,5,3,Elite Gunmarshal,Humanoid;Uncommon;,Pathfinder #178: Punks in a Powderkeg pg. 57
+729,Medium,2,8,Weak Mokele-Mbembe,Animal;Uncommon;,Bestiary 3 pg. 171; Pathfinder #146: Cult of Cinders pg. 90
+730,Medium,1,11,Hantu Belian,Beast;Hantu;Incorporeal;Spirit;Uncommon;,Pathfinder #166: Despair on Danger Island pg. 85
+731,Hard,10,1,Kalaggi Nakutu,Human;Humanoid;Unique;,Threshold of Knowledge pg. 12
+732,Hard,3,7,Hound of Tindalos,Aberration;Rare;Time;,Bestiary 2 pg. 1462.0
+733,Hard,8,2,Drow Rogue,Drow;Elf;Humanoid;,Bestiary pg. 137
+734,Hard,7,3,Weak Dmiri Yoltosha,Hobgoblin;Humanoid;Unique;,Pathfinder #145: Hellknight Hill pg. 51
+735,Hard,4,6,Weak Sportlebore Swarm,Animal;Swarm;,Bestiary 2 pg. 2512.0
+736,Hard,1,12,Ilora Nuski,Human;Humanoid;Unique;,Kingmaker Adventure Path pg. 112
+737,Hard,5,4,Gilded Gunner Goon,Human;Humanoid;Uncommon;,Pathfinder #179: Cradle of Quartz pg. 19
+738,Hard,2,9,Tar Zombie Mammoth,Mindless;Uncommon;Undead;Zombie;,Pathfinder #177: Burning Tundra pg. 85
+739,Hard,10,1,Elite Eunice,Human;Humanoid;,Pathfinder #157: Devil at the Dreaming Palace pg. 12
+740,Hard,3,7,Nwanyian Archer,Human;Humanoid;Uncommon;,Pathfinder #183: Field of Maidens pg. 36
+741,Hard,8,2,Weak Corrupted Priest,Human;Humanoid;Unique;,Pathfinder #151: The Show Must Go On pg. 39
+742,Hard,7,3,Weak Ovinnik,Fey;,Bestiary 3 pg. 137
+743,Hard,4,6,Weak Young Black Dragon,Acid;Amphibious;Dragon;,Bestiary pg. 105
+744,Hard,1,12,Relictner Eroder,Dwarf;Humanoid;Mortic;Rare;,Book of the Dead pg. 127
+745,Hard,5,4,Weak Mechanical Laborer,Construct;Earth;Mindless;Uncommon;,Pathfinder #182: Graveclaw pg. 41
+746,Hard,2,9,Elite Girtablilu Sentry,Beast;,Bestiary 3 pg. 112
+747,Hard,10,1,Weak Leopard,Animal;,Bestiary pg. 52
+748,Hard,3,7,Naiad Queen,Amphibious;Fey;Nymph;Uncommon;Water;,Bestiary pg. 248
+749,Hard,8,2,Zrukbat,Fey;,Pathfinder #157: Devil at the Dreaming Palace pg. 85
+750,Hard,7,3,Watch Officer,Human;Humanoid;,Gamemastery Guide pg. 234
+751,Hard,4,6,Skull Peeler,Beast;,Bestiary 3 pg. 243
+752,Hard,1,12,Weak Carnivorous Blob,Mindless;Ooze;,Bestiary 2 pg. 1952.0
+753,Hard,5,4,Elite Skull Fairy,Shadow;Uncommon;,Pathfinder #181: Zombie Feast pg. 87
+754,Hard,2,9,Elite Racharak,Charau-ka;Dragon;Fire;Humanoid;Unique;,Pathfinder #146: Cult of Cinders pg. 34
+755,Hard,10,1,Elite Giant Maggot,Animal;,Bestiary 2 pg. 1202.0
+756,Hard,3,7,Elite Tar Zombie Snatcher,Mindless;Uncommon;Undead;Zombie;,Pathfinder #177: Burning Tundra pg. 84
+757,Hard,8,2,Weak Zebub,Devil;Fiend;,Bestiary 2 pg. 722.0
+758,Hard,7,3,Giant Mantis,Animal;,Bestiary pg. 233
+759,Hard,4,6,Elite Stone-Breasted Owl,Beast;Incorporeal;Spirit;Uncommon;,Pathfinder #188: They Watched the Stars pg. 91
+760,Hard,1,12,Weak Ileosa's Shell,Undead;Unique;,Shadows at Sundown pg. 49
+761,Deadly,10,3,Elite Triton,Amphibious;Humanoid;,Bestiary 2 pg. 2632.0
+762,Deadly,6,6,Elga Verniex,Human;Humanoid;Unique;,Kingmaker Adventure Path pg. 76
+763,Deadly,4,8,Elite Sabora Sharkosa,Elf;Half-Elf;Human;Humanoid;Unique;,Pathfinder #179: Cradle of Quartz pg. 91
+764,Deadly,7,5,Weak Babau,Demon;Fiend;,Bestiary 2 pg. 642.0
+765,Deadly,2,11,Elite Quintessivore,Beast;Rare;,Bestiary 3 pg. 209
+766,Deadly,3,9,Elite The Dancing Lady,Fey;Unique;,Kingmaker Adventure Path pg. 153
+767,Deadly,15,1,Amiri (Level 1),Human;Humanoid;Unique;,Kingmaker Companion Guide pg. 7
+768,Deadly,5,7,Weak Hadrinnex,Aberration;Uncommon;,Bestiary 3 pg. 127
+769,Deadly,12,2,Sasquatch,Humanoid;Uncommon;,Bestiary 3 pg. 225
+770,Deadly,1,14,Elite Iron Golem,Construct;Golem;Mindless;Uncommon;,Bestiary pg. 188
+771,Deadly,8,4,Bone Warrior,Human;Humanoid;Rare;,Pathfinder #176: Lost Mammoth Valley pg. 35
+772,Deadly,10,3,Grick,Aberration;Uncommon;,Crown of the Kobold King pg. 120; Pathfinder #157: Devil at the Dreaming Palace pg. 35
+773,Deadly,6,6,Weak Hellcat,Beast;Fiend;,Bestiary 2 pg. 1412.0
+774,Deadly,4,8,Elite Ahvothian,Fiend;Uncommon;,The Slithering pg. 62
+775,Deadly,7,5,Djinni,Air;Elemental;Genie;Uncommon;,Bestiary pg. 163
+776,Deadly,2,11,Elite Adrivallo,Fey;Unique;,Pathfinder #152: Legacy of the Lost God pg. 49
+777,Deadly,3,9,Elite Megaprimatus,Animal;,Bestiary pg. 23
+778,Deadly,15,1,Caligni Dancer,Caligni;Humanoid;,Bestiary pg. 50
+779,Deadly,5,7,Elite Beetle Carapace,Mindless;Skeleton;Undead;,Book of the Dead pg. 148
+780,Deadly,12,2,War Horse,Animal;,Bestiary pg. 209
+781,Deadly,1,14,Weak Jaiban,Beast;Unique;,Pathfinder #166: Despair on Danger Island pg. 41
+782,Deadly,8,4,Weak Lurker In Light,Fey;,Bestiary 2 pg. 1692.0
+783,Deadly,10,3,Elite Triton,Amphibious;Humanoid;,Bestiary 2 pg. 2632.0
+784,Deadly,6,6,Elite Caligni Vanguard,Caligni;Humanoid;Rare;,Bestiary 3 pg. 40
+785,Deadly,4,8,Anancus,Animal;,Bestiary 2 pg. 1162.0
+786,Deadly,7,5,Weak Grippli Jinxer,Grippli;Humanoid;,Pathfinder #170: Spoken on the Song Wind pg. 83
+787,Deadly,2,11,Elite Akuzhail,Beast;Mutant;Unique;,Kingmaker Adventure Path pg. 247
+788,Deadly,3,9,Elite Ghost Pirate Captain,Ghost;Incorporeal;Spirit;Undead;,Book of the Dead pg. 101
+789,Deadly,15,1,Elite Melixie,Fey;Sprite;,Bestiary 3 pg. 254
+790,Deadly,5,7,Eloko,Fey;,The Mwangi Expanse pg. 2952.0; Pathfinder #146: Cult of Cinders pg. 83
+791,Insanity,10,4,Elite Xulgath Leader,Humanoid;Xulgath;,Bestiary pg. 337
+792,Insanity,5,8,Elite Cyclops Zombie,Mindless;Undead;Zombie;,Kingmaker Adventure Path pg. 275
+793,Insanity,6,7,Naunet,Monitor;Protean;,Bestiary pg. 267
+794,Insanity,20,1,Weak Morlock,Humanoid;,Bestiary 2 pg. 1742.0
+795,Insanity,2,12,Omox,Demon;Fiend;Ooze;Uncommon;,Bestiary 3 pg. 63
+796,Insanity,3,10,Dezullon,Plant;,Bestiary pg. 94
+797,Insanity,4,9,Weak Gholdako,Rare;Undead;,Book of the Dead pg. 97
+798,Insanity,9,5,Weak Woolly Rhinoceros,Animal;,Bestiary 2 pg. 2282.0
+799,Insanity,14,3,Elite Android Infiltrator,Android;Humanoid;Rare;,Bestiary 3 pg. 16
+800,Insanity,15,2,Weak Megalictis,Animal;,Bestiary 3 pg. 291
+801,Medium,8,2,Wereboar,Beast;Human;Humanoid;Werecreature;,Bestiary 2 pg. 2902.0
+802,Medium,4,5,Weak Vaultbreaker Ooze,Mindless;Ooze;Uncommon;,Pathfinder #158: Sixty Feet Under pg. 87
+803,Medium,2,9,Elite Assassin,Human;Humanoid;,Gamemastery Guide pg. 211
+804,Medium,6,3,Elite Choker,Aberration;,Bestiary 2 pg. 512.0
+805,Medium,5,4,Elite Giant Chameleon,Animal;,Bestiary 2 pg. 1682.0
+806,Medium,3,7,Young Black Dragon,Acid;Amphibious;Dragon;,Bestiary pg. 105
+807,Medium,1,12,Weak Mage of Many Styles,Human;Humanoid;Uncommon;,Pathfinder #166: Despair on Danger Island pg. 25
+808,Medium,8,2,Giant Tapir,Animal;,Pathfinder #175: Broken Tusk Moon pg. 87
+809,Medium,4,5,Poltergeist,Incorporeal;Spirit;Undead;,Bestiary pg. 264
+810,Medium,2,9,Elite Dreadsong Dancer,Fiend;Rare;,Pathfinder #158: Sixty Feet Under pg. 81
+811,Medium,6,3,Weak Ghost Commoner,Ghost;Incorporeal;Spirit;Undead;,Bestiary pg. 167
+812,Medium,5,4,Weak Kvernknurr,Amphibious;Fey;Uncommon;Water;,Pathfinder #188: They Watched the Stars pg. 87
+813,Medium,3,7,Elite Choral,Angel;Celestial;,Bestiary pg. 17
+814,Medium,1,12,Weak Ice Yai,Cold;Fiend;Giant;Humanoid;Oni;,Bestiary 2 pg. 1892.0
+815,Medium,8,2,Elite Anadi Seeker,Anadi;Humanoid;Uncommon;,Pathfinder #169: Kindled Magic pg. 78
+816,Medium,4,5,Weak The Lonely Warrior,Undead;Unique;Wight;,Kingmaker Adventure Path pg. 135
+817,Medium,2,9,Young Bronze Dragon,Amphibious;Dragon;Water;,Bestiary pg. 119
+818,Medium,6,3,Weak Giant Pangolin,Animal;,Bestiary 3 pg. 199
+819,Medium,5,4,Weak Bloom Cultist,Human;Humanoid;Rare;,Kingmaker Adventure Path pg. 240
+820,Medium,3,7,Weak Abendego Brute,Human;Humanoid;,Pathfinder #171: Hurricane's Howl pg. 37
+821,Medium,1,12,Ssumzili,Fey;Uncommon;,Pathfinder #171: Hurricane's Howl pg. 85
+822,Medium,8,2,Elite Scrabbling Ribcage,Construct;Mindless;Uncommon;,Pathfinder #181: Zombie Feast pg. 83
+823,Medium,4,5,Elite Scalathrax,Aberration;Uncommon;,Pathfinder #163: Ruins of Gauntlight pg. 86
+824,Medium,2,9,Weak Strigoi Servant,Rare;Shadow;Undead;Vampire;,Shadows at Sundown pg. 25
+825,Medium,6,3,Weak Kashrishi Evaluator,Kashrishi;Rare;,Impossible Lands pg. 331
+826,Medium,5,4,Phantom Knight,Ethereal;Incorporeal;Phantom;Spirit;Uncommon;,Bestiary 3 pg. 202
+827,Medium,3,7,Weak Sandpoint Devil,Beast;Fiend;Unique;,Bestiary 2 pg. 2302.0
+828,Medium,1,12,Weak The First Faithful,Fiend;Human;Humanoid;Unique;,Kingmaker Companion Guide pg. 80
+829,Medium,8,2,Elite Svetlana,Human;Humanoid;Unique;,Kingmaker Adventure Path pg. 53
+830,Medium,4,5,Elite Hellbound Attorney,Devil;Fiend;Human;Humanoid;Uncommon;,Bestiary 3 pg. 64
+831,Hard,5,5,Weak Gurgist Mauler,Human;Humanoid;Mortic;Rare;,Bestiary 3 pg. 175
+832,Hard,1,13,Elite Rusalka,Aquatic;Fey;Water;,Bestiary 2 pg. 2292.0; Pathfinder #147: Tomorrow Must Burn pg. 81
+833,Hard,4,7,Naiad Queen,Amphibious;Fey;Nymph;Uncommon;Water;,Bestiary pg. 248
+834,Hard,7,4,Weak Eobald,Human;Humanoid;Unique;,Kingmaker Companion Guide pg. 53
+835,Hard,2,10,Elite Blackfrost Prophet,Cold;Rare;Undead;,Pathfinder #189: Dreamers of the Nameless Spires pg. 81
+836,Hard,3,8,Graylok Ambusher,Cold;Giant;Humanoid;Uncommon;,Pathfinder #177: Burning Tundra pg. 21
+837,Hard,10,2,Daring Danika,Human;Humanoid;Unique;,Pathfinder #151: The Show Must Go On pg. 28
+838,Hard,8,3,Aapoph Serpentfolk,Humanoid;Mutant;Serpentfolk;Uncommon;,Bestiary 2 pg. 2382.0
+839,Hard,5,5,Dandasuka,Fiend;Rakshasa;,Bestiary pg. 274
+840,Hard,1,13,Ileosa's Shell,Undead;Unique;,Shadows at Sundown pg. 49
+841,Hard,4,7,Weak Drake Skeleton,Mindless;Skeleton;Undead;,Book of the Dead pg. 148
+842,Hard,7,4,Elite Bugbear Tormentor,Goblin;Humanoid;,Bestiary pg. 47
+843,Hard,2,10,Clacking Skull Swarm,Mindless;Swarm;Undead;,Bestiary 3 pg. 244
+844,Hard,3,8,Windchaser,Beast;Unique;,Kingmaker Adventure Path pg. 105
+845,Hard,10,2,Weak Zephyr Hawk,Air;Elemental;,Bestiary pg. 144
+846,Hard,8,3,Assassin Vine,Mindless;Plant;,Bestiary 2 pg. 262.0
+847,Hard,5,5,Elite Dmiri Yoltosha,Hobgoblin;Humanoid;Unique;,Pathfinder #145: Hellknight Hill pg. 51
+848,Hard,1,13,Elite Xulgath Deepmouth,Humanoid;Uncommon;Xulgath;,Pathfinder #155: Lord of the Black Sands pg. 85
+849,Hard,4,7,Elite Priest of Pharasma,Human;Humanoid;,Gamemastery Guide pg. 213
+850,Hard,7,4,Elite Volodmyra,Human;Humanoid;Unique;,Kingmaker Adventure Path pg. 38
+851,Hard,2,10,Weak Adult Brass Dragon,Dragon;Fire;,Bestiary pg. 118
+852,Hard,3,8,Elite Empress Bore Worm,Animal;,Bestiary 3 pg. 37
+853,Hard,10,2,Draugr,Undead;Water;,Bestiary 2 pg. 1022.0
+854,Hard,8,3,Sea Hag,Amphibious;Hag;Humanoid;,Bestiary pg. 200
+855,Hard,5,5,Weak Summer Hora,Fey;Nymph;Rare;,Pathfinder #177: Burning Tundra pg. 80
+856,Hard,1,13,Akila Stormheel,Halfling;Humanoid;Unique;,Pathfinder #167: Ready? Fight! pg. 38
+857,Hard,4,7,Weak Hadrinnex,Aberration;Uncommon;,Bestiary 3 pg. 127
+858,Hard,7,4,Elite Giant Seahorse,Animal;,Bestiary 3 pg. 227
+859,Hard,2,10,Young Red Dragon,Dragon;Fire;,Bestiary pg. 112
+860,Hard,3,8,Elite Tupilaq,Construct;,Bestiary 3 pg. 278
+861,Deadly,15,2,Cave Fisher,Animal;,Bestiary 2 pg. 492.0
+862,Deadly,4,9,Salathiss,Humanoid;Mutant;Serpentfolk;Unique;,Pathfinder #170: Spoken on the Song Wind pg. 93
+863,Deadly,5,8,Skinsaw Seamer,Human;Humanoid;Rare;,Pathfinder #158: Sixty Feet Under pg. 51
+864,Deadly,10,4,Damibwa,Animal;,Pathfinder #170: Spoken on the Song Wind pg. 80
+865,Deadly,6,7,Weak Axiomite,Aeon;Monitor;,Bestiary pg. 9
+866,Deadly,8,5,Weak Priest of Pharasma,Human;Humanoid;,Gamemastery Guide pg. 213
+867,Deadly,12,3,Elite Kekker,Humanoid;Ratfolk;Unique;,Pathfinder #157: Devil at the Dreaming Palace pg. 34
+868,Deadly,1,15,Elite Old Man Statue,Construct;Divine;Mindless;Unique;,Pathfinder #166: Despair on Danger Island pg. 20
+869,Deadly,7,6,Asanbosam,Humanoid;,The Mwangi Expanse pg. 2932.0; Pathfinder #146: Cult of Cinders pg. 80
+870,Deadly,2,12,Valkyrie,Aesir;Monitor;,Bestiary 3 pg. 281
+871,Deadly,3,10,Elite Ghoul Antipaladin,Ghoul;Uncommon;Undead;,Pathfinder #184: The Ghouls Hunger pg. 84
+872,Deadly,15,2,Elite Nixie,Aquatic;Fey;,Bestiary 2 pg. 1832.0
+873,Deadly,4,9,Elite Angazhani,Beast;,Bestiary 3 pg. 17
+874,Deadly,5,8,Elite Corrupt Shieldmarshal,Humanoid;Uncommon;,Pathfinder #180: The Smoking Gun pg. 7
+875,Deadly,10,4,Weak Cavnakash,Humanoid;Unique;Xulgath;Zombie;,Pathfinder #151: The Show Must Go On pg. 88
+876,Deadly,6,7,Legion Archon,Archon;Celestial;,Bestiary pg. 28
+877,Deadly,8,5,Divine Warden Of Nethys,Construct;Mindless;Uncommon;,Bestiary 3 pg. 73
+878,Deadly,12,3,Weak Aphorite Sharpshooter,Aphorite;Human;Humanoid;,Bestiary 3 pg. 204
+879,Deadly,1,15,Elite King Harral,Undead;Unique;,Pathfinder #148: Fires of the Haunted City pg. 42
+880,Deadly,7,6,Weak Anugobu Wondercrafter,Anugobu;Humanoid;Uncommon;,Pathfinder #166: Despair on Danger Island pg. 81
+881,Deadly,2,12,Weak Ghaele,Azata;Celestial;,Bestiary pg. 33
+882,Deadly,3,10,Weak Provincial Jiang-Shi,Undead;Vampire;,Book of the Dead pg. 158; Pathfinder #167: Ready? Fight! pg. 86
+883,Deadly,15,2,Elite Sallowdrudge,Human;Humanoid;Rare;,Pathfinder #182: Graveclaw pg. 30
+884,Deadly,4,9,Weak Ofalth,Aberration;,Bestiary pg. 251
+885,Deadly,5,8,Giant Octopus,Animal;Aquatic;,Bestiary pg. 250
+886,Deadly,10,4,Weak Globster,Aquatic;Ooze;,Bestiary 3 pg. 115
+887,Deadly,6,7,I,Aberration;Unique;,Pathfinder #179: Cradle of Quartz pg. 35
+888,Deadly,8,5,Weak Beetle Carapace,Mindless;Skeleton;Undead;,Book of the Dead pg. 148
+889,Deadly,12,3,Elite Pteranodon,Animal;,Bestiary pg. 272
+890,Deadly,1,15,Elite Ankou,Fey;,Bestiary 2 pg. 192.0
+891,Insanity,2,13,Weak Ainamuuren,Cold;Humanoid;Unique;,Monsters of Myth pg. 9
+892,Insanity,4,10,Weak Hillstomper,Animal;Unique;,Kingmaker Adventure Path pg. 114
+893,Insanity,10,5,Sigbin,Beast;,Pathfinder #166: Despair on Danger Island pg. 89
+894,Insanity,5,9,Weak Chyzaedu,Aberration;Rare;,Bestiary 3 pg. 46
+895,Insanity,14,4,Griffon,Animal;,Bestiary pg. 194
+896,Insanity,7,7,Weak Muckish Creep,Aberration;,Pathfinder #166: Despair on Danger Island pg. 88
+897,Insanity,3,11,Elite Adlet,Cold;Humanoid;,Bestiary 3 pg. 9
+898,Insanity,20,2,Giant Monitor Lizard,Animal;,Bestiary pg. 229
+899,Insanity,9,6,Scarecophagus,Construct;Rare;,Pathfinder #179: Cradle of Quartz pg. 86
+900,Insanity,15,3,Pachycephalosaurus,Animal;Dinosaur;,Bestiary 2 pg. 802.0
+901,Medium,4,6,Wyvern,Dragon;,Bestiary pg. 133
+902,Medium,5,5,Megatherium,Animal;,Bestiary 3 pg. 248
+903,Medium,8,3,Vermlek,Demon;Fiend;,Pathfinder #151: The Show Must Go On pg. 82
+904,Medium,6,4,Hellbound Attorney,Devil;Fiend;Human;Humanoid;Uncommon;,Bestiary 3 pg. 64
+905,Medium,3,8,Erinys,Devil;Fiend;,Bestiary pg. 89
+906,Medium,2,10,Elite Young Magma Dragon,Dragon;Elemental;Fire;Uncommon;,Bestiary 2 pg. 942.0; Pathfinder #148: Fires of the Haunted City pg. 80
+907,Medium,1,13,Weak Jamandi Aldori,Elf;Human;Humanoid;Unique;,Kingmaker Adventure Path pg. 599
+908,Medium,4,6,Elite Elder Thing,Aberration;Amphibious;Rare;,Pathfinder #189: Dreamers of the Nameless Spires pg. 84
+909,Medium,5,5,Elite Bone Warrior,Human;Humanoid;Rare;,Pathfinder #176: Lost Mammoth Valley pg. 35
+910,Medium,8,3,Xulgath Leader,Humanoid;Xulgath;,Bestiary pg. 337
+911,Medium,6,4,Elite Skeletal Giant,Mindless;Skeleton;Undead;,Bestiary pg. 299
+912,Medium,3,8,Elite Specter,Incorporeal;Undead;,Bestiary 2 pg. 2482.0
+913,Medium,2,10,Elite Vampire Mastermind,Uncommon;Undead;Vampire;,Bestiary pg. 321
+914,Medium,1,13,Death Drider,Uncommon;Undead;,Pathfinder #155: Lord of the Black Sands pg. 35
+915,Medium,4,6,Weak Hellcat,Beast;Fiend;,Bestiary 2 pg. 1412.0
+916,Medium,5,5,Troll,Giant;Troll;,Bestiary pg. 314
+917,Medium,8,3,Pegasus,Beast;,Bestiary pg. 260
+918,Medium,6,4,Elite Hobji,Humanoid;Morlock;Unique;,Pathfinder #175: Broken Tusk Moon pg. 45
+919,Medium,3,8,Avarek,Amphibious;Fey;Uncommon;,Pathfinder #159: All or Nothing pg. 80
+920,Medium,2,10,Biloko Reaver,Fey;Uncommon;,Pathfinder #172: Secrets of the Temple City pg. 36
+921,Medium,1,13,Weak Jamandi Aldori,Elf;Human;Humanoid;Unique;,Kingmaker Adventure Path pg. 599
+922,Medium,4,6,Weak Spellscar Fext,Uncommon;Undead;,Impossible Lands pg. 337
+923,Medium,5,5,Elite Charghar,Incorporeal;Spirit;Uncommon;Undead;,Pathfinder #181: Zombie Feast pg. 84
+924,Medium,8,3,Trollhound,Beast;Troll;,Bestiary 2 pg. 2682.0
+925,Medium,6,4,Elite D'ziriak,Aberration;Shadow;,Bestiary 2 pg. 1042.0
+926,Medium,3,8,Weak Vampire Mastermind,Uncommon;Undead;Vampire;,Bestiary pg. 321
+927,Medium,2,10,Young Forest Dragon,Dragon;Plant;Uncommon;,Bestiary 3 pg. 74
+928,Medium,1,13,Elite Monadic Deva,Angel;Celestial;,Bestiary 2 pg. 152.0
+929,Medium,4,6,Weak Elasmosaurus,Animal;,Bestiary 2 pg. 1052.0
+930,Medium,5,5,Weak Wyvern,Dragon;,Bestiary pg. 133
+931,Hard,2,11,Weak Frost Worm,Animal;Cold;,Bestiary 2 pg. 1232.0
+932,Hard,4,8,Jahsi,Elf;Humanoid;Unique;,Pathfinder #146: Cult of Cinders pg. 11
+933,Hard,3,9,Weak Sacristan,Fiend;Velstrac;,Bestiary 2 pg. 2832.0
+934,Hard,10,3,Elite Drow Rogue,Drow;Elf;Humanoid;,Bestiary pg. 137
+935,Hard,8,4,Weak Cavnakash,Humanoid;Unique;Xulgath;Zombie;,Pathfinder #151: The Show Must Go On pg. 88
+936,Hard,5,6,Zuntishan Guard,Human;Humanoid;Uncommon;,Pathfinder #183: Field of Maidens pg. 42
+937,Hard,1,14,Ainamuuren,Cold;Humanoid;Unique;,Monsters of Myth pg. 9
+938,Hard,7,5,Elite Giant Wolverine,Animal;,Bestiary 2 pg. 2952.0
+939,Hard,2,11,Elite Lasheeli Aminda,Aasimar;Human;Humanoid;Unique;,Pathfinder #183: Field of Maidens pg. 90
+940,Hard,4,8,Weak Nuckelavee,Amphibious;Fey;,Bestiary 2 pg. 1862.0
+941,Hard,3,9,Elite Avarek,Amphibious;Fey;Uncommon;,Pathfinder #159: All or Nothing pg. 80
+942,Hard,10,3,Castoroides,Animal;,Pathfinder #176: Lost Mammoth Valley pg. 82
+943,Hard,8,4,Elite Watch Officer,Human;Humanoid;,Gamemastery Guide pg. 234
+944,Hard,5,6,Elite Malarunk,Charau-ka;Humanoid;Unique;,Pathfinder #145: Hellknight Hill pg. 58
+945,Hard,1,14,Kuchisake-Onna,Aberration;Rare;,Bestiary 3 pg. 156
+946,Hard,7,5,Elite Biloko Veteran,Fey;,The Mwangi Expanse pg. 2942.0; Pathfinder #146: Cult of Cinders pg. 82
+947,Hard,2,11,Elite Clacking Skull Swarm,Mindless;Swarm;Undead;,Bestiary 3 pg. 244
+948,Hard,4,8,Aigamuxa,Giant;Humanoid;Uncommon;,The Mwangi Expanse pg. 2922.0
+949,Hard,3,9,Weak Sacristan,Fiend;Velstrac;,Bestiary 2 pg. 2832.0
+950,Hard,10,3,Elite Cactus Leshy,Leshy;Plant;,Bestiary 3 pg. 160
+951,Hard,8,4,Weak Leucrotta,Beast;,Bestiary 2 pg. 1622.0
+952,Hard,5,6,Weak Invidiak,Demon;Fiend;Incorporeal;,Bestiary 2 pg. 652.0
+953,Hard,1,14,Minister Of Tumult,Undead;Vampire;,Book of the Dead pg. 159; Pathfinder #167: Ready? Fight! pg. 87
+954,Hard,7,5,Dismemberment Table,Construct;Mindless;,Crown of the Kobold King pg. 104
+955,Hard,2,11,Sodden Sentinel,Rare;Undead;,Pathfinder #154: Siege of the Dinosaurs pg. 32
+956,Hard,4,8,Weak Clockwork Shambler Horde,Construct;Mindless;Troop;Uncommon;Zombie;,Pathfinder #180: The Smoking Gun pg. 31
+957,Hard,3,9,Elite Onyiji,Human;Humanoid;Orc;Unique;,Pathfinder #171: Hurricane's Howl pg. 9
+958,Hard,10,3,Giant Vulture,Animal;,Bestiary 3 pg. 289
+959,Hard,8,4,Living Thunderclap,Air;Elemental;,Bestiary 2 pg. 1062.0
+960,Hard,5,6,Elite Aasimar Redeemer,Aasimar;Human;Humanoid;,Bestiary pg. 263
+961,Deadly,8,6,Delamar Gianvin,Human;Humanoid;Unique;,Pathfinder #152: Legacy of the Lost God pg. 16
+962,Deadly,4,10,Weak Corpseroot,Undead;,Book of the Dead pg. 81
+963,Deadly,15,3,Sea Hag,Amphibious;Hag;Humanoid;,Bestiary pg. 200
+964,Deadly,2,13,Hooktongue Hydra,Beast;Unique;,Kingmaker Adventure Path pg. 103
+965,Deadly,7,7,Elite Beetle Carapace,Mindless;Skeleton;Undead;,Book of the Dead pg. 148
+966,Deadly,1,16,Weak Wendigo,Beast;Cold;Uncommon;,Bestiary pg. 327
+967,Deadly,10,5,Elite Daelum,Construct;Rare;,Pathfinder #179: Cradle of Quartz pg. 82
+968,Deadly,12,4,Griffon,Animal;,Bestiary pg. 194
+969,Deadly,6,8,Elite Serpentfolk Venom Caller,Humanoid;Serpentfolk;Uncommon;,Pathfinder #170: Spoken on the Song Wind pg. 87
+970,Deadly,5,9,Elite Guildmaster,Human;Humanoid;,Gamemastery Guide pg. 245
+971,Deadly,3,11,Elite Abridan Ashau,Human;Humanoid;Unique;,Shadows at Sundown pg. 26
+972,Deadly,8,6,Elite Namorrodor,Shadow;Undead;,Bestiary 3 pg. 183
+973,Deadly,4,10,Chyzaedu,Aberration;Rare;,Bestiary 3 pg. 46
+974,Deadly,15,3,Pruana Two-Punch,Dwarf;Humanoid;Unique;,Pathfinder #151: The Show Must Go On pg. 22
+975,Deadly,2,13,Weak Kun,Aquatic;Beast;Cold;Uncommon;,Pathfinder #167: Ready? Fight! pg. 79
+976,Deadly,7,7,Weak Hellknight Cavalry Brigade,Animal;Human;Humanoid;Troop;,Bestiary 3 pg. 44
+977,Deadly,1,16,Weak Deimavigga,Devil;Fiend;,Bestiary 3 pg. 66
+978,Deadly,10,5,Weak Awakened Tree,Plant;,Bestiary pg. 25
+979,Deadly,12,4,Viper Swarm,Animal;Swarm;,Bestiary 3 pg. 249
+980,Deadly,6,8,Elite Culdewen,Amphibious;Fey;Uncommon;,Bestiary 2 pg. 572.0
+981,Deadly,5,9,Reaper Skull Puffball,Fungus;Mindless;Uncommon;,Pathfinder #165: Eyes of Empty Death pg. 79
+982,Deadly,3,11,Elemental Inferno,Elemental;Fire;,Bestiary pg. 149
+983,Deadly,8,6,Manticore,Beast;,Bestiary pg. 232
+984,Deadly,4,10,Spectral Devil,Fiend;Incorporeal;Spirit;Undead;Unique;,Monsters of Myth pg. 82
+985,Deadly,15,3,Elite Kitsune Trickster,Humanoid;Kitsune;,Bestiary 3 pg. 150
+986,Deadly,2,13,Fionn,Cold;Incorporeal;Spirit;Undead;,Kingmaker Companion Guide pg. 18
+987,Deadly,7,7,Elite The Stag Lord,Human;Humanoid;Unique;,Kingmaker Adventure Path pg. 604
+988,Deadly,1,16,Elite Villamor Koth,Human;Humanoid;Unique;,Kingmaker Adventure Path pg. 347
+989,Deadly,10,5,Weak Graveknight Captain,Uncommon;Undead;,Pathfinder #172: Secrets of the Temple City pg. 82
+990,Deadly,12,4,Weak Melianse,Aquatic;Fey;Unique;,Kingmaker Adventure Path pg. 71
+991,Insanity,14,5,Elite Sakuachi,Human;Humanoid;Unique;,Pathfinder #188: They Watched the Stars pg. 92
+992,Insanity,5,10,Young Red Dragon,Dragon;Fire;,Bestiary pg. 112
+993,Insanity,7,8,Elite Corrupt Shieldmarshal,Humanoid;Uncommon;,Pathfinder #180: The Smoking Gun pg. 7
+994,Insanity,3,12,Elite River Elasmosaurus,Animal;Rare;,Kingmaker Adventure Path pg. 275
+995,Insanity,2,14,Elite Mage of Many Styles,Human;Humanoid;Uncommon;,Pathfinder #166: Despair on Danger Island pg. 25
+996,Insanity,6,9,Elite Triceratops,Animal;Dinosaur;,Bestiary pg. 99
+997,Insanity,15,4,Weak Leucrotta,Beast;,Bestiary 2 pg. 1622.0
+998,Insanity,9,7,Levaloch,Construct;Devil;Fiend;,Bestiary 3 pg. 65
+999,Insanity,10,6,Elite Cavnakash,Humanoid;Unique;Xulgath;Zombie;,Pathfinder #151: The Show Must Go On pg. 88
+1000,Insanity,20,3,Dire Wolf,Animal;,Bestiary pg. 334
+1001,Medium,2,11,Elite Moon Hag,Fiend;Hag;Humanoid;Uncommon;,Bestiary 3 pg. 131
+1002,Medium,8,4,Elite Tiefling Adept,Human;Humanoid;Tiefling;,Bestiary pg. 262
+1003,Medium,4,7,Weak Ghostly Mob,Ghost;Incorporeal;Troop;Uncommon;Undead;,Pathfinder #182: Graveclaw pg. 83
+1004,Medium,6,5,Advisor,Human;Humanoid;,Gamemastery Guide pg. 207
+1005,Medium,3,9,Elite Magma Scorpion,Elemental;Fire;,Bestiary 2 pg. 1112.0
+1006,Medium,1,14,Elite Akila Stormheel,Halfling;Humanoid;Unique;,Pathfinder #167: Ready? Fight! pg. 38
+1007,Medium,5,6,Elite Divine Warden Of Nethys,Construct;Mindless;Uncommon;,Bestiary 3 pg. 73
+1008,Medium,2,11,Elite Iroran Mummy,Mummy;Rare;Undead;,Book of the Dead pg. 132
+1009,Medium,8,4,Weak Emperor Cobra,Animal;,Bestiary 2 pg. 2452.0
+1010,Medium,4,7,Elite Clockwork Rifler,Clockwork;Construct;Mindless;Uncommon;,Pathfinder #182: Graveclaw pg. 44
+1011,Medium,6,5,Trapjaw Tangle,Construct;Rare;Swarm;,Pathfinder #179: Cradle of Quartz pg. 87
+1012,Medium,3,9,Elite Jubilost Narthropple (Level 8),Fey;Gnome;Humanoid;Unique;,Kingmaker Companion Guide pg. 33
+1013,Medium,1,14,Adult Silver Dragon,Cold;Dragon;,Bestiary pg. 126
+1014,Medium,5,6,Weak Vanth,Monitor;Psychopomp;,Bestiary 2 pg. 2102.0
+1015,Medium,2,11,Thunderbird,Air;Beast;Electricity;Uncommon;,Bestiary 2 pg. 2592.0
+1016,Medium,8,4,Elite Gnoll Cultist,Gnoll;Humanoid;,Bestiary pg. 179
+1017,Medium,4,7,Elite Manticore,Beast;,Bestiary pg. 232
+1018,Medium,6,5,Weak Ahuizotl,Amphibious;Beast;Uncommon;,Bestiary 2 pg. 122.0
+1019,Medium,3,9,Weak Leng Ghoul,Dream;Ghoul;Uncommon;Undead;,Bestiary 3 pg. 107
+1020,Medium,1,14,Elite Weeping Jack,Undead;Unique;Vampire;,Pathfinder #184: The Ghouls Hunger pg. 61
+1021,Medium,5,6,Elite Wizard Sponge,Fungus;Mindless;Swarm;,Bestiary 3 pg. 294
+1022,Medium,2,11,Elite Water Orm,Aquatic;Beast;Rare;Water;,Bestiary 2 pg. 2892.0
+1023,Medium,8,4,Davik Nettles,Undead;Unique;,Kingmaker Adventure Path pg. 67
+1024,Medium,4,7,Weak Chimera,Beast;Uncommon;,Bestiary pg. 63
+1025,Medium,6,5,Weak Wraith,Incorporeal;Undead;Wraith;,Bestiary pg. 335
+1026,Medium,3,9,Elite Skin Beetle Swarm,Animal;Swarm;Uncommon;,Pathfinder #188: They Watched the Stars pg. 89
+1027,Medium,1,14,Weak Horde Lich,Rare;Undead;,Book of the Dead pg. 121
+1028,Medium,5,6,Scarlet Triad Sneak,Human;Humanoid;Uncommon;,Pathfinder #147: Tomorrow Must Burn pg. 8
+1029,Medium,2,11,Spiral Centurion,Construct;Mindless;,Bestiary 2 pg. 2502.0
+1030,Medium,8,4,Pixie,Fey;Sprite;,Bestiary pg. 309
+1031,Hard,1,15,Clockwork Cannoneer,Clockwork;Construct;Mindless;Rare;,Impossible Lands pg. 325
+1032,Hard,8,5,Harpy Skeleton,Mindless;Skeleton;Undead;,Bestiary 3 pg. 236
+1033,Hard,10,4,Weak Ice Golem,Cold;Construct;Golem;Mindless;Uncommon;,Bestiary 2 pg. 1292.0
+1034,Hard,7,6,Weak Winter Hag,Cold;Hag;Humanoid;,Bestiary 3 pg. 129
+1035,Hard,2,12,Weak Strigoi Progenitor,Rare;Shadow;Undead;Vampire;,Shadows at Sundown pg. 60
+1036,Hard,5,7,Elephant,Animal;,Bestiary pg. 154
+1037,Hard,3,10,Weak Gosreg,Aberration;Uncommon;,Bestiary 2 pg. 1332.0
+1038,Hard,4,9,Mokele-Mbembe,Animal;Uncommon;,Bestiary 3 pg. 171; Pathfinder #146: Cult of Cinders pg. 90
+1039,Hard,1,15,Weak Shadow Yai,Fiend;Giant;Humanoid;Oni;Shadow;,Pathfinder #167: Ready? Fight! pg. 80
+1040,Hard,8,5,Hollow Husks,Mindless;Rare;Undead;Zombie;,Pathfinder #183: Field of Maidens pg. 26
+1041,Hard,10,4,Elite Vermlek,Demon;Fiend;,Pathfinder #151: The Show Must Go On pg. 82
+1042,Hard,7,6,Weak Giant Bone Skipper,Animal;Uncommon;,Pathfinder #158: Sixty Feet Under pg. 80
+1043,Hard,2,12,Oversized Chimera,Beast;Rare;,Kingmaker Adventure Path pg. 107
+1044,Hard,5,7,Weak Lamia Matriarch,Beast;,Bestiary pg. 217
+1045,Hard,3,10,Elite Blood Painter,Aberration;,Bestiary 3 pg. 33
+1046,Hard,4,9,Sulvik,Undead;Unique;,Pathfinder #182: Graveclaw pg. 56
+1047,Hard,1,15,Animated Colossus,Construct;Mindless;,Bestiary 3 pg. 19
+1048,Hard,8,5,Spellscar Sky Marauder,Humanoid;Mutant;Uncommon;,Pathfinder #179: Cradle of Quartz pg. 30
+1049,Hard,10,4,Weak Rompo,Beast;,The Mwangi Expanse pg. 3042.0
+1050,Hard,7,6,Weak Young Underworld Dragon,Dragon;Fire;Uncommon;,Bestiary 3 pg. 83
+1051,Hard,2,12,Weak Akila Stormheel,Halfling;Humanoid;Unique;,Pathfinder #167: Ready? Fight! pg. 38
+1052,Hard,5,7,Weak Animate Dream,Dream;Incorporeal;Uncommon;,Bestiary 2 pg. 182.0
+1053,Hard,3,10,Weak Sodden Sentinel,Rare;Undead;,Pathfinder #154: Siege of the Dinosaurs pg. 32
+1054,Hard,4,9,Weak Guardian Naga,Aberration;Uncommon;,Bestiary pg. 243
+1055,Hard,1,15,Weak Grootslang,Beast;Uncommon;,The Mwangi Expanse pg. 2982.0
+1056,Hard,8,5,Weak Afziaka Brute,Animal;Mindless;Uncommon;,Pathfinder #185: A Taste of Ashes pg. 82
+1057,Hard,10,4,Elite Akiros Ismort,Human;Humanoid;Unique;,Kingmaker Adventure Path pg. 180
+1058,Hard,7,6,Weak Sahni Bride-Of-The-Sea,Amphibious;Hag;Humanoid;Unique;,Pathfinder #182: Graveclaw pg. 90
+1059,Hard,2,12,Derghodaemon,Daemon;Fiend;,Bestiary 2 pg. 592.0
+1060,Hard,5,7,Elite Skinsaw Murderer,Human;Humanoid;Rare;,Pathfinder #158: Sixty Feet Under pg. 50
+1061,Deadly,15,4,Owlbear,Animal;,Bestiary pg. 259
+1062,Deadly,6,9,Weak Jesseri The Hailstorm,Human;Humanoid;Unique;,Pathfinder #177: Burning Tundra pg. 52
+1063,Deadly,7,8,Weak Grappling Spirit,Incorporeal;Spirit;Uncommon;Undead;,Book of the Dead pg. 107
+1064,Deadly,2,14,Weak Villamor Koth,Human;Humanoid;Unique;,Kingmaker Adventure Path pg. 347
+1065,Deadly,10,6,Elite Ochre Jelly,Mindless;Ooze;,Bestiary pg. 255
+1066,Deadly,8,7,Elite Skinsaw Murderer,Human;Humanoid;Rare;,Pathfinder #158: Sixty Feet Under pg. 50
+1067,Deadly,3,12,Elite Hezrou,Amphibious;Demon;Fiend;,Bestiary 2 pg. 672.0
+1068,Deadly,12,5,Cavnakash,Humanoid;Unique;Xulgath;Zombie;,Pathfinder #151: The Show Must Go On pg. 88
+1069,Deadly,1,17,Keketar,Monitor;Protean;,Bestiary pg. 269
+1070,Deadly,4,11,Elite Tar Ooze,Mindless;Ooze;Uncommon;,Pathfinder #177: Burning Tundra pg. 82
+1071,Deadly,5,10,Elite Mamlambo,Aquatic;Beast;Uncommon;,The Mwangi Expanse pg. 3032.0
+1072,Deadly,15,4,Weak Plague Doctor,Human;Humanoid;,Gamemastery Guide pg. 221
+1073,Deadly,6,9,Young Magma Dragon,Dragon;Elemental;Fire;Uncommon;,Bestiary 2 pg. 942.0; Pathfinder #148: Fires of the Haunted City pg. 80
+1074,Deadly,7,8,Phantom Beast,Ethereal;Incorporeal;Phantom;Spirit;Uncommon;,Bestiary 3 pg. 203
+1075,Deadly,2,14,Elite Weapon Master,Human;Humanoid;Uncommon;,Pathfinder #166: Despair on Danger Island pg. 22
+1076,Deadly,10,6,Zombie Hulk,Mindless;Undead;Zombie;,Bestiary pg. 341
+1077,Deadly,8,7,Elite Afziaka Brute,Animal;Mindless;Uncommon;,Pathfinder #185: A Taste of Ashes pg. 82
+1078,Deadly,3,12,Xilvirek,Fiend;Uncommon;,Pathfinder #154: Siege of the Dinosaurs pg. 84
+1079,Deadly,12,5,Weak Executioner,Human;Humanoid;,Gamemastery Guide pg. 235
+1080,Deadly,1,17,Maliadi,Beast;Uncommon;,The Mwangi Expanse pg. 3022.0
+1081,Deadly,4,11,Weak Zorek,Human;Humanoid;Unique;,Kingmaker Adventure Path pg. 328
+1082,Deadly,5,10,Weak Greater Nightmare,Beast;Fiend;,Bestiary pg. 244
+1083,Deadly,15,4,Elite Chimpanzee Visitant,Animal;Undead;,Pathfinder #152: Legacy of the Lost God pg. 83
+1084,Deadly,6,9,Elite Denizen of Leng,Aberration;Dream;Uncommon;,Bestiary 2 pg. 702.0
+1085,Deadly,7,8,Weak Irnakurse,Aberration;,Bestiary 2 pg. 1182.0
+1086,Deadly,2,14,Weak Adult Gold Dragon,Dragon;Fire;,Bestiary pg. 124
+1087,Deadly,10,6,Weak Drainberry Bush,Plant;Uncommon;,Bestiary 2 pg. 992.0
+1088,Deadly,8,7,Weak Bloom Wyvern,Dragon;Unique;,Kingmaker Adventure Path pg. 224
+1089,Deadly,3,12,Monadic Deva,Angel;Celestial;,Bestiary 2 pg. 152.0
+1090,Deadly,12,5,Weak Scarlet Triad Sneak,Human;Humanoid;Uncommon;,Pathfinder #147: Tomorrow Must Burn pg. 8
+1091,Insanity,14,6,Elite Glyptodon,Animal;,Pathfinder #175: Broken Tusk Moon pg. 82
+1092,Insanity,7,9,Elite Windchaser,Beast;Unique;,Kingmaker Adventure Path pg. 105
+1093,Insanity,9,8,Elite Invidiak,Demon;Fiend;Incorporeal;,Bestiary 2 pg. 652.0
+1094,Insanity,15,5,Elite Scorpion Swarm,Animal;Swarm;,Bestiary pg. 285
+1095,Insanity,3,13,Elite Chernobue,Fiend;Qlippoth;Uncommon;,Bestiary 2 pg. 2142.0
+1096,Insanity,2,15,Elite Adult Cloud Dragon,Air;Dragon;Elemental;Uncommon;,Bestiary 2 pg. 902.0
+1097,Insanity,4,12,Weak Gold Defender,Construct;Golem;Mindless;Rare;,Pathfinder #172: Secrets of the Temple City pg. 49
+1098,Insanity,10,7,Arboreal Reaper,Plant;,Bestiary 3 pg. 20
+1099,Insanity,5,11,Elite Biloko Reaver,Fey;Uncommon;,Pathfinder #172: Secrets of the Temple City pg. 36
+1100,Insanity,6,10,Elite Bog Mummy Cultist,Mummy;Rare;Undead;,Kingmaker Adventure Path pg. 102
+1101,Medium,5,7,Zombie Chuul,Amphibious;Mindless;Undead;Unique;Zombie;,Pathfinder #182: Graveclaw pg. 33
+1102,Medium,3,10,Weak Carnivorous Crystal,Earth;Mindless;Ooze;,Pathfinder #148: Fires of the Haunted City pg. 76
+1103,Medium,2,12,Cauthooj,Beast;,Bestiary pg. 55
+1104,Medium,1,15,Weak Thorn Guardian,Construct;Mindless;Rare;,Pathfinder #174: Shadows of the Ancients pg. 19
+1105,Medium,8,5,Weak Striding Fire,Elemental;Fire;,Bestiary 2 pg. 1112.0
+1106,Medium,4,8,Mohrg,Undead;,Bestiary 2 pg. 1722.0
+1107,Medium,6,6,Elite Hollow Husks,Mindless;Rare;Undead;Zombie;,Pathfinder #183: Field of Maidens pg. 26
+1108,Medium,5,7,Elite Mpeshi,Beast;Electricity;Rare;,Pathfinder #170: Spoken on the Song Wind pg. 85
+1109,Medium,3,10,Water Orm,Aquatic;Beast;Rare;Water;,Bestiary 2 pg. 2892.0
+1110,Medium,2,12,Weak Ki Adept,Human;Humanoid;Uncommon;,Pathfinder #166: Despair on Danger Island pg. 24
+1111,Medium,1,15,Elite Adult Forest Dragon,Dragon;Plant;Uncommon;,Bestiary 3 pg. 75
+1112,Medium,8,5,Elite Aives The Smoke Dragon,Humanoid;Tiefling;Unique;,Pathfinder #152: Legacy of the Lost God pg. 16
+1113,Medium,4,8,Elite Xulgath Mage,Humanoid;Xulgath;,Pathfinder #152: Legacy of the Lost God pg. 27
+1114,Medium,6,6,Elite Narlynark,Humanoid;Kobold;Unique;,Crown of the Kobold King pg. 106
+1115,Medium,5,7,Demonologist,Human;Humanoid;,Gamemastery Guide pg. 231
+1116,Medium,3,10,Swordkeeper,Construct;Mindless;,Bestiary 3 pg. 261
+1117,Medium,2,12,Elite Solar Glass Golem,Construct;Golem;Mindless;Rare;,Pathfinder #184: The Ghouls Hunger pg. 40
+1118,Medium,1,15,Ectoplasmic Amalgam,Rare;Undead;,Pathfinder #186: Ghost King's Rage pg. 34
+1119,Medium,8,5,Weak Evangelist,Fiend;Velstrac;,Bestiary 2 pg. 2822.0; Pathfinder #147: Tomorrow Must Burn pg. 83
+1120,Medium,4,8,Elite Roru,Demon;Fiend;Uncommon;,Pathfinder #176: Lost Mammoth Valley pg. 84
+1121,Medium,6,6,Weak Deathless Hierophant of Urgathoa,Uncommon;Undead;,Book of the Dead pg. 88
+1122,Medium,5,7,Elite Kreekoss,Beast;Fiend;Unique;,Pathfinder #170: Spoken on the Song Wind pg. 53
+1123,Medium,3,10,Weak Spinosaurus,Animal;Dinosaur;,Bestiary 2 pg. 822.0
+1124,Medium,2,12,Elite Quintessa Maray,Human;Humanoid;Unique;,Kingmaker Adventure Path pg. 314
+1125,Medium,1,15,Elite Tormented,Undead;,Book of the Dead pg. 152
+1126,Medium,8,5,Elite Morlibint,Human;Humanoid;Unique;,No-Prep Character: Morlibint pg. 0
+1127,Medium,4,8,Onyiji,Human;Humanoid;Orc;Unique;,Pathfinder #171: Hurricane's Howl pg. 9
+1128,Medium,6,6,Elite Malarunk,Charau-ka;Humanoid;Unique;,Pathfinder #145: Hellknight Hill pg. 58
+1129,Medium,5,7,Weak Hezle,Humanoid;Kobold;Unique;,Pathfinder #146: Cult of Cinders pg. 50
+1130,Medium,3,10,Weak Faceless Butcher,Humanoid;Uncommon;,Pathfinder #154: Siege of the Dinosaurs pg. 80
+1131,Hard,1,16,Weak Firebrand Bastion,Human;Humanoid;,Pathfinder #186: Ghost King's Rage pg. 53
+1132,Hard,2,13,Summer Hora Queen,Fey;Nymph;Rare;,Pathfinder #177: Burning Tundra pg. 81
+1133,Hard,4,10,Elite Tikbalang,Amphibious;Beast;Uncommon;,Bestiary 3 pg. 267
+1134,Hard,8,6,Elite Taunting Skull,Undead;,Book of the Dead pg. 74
+1135,Hard,3,11,Howling Spawn,Aberration;Rare;,Monsters of Myth pg. 23
+1136,Hard,5,8,Elite Alghollthu Master,Aberration;Aquatic;Uncommon;,Bestiary pg. 14
+1137,Hard,7,7,Elite Ekundayo's Dog,Animal;Minion;Unique;,Kingmaker Companion Guide pg. 22
+1138,Hard,10,5,Weak Charau-ka Dragon Priest,Charau-ka;Dragon;Fire;Humanoid;Uncommon;,Pathfinder #146: Cult of Cinders pg. 59
+1139,Hard,1,16,Formian Mageslayer,Formian;Mutant;Rare;,Pathfinder #173: Doorway to the Red Star pg. 83
+1140,Hard,2,13,Weak General Avinash Jurrg,Giant;Oni;Shapechanger;Unique;,Kingmaker Adventure Path pg. 385
+1141,Hard,4,10,Weak Brainchild,Illusion;Mental;Rare;,Bestiary 3 pg. 38
+1142,Hard,8,6,Elga Verniex,Human;Humanoid;Unique;,Kingmaker Adventure Path pg. 76
+1143,Hard,3,11,Howling Spawn,Aberration;Rare;,Monsters of Myth pg. 23
+1144,Hard,5,8,Weak Young Magma Dragon,Dragon;Elemental;Fire;Uncommon;,Bestiary 2 pg. 942.0; Pathfinder #148: Fires of the Haunted City pg. 80
+1145,Hard,7,7,Weak Xulgath Stoneliege,Humanoid;Uncommon;Xulgath;,Pathfinder #153: Life's Long Shadows pg. 84
+1146,Hard,10,5,Mutant Bat,Animal;Uncommon;,Pathfinder #180: The Smoking Gun pg. 22
+1147,Hard,1,16,Syu Tak-nwa (Level 16),Human;Humanoid;Unique;,Pathfinder #167: Ready? Fight! pg. 35
+1148,Hard,2,13,Elite Arskuva The Gnasher,Minion;Undead;Unique;,Pathfinder #154: Siege of the Dinosaurs pg. 55
+1149,Hard,4,10,Weak Hillstomper,Animal;Unique;,Kingmaker Adventure Path pg. 114
+1150,Hard,8,6,Elite Flea Swarm,Animal;Swarm;,Pathfinder #151: The Show Must Go On pg. 83
+1151,Hard,3,11,Adult Crystal Dragon,Dragon;Earth;Elemental;Uncommon;,Bestiary 2 pg. 922.0
+1152,Hard,5,8,Darricus Stallit,Human;Humanoid;Unique;,Pathfinder #152: Legacy of the Lost God pg. 57
+1153,Hard,7,7,Elite Charau-ka Butcher,Charau-ka;Humanoid;,The Mwangi Expanse pg. 2972.0; Pathfinder #146: Cult of Cinders pg. 85
+1154,Hard,10,5,Weak Jungle Drake,Dragon;Earth;,Bestiary pg. 132
+1155,Hard,1,16,Elite Azure Worm,Amphibious;Animal;Uncommon;,Bestiary pg. 57
+1156,Hard,2,13,Weak Hill Giant Butcher,Earth;Giant;Humanoid;Rare;,Kingmaker Adventure Path pg. 110
+1157,Hard,4,10,Weak Skeleton Infantry,Mindless;Skeleton;Troop;Undead;,Bestiary 3 pg. 237
+1158,Hard,8,6,Elite Divine Warden Of Nethys,Construct;Mindless;Uncommon;,Bestiary 3 pg. 73
+1159,Hard,3,11,Nydazuul,Fiend;Qlippoth;Unique;,Pathfinder #184: The Ghouls Hunger pg. 25
+1160,Hard,5,8,Rust Hag,Hag;Humanoid;Uncommon;,Pathfinder #182: Graveclaw pg. 84
+1161,Deadly,5,11,Seething Spirit,Incorporeal;Spirit;Uncommon;Undead;,Bestiary 3 pg. 228
+1162,Deadly,4,12,Weak Iobane Magi,Human;Humanoid;,Pathfinder #173: Doorway to the Red Star pg. 21
+1163,Deadly,8,8,Weak Nilak,Human;Humanoid;Unique;,Kingmaker Companion Guide pg. 14
+1164,Deadly,1,18,Contemplative Mentor,Aberration;Rare;,Pathfinder #173: Doorway to the Red Star pg. 81
+1165,Deadly,15,5,Elite Scorpion Swarm,Animal;Swarm;,Bestiary pg. 285
+1166,Deadly,2,15,Elite Kellid Graveknight,Rare;Undead;,Kingmaker Adventure Path pg. 401
+1167,Deadly,6,10,Weak Yulthruk,Ghoul;Undead;Unique;,Pathfinder #183: Field of Maidens pg. 46
+1168,Deadly,12,6,Elite Sabosan,Humanoid;,Bestiary 3 pg. 217; Pathfinder #146: Cult of Cinders pg. 91
+1169,Deadly,10,7,Greater Shadow,Incorporeal;Undead;,Bestiary pg. 289
+1170,Deadly,3,13,Carnivorous Blob,Mindless;Ooze;,Bestiary 2 pg. 1952.0
+1171,Deadly,7,9,Elite Destrachan,Aberration;,Bestiary 2 pg. 712.0
+1172,Deadly,5,11,Weak Darg,Earth;Giant;Humanoid;Unique;,Kingmaker Adventure Path pg. 106
+1173,Deadly,4,12,Weak Ghaele,Azata;Celestial;,Bestiary pg. 33
+1174,Deadly,8,8,Blackfrost Guecubu,Cold;Earth;Rare;Undead;,Pathfinder #189: Dreamers of the Nameless Spires pg. 31
+1175,Deadly,1,18,Weak Nenchuuj,Fiend;Sahkil;Uncommon;,Pathfinder #162: Ruins of the Radiant Siege pg. 85
+1176,Deadly,15,5,Elite Werebear,Beast;Human;Humanoid;Uncommon;Werecreature;,Bestiary pg. 331
+1177,Deadly,2,15,Weak Planetar,Angel;Celestial;Uncommon;,Bestiary 2 pg. 152.0
+1178,Deadly,6,10,Weak Mari Lwyd,Fey;Uncommon;,A Caroling Horse (Of Course. Of Course.) pg. 0
+1179,Deadly,12,6,Weak Sabora Sharkosa,Elf;Half-Elf;Human;Humanoid;Unique;,Pathfinder #179: Cradle of Quartz pg. 91
+1180,Deadly,10,7,Weak Rust Hag,Hag;Humanoid;Uncommon;,Pathfinder #182: Graveclaw pg. 84
+1181,Deadly,3,13,Elite Xiuh Couatl,Beast;Couatl;Rare;,Bestiary 3 pg. 57
+1182,Deadly,7,9,Weak Melody On The Wind,Air;Elemental;,Bestiary 2 pg. 1072.0
+1183,Deadly,5,11,Weak War Sauropelta,Animal;Dinosaur;Uncommon;,Pathfinder #154: Siege of the Dinosaurs pg. 46
+1184,Deadly,4,12,Ssumzili,Fey;Uncommon;,Pathfinder #171: Hurricane's Howl pg. 85
+1185,Deadly,8,8,Bloom Wyvern,Dragon;Unique;,Kingmaker Adventure Path pg. 224
+1186,Deadly,1,18,Weak Terotricus,Fungus;Rare;,Bestiary pg. 311
+1187,Deadly,15,5,Barbazu,Devil;Fiend;,Bestiary pg. 88
+1188,Deadly,2,15,Weak Vilderavn,Fey;Rare;,Bestiary 3 pg. 287
+1189,Deadly,6,10,Grace “The Rhino” Owano,Human;Humanoid;Unique;,Pathfinder #183: Field of Maidens pg. 86
+1190,Deadly,12,6,Weak Cyclops Zombie,Mindless;Undead;Zombie;,Kingmaker Adventure Path pg. 275
+1191,Insanity,6,11,Elite Ghost Mage,Ghost;Incorporeal;Spirit;Undead;,Bestiary pg. 167
+1192,Insanity,14,7,Elite Warden,Human;Humanoid;,Gamemastery Guide pg. 225
+1193,Insanity,15,6,Weak Young Underworld Dragon,Dragon;Fire;Uncommon;,Bestiary 3 pg. 83
+1194,Insanity,20,5,Weak Shock Zombie,Electricity;Mindless;Uncommon;Undead;Zombie;,Pathfinder #180: The Smoking Gun pg. 85
+1195,Insanity,7,10,Soul Skelm,Fiend;Humanoid;Skelm;,Bestiary 3 pg. 241
+1196,Insanity,4,13,Weak Plague Giant,Giant;Humanoid;,Bestiary 3 pg. 111
+1197,Insanity,9,9,Elite Virthad,Humanoid;Unique;,Kingmaker Adventure Path pg. 237
+1198,Insanity,3,14,Elite Dalos,Earth;Fey;Fire;Uncommon;,Pathfinder #148: Fires of the Haunted City pg. 77
+1199,Insanity,2,16,Elite Adult Sovereign Dragon,Dragon;Earth;Uncommon;,Bestiary 3 pg. 82
+1200,Insanity,5,12,Weak Fionn,Cold;Incorporeal;Spirit;Undead;,Kingmaker Companion Guide pg. 18
+1201,Medium,6,7,Weak Bida,Dragon;Uncommon;,Pathfinder #146: Cult of Cinders pg. 81
+1202,Medium,5,8,Elite Specter,Incorporeal;Undead;,Bestiary 2 pg. 2482.0
+1203,Medium,8,6,Elite Forge-Spurned,Fire;Uncommon;Undead;,Crown of the Kobold King pg. 119; Pathfinder #148: Fires of the Haunted City pg. 83
+1204,Medium,2,13,Elite Athach,Giant;Humanoid;,Bestiary 2 pg. 272.0
+1205,Medium,3,11,Elite Urdefhan High Tormentor,Humanoid;Urdefhan;,Pathfinder #155: Lord of the Black Sands pg. 82
+1206,Medium,4,9,Witchfire,Incorporeal;Spirit;Uncommon;Undead;,Bestiary 2 pg. 2932.0
+1207,Medium,1,16,Elite Demilich,Rare;Undead;,Bestiary pg. 222
+1208,Medium,6,7,Rigg Gargadilly,Fey;Unique;,Kingmaker Adventure Path pg. 150
+1209,Medium,5,8,Elite Naunet,Monitor;Protean;,Bestiary pg. 267
+1210,Medium,8,6,Abandoned Zealot,Incorporeal;Spirit;Undead;,Bestiary 3 pg. 8
+1211,Medium,2,13,Umbasi,Elf;Humanoid;Unique;,Pathfinder #167: Ready? Fight! pg. 40
+1212,Medium,3,11,Weak Taiga Giant,Giant;Humanoid;,Bestiary 2 pg. 1262.0
+1213,Medium,4,9,Weak Herecite of Zevgavizeb,Uncommon;Undead;,Pathfinder #153: Life's Long Shadows pg. 80
+1214,Medium,1,16,Elite Taon,Undead;Unique;,Pathfinder #173: Doorway to the Red Star pg. 31
+1215,Medium,6,7,Elite Kreekoss,Beast;Fiend;Unique;,Pathfinder #170: Spoken on the Song Wind pg. 53
+1216,Medium,5,8,Weak The Beast,Animal;Unique;,Kingmaker Adventure Path pg. 212
+1217,Medium,8,6,Weak Xulgath Mage,Humanoid;Xulgath;,Pathfinder #152: Legacy of the Lost God pg. 27
+1218,Medium,2,13,Leng Spider,Aberration;Dream;Uncommon;,Bestiary 2 pg. 1572.0
+1219,Medium,3,11,Quintessa Maray,Human;Humanoid;Unique;,Kingmaker Adventure Path pg. 314
+1220,Medium,4,9,Weak Imentesh,Monitor;Protean;,Bestiary 2 pg. 2072.0
+1221,Medium,1,16,Elite Sordesdaemon,Daemon;Fiend;Uncommon;,Pathfinder #162: Ruins of the Radiant Siege pg. 78
+1222,Medium,6,7,Elite Terwa Prodigy,Humanoid;Lizardfolk;Uncommon;,Pathfinder #171: Hurricane's Howl pg. 82
+1223,Medium,5,8,Weak Frefferth,Undead;Unique;,Pathfinder #158: Sixty Feet Under pg. 35
+1224,Medium,8,6,Weak Tar Zombie Predator,Mindless;Uncommon;Undead;Zombie;,Pathfinder #177: Burning Tundra pg. 84
+1225,Medium,2,13,Weeping Jack,Undead;Unique;Vampire;,Pathfinder #184: The Ghouls Hunger pg. 61
+1226,Medium,3,11,Weak Aeolaeka (Stone Azata),Azata;Celestial;Uncommon;,Pathfinder #183: Field of Maidens pg. 83
+1227,Medium,4,9,Zombie Dragon,Dragon;Mindless;Undead;Zombie;,Bestiary 3 pg. 303
+1228,Medium,1,16,Sumbreiva,Humanoid;Negative;,Bestiary 3 pg. 260
+1229,Medium,6,7,Elite Wraith,Incorporeal;Undead;Wraith;,Bestiary pg. 335
+1230,Medium,5,8,Mix Couatl,Beast;Couatl;Uncommon;,Bestiary 3 pg. 56
+1231,Hard,4,11,Rancorous Priesthood,Humanoid;Troop;,Bestiary 3 pg. 213
+1232,Hard,10,6,Elite Eunemvro,Humanoid;Positive;Uncommon;,Bestiary 3 pg. 96
+1233,Hard,7,8,Elite Fuming Sludge,Mindless;Ooze;Uncommon;,The Slithering pg. 63
+1234,Hard,2,14,Weak Black Scorpion,Animal;,Bestiary 2 pg. 2342.0
+1235,Hard,8,7,Weak Desert Drake,Dragon;Earth;,Bestiary pg. 135
+1236,Hard,1,17,Weak Takatorra (Daitengu Form),Humanoid;Tengu;Unique;,Pathfinder #168: King of the Mountain pg. 48
+1237,Hard,5,9,Barnacle Ghoul,Ghoul;Uncommon;Undead;,Pathfinder #159: All or Nothing pg. 83
+1238,Hard,3,12,Elite Skeleton Infantry,Mindless;Skeleton;Troop;Undead;,Bestiary 3 pg. 237
+1239,Hard,4,11,Elite Vampire Guardian,Rare;Undead;Vampire;,Pathfinder #184: The Ghouls Hunger pg. 50
+1240,Hard,10,6,Weak Serpentfolk Venom Caller,Humanoid;Serpentfolk;Uncommon;,Pathfinder #170: Spoken on the Song Wind pg. 87
+1241,Hard,7,8,Graylok Artillerist,Cold;Giant;Humanoid;Uncommon;,Pathfinder #177: Burning Tundra pg. 19
+1242,Hard,2,14,Elite Froghemoth,Aberration;Amphibious;Uncommon;,Bestiary 2 pg. 1222.0
+1243,Hard,8,7,Cyclops Zombie,Mindless;Undead;Zombie;,Kingmaker Adventure Path pg. 275
+1244,Hard,1,17,Wendigo,Beast;Cold;Uncommon;,Bestiary pg. 327
+1245,Hard,5,9,Teraphant,Beast;Uncommon;,Pathfinder #158: Sixty Feet Under pg. 86
+1246,Hard,3,12,Weak Barking Stag,Animal;Rare;,Pathfinder #156: The Apocalypse Prophet pg. 40
+1247,Hard,4,11,Elite Norgorberite Spy,Human;Humanoid;,Pathfinder #171: Hurricane's Howl pg. 63
+1248,Hard,10,6,Monster Hunter,Human;Humanoid;,Gamemastery Guide pg. 227
+1249,Hard,7,8,Weak Young Sky Dragon,Dragon;Electricity;Uncommon;,Bestiary 3 pg. 79
+1250,Hard,2,14,Morrowkin,Aberration;Time;Unique;,Dark Archive pg. 192
+1251,Hard,8,7,Elite Ekundayo's Dog,Animal;Minion;Unique;,Kingmaker Companion Guide pg. 22
+1252,Hard,1,17,Cuetzmonquali,Beast;Fire;Unique;,Monsters of Myth pg. 16
+1253,Hard,5,9,Elite Kishi,Fey;,Bestiary 3 pg. 149; Pathfinder #146: Cult of Cinders pg. 88
+1254,Hard,3,12,Weak Adult Blue Dragon,Dragon;Electricity;,Bestiary pg. 108
+1255,Hard,4,11,Elite Ghonhatine,Aberration;,Bestiary 2 pg. 1192.0
+1256,Hard,10,6,Elite Leadsmith,Dwarf;Humanoid;Uncommon;,Pathfinder #180: The Smoking Gun pg. 9
+1257,Hard,7,8,Elite Dreamscraper,Aberration;Dream;Uncommon;,Pathfinder #189: Dreamers of the Nameless Spires pg. 83
+1258,Hard,2,14,Weak Arms Of Balance,Human;Humanoid;Uncommon;,Pathfinder #167: Ready? Fight! pg. 33
+1259,Hard,8,7,Elite Wihsaak,Fiend;Sahkil;,Bestiary 3 pg. 220
+1260,Hard,1,17,Elite Muurfeli,Air;Elemental;Genie;Rare;,Pathfinder #155: Lord of the Black Sands pg. 78
+1261,Deadly,6,11,Elite Ibrium,Human;Humanoid;Unique;,Pathfinder #180: The Smoking Gun pg. 88
+1262,Deadly,4,13,Death Drider,Uncommon;Undead;,Pathfinder #155: Lord of the Black Sands pg. 35
+1263,Deadly,15,6,Annis Hag,Hag;Humanoid;,Bestiary pg. 202
+1264,Deadly,10,8,Weak Megalodon,Animal;Aquatic;Uncommon;,Bestiary pg. 291
+1265,Deadly,2,16,Weak Drowned Mummy,Amphibious;Mummy;Rare;Undead;,Pathfinder #186: Ghost King's Rage pg. 81
+1266,Deadly,12,7,Weak Kieragan Skross,Undead;Unique;,Crown of the Kobold King pg. 105
+1267,Deadly,1,19,Ancient Forest Dragon,Dragon;Plant;Rare;,Bestiary 3 pg. 76
+1268,Deadly,7,10,Elite Smog Wraith,Incorporeal;Uncommon;Undead;Wraith;,Pathfinder #180: The Smoking Gun pg. 84
+1269,Deadly,5,12,Aeolaeka (Stone Azata),Azata;Celestial;Uncommon;,Pathfinder #183: Field of Maidens pg. 83
+1270,Deadly,3,14,Graveknight Warmaster,Uncommon;Undead;,Book of the Dead pg. 110
+1271,Deadly,8,9,Weak Piscodaemon,Amphibious;Daemon;Fiend;,Bestiary 2 pg. 582.0
+1272,Deadly,6,11,Skeleton Infantry,Mindless;Skeleton;Troop;Undead;,Bestiary 3 pg. 237
+1273,Deadly,4,13,Caustic Monitor,Animal;Rare;,Pathfinder #166: Despair on Danger Island pg. 86
+1274,Deadly,15,6,Terwa Prodigy,Humanoid;Lizardfolk;Uncommon;,Pathfinder #171: Hurricane's Howl pg. 82
+1275,Deadly,10,8,Weak Young Sky Dragon,Dragon;Electricity;Uncommon;,Bestiary 3 pg. 79
+1276,Deadly,2,16,Zinogyvaz,Undead;Unique;Vampire;,Pathfinder #155: Lord of the Black Sands pg. 35
+1277,Deadly,12,7,Weak Voidglutton,Aberration;Air;Rare;,Pathfinder #163: Ruins of Gauntlight pg. 87
+1278,Deadly,1,19,Convergent Kendley Nathrael,Elf;Human;Humanoid;Unique;,Pathfinder #156: The Apocalypse Prophet pg. 86
+1279,Deadly,7,10,Tyrannosaurus,Animal;Dinosaur;,Bestiary pg. 101
+1280,Deadly,5,12,Weak Archery Specialist,Human;Humanoid;Uncommon;,Pathfinder #166: Despair on Danger Island pg. 24
+1281,Deadly,3,14,Weak Tollvych,Ghost;Incorporeal;Spirit;Undead;Unique;,Pathfinder #173: Doorway to the Red Star pg. 27
+1282,Deadly,8,9,Elite Axiomite,Aeon;Monitor;,Bestiary pg. 9
+1283,Deadly,6,11,Lintwerth,Air;Earth;Elemental;Unique;,Kingmaker Adventure Path pg. 310
+1284,Deadly,4,13,Elite Xulgath Deepmouth,Humanoid;Uncommon;Xulgath;,Pathfinder #155: Lord of the Black Sands pg. 85
+1285,Deadly,15,6,Weak Mulventok,Aberration;Uncommon;,Pathfinder #164: Hands of the Devil pg. 79
+1286,Deadly,10,8,Elite Empress Bore Worm,Animal;,Bestiary 3 pg. 37
+1287,Deadly,2,16,Veshumirix,Dragon;Fire;Unique;,Pathfinder #148: Fires of the Haunted City pg. 90
+1288,Deadly,12,7,Elite Sea Drake,Amphibious;Dragon;Water;,Bestiary 2 pg. 1012.0
+1289,Deadly,1,19,Elite Razu,Humanoid;Tengu;Unique;,Pathfinder #167: Ready? Fight! pg. 90
+1290,Deadly,7,10,Elite Nessian Warhound,Beast;Fiend;Fire;,Bestiary pg. 205
+1291,Insanity,15,7,Weak Granite Glyptodont,Earth;Elemental;,Bestiary 2 pg. 1092.0
+1292,Insanity,7,11,Scarlet Triad Sniper,Elf;Human;Humanoid;Rare;,Pathfinder #147: Tomorrow Must Burn pg. 56
+1293,Insanity,3,15,Crucidaemon,Daemon;Fiend;,Pathfinder #149: Against the Scarlet Triad pg. 85
+1294,Insanity,4,14,Elite Dragonscarred Dead,Fire;Uncommon;Undead;,Pathfinder #148: Fires of the Haunted City pg. 82
+1295,Insanity,5,13,Iron Golem,Construct;Golem;Mindless;Uncommon;,Bestiary pg. 188
+1296,Insanity,14,8,Weak Bog Mummy Amalgamation,Mummy;Undead;Unique;,Pathfinder #171: Hurricane's Howl pg. 20
+1297,Insanity,9,10,Giant Flytrap,Mindless;Plant;,Bestiary pg. 160
+1298,Insanity,10,9,Elite Mohrg,Undead;,Bestiary 2 pg. 1722.0
+1299,Insanity,20,6,Elite Sigbin,Beast;,Pathfinder #166: Despair on Danger Island pg. 89
+1300,Insanity,6,12,Elite Yulthruk,Ghoul;Undead;Unique;,Pathfinder #183: Field of Maidens pg. 46
+1301,Medium,1,17,Elite Planetar,Angel;Celestial;Uncommon;,Bestiary 2 pg. 152.0
+1302,Medium,8,7,Elite Mi-Go,Fungus;Uncommon;,Bestiary 3 pg. 168
+1303,Medium,6,8,Weak Terrion Numesti,Human;Humanoid;Unique;,Kingmaker Adventure Path pg. 316
+1304,Medium,5,9,Weak Bebilith,Beast;Fiend;,Bestiary 2 pg. 372.0
+1305,Medium,3,12,Ivarsa,Human;Humanoid;Unique;,Pathfinder #177: Burning Tundra pg. 88
+1306,Medium,2,14,Elite Duergar Slave Lord,Duergar;Dwarf;Humanoid;Rare;,Pathfinder #148: Fires of the Haunted City pg. 50
+1307,Medium,4,10,Behemoth Hippopotamus,Animal;,Bestiary 2 pg. 1442.0
+1308,Medium,1,17,Weak Ravager Of Tindalos,Aberration;Rare;Time;,Pathfinder #173: Doorway to the Red Star pg. 39
+1309,Medium,8,7,Weak Dreadsong Dancer,Fiend;Rare;,Pathfinder #158: Sixty Feet Under pg. 81
+1310,Medium,6,8,Weak Yithian,Aberration;Rare;,Bestiary 3 pg. 299
+1311,Medium,5,9,Clockwork Buccaneer,Clockwork;Construct;Mindless;Uncommon;,Pathfinder #180: The Smoking Gun pg. 80
+1312,Medium,3,12,Weak Duergar Slave Lord,Duergar;Dwarf;Humanoid;Rare;,Pathfinder #148: Fires of the Haunted City pg. 50
+1313,Medium,2,14,Weak Hana's Hundreds,Human;Humanoid;Troop;Unique;,Pathfinder #166: Despair on Danger Island pg. 51
+1314,Medium,4,10,Elite Efreeti,Elemental;Fire;Genie;Uncommon;,Bestiary pg. 164
+1315,Medium,1,17,Weak Cloudsplitter,Air;Fire;Phantom;Spirit;Unique;,Pathfinder #168: King of the Mountain pg. 19
+1316,Medium,8,7,Elite The Stag Lord,Human;Humanoid;Unique;,Kingmaker Adventure Path pg. 604
+1317,Medium,6,8,Elite Adhukait,Asura;Fiend;,Bestiary 3 pg. 22
+1318,Medium,5,9,Weak Abendego Jailer,Human;Humanoid;,Pathfinder #171: Hurricane's Howl pg. 42
+1319,Medium,3,12,Weak Thanadaemon,Daemon;Fiend;,Bestiary 2 pg. 602.0
+1320,Medium,2,14,Urdefhan Dominator,Humanoid;Urdefhan;,Pathfinder #155: Lord of the Black Sands pg. 83
+1321,Medium,4,10,Elite Gliminal,Incorporeal;Positive;Rare;Spirit;,Bestiary 3 pg. 114
+1322,Medium,1,17,Elite Engelidis,Aberration;Unique;,Kingmaker Adventure Path pg. 393
+1323,Medium,8,7,Weak K'nonna,Aberration;,The Mwangi Expanse pg. 2992.0
+1324,Medium,6,8,Drow Shootist,Drow;Elf;Humanoid;Uncommon;,Pathfinder #165: Eyes of Empty Death pg. 83
+1325,Medium,5,9,Urok,Aphorite;Humanoid;Kobold;Unique;,No-Prep Character: Urok pg. 0
+1326,Medium,3,12,Weak Ice Yai,Cold;Fiend;Giant;Humanoid;Oni;,Bestiary 2 pg. 1892.0
+1327,Medium,2,14,Elite Soul Swarm,Ghost;Incorporeal;Rare;Spirit;Troop;Undead;,Pathfinder #172: Secrets of the Temple City pg. 42
+1328,Medium,4,10,Xulgath Gutrager,Humanoid;Xulgath;,Pathfinder #154: Siege of the Dinosaurs pg. 85
+1329,Medium,1,17,Elite Obsidian Golem,Construct;Golem;Mindless;Uncommon;,Pathfinder #155: Lord of the Black Sands pg. 80
+1330,Medium,8,7,Solar Ibis,Beast;,The Mwangi Expanse pg. 3062.0
+1331,Hard,2,15,Elite Sunburst Corpse,Uncommon;Undead;,Pathfinder #172: Secrets of the Temple City pg. 85
+1332,Hard,3,13,Weak Speartooth,Animal;Unique;,Kingmaker Adventure Path pg. 104
+1333,Hard,10,7,Elite Captain of the Guard,Human;Humanoid;,Gamemastery Guide pg. 234
+1334,Hard,5,10,Weak Rancorous Priesthood,Humanoid;Troop;,Bestiary 3 pg. 213
+1335,Hard,4,12,Weak Hooktongue Hydra,Beast;Unique;,Kingmaker Adventure Path pg. 103
+1336,Hard,7,9,Sulvik,Undead;Unique;,Pathfinder #182: Graveclaw pg. 56
+1337,Hard,1,18,Taljjae,Fey;Unique;,Monsters of Myth pg. 100
+1338,Hard,8,8,Zombie Mammoths,Mindless;Undead;Zombie;,Pathfinder #176: Lost Mammoth Valley pg. 56
+1339,Hard,2,15,Graveknight Champion,Uncommon;Undead;,Pathfinder #172: Secrets of the Temple City pg. 83
+1340,Hard,3,13,Elite Kerinza,Humanoid;Unique;,Pathfinder #183: Field of Maidens pg. 88
+1341,Hard,10,7,Elite Myroga,Dragon;Rare;,Pathfinder #188: They Watched the Stars pg. 88
+1342,Hard,5,10,Bebilith,Beast;Fiend;,Bestiary 2 pg. 372.0
+1343,Hard,4,12,Weak Metuak,Fiend;Human;Humanoid;Unique;,Pathfinder #177: Burning Tundra pg. 90
+1344,Hard,7,9,Elite Svartalfar Killer,Fey;Uncommon;,Pathfinder #159: All or Nothing pg. 85
+1345,Hard,1,18,Pokmit Bloody-Pike,Undead;Unique;,Pathfinder #185: A Taste of Ashes pg. 92
+1346,Hard,8,8,Weak Animated Furnace,Construct;Mindless;,Bestiary 3 pg. 18
+1347,Hard,2,15,Weak Wereant Disciple,Beast;Human;Humanoid;Rare;Werecreature;,Pathfinder #174: Shadows of the Ancients pg. 86
+1348,Hard,3,13,Weak Sorcerous Skull Swarm,Rare;Swarm;Undead;,Bestiary 3 pg. 245
+1349,Hard,10,7,Weak Glass Golem,Construct;Golem;Mindless;Uncommon;,Bestiary 2 pg. 1312.0
+1350,Hard,5,10,Calcifda,Earth;Fey;Unique;,Pathfinder #177: Burning Tundra pg. 40
+1351,Hard,4,12,Elite Provincial Jiang-Shi,Undead;Vampire;,Book of the Dead pg. 158; Pathfinder #167: Ready? Fight! pg. 86
+1352,Hard,7,9,Bright Walker,Incorporeal;Rare;Spirit;Undead;,Pathfinder #165: Eyes of Empty Death pg. 78
+1353,Hard,1,18,Weak Uri Zandivar,Hobgoblin;Human;Unique;,Pathfinder #149: Against the Scarlet Triad pg. 92
+1354,Hard,8,8,Behir,Beast;Electricity;,Bestiary 2 pg. 382.0
+1355,Hard,2,15,Kilia Mwibo,Plant;Uncommon;,Pathfinder #172: Secrets of the Temple City pg. 84
+1356,Hard,3,13,Raptor Guard,Rare;Undead;,Pathfinder #155: Lord of the Black Sands pg. 32
+1357,Hard,10,7,Elite Owb,Shadow;Uncommon;,Bestiary 3 pg. 196
+1358,Hard,5,10,Elite Hantu Denai,Beast;Hantu;Incorporeal;Spirit;Uncommon;,Pathfinder #166: Despair on Danger Island pg. 84
+1359,Hard,4,12,Weak Ji-yook (Level 13),Humanoid;Kitsune;Unique;,Pathfinder #167: Ready? Fight! pg. 26
+1360,Hard,7,9,Elite Animated Tea Cart,Construct;Mindless;Uncommon;,Pathfinder #183: Field of Maidens pg. 51
+1361,Deadly,15,7,Frost Drake,Cold;Dragon;,Bestiary pg. 134
+1362,Deadly,7,11,Elite Troll King,Giant;Troll;,Bestiary pg. 315
+1363,Deadly,12,8,Elite Drow Hunter,Drow;Elf;Humanoid;Uncommon;,Pathfinder #165: Eyes of Empty Death pg. 82
+1364,Deadly,2,17,Weak Urveth,Darvakka;Shadow;Undead;,Book of the Dead pg. 84
+1365,Deadly,5,13,Weak Falrok,Ghoul;Undead;Unique;,Pathfinder #148: Fires of the Haunted City pg. 46
+1366,Deadly,1,20,Elite Riekanoy,Amphibious;Fey;Rare;Water;,Night of the Gray Death pg. 69
+1367,Deadly,10,9,Elite Megaprimatus,Animal;,Bestiary pg. 23
+1368,Deadly,6,12,Taiga Giant,Giant;Humanoid;,Bestiary 2 pg. 1262.0
+1369,Deadly,8,10,Weak Yulthruk,Ghoul;Undead;Unique;,Pathfinder #183: Field of Maidens pg. 46
+1370,Deadly,3,15,Elite Tyrannosaurus Imperator,Animal;Dinosaur;Rare;,Pathfinder #166: Despair on Danger Island pg. 31
+1371,Deadly,4,14,Gaetane,Beast;Human;Humanoid;Unique;Werecreature;,Kingmaker Adventure Path pg. 359
+1372,Deadly,15,7,Fuming Sludge,Mindless;Ooze;Uncommon;,The Slithering pg. 63
+1373,Deadly,7,11,Nydazuul,Fiend;Qlippoth;Unique;,Pathfinder #184: The Ghouls Hunger pg. 25
+1374,Deadly,12,8,Elite Virulak Necromancer,Rare;Undead;,Pathfinder #182: Graveclaw pg. 87
+1375,Deadly,2,17,Cuetzmonquali,Beast;Fire;Unique;,Monsters of Myth pg. 16
+1376,Deadly,5,13,Elite Great Cyclops,Giant;Humanoid;Mutant;Uncommon;,Bestiary pg. 69
+1377,Deadly,1,20,Weak Ilthuliak,Acid;Amphibious;Dragon;Unique;,Kingmaker Adventure Path pg. 455
+1378,Deadly,10,9,Elite Yaiafineti,Mindless;Plant;Uncommon;,Pathfinder #189: Dreamers of the Nameless Spires pg. 87
+1379,Deadly,6,12,Sun Warrior Brigade,Humanoid;Troop;Uncommon;,Pathfinder #172: Secrets of the Temple City pg. 57
+1380,Deadly,8,10,Elite Viewslog,Giant;Humanoid;Unique;,Pathfinder #180: The Smoking Gun pg. 21
+1381,Deadly,3,15,Weak Wereant Disciple,Beast;Human;Humanoid;Rare;Werecreature;,Pathfinder #174: Shadows of the Ancients pg. 86
+1382,Deadly,4,14,Weak Necrohulk Smasher,Mutant;Uncommon;Undead;,Pathfinder #185: A Taste of Ashes pg. 87
+1383,Deadly,15,7,Weak Palace Skelm,Humanoid;Skelm;,Bestiary 3 pg. 240
+1384,Deadly,7,11,Weak Arboreal Archive,Plant;,Bestiary 3 pg. 21
+1385,Deadly,12,8,Weak Agai,Gnome;Humanoid;Spriggan;Unique;,Kingmaker Adventure Path pg. 264
+1386,Deadly,2,17,Elite Gray Gardener Director General,Human;Humanoid;Rare;,Night of the Gray Death pg. 21
+1387,Deadly,5,13,Animated Trebuchet,Construct;Mindless;,Bestiary 3 pg. 19
+1388,Deadly,1,20,Elite Grendel,Humanoid;Unique;,Bestiary 2 pg. 1362.0
+1389,Deadly,10,9,Prowler Wight,Uncommon;Undead;Wight;,Book of the Dead pg. 168
+1390,Deadly,6,12,Elite Skeleton Infantry,Mindless;Skeleton;Troop;Undead;,Bestiary 3 pg. 237
+1391,Insanity,9,11,Elite Movanic Deva,Angel;Celestial;,Bestiary 2 pg. 142.0
+1392,Insanity,15,8,Elite Greater Barghest,Fiend;Mutant;Uncommon;,Bestiary pg. 37
+1393,Insanity,5,14,Hooktongue,Amphibious;Animal;Unique;,Kingmaker Adventure Path pg. 97
+1394,Insanity,14,9,Weak Scarlet Triad Bruiser,Human;Humanoid;Unique;,Pathfinder #147: Tomorrow Must Burn pg. 23
+1395,Insanity,10,10,Graveknight,Undead;,Bestiary pg. 191
+1396,Insanity,6,13,Ibrique,Ghoul;Undead;Unique;,Shadows at Sundown pg. 36
+1397,Insanity,3,16,Weak Keketar,Monitor;Protean;,Bestiary pg. 269
+1398,Insanity,7,12,Elite Lomok,Aasimar;Human;Humanoid;Unique;,Pathfinder #177: Burning Tundra pg. 57
+1399,Insanity,20,7,Weak Onidoshi,Fiend;Giant;Humanoid;Oni;,Bestiary 2 pg. 1882.0
+1400,Insanity,2,18,Aiudara Wraith,Astral;Incorporeal;Rare;Undead;Wraith;,Pathfinder #150: Broken Promises pg. 78
+1401,Medium,4,11,Weak Xiuh Couatl,Beast;Couatl;Rare;,Bestiary 3 pg. 57
+1402,Medium,6,9,Weak Fire Giant,Fire;Giant;Humanoid;,Bestiary pg. 172
+1403,Medium,2,15,Elite Armag,Human;Humanoid;Unique;,Kingmaker Adventure Path pg. 592
+1404,Medium,1,18,Pokmit Bloody-Pike,Undead;Unique;,Pathfinder #185: A Taste of Ashes pg. 92
+1405,Medium,8,8,Elite Pairaka,Div;Fiend;,Bestiary 3 pg. 70
+1406,Medium,5,10,Troll King,Giant;Troll;,Bestiary pg. 315
+1407,Medium,3,13,Weak Armag,Human;Humanoid;Unique;,Kingmaker Adventure Path pg. 592
+1408,Medium,4,11,Weak Rusalka,Aquatic;Fey;Water;,Bestiary 2 pg. 2292.0; Pathfinder #147: Tomorrow Must Burn pg. 81
+1409,Medium,6,9,Elite Blood Hag,Hag;Humanoid;,Bestiary 3 pg. 130
+1410,Medium,2,15,Weak Spiritbound Aluum,Construct;Mindless;Rare;Soulbound;,Pathfinder #149: Against the Scarlet Triad pg. 83
+1411,Medium,1,18,Vavakia,Demon;Fiend;Uncommon;,Pathfinder #156: The Apocalypse Prophet pg. 79
+1412,Medium,8,8,Elite Roru,Demon;Fiend;Uncommon;,Pathfinder #176: Lost Mammoth Valley pg. 84
+1413,Medium,5,10,Weak Equendia,Cold;Mummy;Undead;Unique;,Pathfinder #189: Dreamers of the Nameless Spires pg. 52
+1414,Medium,3,13,Weak Crag Linnorm,Dragon;Fire;Uncommon;,Bestiary pg. 224
+1415,Medium,4,11,Planar Terra-Cotta Soldier,Construct;Rare;,Pathfinder #166: Despair on Danger Island pg. 52
+1416,Medium,6,9,Weak Piscodaemon,Amphibious;Daemon;Fiend;,Bestiary 2 pg. 582.0
+1417,Medium,2,15,Elite Sorcerous Skull Swarm,Rare;Swarm;Undead;,Bestiary 3 pg. 245
+1418,Medium,1,18,Bone Ship,Rare;Undead;,Bestiary 3 pg. 34
+1419,Medium,8,8,Elite Hunter,Human;Humanoid;,Gamemastery Guide pg. 219
+1420,Medium,5,10,Adrivallo,Fey;Unique;,Pathfinder #152: Legacy of the Lost God pg. 49
+1421,Medium,3,13,Living-Sun Spire,Construct;Mindless;,Pathfinder #172: Secrets of the Temple City pg. 57
+1422,Medium,4,11,Weak Shining Child,Astral;,Bestiary pg. 292
+1423,Medium,6,9,Elite Muckish Creep,Aberration;,Pathfinder #166: Despair on Danger Island pg. 88
+1424,Medium,2,15,Elite Adult Silver Dragon,Cold;Dragon;,Bestiary pg. 126
+1425,Medium,1,18,Children Of Mhar,Aberration;Uncommon;,Pathfinder #156: The Apocalypse Prophet pg. 78
+1426,Medium,8,8,Weak Garuda,Celestial;,Bestiary 3 pg. 104
+1427,Medium,5,10,Elite Desert Giant,Giant;Humanoid;,Bestiary 3 pg. 109
+1428,Medium,3,13,Elite Gomwai,Goblin;Humanoid;Unique;,Pathfinder #166: Despair on Danger Island pg. 48
+1429,Medium,4,11,Solar Glass Golem,Construct;Golem;Mindless;Rare;,Pathfinder #184: The Ghouls Hunger pg. 40
+1430,Medium,6,9,Weak Yaganty,Fey;Uncommon;,Pathfinder #153: Life's Long Shadows pg. 85
+1431,Hard,3,14,Weak Mastiff Of Tindalos,Aberration;Evil;Rare;Time;,Kingmaker Adventure Path pg. 416
+1432,Hard,5,11,Elite Tyrroicese,Construct;Ooze;Unique;,Pathfinder #158: Sixty Feet Under pg. 40
+1433,Hard,10,8,Elite Dreamscraper,Aberration;Dream;Uncommon;,Pathfinder #189: Dreamers of the Nameless Spires pg. 83
+1434,Hard,4,13,Weak Kuchisake-Onna,Aberration;Rare;,Bestiary 3 pg. 156
+1435,Hard,2,16,Weak Thrasfyr,Beast;Fire;Rare;Tane;,Bestiary 2 pg. 2582.0
+1436,Hard,1,19,Elite Soul Slime,Mindless;Ooze;Rare;,Pathfinder #186: Ghost King's Rage pg. 87
+1437,Hard,7,10,Pyronite Ooze,Mindless;Ooze;Rare;,Pathfinder #180: The Smoking Gun pg. 83
+1438,Hard,8,9,Vampire Mastermind,Uncommon;Undead;Vampire;,Bestiary pg. 321
+1439,Hard,3,14,Gunpowder Ooze,Mindless;Ooze;,Impossible Lands pg. 334
+1440,Hard,5,11,Elite Ghonhatine,Aberration;,Bestiary 2 pg. 1192.0
+1441,Hard,10,8,Weak Murder Of Crows,Animal;Rare;Swarm;,Kingmaker Adventure Path pg. 257
+1442,Hard,4,13,Dryad Queen,Fey;Nymph;Plant;Uncommon;,Bestiary pg. 249
+1443,Hard,2,16,Elite Contemplative Meditant,Aberration;Rare;,Pathfinder #173: Doorway to the Red Star pg. 80
+1444,Hard,1,19,Riekanoy,Amphibious;Fey;Rare;Water;,Night of the Gray Death pg. 69
+1445,Hard,7,10,Elite Osyluth,Devil;Fiend;,Bestiary 2 pg. 732.0; Pathfinder #147: Tomorrow Must Burn pg. 78
+1446,Hard,8,9,Elite Megaprimatus,Animal;,Bestiary pg. 23
+1447,Hard,3,14,Elite Ghaele,Azata;Celestial;,Bestiary pg. 33
+1448,Hard,5,11,Elite Counteflora,Plant;,Pathfinder #153: Life's Long Shadows pg. 78
+1449,Hard,10,8,Weak Arboreal Tar Tree,Plant;Rare;Undead;,Pathfinder #177: Burning Tundra pg. 31
+1450,Hard,4,13,Laslunn,Gnoll;Humanoid;Unique;,Pathfinder #147: Tomorrow Must Burn pg. 87
+1451,Hard,2,16,Veshumirix,Dragon;Fire;Unique;,Pathfinder #148: Fires of the Haunted City pg. 90
+1452,Hard,1,19,Weak Nai Yan Fei,Human;Humanoid;Unique;,Pathfinder #166: Despair on Danger Island pg. 91
+1453,Hard,7,10,Brontosaurus,Animal;Dinosaur;,Bestiary pg. 100
+1454,Hard,8,9,Ghost Monk,Ghost;Incorporeal;Spirit;Undead;,Pathfinder #166: Despair on Danger Island pg. 15
+1455,Hard,3,14,Elite Adult Sky Dragon,Dragon;Electricity;Uncommon;,Bestiary 3 pg. 80
+1456,Hard,5,11,Weak Sea Serpent,Animal;Uncommon;,Bestiary pg. 288
+1457,Hard,10,8,Fayati Alummur,Human;Humanoid;Unique;,Pathfinder #158: Sixty Feet Under pg. 26
+1458,Hard,4,13,Weak Urdefhan Dominator,Humanoid;Urdefhan;,Pathfinder #155: Lord of the Black Sands pg. 83
+1459,Hard,2,16,Lorthact,Devil;Fiend;Unique;,Shadows at Sundown pg. 62
+1460,Hard,1,19,Weak Fetch Behemoth,Fey;Plant;Rare;,Kingmaker Adventure Path pg. 613
+1461,Deadly,3,16,Ancient Brass Dragon,Dragon;Fire;Uncommon;,Bestiary pg. 118
+1462,Deadly,12,9,Elite Animate Dream,Dream;Incorporeal;Uncommon;,Bestiary 2 pg. 182.0
+1463,Deadly,15,8,Weak Daqqanoenyent,Rare;Undead;,Book of the Dead pg. 75
+1464,Deadly,4,15,Scarlet Triad Mage,Human;Humanoid;Tiefling;,Pathfinder #149: Against the Scarlet Triad pg. 57
+1465,Deadly,7,12,Llorona,Incorporeal;Spirit;Undead;,Book of the Dead pg. 125
+1466,Deadly,10,10,Weak Mari Lwyd,Fey;Uncommon;,A Caroling Horse (Of Course. Of Course.) pg. 0
+1467,Deadly,8,11,Weak Omox,Demon;Fiend;Ooze;Uncommon;,Bestiary 3 pg. 63
+1468,Deadly,5,14,Zhang Yong,Half-Orc;Human;Humanoid;Orc;Unique;,No-Prep Character: Zhang Yong pg. 0
+1469,Deadly,6,13,Silent Stalker,Undead;,Book of the Dead pg. 141
+1470,Deadly,2,18,Abbot Tsujon,Humanoid;Samsaran;Unique;,Pathfinder #168: King of the Mountain pg. 15
+1471,Deadly,1,21,Elite Maharaja,Fiend;Rakshasa;Rare;,Bestiary 3 pg. 211
+1472,Deadly,3,16,Elite Immortal Ichor,Ooze;Rare;,Pathfinder #149: Against the Scarlet Triad pg. 88
+1473,Deadly,12,9,Elite Onyiji,Human;Humanoid;Orc;Unique;,Pathfinder #171: Hurricane's Howl pg. 9
+1474,Deadly,15,8,Onidoshi,Fiend;Giant;Humanoid;Oni;,Bestiary 2 pg. 1882.0
+1475,Deadly,4,15,Elite Watchtower Poltergeist,Incorporeal;Spirit;Undead;Unique;,Pathfinder #166: Despair on Danger Island pg. 35
+1476,Deadly,7,12,Ilora Nuski,Human;Humanoid;Unique;,Kingmaker Adventure Path pg. 112
+1477,Deadly,10,10,Weak Rumin Purgo,Gnome;Humanoid;Unique;,Pathfinder #184: The Ghouls Hunger pg. 42
+1478,Deadly,8,11,Weak Vicious Army Ant Swarm,Animal;Rare;Swarm;,Kingmaker Adventure Path pg. 326
+1479,Deadly,5,14,Weak Wemmuth,Plant;,Bestiary pg. 326
+1480,Deadly,6,13,Elite Calikang,Humanoid;Uncommon;,Bestiary 3 pg. 42; Pathfinder #149: Against the Scarlet Triad pg. 84
+1481,Deadly,2,18,Elite Wereant Poisoner,Beast;Human;Humanoid;Rare;Werecreature;,Pathfinder #174: Shadows of the Ancients pg. 87
+1482,Deadly,1,21,Elite Pleroma,Aeon;Monitor;,Bestiary pg. 10
+1483,Deadly,3,16,Weak Tenebric Giant,Rare;Shadow;Undead;,Pathfinder #185: A Taste of Ashes pg. 88
+1484,Deadly,12,9,Geist,Incorporeal;Undead;,Book of the Dead pg. 96
+1485,Deadly,15,8,Weak Takatorra (Level 9),Humanoid;Tengu;Unique;,Pathfinder #166: Despair on Danger Island pg. 11
+1486,Deadly,4,15,Weak Grootslang,Beast;Uncommon;,The Mwangi Expanse pg. 2982.0
+1487,Deadly,7,12,Pitax Warden,Human;Humanoid;Rare;,Kingmaker Adventure Path pg. 336
+1488,Deadly,10,10,Weak Spiral Centurion,Construct;Mindless;,Bestiary 2 pg. 2502.0
+1489,Deadly,8,11,Elite Dromornis,Animal;Uncommon;,Pathfinder #166: Despair on Danger Island pg. 83
+1490,Deadly,5,14,Elite Archery Specialist,Human;Humanoid;Uncommon;,Pathfinder #166: Despair on Danger Island pg. 24
+1491,Insanity,4,16,Elite Red Guard Ant,Beast;Rare;,Pathfinder #174: Shadows of the Ancients pg. 72
+1492,Insanity,2,19,Elite Tumblak,Fiend;Incorporeal;Sahkil;,Night of the Gray Death pg. 71
+1493,Insanity,5,15,Elite Elder Cauthooj,Beast;Rare;,Pathfinder #166: Despair on Danger Island pg. 49
+1494,Insanity,10,11,Elite Cursed King,Mummy;Undead;,Impossible Lands pg. 525
+1495,Insanity,7,13,Urglid (Grave Demon),Fiend;Uncommon;,Pathfinder #184: The Ghouls Hunger pg. 83
+1496,Insanity,20,8,Elite Jaggedbriar Hag,Hag;Humanoid;Unique;,Kingmaker Companion Guide pg. 54
+1497,Insanity,9,12,Weak Duergar Slave Lord,Duergar;Dwarf;Humanoid;Rare;,Pathfinder #148: Fires of the Haunted City pg. 50
+1498,Insanity,15,9,Garuda,Celestial;,Bestiary 3 pg. 104
+1499,Insanity,14,10,Elite Desert Giant,Giant;Humanoid;,Bestiary 3 pg. 109
+1500,Insanity,3,17,Weak Desecrated Guardian,Construct;Rare;,Pathfinder #168: King of the Mountain pg. 80
+1501,Medium,3,14,Thresholder Disciple,Human;Humanoid;Rare;,Kingmaker Adventure Path pg. 409
+1502,Medium,4,12,Athach,Giant;Humanoid;,Bestiary 2 pg. 272.0
+1503,Medium,2,16,Rival Necromancer,Human;Humanoid;Uncommon;,Pathfinder #186: Ghost King's Rage pg. 30
+1504,Medium,5,11,River Elasmosaurus,Animal;Rare;,Kingmaker Adventure Path pg. 275
+1505,Medium,8,9,Weak Leng Ghoul,Dream;Ghoul;Uncommon;Undead;,Bestiary 3 pg. 107
+1506,Medium,1,19,Elite Hollow Hush,Aberration;Unique;,Pathfinder #155: Lord of the Black Sands pg. 39
+1507,Medium,6,10,Iroran Mummy,Mummy;Rare;Undead;,Book of the Dead pg. 132
+1508,Medium,3,14,Elite Yabin the Just (Level 13),Humanoid;Nagaji;Unique;,Pathfinder #167: Ready? Fight! pg. 27
+1509,Medium,4,12,Elite Vetalarana Manipulator,Uncommon;Undead;Vampire;,Book of the Dead pg. 163
+1510,Medium,2,16,Weak Ankou Assassin,Fey;Rare;,Kingmaker Adventure Path pg. 462
+1511,Medium,5,11,Planar Terra-Cotta Soldier,Construct;Rare;,Pathfinder #166: Despair on Danger Island pg. 52
+1512,Medium,8,9,Elite Balisse,Angel;Celestial;,Bestiary pg. 18
+1513,Medium,1,19,Elite Vavakia,Demon;Fiend;Uncommon;,Pathfinder #156: The Apocalypse Prophet pg. 79
+1514,Medium,6,10,Vampire Guardian,Rare;Undead;Vampire;,Pathfinder #184: The Ghouls Hunger pg. 50
+1515,Medium,3,14,Elite Storm Giant,Amphibious;Giant;Humanoid;,Bestiary pg. 174
+1516,Medium,4,12,Weak Tino Tung (Level 13),Human;Humanoid;Unique;,Pathfinder #167: Ready? Fight! pg. 26
+1517,Medium,2,16,Elite Popobawa,Humanoid;Uncommon;,Bestiary 3 pg. 206
+1518,Medium,5,11,Elite Brontosaurus,Animal;Dinosaur;,Bestiary pg. 100
+1519,Medium,8,9,Weak Ancient Wisp,Aberration;Air;Rare;,Kingmaker Adventure Path pg. 364
+1520,Medium,1,19,Elite Crimson Worm,Beast;Fire;Rare;,Bestiary pg. 59
+1521,Medium,6,10,Elite Boggard Warden,Amphibious;Boggard;Humanoid;Rare;,Kingmaker Adventure Path pg. 155
+1522,Medium,3,14,Weak Zashathal Head-Taker,Humanoid;Unique;Xulgath;,Pathfinder #154: Siege of the Dinosaurs pg. 90
+1523,Medium,4,12,Ainamuuren (Corrupted),Cold;Humanoid;Unique;,Pathfinder #189: Dreamers of the Nameless Spires pg. 88
+1524,Medium,2,16,Elite Ectoplasmic Amalgam,Rare;Undead;,Pathfinder #186: Ghost King's Rage pg. 34
+1525,Medium,5,11,Skeleton Infantry,Mindless;Skeleton;Troop;Undead;,Bestiary 3 pg. 237
+1526,Medium,8,9,Elite Svartalfar Killer,Fey;Uncommon;,Pathfinder #159: All or Nothing pg. 85
+1527,Medium,1,19,Agradaemon,Daemon;Fiend;Fire;Rare;,Pathfinder #162: Ruins of the Radiant Siege pg. 79
+1528,Medium,6,10,Elite Belmazog,Acid;Amphibious;Boggard;Dragon;Humanoid;Unique;,Pathfinder #146: Cult of Cinders pg. 77
+1529,Medium,3,14,Elite Ghoul Razorclaw,Ghoul;Uncommon;Undead;,Pathfinder #184: The Ghouls Hunger pg. 85
+1530,Medium,4,12,Elite Faceless Butcher,Humanoid;Uncommon;,Pathfinder #154: Siege of the Dinosaurs pg. 80
+1531,Hard,8,10,Weak Pathfinder Venture-Captain,Human;Humanoid;,Character Guide pg. 1272.0
+1532,Hard,7,11,Young Gold Dragon,Dragon;Fire;,Bestiary pg. 124
+1533,Hard,10,9,Ghast Outlaw,Ghoul;Uncommon;Undead;,Pathfinder #183: Field of Maidens pg. 45
+1534,Hard,4,14,Weak Horde Lich,Rare;Undead;,Book of the Dead pg. 121
+1535,Hard,1,20,Shadow Worm,Animal;Rare;Shadow;,Pathfinder #186: Ghost King's Rage pg. 86
+1536,Hard,3,15,Weak Siabrae,Rare;Undead;,Book of the Dead pg. 145
+1537,Hard,5,12,Ivarsa,Human;Humanoid;Unique;,Pathfinder #177: Burning Tundra pg. 88
+1538,Hard,2,17,Weak Kraken,Aquatic;Beast;Uncommon;,Bestiary pg. 214
+1539,Hard,8,10,Elite Pavetta Stroon-Drelev,Human;Humanoid;Unique;,Kingmaker Adventure Path pg. 313
+1540,Hard,7,11,Scarlet Triad Sniper,Elf;Human;Humanoid;Rare;,Pathfinder #147: Tomorrow Must Burn pg. 56
+1541,Hard,10,9,Desert Giant,Giant;Humanoid;,Bestiary 3 pg. 109
+1542,Hard,4,14,Doprillu,Aberration;,Bestiary 2 pg. 852.0
+1543,Hard,1,20,Weak Lesser Jabberwock,Dragon;Rare;Tane;,Kingmaker Adventure Path pg. 440
+1544,Hard,3,15,Elite Adult Silver Dragon,Cold;Dragon;,Bestiary pg. 126
+1545,Hard,5,12,Weak Weapon Master,Human;Humanoid;Uncommon;,Pathfinder #166: Despair on Danger Island pg. 22
+1546,Hard,2,17,Thresholder Mystic,Human;Humanoid;Rare;,Kingmaker Adventure Path pg. 408
+1547,Hard,8,10,Elite Desert Giant,Giant;Humanoid;,Bestiary 3 pg. 109
+1548,Hard,7,11,Elite Hooklimb Xulgath,Humanoid;Rare;Xulgath;,Pathfinder #153: Life's Long Shadows pg. 55
+1549,Hard,10,9,Elite Guecubu,Earth;Uncommon;Undead;,Bestiary 3 pg. 126
+1550,Hard,4,14,Elite Leng Spider,Aberration;Dream;Uncommon;,Bestiary 2 pg. 1572.0
+1551,Hard,1,20,Immense Mandragora,Plant;Unique;,Kingmaker Adventure Path pg. 450
+1552,Hard,3,15,Convergent Giant Eagle,Beast;Rare;,Pathfinder #156: The Apocalypse Prophet pg. 13
+1553,Hard,5,12,Elite Algea,Monitor;Psychopomp;Swarm;,Malevolence pg. 70
+1554,Hard,2,17,Elite Ancient Underworld Dragon,Dragon;Fire;Rare;,Bestiary 3 pg. 85
+1555,Hard,8,10,Weak Xulgath Roughrider,Humanoid;Xulgath;,Pathfinder #154: Siege of the Dinosaurs pg. 23
+1556,Hard,7,11,Thunderbird,Air;Beast;Electricity;Uncommon;,Bestiary 2 pg. 2592.0
+1557,Hard,10,9,Elite Svartalfar Killer,Fey;Uncommon;,Pathfinder #159: All or Nothing pg. 85
+1558,Hard,4,14,Weak Lampad Queen,Earth;Fey;Nymph;Uncommon;,Bestiary 3 pg. 189
+1559,Hard,1,20,Weak Mu Spore,Fungus;,Bestiary pg. 238
+1560,Hard,3,15,Popobawa,Humanoid;Uncommon;,Bestiary 3 pg. 206
+1561,Deadly,7,13,Elite Ilora Nuski,Human;Humanoid;Unique;,Kingmaker Adventure Path pg. 112
+1562,Deadly,4,16,Elite Graveknight Champion,Uncommon;Undead;,Pathfinder #172: Secrets of the Temple City pg. 83
+1563,Deadly,2,19,Elite Ji-Yook (Gumiho Form),Humanoid;Kitsune;Unique;Zombie;,Pathfinder #168: King of the Mountain pg. 47
+1564,Deadly,10,11,Elite Einherji,Aesir;Monitor;,Bestiary 3 pg. 89
+1565,Deadly,1,22,Sarvel Ever-Hunger,Fiend;Humanoid;Unique;Xulgath;,Pathfinder #156: The Apocalypse Prophet pg. 90
+1566,Deadly,5,15,Elite Uthul,Air;Elemental;,Bestiary pg. 317
+1567,Deadly,12,10,Scarlet Triad Bruiser,Human;Humanoid;Unique;,Pathfinder #147: Tomorrow Must Burn pg. 23
+1568,Deadly,3,17,Elite Veshumirix,Dragon;Fire;Unique;,Pathfinder #148: Fires of the Haunted City pg. 90
+1569,Deadly,15,9,Elite Krampus Celebrant,Humanoid;Rare;,Monsters of Myth pg. 58
+1570,Deadly,8,12,Weak Ajbal Kimon,Human;Humanoid;Unique;,Pathfinder #171: Hurricane's Howl pg. 86
+1571,Deadly,6,14,Elite Bloodshroud,Uncommon;Undead;,Pathfinder #184: The Ghouls Hunger pg. 82
+1572,Deadly,7,13,Weak Hill Giant Butcher,Earth;Giant;Humanoid;Rare;,Kingmaker Adventure Path pg. 110
+1573,Deadly,4,16,Bythos,Aeon;Monitor;Uncommon;,Bestiary 2 pg. 102.0
+1574,Deadly,2,19,Elite Tino (Oni Form),Fiend;Giant;Humanoid;Oni;Unique;,Pathfinder #168: King of the Mountain pg. 47
+1575,Deadly,10,11,Elite Mobogo,Amphibious;Beast;,Bestiary 3 pg. 170
+1576,Deadly,1,22,Elite Kothogaz; Dance Of Disharmony,Beast;Unique;,Monsters of Myth pg. 52
+1577,Deadly,5,15,Soulbound Ruin,Construct;Undead;,Pathfinder #148: Fires of the Haunted City pg. 85
+1578,Deadly,12,10,Elite Mutant Desert Drake,Dragon;Earth;Mutant;Rare;,Pathfinder #179: Cradle of Quartz pg. 85
+1579,Deadly,3,17,Radiant Warden,Construct;Uncommon;,Bestiary 2 pg. 2202.0
+1580,Deadly,15,9,Weak Profane Ghoul,Ghoul;Rare;Undead;,Shadows at Sundown pg. 33
+1581,Deadly,8,12,Elite Gosreg,Aberration;Uncommon;,Bestiary 2 pg. 1332.0
+1582,Deadly,6,14,Weak Hyrune Loxenna,Undead;Unique;Vampire;,Pathfinder #184: The Ghouls Hunger pg. 90
+1583,Deadly,7,13,Adult Blue Dragon,Dragon;Electricity;,Bestiary pg. 108
+1584,Deadly,4,16,Weak Deimavigga,Devil;Fiend;,Bestiary 3 pg. 66
+1585,Deadly,2,19,Elite Bone Ship,Rare;Undead;,Bestiary 3 pg. 34
+1586,Deadly,10,11,Weak Valkyrie,Aesir;Monitor;,Bestiary 3 pg. 281
+1587,Deadly,1,22,Elite Baatamidar,Monitor;Rare;,Pathfinder #162: Ruins of the Radiant Siege pg. 76
+1588,Deadly,5,15,Elite Urnak Lostwind,Human;Humanoid;Orc;Unique;,Pathfinder #167: Ready? Fight! pg. 41
+1589,Deadly,12,10,Elite Shanrigol Behemoth,Aberration;Uncommon;Undead;,Pathfinder #164: Hands of the Devil pg. 85
+1590,Deadly,3,17,Weak Ishti,Beast;Unique;,Pathfinder #149: Against the Scarlet Triad pg. 47
+1591,Insanity,10,12,Fen Pudding,Amphibious;Mindless;Ooze;Rare;,Kingmaker Adventure Path pg. 317
+1592,Insanity,9,13,Weak Shino Hakusa,Human;Humanoid;Unique;,Pathfinder #166: Despair on Danger Island pg. 63
+1593,Insanity,20,9,Weak Icewyrm,Amphibious;Cold;Elemental;Water;,Bestiary 2 pg. 1152.0
+1594,Insanity,2,20,Elite Unshadowed Koride,Human;Humanoid;Unique;,Pathfinder #174: Shadows of the Ancients pg. 90
+1595,Insanity,4,17,Marilith,Demon;Fiend;,Bestiary pg. 81
+1596,Insanity,3,18,Minchgorm,Aquatic;Fey;Rare;Water;,Pathfinder #161: Belly of the Black Whale pg. 84
+1597,Insanity,5,16,Elite Berberoka,Giant;Humanoid;Uncommon;,Pathfinder #166: Despair on Danger Island pg. 82
+1598,Insanity,14,11,Hantu Belian,Beast;Hantu;Incorporeal;Spirit;Uncommon;,Pathfinder #166: Despair on Danger Island pg. 85
+1599,Insanity,6,15,Weak Cornugon,Devil;Fiend;,Bestiary 2 pg. 762.0; Pathfinder #149: Against the Scarlet Triad pg. 87
+1600,Insanity,15,10,Elite Young Sky Dragon,Dragon;Electricity;Uncommon;,Bestiary 3 pg. 79
+1601,Medium,1,20,Elite Grendel,Humanoid;Unique;,Bestiary 2 pg. 1362.0
+1602,Medium,4,13,Soul Swarm,Ghost;Incorporeal;Rare;Spirit;Troop;Undead;,Pathfinder #172: Secrets of the Temple City pg. 42
+1603,Medium,8,10,Elite Shoki,Monitor;Psychopomp;Uncommon;,Pathfinder #186: Ghost King's Rage pg. 82
+1604,Medium,3,15,Elite Urdefhan Dominator,Humanoid;Urdefhan;,Pathfinder #155: Lord of the Black Sands pg. 83
+1605,Medium,6,11,Weak Tidehawk,Amphibious;Beast;Rare;Water;,Bestiary 3 pg. 266
+1606,Medium,5,12,Weak Doblagub,Amphibious;Fey;,Pathfinder #154: Siege of the Dinosaurs pg. 79
+1607,Medium,2,17,Keketar,Monitor;Protean;,Bestiary pg. 269
+1608,Medium,1,20,Elite Minognos-Ushad,Dragon;Unique;,Kingmaker Adventure Path pg. 118
+1609,Medium,4,13,Archery Specialist,Human;Humanoid;Uncommon;,Pathfinder #166: Despair on Danger Island pg. 24
+1610,Medium,8,10,Elite Deinosuchus,Animal;,Bestiary pg. 67
+1611,Medium,3,15,Wild Hunt Horse,Fey;Rare;Wild Hunt;,Kingmaker Adventure Path pg. 617
+1612,Medium,6,11,Spinosaurus,Animal;Dinosaur;,Bestiary 2 pg. 822.0
+1613,Medium,5,12,Elite Mari Lwyd,Fey;Uncommon;,A Caroling Horse (Of Course. Of Course.) pg. 0
+1614,Medium,2,17,Weak Queen Sluagh,Fey;Rare;Undead;,Book of the Dead pg. 151
+1615,Medium,1,20,Weak Lophiithu,Aberration;Aquatic;Uncommon;,Pathfinder #168: King of the Mountain pg. 83
+1616,Medium,4,13,Dalos,Earth;Fey;Fire;Uncommon;,Pathfinder #148: Fires of the Haunted City pg. 77
+1617,Medium,8,10,Elite Gbahali,Beast;Uncommon;,Pathfinder #170: Spoken on the Song Wind pg. 81
+1618,Medium,3,15,Elite Mezlan,Ooze;Rare;,Bestiary 3 pg. 167
+1619,Medium,6,11,Weak Guloval,Agathion;Celestial;Uncommon;,Pathfinder #183: Field of Maidens pg. 81
+1620,Medium,5,12,Weak Carnivorous Blob,Mindless;Ooze;,Bestiary 2 pg. 1952.0
+1621,Medium,2,17,Weak Aolaz,Construct;Rare;,Bestiary 2 pg. 212.0
+1622,Medium,1,20,Weak Lerritan,Earth;Elemental;Fire;,Bestiary 2 pg. 1592.0
+1623,Medium,4,13,Elite Vaklish,Fiend;Rakshasa;Unique;,Pathfinder #147: Tomorrow Must Burn pg. 54
+1624,Medium,8,10,Elite Shoki,Monitor;Psychopomp;Uncommon;,Pathfinder #186: Ghost King's Rage pg. 82
+1625,Medium,3,15,Weak Rival Corpsekiller,Human;Humanoid;Uncommon;,Pathfinder #186: Ghost King's Rage pg. 30
+1626,Medium,6,11,Elite Nosferatu Malefactor,Uncommon;Undead;Vampire;,Bestiary 3 pg. 284
+1627,Medium,5,12,Weak Glabrezu,Demon;Fiend;,Bestiary pg. 79
+1628,Medium,2,17,Elite Theater Phantasm,Incorporeal;Uncommon;Undead;,Pathfinder #185: A Taste of Ashes pg. 89
+1629,Medium,1,20,Kirosthrek,Humanoid;Unique;Xulgath;,Pathfinder #156: The Apocalypse Prophet pg. 88
+1630,Medium,4,13,Storm Giant,Amphibious;Giant;Humanoid;,Bestiary pg. 174
+1631,Hard,7,12,Elite Halbrux Far-Sight,Giant;Humanoid;Unique;,Pathfinder #171: Hurricane's Howl pg. 88
+1632,Hard,5,13,Elite Lich,Rare;Undead;,Bestiary pg. 221
+1633,Hard,8,11,Elite Mosquito Witch,Fey;Unique;,Monsters of Myth pg. 76
+1634,Hard,4,15,Weak Formian Mageslayer,Formian;Mutant;Rare;,Pathfinder #173: Doorway to the Red Star pg. 83
+1635,Hard,10,10,Elite Deepwater Dhuthorex,Aberration;Aquatic;Uncommon;,Pathfinder #165: Eyes of Empty Death pg. 80
+1636,Hard,3,16,Astradaemon,Daemon;Fiend;,Bestiary pg. 73
+1637,Hard,2,18,Skulltaker,Uncommon;Undead;,Bestiary pg. 300
+1638,Hard,1,21,Mu Spore,Fungus;,Bestiary pg. 238
+1639,Hard,7,12,Adult Copper Dragon,Dragon;Earth;,Bestiary pg. 122
+1640,Hard,5,13,Elite Lich,Rare;Undead;,Bestiary pg. 221
+1641,Hard,8,11,Elite Aukashungi Swarm,Aberration;Amphibious;Swarm;Uncommon;,Pathfinder #154: Siege of the Dinosaurs pg. 50
+1642,Hard,4,15,Elite Nkiruka,Human;Humanoid;Unique;,Pathfinder #172: Secrets of the Temple City pg. 88
+1643,Hard,10,10,Troll King,Giant;Troll;,Bestiary pg. 315
+1644,Hard,3,16,Elite Troll Guard,Giant;Rare;Troll;,Kingmaker Adventure Path pg. 383
+1645,Hard,2,18,Hatred Siktempora,Rare;Siktempora;Time;,Bestiary 3 pg. 235
+1646,Hard,1,21,Benthic Reaver,Cold;Undead;Unique;,Impossible Lands pg. 324
+1647,Hard,7,12,Weak Duergar Slave Lord,Duergar;Dwarf;Humanoid;Rare;,Pathfinder #148: Fires of the Haunted City pg. 50
+1648,Hard,5,13,Froghemoth,Aberration;Amphibious;Uncommon;,Bestiary 2 pg. 1222.0
+1649,Hard,8,11,Weak Gimmerling,Fey;Uncommon;,Bestiary pg. 177
+1650,Hard,4,15,Weak Rai Sho Postulant,Humanoid;Rare;,Pathfinder #168: King of the Mountain pg. 13
+1651,Hard,10,10,Feathered Bear,Beast;Incorporeal;Spirit;,Bestiary 3 pg. 253
+1652,Hard,3,16,The Gardener Creature,Ghost;Incorporeal;Spirit;Undead;Unique;,Kingmaker Adventure Path pg. 364
+1653,Hard,2,18,Weak Foras,Human;Humanoid;Unique;,Kingmaker Adventure Path pg. 595
+1654,Hard,1,21,Elite Tatterthread,Fey;Unique;,Pathfinder #174: Shadows of the Ancients pg. 88
+1655,Hard,7,12,Shuln,Beast;Rare;,Bestiary pg. 294
+1656,Hard,5,13,Weak K.H.W.'s Echo,Human;Humanoid;Unique;,Dark Archive pg. 214
+1657,Hard,8,11,Elite Brughadatch,Amphibious;Fey;,Pathfinder #154: Siege of the Dinosaurs pg. 78
+1658,Hard,4,15,Weak Watchtower Wraith,Incorporeal;Undead;Unique;Wraith;,Pathfinder #166: Despair on Danger Island pg. 36
+1659,Hard,10,10,Weak Ilakni,Aberration;Humanoid;Unique;,Pathfinder #189: Dreamers of the Nameless Spires pg. 35
+1660,Hard,3,16,Elite The Stabbing Beast,Fiend;Herald;Unique;,Pathfinder #160: Assault on Hunting Lodge Seven pg. 85
+1661,Deadly,3,18,Winged Owlbear,Animal;,Kingmaker Adventure Path pg. 451
+1662,Deadly,12,11,Young Sovereign Dragon,Dragon;Earth;Uncommon;,Bestiary 3 pg. 81
+1663,Deadly,15,10,Abridan Ashau,Human;Humanoid;Unique;,Shadows at Sundown pg. 26
+1664,Deadly,5,16,Elite Adult Gold Dragon,Dragon;Fire;,Bestiary pg. 124
+1665,Deadly,8,13,Elite Peng,Air;Beast;Cold;Rare;,Pathfinder #167: Ready? Fight! pg. 82
+1666,Deadly,4,17,Elite Pale Sovereign,Rare;Undead;,Book of the Dead pg. 136
+1667,Deadly,10,12,Weak Takatorra (Level 13),Humanoid;Tengu;Unique;,Pathfinder #167: Ready? Fight! pg. 27
+1668,Deadly,6,15,Weak Skartitch Chip-Tooth,Humanoid;Ratfolk;Unique;,Pathfinder #173: Doorway to the Red Star pg. 51
+1669,Deadly,7,14,Elite Carnivorous Blob,Mindless;Ooze;,Bestiary 2 pg. 1952.0
+1670,Deadly,1,23,Solar,Angel;Celestial;Rare;,Bestiary 2 pg. 162.0
+1671,Deadly,2,20,Wild Hunt Monarch,Fey;Rare;Wild Hunt;,Kingmaker Adventure Path pg. 620
+1672,Deadly,3,18,Elite Xotanispawn,Animal;Fire;Rare;,Pathfinder #149: Against the Scarlet Triad pg. 91
+1673,Deadly,12,11,Tallow Ooze,Mindless;Ooze;,Pathfinder #154: Siege of the Dinosaurs pg. 83
+1674,Deadly,15,10,Giant Flytrap,Mindless;Plant;,Bestiary pg. 160
+1675,Deadly,5,16,Weak Qurashith,Aberration;Fiend;Rare;,Pathfinder #154: Siege of the Dinosaurs pg. 82
+1676,Deadly,8,13,Elite Misery Siktempora,Rare;Siktempora;Time;,Bestiary 3 pg. 232
+1677,Deadly,4,17,Elite Rival Corpsekiller,Human;Humanoid;Uncommon;,Pathfinder #186: Ghost King's Rage pg. 30
+1678,Deadly,10,12,Gogiteth,Aberration;,Bestiary pg. 183
+1679,Deadly,6,15,Elite Juspix Rammel,Halfling;Humanoid;Unique;,Pathfinder #167: Ready? Fight! pg. 42
+1680,Deadly,7,14,Elite Vrykolakas Ancient,Uncommon;Undead;Vampire;,Bestiary 2 pg. 2772.0
+1681,Deadly,1,23,Danava Titan,Humanoid;Rare;Titan;Water;,Bestiary 3 pg. 269
+1682,Deadly,2,20,Veranallia,Azata;Celestial;,Bestiary 2 pg. 312.0
+1683,Deadly,3,18,Razu,Humanoid;Tengu;Unique;,Pathfinder #167: Ready? Fight! pg. 90
+1684,Deadly,12,11,Elite Moon Hag,Fiend;Hag;Humanoid;Uncommon;,Bestiary 3 pg. 131
+1685,Deadly,15,10,Weak Adult Crystal Dragon,Dragon;Earth;Elemental;Uncommon;,Bestiary 2 pg. 922.0
+1686,Deadly,5,16,Ancient Brass Dragon,Dragon;Fire;Uncommon;,Bestiary pg. 118
+1687,Deadly,8,13,Yabin the Just (Level 13),Humanoid;Nagaji;Unique;,Pathfinder #167: Ready? Fight! pg. 27
+1688,Deadly,4,17,Lignified Adamantine Golem,Construct;Golem;Mindless;Rare;,Pathfinder #174: Shadows of the Ancients pg. 16
+1689,Deadly,10,12,Weak Adult Magma Dragon,Dragon;Elemental;Fire;Uncommon;,Bestiary 2 pg. 942.0; Pathfinder #148: Fires of the Haunted City pg. 80
+1690,Deadly,6,15,Weak Planetar,Angel;Celestial;Uncommon;,Bestiary 2 pg. 152.0
+1691,Insanity,20,10,Moon Hag,Fiend;Hag;Humanoid;Uncommon;,Bestiary 3 pg. 131
+1692,Insanity,9,14,Elite Jaggaki,Uncommon;Undead;,Pathfinder #147: Tomorrow Must Burn pg. 52
+1693,Insanity,7,15,Phoenix,Beast;Fire;Rare;,Bestiary pg. 261
+1694,Insanity,5,17,Weak Aolaz,Construct;Rare;,Bestiary 2 pg. 212.0
+1695,Insanity,4,18,Elite Ruby,Halfling;Humanoid;Unique;,Pathfinder #186: Ghost King's Rage pg. 52
+1696,Insanity,2,21,Elite Tarn Linnorm,Acid;Amphibious;Dragon;Uncommon;,Bestiary pg. 226
+1697,Insanity,6,16,Elite Crucidaemon,Daemon;Fiend;,Pathfinder #149: Against the Scarlet Triad pg. 85
+1698,Insanity,14,12,Taiga Giant,Giant;Humanoid;,Bestiary 2 pg. 1262.0
+1699,Insanity,10,13,Weak Obrousian,Amphibious;Uncommon;Undead;,Book of the Dead pg. 134; Pathfinder #161: Belly of the Black Whale pg. 86
+1700,Insanity,3,19,Elite Adamantine Golem,Construct;Golem;Mindless;Rare;,Bestiary pg. 189
+1701,Medium,2,18,Orochi,Amphibious;Beast;Rare;,Pathfinder #168: King of the Mountain pg. 84
+1702,Medium,3,16,Weak Kas Xi Rai,Human;Humanoid;Unique;,Pathfinder #167: Ready? Fight! pg. 23
+1703,Medium,5,13,Weak Sié Goluo,Beast;Incorporeal;Spirit;Unique;,The Mwangi Expanse pg. 3052.0
+1704,Medium,6,12,Tidehawk,Amphibious;Beast;Rare;Water;,Bestiary 3 pg. 266
+1705,Medium,8,11,Cloud Giant,Air;Giant;Humanoid;,Bestiary pg. 173
+1706,Medium,1,21,Elite Eremite,Fiend;Velstrac;,Bestiary 2 pg. 2852.0
+1707,Medium,4,14,Elite Adult Bronze Dragon,Amphibious;Dragon;Water;,Bestiary pg. 120
+1708,Medium,2,18,Ghiono,Shadow;,Pathfinder #186: Ghost King's Rage pg. 62
+1709,Medium,3,16,Obsidian Golem,Construct;Golem;Mindless;Uncommon;,Pathfinder #155: Lord of the Black Sands pg. 80
+1710,Medium,5,13,Metuak,Fiend;Human;Humanoid;Unique;,Pathfinder #177: Burning Tundra pg. 90
+1711,Medium,6,12,Weak The First Faithful,Fiend;Human;Humanoid;Unique;,Kingmaker Companion Guide pg. 80
+1712,Medium,8,11,Lintwerth,Air;Earth;Elemental;Unique;,Kingmaker Adventure Path pg. 310
+1713,Medium,1,21,Elite Xotani,Beast;Fire;Unique;,Pathfinder #150: Broken Promises pg. 81
+1714,Medium,4,14,Elite Arcane Living Rune,Construct;Rare;,Bestiary 3 pg. 163
+1715,Medium,2,18,Kraken,Aquatic;Beast;Uncommon;,Bestiary pg. 214
+1716,Medium,3,16,Rune Giant,Evil;Giant;Humanoid;Uncommon;,Bestiary pg. 175
+1717,Medium,5,13,Weak Giant Aukashungi,Aberration;Amphibious;Uncommon;,Pathfinder #154: Siege of the Dinosaurs pg. 77
+1718,Medium,6,12,Elite Provincial Jiang-Shi,Undead;Vampire;,Book of the Dead pg. 158; Pathfinder #167: Ready? Fight! pg. 86
+1719,Medium,8,11,Lintwerth,Air;Earth;Elemental;Unique;,Kingmaker Adventure Path pg. 310
+1720,Medium,1,21,Elite Xotani,Beast;Fire;Unique;,Pathfinder #150: Broken Promises pg. 81
+1721,Medium,4,14,Weak Jotund Troll,Giant;Mutant;Rare;Troll;,Bestiary 2 pg. 2672.0
+1722,Medium,2,18,Urveth,Darvakka;Shadow;Undead;,Book of the Dead pg. 84
+1723,Medium,3,16,Elite Shraen Graveknight,Undead;,Pathfinder #155: Lord of the Black Sands pg. 52
+1724,Medium,5,13,Weak Gunpowder Ooze,Mindless;Ooze;,Impossible Lands pg. 334
+1725,Medium,6,12,Weak Gelugon,Devil;Fiend;,Bestiary pg. 91
+1726,Medium,8,11,Weak Xulgath Hardscale,Humanoid;Xulgath;,Pathfinder #154: Siege of the Dinosaurs pg. 53
+1727,Medium,1,21,Elite Last Guard,Incorporeal;Spirit;Troop;Uncommon;Undead;,Book of the Dead pg. 117
+1728,Medium,4,14,Old Man Statue,Construct;Divine;Mindless;Unique;,Pathfinder #166: Despair on Danger Island pg. 20
+1729,Medium,2,18,Contemplative Mentor,Aberration;Rare;,Pathfinder #173: Doorway to the Red Star pg. 81
+1730,Medium,3,16,Weak Dwandek,Undead;Unique;,Pathfinder #173: Doorway to the Red Star pg. 32
+1731,Hard,2,19,Weak Izfiitar,Monitor;Protean;Uncommon;,Pathfinder #162: Ruins of the Radiant Siege pg. 81
+1732,Hard,5,14,Kuchisake-Onna,Aberration;Rare;,Bestiary 3 pg. 156
+1733,Hard,4,16,Elite Lampad Queen,Earth;Fey;Nymph;Uncommon;,Bestiary 3 pg. 189
+1734,Hard,7,13,Dragonscarred Dead,Fire;Uncommon;Undead;,Pathfinder #148: Fires of the Haunted City pg. 82
+1735,Hard,1,22,Thanatotic Titan,Humanoid;Rare;Titan;,Bestiary 3 pg. 268; Pathfinder #156: The Apocalypse Prophet pg. 83
+1736,Hard,10,11,Greater Nightmare,Beast;Fiend;,Bestiary pg. 244
+1737,Hard,8,12,Weak Adult Sky Dragon,Dragon;Electricity;Uncommon;,Bestiary 3 pg. 80
+1738,Hard,3,17,Fluxwraith,Incorporeal;Rare;Spirit;Undead;,Book of the Dead pg. 93
+1739,Hard,2,19,Elite Contemplative Mentor,Aberration;Rare;,Pathfinder #173: Doorway to the Red Star pg. 81
+1740,Hard,5,14,Troff Frostknuckles,Goblin;Humanoid;Unique;,Pathfinder #167: Ready? Fight! pg. 43
+1741,Hard,4,16,Elite Crucidaemon,Daemon;Fiend;,Pathfinder #149: Against the Scarlet Triad pg. 85
+1742,Hard,7,13,Adachros,Astral;Uncommon;,Bestiary 3 pg. 95
+1743,Hard,1,22,Elite Grim Reaper,Undead;Unique;,Bestiary pg. 196
+1744,Hard,10,11,Tallow Ooze,Mindless;Ooze;,Pathfinder #154: Siege of the Dinosaurs pg. 83
+1745,Hard,8,12,Elite Elemental Tsunami,Aquatic;Elemental;Water;,Bestiary pg. 153
+1746,Hard,3,17,Scarlet Triad Boss,Human;Humanoid;,Pathfinder #149: Against the Scarlet Triad pg. 57
+1747,Hard,2,19,Weak Norn,Fey;Rare;,Bestiary 2 pg. 1842.0
+1748,Hard,5,14,Weak Demilich,Rare;Undead;,Bestiary pg. 222
+1749,Hard,4,16,Elite Taiga Yai,Fiend;Giant;Humanoid;Oni;,Pathfinder #167: Ready? Fight! pg. 81
+1750,Hard,7,13,Elite Ivarsa,Human;Humanoid;Unique;,Pathfinder #177: Burning Tundra pg. 88
+1751,Hard,1,22,Elite Tor Linnorm,Dragon;Fire;Uncommon;,Bestiary pg. 227
+1752,Hard,10,11,Elite Parsus,Dhampir;Human;Humanoid;Unique;,Pathfinder #180: The Smoking Gun pg. 90
+1753,Hard,8,12,Elite Veteran Reclaimer,Human;Humanoid;Orc;,Character Guide pg. 1232.0
+1754,Hard,3,17,Weak Purrodaemon,Daemon;Fiend;,Bestiary 2 pg. 612.0
+1755,Hard,2,19,Ancient Silver Dragon,Cold;Dragon;Uncommon;,Bestiary pg. 127
+1756,Hard,5,14,Zhang Yong,Half-Orc;Human;Humanoid;Orc;Unique;,No-Prep Character: Zhang Yong pg. 0
+1757,Hard,4,16,Weak Fluxwraith,Incorporeal;Rare;Spirit;Undead;,Book of the Dead pg. 93
+1758,Hard,7,13,Weak Nalfeshnee,Demon;Fiend;,Bestiary 2 pg. 682.0; Pathfinder #149: Against the Scarlet Triad pg. 86
+1759,Hard,1,22,Elite Ironclad Annihilator Beetle,Beast;Rare;,Pathfinder #174: Shadows of the Ancients pg. 49
+1760,Hard,10,11,Weak Grisantian Lion,Beast;Primal;Rare;,Monsters of Myth pg. 34
+1761,Deadly,3,19,Elite Unshadowed Anchor Root,Gnoll;Humanoid;Unique;,Pathfinder #174: Shadows of the Ancients pg. 23
+1762,Deadly,6,16,Kob Moleg,Earth;Giant;Humanoid;Unique;,Kingmaker Adventure Path pg. 352
+1763,Deadly,2,21,Chancellor Kemnebi,Undead;Unique;Vampire;,Pathfinder #186: Ghost King's Rage pg. 88
+1764,Deadly,8,14,Weak Aliriel,Shadow;Undead;Unique;Vampire;,Shadows at Sundown pg. 47
+1765,Deadly,10,13,Weak Zephyr Guard,Human;Humanoid;Uncommon;,Pathfinder #149: Against the Scarlet Triad pg. 51
+1766,Deadly,1,24,Elite Mengkare,Dragon;Fire;Unique;,Pathfinder #150: Broken Promises pg. 90
+1767,Deadly,15,11,Weak Glass Elephant,Clockwork;Construct;Mindless;Unique;,Pathfinder #180: The Smoking Gun pg. 50
+1768,Deadly,7,15,Weak Theater Phantasm,Incorporeal;Uncommon;Undead;,Pathfinder #185: A Taste of Ashes pg. 89
+1769,Deadly,12,12,Weak Bloodshroud,Uncommon;Undead;,Pathfinder #184: The Ghouls Hunger pg. 82
+1770,Deadly,5,17,Weak Fetch Stalker,Fey;Plant;Rare;,Kingmaker Adventure Path pg. 612
+1771,Deadly,4,18,Weak Primal Bandersnatch,Beast;Tane;,Kingmaker Adventure Path pg. 610
+1772,Deadly,3,19,Elite Ancient Sky Dragon,Dragon;Electricity;Rare;,Bestiary 3 pg. 80
+1773,Deadly,6,16,Ancient Crystal Dragon,Dragon;Earth;Elemental;Rare;,Bestiary 2 pg. 922.0
+1774,Deadly,2,21,Benthic Reaver,Cold;Undead;Unique;,Impossible Lands pg. 324
+1775,Deadly,8,14,Elite Shadow Giant,Giant;Humanoid;Shadow;,Bestiary 2 pg. 1272.0; Pathfinder #147: Tomorrow Must Burn pg. 79
+1776,Deadly,10,13,Elite Derghodaemon,Daemon;Fiend;,Bestiary 2 pg. 592.0
+1777,Deadly,1,24,Elite Nyrissa,Fey;Nymph;Unique;,Kingmaker Adventure Path pg. 602
+1778,Deadly,15,11,Weak Gomwai,Goblin;Humanoid;Unique;,Pathfinder #166: Despair on Danger Island pg. 48
+1779,Deadly,7,15,Gallowdead,Undead;,Book of the Dead pg. 94
+1780,Deadly,12,12,Elite Rancorous Priesthood,Humanoid;Troop;,Bestiary 3 pg. 213
+1781,Deadly,5,17,Weak Cataclysm Beetle,Beast;Rare;,Pathfinder #174: Shadows of the Ancients pg. 40
+1782,Deadly,4,18,Elite Wendigo,Beast;Cold;Uncommon;,Bestiary pg. 327
+1783,Deadly,3,19,Matron Uldrula,Monitor;Psychopomp;Unique;,Pathfinder #186: Ghost King's Rage pg. 90
+1784,Deadly,6,16,Elite Scarlet Triad Mage,Human;Humanoid;Tiefling;,Pathfinder #149: Against the Scarlet Triad pg. 57
+1785,Deadly,2,21,Elite Gray Death,Incorporeal;Rare;Spirit;Undead;,Night of the Gray Death pg. 68
+1786,Deadly,8,14,Weak Troll Guard,Giant;Rare;Troll;,Kingmaker Adventure Path pg. 383
+1787,Deadly,10,13,Elite Scarlet Walker,Aberration;Dream;Rare;,Shadows at Sundown pg. 57
+1788,Deadly,1,24,Elite Solar,Angel;Celestial;Rare;,Bestiary 2 pg. 162.0
+1789,Deadly,15,11,Elite Chyzaedu,Aberration;Rare;,Bestiary 3 pg. 46
+1790,Deadly,7,15,Grandfather Mantis,Minion;Monitor;Spirit;Unique;,Pathfinder #167: Ready? Fight! pg. 35
+1791,Insanity,4,19,Weak Quantium Golem,Construct;Golem;Mindless;Rare;,Impossible Lands pg. 335
+1792,Insanity,9,15,Elite Nkiruka,Human;Humanoid;Unique;,Pathfinder #172: Secrets of the Temple City pg. 88
+1793,Insanity,7,16,Elite Troll Guard,Giant;Rare;Troll;,Kingmaker Adventure Path pg. 383
+1794,Insanity,15,12,Monadic Deva,Angel;Celestial;,Bestiary 2 pg. 152.0
+1795,Insanity,2,22,Weak Solar,Angel;Celestial;Rare;,Bestiary 2 pg. 162.0
+1796,Insanity,10,14,General Avinash Jurrg,Giant;Oni;Shapechanger;Unique;,Kingmaker Adventure Path pg. 385
+1797,Insanity,14,13,Elite Gomwai,Goblin;Humanoid;Unique;,Pathfinder #166: Despair on Danger Island pg. 48
+1798,Insanity,3,20,Weak Ouroboros,Astral;Beast;Rare;,Bestiary 3 pg. 195
+1799,Insanity,5,18,Elite Alapolo,Fey;Rare;Shadow;,Pathfinder #174: Shadows of the Ancients pg. 80
+1800,Insanity,20,11,Elite Moon Hag,Fiend;Hag;Humanoid;Uncommon;,Bestiary 3 pg. 131
+1801,Medium,8,12,Elite Brainchild,Illusion;Mental;Rare;,Bestiary 3 pg. 38
+1802,Medium,5,14,Weak Arms Of Balance,Human;Humanoid;Uncommon;,Pathfinder #167: Ready? Fight! pg. 33
+1803,Medium,3,17,Weak Desecrated Guardian,Construct;Rare;,Pathfinder #168: King of the Mountain pg. 80
+1804,Medium,2,19,Weak Blue Viper (Level 20),Humanoid;Ratfolk;Unique;,Pathfinder #168: King of the Mountain pg. 54
+1805,Medium,1,22,Elite Ouroboros,Astral;Beast;Rare;,Bestiary 3 pg. 195
+1806,Medium,6,13,Elite Gimmerling,Fey;Uncommon;,Bestiary pg. 177
+1807,Medium,4,15,Wemmuth,Plant;,Bestiary pg. 326
+1808,Medium,8,12,Elite Hillstomper,Animal;Unique;,Kingmaker Adventure Path pg. 114
+1809,Medium,5,14,Weak Grandfather Mantis,Minion;Monitor;Spirit;Unique;,Pathfinder #167: Ready? Fight! pg. 35
+1810,Medium,3,17,Fluxwraith,Incorporeal;Rare;Spirit;Undead;,Book of the Dead pg. 93
+1811,Medium,2,19,Kargstaad,Cold;Giant;Humanoid;Unique;,Kingmaker Adventure Path pg. 448
+1812,Medium,1,22,Elite Umbraex,Cold;Darvakka;Rare;Shadow;Undead;,Pathfinder #185: A Taste of Ashes pg. 83
+1813,Medium,6,13,Elite Athach,Giant;Humanoid;,Bestiary 2 pg. 272.0
+1814,Medium,4,15,Weak Watchtower Wraith,Incorporeal;Undead;Unique;Wraith;,Pathfinder #166: Despair on Danger Island pg. 36
+1815,Medium,8,12,Elite Mari Lwyd,Fey;Uncommon;,A Caroling Horse (Of Course. Of Course.) pg. 0
+1816,Medium,5,14,Sorcerous Skull Swarm,Rare;Swarm;Undead;,Bestiary 3 pg. 245
+1817,Medium,3,17,Elite Clockwork Dragon,Clockwork;Construct;Mindless;Rare;,Bestiary 3 pg. 51
+1818,Medium,2,19,Elite Ancient Magma Dragon,Dragon;Elemental;Fire;Rare;,Bestiary 2 pg. 952.0; Pathfinder #148: Fires of the Haunted City pg. 81
+1819,Medium,1,22,Weak Elder Wyrmwraith,Dragon;Incorporeal;Rare;Undead;Wraith;,Bestiary 3 pg. 297; Pathfinder #150: Broken Promises pg. 85
+1820,Medium,6,13,Elite Ilora Nuski,Human;Humanoid;Unique;,Kingmaker Adventure Path pg. 112
+1821,Medium,4,15,Neothelid,Aberration;Uncommon;,Bestiary 2 pg. 1812.0
+1822,Medium,8,12,Weak Archery Specialist,Human;Humanoid;Uncommon;,Pathfinder #166: Despair on Danger Island pg. 24
+1823,Medium,5,14,Gaetane,Beast;Human;Humanoid;Unique;Werecreature;,Kingmaker Adventure Path pg. 359
+1824,Medium,3,17,Keketar,Monitor;Protean;,Bestiary pg. 269
+1825,Medium,2,19,Elite Taljjae,Fey;Unique;,Monsters of Myth pg. 100
+1826,Medium,1,22,Elite Baatamidar,Monitor;Rare;,Pathfinder #162: Ruins of the Radiant Siege pg. 76
+1827,Medium,6,13,Weak Fire Yai,Fiend;Fire;Giant;Humanoid;Oni;,Bestiary 2 pg. 1902.0
+1828,Medium,4,15,Weak War Champion Kharostan,Fiend;Humanoid;Unique;Urdefhan;,Pathfinder #155: Lord of the Black Sands pg. 88
+1829,Medium,8,12,Weak Caustic Monitor,Animal;Rare;,Pathfinder #166: Despair on Danger Island pg. 86
+1830,Medium,5,14,Elite Gashadokuro,Uncommon;Undead;,Book of the Dead pg. 95; Pathfinder #148: Fires of the Haunted City pg. 84
+1831,Hard,1,23,Weak Spinel Leviathan Syndara,Aeon;Monitor;Unique;,Pathfinder #168: King of the Mountain pg. 58
+1832,Hard,7,14,Elite Akila Stormheel,Halfling;Humanoid;Unique;,Pathfinder #167: Ready? Fight! pg. 38
+1833,Hard,2,20,Elite Vilderavn Herald,Fey;Rare;,Kingmaker Adventure Path pg. 614
+1834,Hard,10,12,Elite Pathfinder Venture-Captain,Human;Humanoid;,Character Guide pg. 1272.0
+1835,Hard,5,15,Lantondo,Construct;Unique;Wyrwood;,Pathfinder #167: Ready? Fight! pg. 35
+1836,Hard,8,13,Weak Starved Staff,Undead;Unique;,Pathfinder #154: Siege of the Dinosaurs pg. 16
+1837,Hard,4,17,Gumiho,Fey;Uncommon;,Pathfinder #168: King of the Mountain pg. 81
+1838,Hard,3,18,Weak Unshadowed Koride,Human;Humanoid;Unique;,Pathfinder #174: Shadows of the Ancients pg. 90
+1839,Hard,1,23,Weak Green Man,Leshy;Plant;Rare;,Bestiary 3 pg. 118
+1840,Hard,7,14,Weak Ancient Skaveling,Undead;Unique;,Pathfinder #184: The Ghouls Hunger pg. 63
+1841,Hard,2,20,Elite Ancient Forest Dragon,Dragon;Plant;Rare;,Bestiary 3 pg. 76
+1842,Hard,10,12,Elite Isqulug,Aberration;Amphibious;Uncommon;,Bestiary 2 pg. 1492.0
+1843,Hard,5,15,Weak Vilderavn,Fey;Rare;,Bestiary 3 pg. 287
+1844,Hard,8,13,Weak Fire Yai,Fiend;Fire;Giant;Humanoid;Oni;,Bestiary 2 pg. 1902.0
+1845,Hard,4,17,Drowned Mummy,Amphibious;Mummy;Rare;Undead;,Pathfinder #186: Ghost King's Rage pg. 81
+1846,Hard,3,18,Weak Vilderavn Herald,Fey;Rare;,Kingmaker Adventure Path pg. 614
+1847,Hard,1,23,Elder Wyrmwraith,Dragon;Incorporeal;Rare;Undead;Wraith;,Bestiary 3 pg. 297; Pathfinder #150: Broken Promises pg. 85
+1848,Hard,7,14,Elite Ji-yook (Level 13),Humanoid;Kitsune;Unique;,Pathfinder #167: Ready? Fight! pg. 26
+1849,Hard,2,20,Weak Tor Linnorm,Dragon;Fire;Uncommon;,Bestiary pg. 227
+1850,Hard,10,12,Weak Vrykolakas Ancient,Uncommon;Undead;Vampire;,Bestiary 2 pg. 2772.0
+1851,Hard,5,15,Elite Sixth Pillar Students,Human;Humanoid;Nagaji;Rare;,Pathfinder #167: Ready? Fight! pg. 14
+1852,Hard,8,13,Weak Sié Goluo,Beast;Incorporeal;Spirit;Unique;,The Mwangi Expanse pg. 3052.0
+1853,Hard,4,17,Weak Bone Ship,Rare;Undead;,Bestiary 3 pg. 34
+1854,Hard,3,18,Elite Qurashith,Aberration;Fiend;Rare;,Pathfinder #154: Siege of the Dinosaurs pg. 82
+1855,Hard,1,23,Elite Thanatotic Titan,Humanoid;Rare;Titan;,Bestiary 3 pg. 268; Pathfinder #156: The Apocalypse Prophet pg. 83
+1856,Hard,7,14,Elite Silent Stalker,Undead;,Book of the Dead pg. 141
+1857,Hard,2,20,Elite The King of Biting Ants,Aberration;Swarm;Unique;,Pathfinder #173: Doorway to the Red Star pg. 90
+1858,Hard,10,12,Imeckus Stroon,Human;Humanoid;Unique;,Kingmaker Adventure Path pg. 311
+1859,Hard,5,15,Planar Terra-Cotta Squadron,Construct;Rare;Troop;,Pathfinder #166: Despair on Danger Island pg. 53
+1860,Hard,8,13,Elite Gomwai,Goblin;Humanoid;Unique;,Pathfinder #166: Despair on Danger Island pg. 48
+1861,Deadly,2,22,Elite The Wriggling Man,Aberration;Swarm;Unique;,Kingmaker Adventure Path pg. 466
+1862,Deadly,7,16,Weak Eseneth,Monitor;Psychopomp;Rare;,Pathfinder #186: Ghost King's Rage pg. 83
+1863,Deadly,4,19,Elite Guillotine Golem,Rare;,Night of the Gray Death pg. 32
+1864,Deadly,3,20,Sthira,Cold;Uncommon;Undead;,Pathfinder #168: King of the Mountain pg. 87
+1865,Deadly,12,13,Weeping Jack,Undead;Unique;Vampire;,Pathfinder #184: The Ghouls Hunger pg. 61
+1866,Deadly,8,15,Elite Morrowkin,Aberration;Time;Unique;,Dark Archive pg. 192
+1867,Deadly,15,12,Weak Hummingbird,Gnoll;Humanoid;Unique;,Pathfinder #167: Ready? Fight! pg. 39
+1868,Deadly,10,14,Weak Lantondo,Construct;Unique;Wyrwood;,Pathfinder #167: Ready? Fight! pg. 35
+1869,Deadly,1,25,Elite Green Man,Leshy;Plant;Rare;,Bestiary 3 pg. 118
+1870,Deadly,6,17,Elite Skartitch Chip-Tooth,Humanoid;Ratfolk;Unique;,Pathfinder #173: Doorway to the Red Star pg. 51
+1871,Deadly,5,18,Portal Eater,Astral;Rare;,Pathfinder #167: Ready? Fight! pg. 56
+1872,Deadly,2,22,Syndara The Sculptor,Aeon;Monitor;Unique;,Pathfinder #168: King of the Mountain pg. 90
+1873,Deadly,7,16,Elite Helg Eats-The-Eaters,Aberration;Unique;,Pathfinder #154: Siege of the Dinosaurs pg. 86
+1874,Deadly,4,19,Convergent Kendley Nathrael,Elf;Human;Humanoid;Unique;,Pathfinder #156: The Apocalypse Prophet pg. 86
+1875,Deadly,3,20,Weak Ouroboros,Astral;Beast;Rare;,Bestiary 3 pg. 195
+1876,Deadly,12,13,Weak Ledorick Banyan,Human;Humanoid;Unique;,Pathfinder #154: Siege of the Dinosaurs pg. 88
+1877,Deadly,8,15,Weak Astradaemon,Daemon;Fiend;,Bestiary pg. 73
+1878,Deadly,15,12,Elite Gosreg,Aberration;Uncommon;,Bestiary 2 pg. 1332.0
+1879,Deadly,10,14,Elite Xevalorg,Aberration;Unique;,Pathfinder #148: Fires of the Haunted City pg. 14
+1880,Deadly,1,25,Elite Hekatonkheires Titan,Aberration;Rare;Titan;,Bestiary 3 pg. 270
+1881,Deadly,6,17,Weak Unshadowed Okoro,Human;Humanoid;Unique;,Pathfinder #174: Shadows of the Ancients pg. 18
+1882,Deadly,5,18,Weak Niodrhast,Aberration;Unique;,Kingmaker Adventure Path pg. 414
+1883,Deadly,2,22,Rhevanna,Fiend;Rare;,Pathfinder #162: Ruins of the Radiant Siege pg. 83
+1884,Deadly,7,16,Inmyeonjo,Air;Beast;Rare;,Pathfinder #168: King of the Mountain pg. 82
+1885,Deadly,4,19,Elite Urveth,Darvakka;Shadow;Undead;,Book of the Dead pg. 84
+1886,Deadly,3,20,Norn,Fey;Rare;,Bestiary 2 pg. 1842.0
+1887,Deadly,12,13,Skarja,Fiend;Hag;Humanoid;Unique;,Pathfinder #153: Life's Long Shadows pg. 88
+1888,Deadly,8,15,Weak Wereant Disciple,Beast;Human;Humanoid;Rare;Werecreature;,Pathfinder #174: Shadows of the Ancients pg. 86
+1889,Deadly,15,12,Elite Tempest-Sun Mage,Human;Humanoid;,Character Guide pg. 1252.0
+1890,Deadly,10,14,Elite Hummingbird,Gnoll;Humanoid;Unique;,Pathfinder #167: Ready? Fight! pg. 39
+1891,Insanity,9,16,Ecorche,Undead;,Book of the Dead pg. 90
+1892,Insanity,6,18,Elite Ancient Brine Dragon,Amphibious;Dragon;Elemental;Rare;Water;,Bestiary 2 pg. 882.0
+1893,Insanity,2,23,Solar,Angel;Celestial;Rare;,Bestiary 2 pg. 162.0
+1894,Insanity,7,17,Ancient Copper Dragon,Dragon;Earth;Uncommon;,Bestiary pg. 122
+1895,Insanity,3,21,Weak Thanatotic Titan,Humanoid;Rare;Titan;,Bestiary 3 pg. 268; Pathfinder #156: The Apocalypse Prophet pg. 83
+1896,Insanity,5,19,Necromancer Troop,Humanoid;Troop;Uncommon;,Pathfinder #186: Ghost King's Rage pg. 40
+1897,Insanity,14,14,Weak Popobawa,Humanoid;Uncommon;,Bestiary 3 pg. 206
+1898,Insanity,10,15,Weak Facetbound Cascader,Rare;Undead;,Pathfinder #185: A Taste of Ashes pg. 85
+1899,Insanity,20,12,Elite Rumin Purgo,Gnome;Humanoid;Unique;,Pathfinder #184: The Ghouls Hunger pg. 42
+1900,Insanity,4,20,Elite Ancient Red Dragon,Dragon;Fire;Uncommon;,Bestiary pg. 112
+1901,Medium,5,15,Elite Sixth Pillar Students,Human;Humanoid;Nagaji;Rare;,Pathfinder #167: Ready? Fight! pg. 14
+1902,Medium,1,23,Weak Green Man,Leshy;Plant;Rare;,Bestiary 3 pg. 118
+1903,Medium,4,16,Elite Shraen Graveknight,Undead;,Pathfinder #155: Lord of the Black Sands pg. 52
+1904,Medium,8,13,Elite War Sauropelta,Animal;Dinosaur;Uncommon;,Pathfinder #154: Siege of the Dinosaurs pg. 46
+1905,Medium,2,20,Weak Ouroboros,Astral;Beast;Rare;,Bestiary 3 pg. 195
+1906,Medium,6,14,Elite Consonite Choir,Earth;Elemental;Swarm;Uncommon;,Bestiary 3 pg. 53
+1907,Medium,3,18,Elite Qurashith,Aberration;Fiend;Rare;,Pathfinder #154: Siege of the Dinosaurs pg. 82
+1908,Medium,5,15,Adult Sovereign Dragon,Dragon;Earth;Uncommon;,Bestiary 3 pg. 82
+1909,Medium,1,23,Solar,Angel;Celestial;Rare;,Bestiary 2 pg. 162.0
+1910,Medium,4,16,Elite Azure Worm,Amphibious;Animal;Uncommon;,Bestiary pg. 57
+1911,Medium,8,13,Weak Hooktongue,Amphibious;Animal;Unique;,Kingmaker Adventure Path pg. 97
+1912,Medium,2,20,Pit Fiend,Devil;Fiend;,Bestiary pg. 92
+1913,Medium,6,14,Elite Mage of Many Styles,Human;Humanoid;Uncommon;,Pathfinder #166: Despair on Danger Island pg. 25
+1914,Medium,3,18,Elite Shobhad Sniper,Humanoid;Uncommon;,Pathfinder #173: Doorway to the Red Star pg. 89
+1915,Medium,5,15,Scarlet Triad Mage,Human;Humanoid;Tiefling;,Pathfinder #149: Against the Scarlet Triad pg. 57
+1916,Medium,1,23,Elder Wyrmwraith,Dragon;Incorporeal;Rare;Undead;Wraith;,Bestiary 3 pg. 297; Pathfinder #150: Broken Promises pg. 85
+1917,Medium,4,16,Wild Hunt Archer,Fey;Rare;Wild Hunt;,Kingmaker Adventure Path pg. 618
+1918,Medium,8,13,Elite Betobeto-San,Incorporeal;Shadow;Spirit;Uncommon;,Bestiary 3 pg. 31
+1919,Medium,2,20,Clockwork Amalgam,Clockwork;Construct;Mindless;Rare;,Pathfinder #161: Belly of the Black Whale pg. 81
+1920,Medium,6,14,Elite Dalos,Earth;Fey;Fire;Uncommon;,Pathfinder #148: Fires of the Haunted City pg. 77
+1921,Medium,3,18,Cloudsplitter,Air;Fire;Phantom;Spirit;Unique;,Pathfinder #168: King of the Mountain pg. 19
+1922,Medium,5,15,Weak Lorthact,Devil;Fiend;Unique;,Shadows at Sundown pg. 62
+1923,Medium,1,23,Solar,Angel;Celestial;Rare;,Bestiary 2 pg. 162.0
+1924,Medium,4,16,Weak Radiant Warden,Construct;Uncommon;,Bestiary 2 pg. 2202.0
+1925,Medium,8,13,Adachros,Astral;Uncommon;,Bestiary 3 pg. 95
+1926,Medium,2,20,Norn,Fey;Rare;,Bestiary 2 pg. 1842.0
+1927,Medium,6,14,Weak Nosferatu Overlord,Rare;Undead;Vampire;,Bestiary 3 pg. 285
+1928,Medium,3,18,Weak Tzitzimitl,Electricity;Uncommon;Undead;,Bestiary 3 pg. 279; Pathfinder #150: Broken Promises pg. 82
+1929,Medium,5,15,Weak Veshumirix,Dragon;Fire;Unique;,Pathfinder #148: Fires of the Haunted City pg. 90
+1930,Medium,1,23,Elite Sarvel Ever-Hunger,Fiend;Humanoid;Unique;Xulgath;,Pathfinder #156: The Apocalypse Prophet pg. 90
+1931,Hard,10,13,Elite Onryo,Uncommon;Undead;,Book of the Dead pg. 135
+1932,Hard,2,21,Tor Linnorm,Dragon;Fire;Uncommon;,Bestiary pg. 227
+1933,Hard,8,14,Weak Joon-seo,Humanoid;Samsaran;Unique;,Pathfinder #167: Ready? Fight! pg. 41
+1934,Hard,3,19,Elite Queen Sluagh,Fey;Rare;Undead;,Book of the Dead pg. 151
+1935,Hard,1,24,Weak Treerazer,Amphibious;Demon;Fiend;Unique;,Bestiary pg. 312
+1936,Hard,4,18,Elite Dwandek,Undead;Unique;,Pathfinder #173: Doorway to the Red Star pg. 32
+1937,Hard,7,15,Weak Skartitch Chip-Tooth,Humanoid;Ratfolk;Unique;,Pathfinder #173: Doorway to the Red Star pg. 51
+1938,Hard,5,16,Weak Red Commander Ant,Beast;Rare;,Pathfinder #174: Shadows of the Ancients pg. 73
+1939,Hard,10,13,Elite Pitax Warden,Human;Humanoid;Rare;,Kingmaker Adventure Path pg. 336
+1940,Hard,2,21,Ironclad Annihilator Beetle,Beast;Rare;,Pathfinder #174: Shadows of the Ancients pg. 49
+1941,Hard,8,14,Elite Gelugon,Devil;Fiend;,Bestiary pg. 91
+1942,Hard,3,19,Guthallath,Construct;Rare;,Bestiary pg. 199
+1943,Hard,1,24,Fafnheir,Dragon;Unique;,Monsters of Myth pg. 28
+1944,Hard,4,18,Weak Unshadowed Koride,Human;Humanoid;Unique;,Pathfinder #174: Shadows of the Ancients pg. 90
+1945,Hard,7,15,Defaced Naiad Queen,Amphibious;Fey;Nymph;Rare;Water;,Kingmaker Adventure Path pg. 471
+1946,Hard,5,16,Elite Yoh Souran,Human;Humanoid;Unique;,Pathfinder #168: King of the Mountain pg. 90
+1947,Hard,10,13,Living-Sun Spire,Construct;Mindless;,Pathfinder #172: Secrets of the Temple City pg. 57
+1948,Hard,2,21,Elite The Knurly Witch,Hag;Humanoid;Unique;,Kingmaker Adventure Path pg. 453
+1949,Hard,8,14,Bul-Gae,Beast;Cold;Fire;Uncommon;,Pathfinder #168: King of the Mountain pg. 79
+1950,Hard,3,19,Weak Vazgorlu,Aberration;Astral;Rare;,Pathfinder #150: Broken Promises pg. 83
+1951,Hard,1,24,Elite Mengkare,Dragon;Fire;Unique;,Pathfinder #150: Broken Promises pg. 90
+1952,Hard,4,18,Weak Foras,Human;Humanoid;Unique;,Kingmaker Adventure Path pg. 595
+1953,Hard,7,15,Adult Gold Dragon,Dragon;Fire;,Bestiary pg. 124
+1954,Hard,5,16,Rune Giant,Evil;Giant;Humanoid;Uncommon;,Bestiary pg. 175
+1955,Hard,10,13,Weak Ran-to,Goblin;Humanoid;Unique;,Pathfinder #166: Despair on Danger Island pg. 64
+1956,Hard,2,21,Elite Yamaraj,Monitor;Psychopomp;Uncommon;,Bestiary 2 pg. 2112.0
+1957,Hard,8,14,Adult Cloud Dragon,Air;Dragon;Elemental;Uncommon;,Bestiary 2 pg. 902.0
+1958,Hard,3,19,Weak Vazgorlu,Aberration;Astral;Rare;,Pathfinder #150: Broken Promises pg. 83
+1959,Hard,1,24,Avatar of the Lantern King,Fey;Fire;Unique;,Kingmaker Adventure Path pg. 600
+1960,Hard,4,18,Elite Deimavigga,Devil;Fiend;,Bestiary 3 pg. 66
+1961,Deadly,12,14,Weak Red Guard Ant,Beast;Rare;,Pathfinder #174: Shadows of the Ancients pg. 72
+1962,Deadly,3,21,Elite Eremite,Fiend;Velstrac;,Bestiary 2 pg. 2852.0
+1963,Deadly,6,18,Winged Owlbear,Animal;,Kingmaker Adventure Path pg. 451
+1964,Deadly,7,17,Elite Engelidis,Aberration;Unique;,Kingmaker Adventure Path pg. 393
+1965,Deadly,2,23,Elite Lesser Manifestation Of Dahak,Dragon;Fire;Unique;,Pathfinder #150: Broken Promises pg. 16
+1966,Deadly,1,26,Elite Dimari-Diji,Plant;Unique;,Pathfinder #172: Secrets of the Temple City pg. 86
+1967,Deadly,5,19,Minognos-Ushad,Dragon;Unique;,Kingmaker Adventure Path pg. 118
+1968,Deadly,10,15,Tollvych,Ghost;Incorporeal;Spirit;Undead;Unique;,Pathfinder #173: Doorway to the Red Star pg. 27
+1969,Deadly,4,20,Maharaja,Fiend;Rakshasa;Rare;,Bestiary 3 pg. 211
+1970,Deadly,15,13,Elite Gogiteth,Aberration;,Bestiary pg. 183
+1971,Deadly,8,16,Alate Ant,Beast;Rare;,Pathfinder #174: Shadows of the Ancients pg. 72
+1972,Deadly,12,14,Wild Hunt Hound,Fey;Rare;Wild Hunt;,Kingmaker Adventure Path pg. 616
+1973,Deadly,3,21,Elite Tarn Linnorm,Acid;Amphibious;Dragon;Uncommon;,Bestiary pg. 226
+1974,Deadly,6,18,Animated Dragonstorms,Construct;Mindless;Rare;,Pathfinder #150: Broken Promises pg. 10
+1975,Deadly,7,17,Elite Shabti Slayer,Humanoid;Shabti;Uncommon;,Pathfinder #186: Ghost King's Rage pg. 84
+1976,Deadly,2,23,Weak Manifestation Of Dahak,Acid;Cold;Dragon;Electricity;Fire;Poison;Unique;,Pathfinder #150: Broken Promises pg. 63
+1977,Deadly,1,26,Elite Treerazer,Amphibious;Demon;Fiend;Unique;,Bestiary pg. 312
+1978,Deadly,5,19,Weak Wild Hunt Monarch,Fey;Rare;Wild Hunt;,Kingmaker Adventure Path pg. 620
+1979,Deadly,10,15,Elite Tormented,Undead;,Book of the Dead pg. 152
+1980,Deadly,4,20,Elite Agradaemon,Daemon;Fiend;Fire;Rare;,Pathfinder #162: Ruins of the Radiant Siege pg. 79
+1981,Deadly,15,13,Weak Urnak Lostwind,Human;Humanoid;Orc;Unique;,Pathfinder #167: Ready? Fight! pg. 41
+1982,Deadly,8,16,Elite Planar Terra-Cotta Squadron,Construct;Rare;Troop;,Pathfinder #166: Despair on Danger Island pg. 53
+1983,Deadly,12,14,Weak Ancient White Dragon,Cold;Dragon;Uncommon;,Bestiary pg. 115
+1984,Deadly,3,21,Tor Linnorm,Dragon;Fire;Uncommon;,Bestiary pg. 227
+1985,Deadly,6,18,Children Of Mhar,Aberration;Uncommon;,Pathfinder #156: The Apocalypse Prophet pg. 78
+1986,Deadly,7,17,Weak Simurgh,Beast;Rare;,Bestiary pg. 295
+1987,Deadly,2,23,Elite Syndara The Sculptor,Aeon;Monitor;Unique;,Pathfinder #168: King of the Mountain pg. 90
+1988,Deadly,1,26,Elite Dimari-Diji,Plant;Unique;,Pathfinder #172: Secrets of the Temple City pg. 86
+1989,Deadly,5,19,Elite Ararda,Earth;Elemental;Genie;Rare;,Pathfinder #155: Lord of the Black Sands pg. 79
+1990,Deadly,10,15,Weak Syu Tak-nwa (Level 16),Human;Humanoid;Unique;,Pathfinder #167: Ready? Fight! pg. 35
+1991,Insanity,5,20,The Knurly Witch,Hag;Humanoid;Unique;,Kingmaker Adventure Path pg. 453
+1992,Insanity,4,21,Elite Quantium Golem,Construct;Golem;Mindless;Rare;,Impossible Lands pg. 335
+1993,Insanity,9,17,Lignified Adamantine Golem,Construct;Golem;Mindless;Rare;,Pathfinder #174: Shadows of the Ancients pg. 16
+1994,Insanity,3,22,Elite Tor Linnorm,Dragon;Fire;Uncommon;,Bestiary pg. 227
+1995,Insanity,20,13,Elite Monadic Deva,Angel;Celestial;,Bestiary 2 pg. 152.0
+1996,Insanity,14,15,Yoh Souran,Human;Humanoid;Unique;,Pathfinder #168: King of the Mountain pg. 90
+1997,Insanity,15,14,Yurgak,Ghoul;Undead;Unique;,Pathfinder #184: The Ghouls Hunger pg. 30
+1998,Insanity,10,16,Elite Popobawa,Humanoid;Uncommon;,Bestiary 3 pg. 206
+1999,Insanity,6,19,Weak Olethrodaemon,Daemon;Fiend;,Bestiary 2 pg. 632.0
+2000,Insanity,2,24,Fafnheir,Dragon;Unique;,Monsters of Myth pg. 28

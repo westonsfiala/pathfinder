@@ -9,7 +9,7 @@
 using namespace Pathfinder;
 using namespace nlohmann;
 
-MonsterList FileHelper::parseJson(const std::string& jsonFilePath)
+MonsterList FileHelper::parseJson(const std::string& jsonFilePath, bool parseUnique)
 {
     auto monsterList = MonsterList();
 
@@ -33,30 +33,38 @@ MonsterList FileHelper::parseJson(const std::string& jsonFilePath)
             parsedLocation
         );
 
-        monsterList.addMonster(newMonster);
+        auto isUnique = parsedRarity == "Unique";
 
-        if(parsedLevel != -1)
+        if (!isUnique || (parseUnique && isUnique))
         {
-            Monster weakNewMonster(
-                "Weak " + parsedName,
-                parsedLevel - 1,
-                GeneratorUtilities::fromStringCreatureSize(parsedSize),
-                GeneratorUtilities::fromStringCreatureTraits(parsedTraits),
-                parsedLocation
-            );
+            monsterList.addMonster(newMonster);
 
-            monsterList.addMonster(weakNewMonster);
+            if (!isUnique)
+            {
+                if (parsedLevel != -1)
+                {
+                    Monster weakNewMonster(
+                        "Weak " + parsedName,
+                        parsedLevel - 1,
+                        GeneratorUtilities::fromStringCreatureSize(parsedSize),
+                        GeneratorUtilities::fromStringCreatureTraits(parsedTraits),
+                        parsedLocation
+                    );
+
+                    monsterList.addMonster(weakNewMonster);
+                }
+
+                Monster eliteNewMonster(
+                    "Elite " + parsedName,
+                    parsedLevel + 1,
+                    GeneratorUtilities::fromStringCreatureSize(parsedSize),
+                    GeneratorUtilities::fromStringCreatureTraits(parsedTraits),
+                    parsedLocation
+                );
+
+                monsterList.addMonster(eliteNewMonster);
+            }
         }
-
-        Monster eliteNewMonster(
-            "Elite " + parsedName,
-            parsedLevel + 1,
-            GeneratorUtilities::fromStringCreatureSize(parsedSize),
-            GeneratorUtilities::fromStringCreatureTraits(parsedTraits),
-            parsedLocation
-        );
-
-        monsterList.addMonster(eliteNewMonster);
     }
 
     return monsterList;

@@ -79,7 +79,7 @@ Level,Rarity,Name,Traits,Size,Source
 0,Common,Vine Leshy,Leshy; Plant,Small,Bestiary 3 pg. 160
 0,Common,Grindylow,Aberration; Amphibious,Small,Bestiary 2 pg. 138 2.0
 0,Common,Ioton,Astral; Incorporeal,Tiny,Bestiary 3 pg. 92
-0,Common,Azarketi Crab Catcher,Amphibious; Azarketi; Humanoid,Medium,"Absalom, City of Lost Omens pg. 396"
+0,Common,Azarketi Crab Catcher,Amphibious; Azarketi; Humanoid,Medium,Absalom; City of Lost Omens pg. 396
 0,Common,Badger,Animal,Small,Bestiary 2 pg. 32 2.0
 0,Common,Blue-Ringed Octopus,Animal; Aquatic,Tiny,Bestiary 2 pg. 187 2.0
 0,Uncommon,Burning Mammoth Hunters,Human; Humanoid; Uncommon,Medium,Pathfinder #175: Broken Tusk Moon pg. 17
@@ -133,7 +133,7 @@ Level,Rarity,Name,Traits,Size,Source
 0,Common,Zombie Snake,Mindless; Undead; Zombie,Medium,Book of the Dead pg. 170
 1,Common,Vampire Bat Swarm,Animal; Swarm,Large,Bestiary pg. 39
 1,Common,Animated Silverware Swarm,Construct; Mindless; Swarm,Large,Bestiary 3 pg. 18
-1,Common,Augur,Fiend; Velstrac,Tiny,"Bestiary 2 pg. 2802.0 , Pathfinder #147: Tomorrow Must Burn pg. 82"
+1,Common,Augur,Fiend; Velstrac,Tiny,Bestiary 2 pg. 2802.0 ; Pathfinder #147: Tomorrow Must Burn pg. 82
 1,Common,Cunning Guide,Beast; Incorporeal; Spirit,Small,Bestiary 3 pg. 252
 1,Uncommon,Cythnigot,Fiend; Qlippoth; Uncommon,Tiny,Bestiary 2 pg. 2122.0
 1,Uncommon,Gathlain Wanderer,Fey; Plant; Uncommon,Small,Bestiary 3 pg. 105
@@ -183,7 +183,7 @@ Level,Rarity,Name,Traits,Size,Source
 1,Unique,Jubilost Narthropple (Level 1),Fey; Gnome; Humanoid; Unique,Small,Kingmaker Companion Guide pg. 33
 1,Common,Nosoi,Monitor; Psychopomp,Tiny,Bestiary pg. 270
 1,Unique,Tristian (Level 1),Aasimar; Human; Humanoid; Unique,Medium,Kingmaker Companion Guide pg. 69
-1,Common,Biloko Warrior,Fey,Small,"The Mwangi Expanse pg. 2942.0 , Pathfinder #146: Cult of Cinders pg. 82"
+1,Common,Biloko Warrior,Fey,Small,The Mwangi Expanse pg. 2942.0 ; Pathfinder #146: Cult of Cinders pg. 82
 1,Common,Bloody Blade Mercenary,Half-Orc; Human; Humanoid; Orc,Medium,Pathfinder #145: Hellknight Hill pg. 50
 1,Common,Catfolk Pouncer,Catfolk; Humanoid,Medium,Bestiary pg. 54
 1,Common,Jinkin,Fey; Gremlin,Tiny,Bestiary pg. 193
@@ -198,24 +198,24 @@ Level,Rarity,Name,Traits,Size,Source
 1,Rare,Carbuncle,Beast; Rare,Tiny,Bestiary 2 pg. 472.0
 1,Common,Cassisian,Angel; Celestial,Tiny,Bestiary pg. 16
 1,Common,Cave Scorpion,Animal,Medium,Bestiary 2 pg. 2342.0
-1,Common,Charau-ka Warrior,Charau-ka; Humanoid,Small,"The Mwangi Expanse pg. 2962.0 , Pathfinder #146: Cult of Cinders pg. 84"
+1,Common,Charau-ka Warrior,Charau-ka; Humanoid,Small,The Mwangi Expanse pg. 2962.0 ; Pathfinder #146: Cult of Cinders pg. 84
 1,Common,Coral Capuchin,Amphibious; Beast,Tiny,Bestiary 3 pg. 54
 1,Common,Cultist,Human; Humanoid,Medium,Gamemastery Guide pg. 229
 1,Common,Dancer,Human; Humanoid,Medium,Gamemastery Guide pg. 236
 1,Uncommon,Darkmantle,Beast; Uncommon,Small,Crown of the Kobold King pg. 118
 1,Common,Doru,Div; Fiend,Tiny,Bestiary 3 pg. 68
 1,Common,Duergar Bombardier,Duergar; Dwarf; Humanoid,Medium,Bestiary pg. 139
-1,Common,Elk,Animal,Medium,"Kingmaker Adventure Path pg. 608, Pathfinder #176: Lost Mammoth Valley pg. 85"
+1,Common,Elk,Animal,Medium,Kingmaker Adventure Path pg. 608; Pathfinder #176: Lost Mammoth Valley pg. 85
 1,Common,Formian Worker,Formian,Medium,Pathfinder #173: Doorway to the Red Star pg. 82
 1,Common,Giant Cockroach,Animal,Small,Bestiary 2 pg. 532.0
 1,Common,Giant Fly,Animal,Medium,Bestiary 2 pg. 1202.0
 1,Common,Giant Gecko,Animal,Medium,Bestiary pg. 228
-1,Common,Giant Solifugid,Animal,Large,"Bestiary 2 pg. 2462.0 , Pathfinder #149: Against the Scarlet Triad pg. 89"
+1,Common,Giant Solifugid,Animal,Large,Bestiary 2 pg. 2462.0 ; Pathfinder #149: Against the Scarlet Triad pg. 89
 1,Common,Giant Tick,Animal,Small,Bestiary 2 pg. 2602.0
 1,Common,Gourd Leshy,Leshy; Plant,Small,Bestiary pg. 218
 1,Uncommon,Graveshell,Beast; Uncommon,Large,Pathfinder #145: Hellknight Hill pg. 89
 1,Common,Grig,Fey; Sprite,Tiny,Bestiary pg. 308
-1,Common,Grippli Scout,Grippli; Humanoid,Small,"Bestiary 2 pg. 1392.0 , Pathfinder #146: Cult of Cinders pg. 86"
+1,Common,Grippli Scout,Grippli; Humanoid,Small,Bestiary 2 pg. 1392.0 ; Pathfinder #146: Cult of Cinders pg. 86
 1,Common,Guard,Human; Humanoid,Medium,Gamemastery Guide pg. 232
 1,Common,Hobgoblin Soldier,Goblin; Humanoid,Medium,Bestiary pg. 206
 1,Common,Hyena,Animal,Medium,Bestiary pg. 211
@@ -305,10 +305,16 @@ Level,Rarity,Name,Traits,Size,Source
 1,Rare,Void Zombie,Rare; Undead,Medium,Bestiary 2 pg. 2882.0
 1,Common,Plague Zombie,Mindless; Undead; Zombie,Medium,Bestiary pg. 340
 1,Uncommon,Zombie Horse,Mindless; Uncommon; Undead; Zombie,Large,Pathfinder #181: Zombie Feast pg. 16
+1,Common,Ragtag Legal Team [0-2],Humanoid,Large,Mercenary Marketplace: Example Crews
+1,Common,Sprite Crew; Ragtag [0-2],Fey; Sprite,Medium,Mercenary Marketplace: Example Crews
+1,Common,Arcanist [1],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+1,Common,Ecclesiast [1],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+1,Common,Occultist [1],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+1,Common,Primalist [1],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
 2,Uncommon,Flickerwisp,Aberration; Air; Uncommon,Small,Pathfinder #163: Ruins of Gauntlight pg. 83
 2,Common,Spark Bat,Air; Elemental,Tiny,Bestiary 2 pg. 1062.0
 2,Common,Animated Armor,Construct; Mindless,Medium,Bestiary pg. 20
-2,Common,Cobbleswarm,Aberration; Earth; Swarm,Large,"Bestiary 3 pg. 52, Pathfinder #157: Devil at the Dreaming Palace pg. 83"
+2,Common,Cobbleswarm,Aberration; Earth; Swarm,Large,Bestiary 3 pg. 52; Pathfinder #157: Devil at the Dreaming Palace pg. 83
 2,Common,Cockroach Swarm,Animal; Swarm,Large,Bestiary 2 pg. 532.0
 2,Common,Ittan-Momen,Kami,Medium,Bestiary 3 pg. 276
 2,Common,Monkey Swarm,Animal; Swarm,Large,Bestiary 3 pg. 172
@@ -331,7 +337,7 @@ Level,Rarity,Name,Traits,Size,Source
 2,Common,Drow Rogue,Drow; Elf; Humanoid,Medium,Bestiary pg. 137
 2,Common,Ekujae Guardians,Elf; Humanoid,Medium,Pathfinder #146: Cult of Cinders pg. 11
 2,Common,Giant Viper,Animal,Medium,Bestiary pg. 303
-2,Uncommon,Anadi Hunter,Anadi; Humanoid; Uncommon,Medium,"The Mwangi Expanse pg. 2092.0 , Pathfinder #145: Hellknight Hill pg. 84"
+2,Uncommon,Anadi Hunter,Anadi; Humanoid; Uncommon,Medium,The Mwangi Expanse pg. 2092.0 ; Pathfinder #145: Hellknight Hill pg. 84
 2,Common,Blindheim,Animal,Small,Bestiary 2 pg. 392.0
 2,Uncommon,Emperor Bird,Animal; Uncommon,Medium,Pathfinder #145: Hellknight Hill pg. 87
 2,Common,Saboteur,Human; Humanoid,Medium,Gamemastery Guide pg. 246
@@ -347,12 +353,12 @@ Level,Rarity,Name,Traits,Size,Source
 2,Common,Navigator,Human; Humanoid,Medium,Gamemastery Guide pg. 242
 2,Common,Shadow Drake,Dragon; Shadow,Tiny,Bestiary 2 pg. 1002.0
 2,Uncommon,Stone Lion Cub,Celestial; Uncommon,Medium,Bestiary 3 pg. 124
-2,Rare,Vargouille,Aberration; Fiend; Rare,Small,"Crown of the Kobold King pg. 124, Pathfinder #157: Devil at the Dreaming Palace pg. 35"
+2,Rare,Vargouille,Aberration; Fiend; Rare,Small,Crown of the Kobold King pg. 124; Pathfinder #157: Devil at the Dreaming Palace pg. 35
 2,Common,Xulgath Skulker,Humanoid; Xulgath,Medium,Bestiary pg. 337
 2,Common,Gnoll Hunter,Gnoll; Humanoid,Medium,Bestiary pg. 178
 2,Common,Archer Sentry,Human; Humanoid,Medium,Gamemastery Guide pg. 233
 2,Common,Azarketi Explorer,Amphibious; Azarketi; Humanoid,Medium,Bestiary 3 pg. 26
-2,Common,Azarketi Sailor,Amphibious; Azarketi; Humanoid,Medium,"Absalom, City of Lost Omens pg. 396"
+2,Common,Azarketi Sailor,Amphibious; Azarketi; Humanoid,Medium,Absalom; City of Lost Omens pg. 396
 2,Common,Bandit,Human; Humanoid,Medium,Gamemastery Guide pg. 208
 2,Uncommon,Blink Dog,Beast; Uncommon,Medium,Bestiary 2 pg. 402.0
 2,Common,Boar,Animal,Medium,Bestiary pg. 43
@@ -478,7 +484,7 @@ Level,Rarity,Name,Traits,Size,Source
 2,Common,Flaming Skull,Mindless; Undead,Tiny,Bestiary 3 pg. 30
 2,Common,Ghast,Ghoul; Undead,Medium,Bestiary pg. 169
 2,Uncommon,Herexen,Uncommon; Undead,Medium,Bestiary 3 pg. 134
-2,Common,Shredskin,Undead,Small,"Book of the Dead pg. 143, Pathfinder #157: Devil at the Dreaming Palace pg. 60"
+2,Common,Shredskin,Undead,Small,Book of the Dead pg. 143; Pathfinder #157: Devil at the Dreaming Palace pg. 60
 2,Common,Kemeneles,Human; Humanoid,Medium,Pathfinder #157: Devil at the Dreaming Palace pg. 53
 2,Common,Caligni Creeper,Caligni; Humanoid,Small,Bestiary pg. 50
 2,Common,Lacedon,Amphibious; Ghoul; Undead,Medium,Book of the Dead pg. 104
@@ -490,6 +496,36 @@ Level,Rarity,Name,Traits,Size,Source
 2,Common,Decrepit Mummy,Mummy; Undead,Medium,Book of the Dead pg. 130
 2,Common,Husk Zombie,Undead; Zombie,Medium,Book of the Dead pg. 170
 2,Common,Zombie Brute,Mindless; Undead; Zombie,Large,Bestiary pg. 341
+2,Common,Mercenary Alchemist [1-3],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+2,Common,Mercenary Barbarian [1-3],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+2,Common,Mercenary Bard [1-2],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+2,Common,Mercenary Champion [1-3],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+2,Common,Mercenary Cleric of Travel [1-2],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+2,Common,Mercenary Druid [1-2],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+2,Common,Mercenary Fighter [1-3],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+2,Common,Mercenary Monk [1-3],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+2,Common,Mercenary Ranger [1-3],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+2,Common,Mercenary Rogue [1-3],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+2,Common,Mercenary Sorcerer [1-2],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+2,Common,Mercenary Wizard [1-2],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+2,Common,Tactician [1-3],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+2,Common,Necromancer [1-2],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+2,Common,Archer [1-3],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+2,Common,Cutpurse [1-3],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+2,Common,Doctor [1-3],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+2,Common,Enforcer [1-3],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+2,Common,Provocateur [1-2],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+2,Common,Runic Warrior [1-2],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+2,Common,Wrestler [1-3],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+2,Common,Conjuror [1-2],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+2,Common,Guardian [1-3],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+2,Common,Hydromancer [1-2],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+2,Common,Priestess [1-2],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+2,Common,Ravager [1-3],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+2,Common,Arcanist [2],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+2,Common,Ecclesiast [2],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+2,Common,Occultist [2],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+2,Common,Primalist [2],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
 3,Common,Fen Mosquito Swarm,Animal; Swarm,Large,Bestiary 2 pg. 1752.0
 3,Uncommon,Quickling,Fey; Uncommon,Small,Bestiary 2 pg. 2182.0
 3,Common,Tooth Fairy Swarm,Fey; Swarm,Large,Bestiary 3 pg. 273
@@ -503,7 +539,7 @@ Level,Rarity,Name,Traits,Size,Source
 3,Uncommon,Anugobu Apprentice,Anugobu; Humanoid; Uncommon,Tiny,Pathfinder #166: Despair on Danger Island pg. 80
 3,Uncommon,Bogey,Fey; Uncommon,Small,Pathfinder #152: Legacy of the Lost God pg. 78
 3,Unique,Calmont,Halfling; Humanoid; Unique,Small,Pathfinder #145: Hellknight Hill pg. 27
-3,Uncommon,Grick,Aberration; Uncommon,Medium,"Crown of the Kobold King pg. 120, Pathfinder #157: Devil at the Dreaming Palace pg. 35"
+3,Uncommon,Grick,Aberration; Uncommon,Medium,Crown of the Kobold King pg. 120; Pathfinder #157: Devil at the Dreaming Palace pg. 35
 3,Uncommon,Kasesh,Earth; Elemental; Uncommon,Small,Impossible Lands pg. 330
 3,Uncommon,Shulsaga,Astral; Uncommon,Medium,Bestiary 3 pg. 93
 3,Common,Vampiric Mist,Aberration,Medium,Bestiary 2 pg. 2782.0
@@ -547,7 +583,7 @@ Level,Rarity,Name,Traits,Size,Source
 3,Common,Bunyip,Animal; Aquatic,Medium,Bestiary pg. 49
 3,Common,Castoroides,Animal,Medium,Pathfinder #176: Lost Mammoth Valley pg. 82
 3,Common,Changeling Exile,Changeling; Human; Humanoid,Medium,Bestiary pg. 62
-3,Common,Charau-ka Acolyte of Angazhan,Charau-ka; Humanoid,Small,"The Mwangi Expanse pg. 2972.0 , Pathfinder #146: Cult of Cinders pg. 85"
+3,Common,Charau-ka Acolyte of Angazhan,Charau-ka; Humanoid,Small,The Mwangi Expanse pg. 2972.0 ; Pathfinder #146: Cult of Cinders pg. 85
 3,Common,Chronicler,Human; Humanoid,Medium,Gamemastery Guide pg. 216
 3,Common,Chupacabra,Beast,Small,Bestiary 2 pg. 522.0
 3,Common,Cinder Rat,Elemental; Fire,Small,Bestiary pg. 148
@@ -606,7 +642,7 @@ Level,Rarity,Name,Traits,Size,Source
 3,Common,Narwhal,Animal; Aquatic,Large,Bestiary 3 pg. 184
 3,Common,Necrophidius,Construct; Mindless,Medium,Bestiary 2 pg. 1802.0
 3,Common,Ogre Warrior,Giant; Humanoid,Large,Bestiary pg. 252
-3,Rare,Oil Living Graffiti,Construct; Rare,Medium,"Bestiary 3 pg. 162, Pathfinder #151: The Show Must Go On pg. 84"
+3,Rare,Oil Living Graffiti,Construct; Rare,Medium,Bestiary 3 pg. 162; Pathfinder #151: The Show Must Go On pg. 84
 3,Common,Smith,Human; Humanoid,Medium,Gamemastery Guide pg. 245
 3,Common,Snapping Flytrap,Mindless; Plant,Large,Bestiary pg. 160
 3,Uncommon,Tattoo Guardian,Construct; Mindless; Uncommon,Small,Bestiary 3 pg. 262
@@ -655,9 +691,17 @@ Level,Rarity,Name,Traits,Size,Source
 3,Common,Chimpanzee Visitant,Animal; Undead,Small,Pathfinder #152: Legacy of the Lost God pg. 83
 3,Common,Urdefhan Warrior,Humanoid; Urdefhan,Medium,Bestiary 2 pg. 2722.0
 3,Common,Combusted,Fire; Undead,Medium,Book of the Dead pg. 80
-3,Unique,"Mosghuta, Boss Cow",Mindless; Undead; Unique; Zombie,Large,Pathfinder #181: Zombie Feast pg. 15
+3,Unique,Mosghuta; Boss Cow,Mindless; Undead; Unique; Zombie,Large,Pathfinder #181: Zombie Feast pg. 15
 3,Common,Zombie Owlbear,Mindless; Undead; Zombie,Large,Book of the Dead pg. 171
 3,Rare,Dirge Piper,Rare; Undead; Zombie,Medium,Pathfinder #181: Zombie Feast pg. 89
+3,Common,Legal Team [2-4],Humanoid,Large,Mercenary Marketplace: Example Crews
+3,Common,Ragtag Cultists [2-4],Humanoid,Large,Mercenary Marketplace: Example Crews
+3,Common,Ragtag Guards [2-4],Humanoid,Large,Mercenary Marketplace: Example Crews
+3,Common,Sprite Crew [2-4],Fey; Sprite,Medium,Mercenary Marketplace: Example Crews
+3,Common,Arcanist [3],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+3,Common,Ecclesiast [3],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+3,Common,Occultist [3],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+3,Common,Primalist [3],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
 4,Common,Brood Leech Swarm,Amphibious; Animal; Swarm,Large,Bestiary 2 pg. 1562.0
 4,Common,Gargoyle,Beast; Earth,Medium,Bestiary pg. 161
 4,Common,Kapoacinth,Aquatic; Beast; Earth,Medium,Pathfinder #182: Graveclaw pg. 28
@@ -690,10 +734,10 @@ Level,Rarity,Name,Traits,Size,Source
 4,Common,Scorpion Swarm,Animal; Swarm,Large,Bestiary pg. 285
 4,Unique,Aives The Smoke Dragon,Humanoid; Tiefling; Unique,Medium,Pathfinder #152: Legacy of the Lost God pg. 16
 4,Common,Duskwalker Ghost Hunter,Duskwalker; Human; Humanoid,Medium,Bestiary pg. 262
-4,Uncommon,Anadi Sage,Anadi; Humanoid; Uncommon,Medium,"The Mwangi Expanse pg. 2902.0 , Pathfinder #145: Hellknight Hill pg. 85"
-4,Common,Biloko Veteran,Fey,Small,"The Mwangi Expanse pg. 2942.0 , Pathfinder #146: Cult of Cinders pg. 82"
+4,Uncommon,Anadi Sage,Anadi; Humanoid; Uncommon,Medium,The Mwangi Expanse pg. 2902.0 ; Pathfinder #145: Hellknight Hill pg. 85
+4,Common,Biloko Veteran,Fey,Small,The Mwangi Expanse pg. 2942.0 ; Pathfinder #146: Cult of Cinders pg. 82
 4,Unique,Cursed Guardian,Beast; Unique,Large,Kingmaker Adventure Path pg. 62
-4,Uncommon,Megaloceros,Animal; Uncommon,Large,"Kingmaker Adventure Path pg. 608, Pathfinder #176: Lost Mammoth Valley pg. 85"
+4,Uncommon,Megaloceros,Animal; Uncommon,Large,Kingmaker Adventure Path pg. 608; Pathfinder #176: Lost Mammoth Valley pg. 85
 4,Common,Mist Stalker,Amphibious; Elemental; Water,Medium,Bestiary 2 pg. 1142.0
 4,Uncommon,Morlock Cultist,Humanoid; Morlock; Uncommon,Medium,Pathfinder #163: Ruins of Gauntlight pg. 85
 4,Common,Zealot of Asmodeus,Human; Humanoid,Medium,Gamemastery Guide pg. 213
@@ -757,7 +801,7 @@ Level,Rarity,Name,Traits,Size,Source
 4,Unique,Ruanna Nyamma,Elf; Human; Humanoid; Unique,Medium,Pathfinder #152: Legacy of the Lost God pg. 17
 4,Uncommon,Cairn Wight,Uncommon; Undead; Wight,Medium,Bestiary 2 pg. 2922.0
 4,Unique,Urbel,Fey; Gremlin; Unique,Small,Pathfinder #169: Kindled Magic pg. 55
-4,Common,Abrikandilu,Demon; Fiend,Medium,"Bestiary 3 pg. 61, Pathfinder #151: The Show Must Go On pg. 81"
+4,Common,Abrikandilu,Demon; Fiend,Medium,Bestiary 3 pg. 61; Pathfinder #151: The Show Must Go On pg. 81
 4,Common,Amphisbaena,Animal,Medium,Bestiary 3 pg. 15
 4,Common,Bison,Animal,Large,Bestiary 3 pg. 32
 4,Unique,Davik Nettles,Undead; Unique,Medium,Kingmaker Adventure Path pg. 67
@@ -812,6 +856,38 @@ Level,Rarity,Name,Traits,Size,Source
 4,Unique,Harlo Krant,Undead; Unique; Zombie,Medium,Book of the Dead pg. 210
 4,Uncommon,Zombie Lord,Uncommon; Undead; Zombie,Medium,Book of the Dead pg. 172
 4,Common,Shambler Troop,Mindless; Troop; Undead; Zombie,Gargantuan,Bestiary 3 pg. 302
+4,Common,Ragtag Archer Crew [3-5],Humanoid,Large,Mercenary Marketplace: Example Crews
+4,Common,Ragtag Bandits [3-5],Humanoid,Large,Mercenary Marketplace: Example Crews
+4,Common,Conjuror Crew; Ragtag [3-4],Humanoid,Large,Mercenary Marketplace: Example Crews
+4,Common,Cutpurse Crew; Ragtag [3-5],Humanoid,Large,Mercenary Marketplace: Example Crews
+4,Common,Doctor Crew; Ragtag [3-5],Humanoid,Large,Mercenary Marketplace: Example Crews
+4,Common,Enforcer Crew; Ragtag [3-5],Humanoid,Large,Mercenary Marketplace: Example Crews
+4,Common,Guardian Crew; Ragtag [3-5],Humanoid,Large,Mercenary Marketplace: Example Crews
+4,Common,Hydromancer Crew; Ragtag [3-4],Humanoid,Large,Mercenary Marketplace: Example Crews
+4,Common,Monk Crew; Ragtag [3-5],Humanoid,Large,Mercenary Marketplace: Example Crews
+4,Common,Necromancer Cabal; Ragtag [3-4],Humanoid,Large,Mercenary Marketplace: Example Crews
+4,Common,Ogre Crew; Ragtag [3-5],Giant; Humanoid,Gargantuan,Mercenary Marketplace: Example Crews
+4,Common,Priestess Circle; Ragtag [3-4],Humanoid,Large,Mercenary Marketplace: Example Crews
+4,Common,Provocateur Troupe; Ragtag [3-4],Humanoid,Large,Mercenary Marketplace: Example Crews
+4,Common,Ravager Crew; Ragtag [3-5],Humanoid,Large,Mercenary Marketplace: Example Crews
+4,Common,Runic Warrior Crew; Ragtag [3-4],Humanoid,Large,Mercenary Marketplace: Example Crews
+4,Common,Tactician Crew; Ragtag [3-5],Humanoid,Large,Mercenary Marketplace: Example Crews
+4,Common,Wrestler Crew; Ragtag [3-5],Humanoid,Large,Mercenary Marketplace: Example Crews
+4,Common,Mercenary Bard [3-4],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+4,Common,Mercenary Cleric of Travel [3-4],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+4,Common,Mercenary Druid [3-4],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+4,Common,Mercenary Sorcerer [3-4],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+4,Common,Mercenary Wizard [3-4],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+4,Common,Necromancer [3-4],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+4,Common,Provocateur [3-4],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+4,Common,Runic Warrior [3-4],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+4,Common,Conjuror [3-4],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+4,Common,Hydromancer [3-4],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+4,Common,Priestess [3-4],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+4,Common,Arcanist [4],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+4,Common,Ecclesiast [4],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+4,Common,Occultist [4],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+4,Common,Primalist [4],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
 5,Unique,Stone Ghost,Human; Humanoid; Oread; Unique,Medium,Pathfinder #169: Kindled Magic pg. 88
 5,Rare,Caligni Vanguard,Caligni; Humanoid; Rare,Medium,Bestiary 3 pg. 40
 5,Common,Living Whirlwind,Air; Elemental,Medium,Bestiary pg. 144
@@ -888,7 +964,7 @@ Level,Rarity,Name,Traits,Size,Source
 5,Uncommon,Eunemvro,Humanoid; Positive; Uncommon,Medium,Bestiary 3 pg. 96
 5,Unique,Melianse,Aquatic; Fey; Unique,Small,Kingmaker Adventure Path pg. 71
 5,Unique,Old Crackjaw,Animal; Unique,Medium,Kingmaker Adventure Path pg. 77
-5,Common,Sabosan,Humanoid,Medium,"Bestiary 3 pg. 217, Pathfinder #146: Cult of Cinders pg. 91"
+5,Common,Sabosan,Humanoid,Medium,Bestiary 3 pg. 217; Pathfinder #146: Cult of Cinders pg. 91
 5,Common,Basidirond,Fungus; Mindless,Medium,Bestiary 2 pg. 342.0
 5,Common,Brimorak,Demon; Fiend,Small,Bestiary 3 pg. 62
 5,Common,Cloaker,Aberration,Large,Bestiary pg. 65
@@ -925,7 +1001,7 @@ Level,Rarity,Name,Traits,Size,Source
 5,Uncommon,Kareq,Animal; Uncommon,Large,Pathfinder #187: The Seventh Arch pg. 89
 5,Common,Karina,Beast; Fiend,Large,The Mwangi Expanse pg. 3012.0
 5,Common,Kodama,Kami; Spirit,Small,Bestiary 3 pg. 143
-5,Uncommon,Skinstitch,Construct; Mindless; Uncommon,Large,"Bestiary 3 pg. 242, Pathfinder #158: Sixty Feet Under pg. 84"
+5,Uncommon,Skinstitch,Construct; Mindless; Uncommon,Large,Bestiary 3 pg. 242; Pathfinder #158: Sixty Feet Under pg. 84
 5,Common,Storm Hag,Air; Electricity; Hag; Humanoid,Medium,Bestiary 3 pg. 128
 5,Common,Xulgath Spinesnapper,Humanoid; Xulgath,Large,Pathfinder #152: Legacy of the Lost God pg. 84
 5,Common,Giant Hermit Crab,Amphibious; Animal,Large,Bestiary 3 pg. 57
@@ -936,7 +1012,7 @@ Level,Rarity,Name,Traits,Size,Source
 5,Common,Globster,Aquatic; Ooze,Large,Bestiary 3 pg. 115
 5,Rare,Hollow Husks,Mindless; Rare; Undead; Zombie,Medium,Pathfinder #183: Field of Maidens pg. 26
 5,Unique,Syarstik Painted-Tiger,Ghost; Incorporeal; Spirit; Undead; Unique,Large,Pathfinder #175: Broken Tusk Moon pg. 90
-5,Uncommon,Bone Croupier,Uncommon; Undead,Medium,"Book of the Dead pg. 77, Pathfinder #151: The Show Must Go On pg. 80"
+5,Uncommon,Bone Croupier,Uncommon; Undead,Medium,Book of the Dead pg. 77; Pathfinder #151: The Show Must Go On pg. 80
 5,Uncommon,Muse Phantom,Incorporeal; Spirit; Uncommon; Undead,Medium,Pathfinder #152: Legacy of the Lost God pg. 81
 5,Common,Poltergeist,Incorporeal; Spirit; Undead,Medium,Bestiary pg. 264
 5,Unique,Voz Lirayne,Elf; Human; Humanoid; Unique,Medium,Pathfinder #145: Hellknight Hill pg. 80
@@ -949,7 +1025,7 @@ Level,Rarity,Name,Traits,Size,Source
 5,Common,Giant Crawling Hand,Undead,Medium,Bestiary 2 pg. 562.0
 5,Rare,Necrohusk,Rare; Undead,Medium,Pathfinder #176: Lost Mammoth Valley pg. 87
 5,Uncommon,Skeletal Woolly Rhinoceros,Mindless; Skeleton; Uncommon; Undead,Large,Pathfinder #176: Lost Mammoth Valley pg. 36
-5,Uncommon,Forge-Spurned,Fire; Uncommon; Undead,Medium,"Crown of the Kobold King pg. 119, Pathfinder #148: Fires of the Haunted City pg. 83"
+5,Uncommon,Forge-Spurned,Fire; Uncommon; Undead,Medium,Crown of the Kobold King pg. 119; Pathfinder #148: Fires of the Haunted City pg. 83
 5,Common,Iruxi Ossature,Lizardfolk; Undead,Medium,Book of the Dead pg. 116
 5,Common,Urdefhan Tormentor,Humanoid; Urdefhan,Medium,Bestiary 2 pg. 2732.0
 5,Unique,Hymmir Urath,Ghoul; Undead; Unique,Medium,Crown of the Kobold King pg. 82
@@ -959,6 +1035,27 @@ Level,Rarity,Name,Traits,Size,Source
 5,Common,Bog Mummy,Mummy; Undead,Medium,Bestiary 2 pg. 1772.0
 5,Common,Ghul,Genie; Ghul; Undead,Medium,Book of the Dead pg. 106
 5,Common,Lion Visitant,Animal; Undead,Large,Pathfinder #152: Legacy of the Lost God pg. 83
+5,Common,Cultist Crew [4-6],Humanoid,Large,Mercenary Marketplace: Example Crews
+5,Common,Guard Patrol [4-6],Humanoid,Large,Mercenary Marketplace: Example Crews
+5,Common,Mercenary Alchemist [4-6],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+5,Common,Mercenary Barbarian [4-6],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+5,Common,Mercenary Champion [4-6],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+5,Common,Mercenary Fighter [4-6],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+5,Common,Mercenary Monk [4-6],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+5,Common,Mercenary Ranger [4-6],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+5,Common,Mercenary Rogue [4-6],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+5,Common,Tactician [4-6],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+5,Common,Archer [4-6],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+5,Common,Cutpurse [4-6],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+5,Common,Doctor [4-6],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+5,Common,Enforcer [4-6],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+5,Common,Wrestler [4-6],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+5,Common,Guardian [4-6],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+5,Common,Ravager [4-6],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+5,Common,Arcanist [5],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+5,Common,Ecclesiast [5],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+5,Common,Occultist [5],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+5,Common,Primalist [5],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
 6,Unique,Mutated Sewer Ooze,Mindless; Mutant; Ooze; Unique,Large,Pathfinder #170: Spoken on the Song Wind pg. 37
 6,Common,Will-o’-Wisp,Aberration; Air,Small,Bestiary pg. 333
 6,Unique,Ekundayo's Dog,Animal; Minion; Unique,Medium,Kingmaker Companion Guide pg. 22
@@ -987,7 +1084,7 @@ Level,Rarity,Name,Traits,Size,Source
 6,Uncommon,Charau-ka Dragon Priest,Charau-ka; Dragon; Fire; Humanoid; Uncommon,Small,Pathfinder #146: Cult of Cinders pg. 59
 6,Unique,Delamar Gianvin,Human; Humanoid; Unique,Medium,Pathfinder #152: Legacy of the Lost God pg. 16
 6,Unique,Elga Verniex,Human; Humanoid; Unique,Medium,Kingmaker Adventure Path pg. 76
-6,Common,Evangelist,Fiend; Velstrac,Medium,"Bestiary 2 pg. 2822.0 , Pathfinder #147: Tomorrow Must Burn pg. 83"
+6,Common,Evangelist,Fiend; Velstrac,Medium,Bestiary 2 pg. 2822.0 ; Pathfinder #147: Tomorrow Must Burn pg. 83
 6,Common,Hobgoblin General,Goblin; Humanoid,Medium,Bestiary pg. 207
 6,Uncommon,Hodag,Beast; Uncommon,Large,Bestiary 2 pg. 1452.0
 6,Common,Jungle Drake,Dragon; Earth,Large,Bestiary pg. 132
@@ -1000,13 +1097,13 @@ Level,Rarity,Name,Traits,Size,Source
 6,Common,Maftet Guardian,Humanoid,Medium,Bestiary 3 pg. 166
 6,Common,Reckless Scientist,Human; Humanoid,Medium,Gamemastery Guide pg. 248
 6,Common,Sand Sentry,Earth; Elemental,Medium,Bestiary 2 pg. 1092.0
-6,Uncommon,Anadi Elder,Anadi; Humanoid; Uncommon,Medium,"The Mwangi Expanse pg. 2912.0 , Pathfinder #145: Hellknight Hill pg. 85"
-6,Common,Asanbosam,Humanoid,Large,"The Mwangi Expanse pg. 2932.0 , Pathfinder #146: Cult of Cinders pg. 80"
+6,Uncommon,Anadi Elder,Anadi; Humanoid; Uncommon,Medium,The Mwangi Expanse pg. 2912.0 ; Pathfinder #145: Hellknight Hill pg. 85
+6,Common,Asanbosam,Humanoid,Large,The Mwangi Expanse pg. 2932.0 ; Pathfinder #146: Cult of Cinders pg. 80
 6,Rare,Bitter Truth Bandit,Human; Humanoid; Rare,Medium,Pathfinder #153: Life's Long Shadows pg. 17
 6,Uncommon,Bugaboo,Fey; Uncommon,Medium,Pathfinder #152: Legacy of the Lost God pg. 78
 6,Common,Captain of the Guard,Human; Humanoid,Medium,Gamemastery Guide pg. 234
 6,Common,Cave Bear,Animal,Large,Bestiary pg. 40
-6,Common,Charau-ka Butcher,Charau-ka; Humanoid,Small,"The Mwangi Expanse pg. 2972.0 , Pathfinder #146: Cult of Cinders pg. 85"
+6,Common,Charau-ka Butcher,Charau-ka; Humanoid,Small,The Mwangi Expanse pg. 2972.0 ; Pathfinder #146: Cult of Cinders pg. 85
 6,Common,Drider,Aberration,Large,Bestiary pg. 159
 6,Common,Elananx,Fey; Fire,Medium,Bestiary pg. 143
 6,Common,Grippli Jinxer,Grippli; Humanoid,Small,Pathfinder #170: Spoken on the Song Wind pg. 83
@@ -1053,7 +1150,7 @@ Level,Rarity,Name,Traits,Size,Source
 6,Rare,Mpeshi,Beast; Electricity; Rare,Large,Pathfinder #170: Spoken on the Song Wind pg. 85
 6,Common,Smilodon,Animal,Large,Bestiary pg. 53
 6,Unique,The Stag Lord,Human; Humanoid; Unique,Medium,Kingmaker Adventure Path pg. 604
-6,Uncommon,Witchwyrd,Humanoid; Uncommon,Medium,"Bestiary 2 pg. 2942.0 , Pathfinder #149: Against the Scarlet Triad pg. 90"
+6,Uncommon,Witchwyrd,Humanoid; Uncommon,Medium,Bestiary 2 pg. 2942.0 ; Pathfinder #149: Against the Scarlet Triad pg. 90
 6,Unique,King Vesket,Humanoid; Lizardfolk; Unique,Medium,Kingmaker Adventure Path pg. 140
 6,Unique,Kolbo,Dwarf; Humanoid; Unique,Medium,Pathfinder #170: Spoken on the Song Wind pg. 49
 6,Common,Striding Fire,Elemental; Fire,Medium,Bestiary 2 pg. 1112.0
@@ -1104,6 +1201,39 @@ Level,Rarity,Name,Traits,Size,Source
 6,Rare,Little Man in the Woods,Rare; Undead,Small,Book of the Dead pg. 124
 6,Common,Vrykolakas Spawn,Undead; Vampire,Medium,Bestiary 2 pg. 2762.0
 6,Uncommon,Umasi,Aberration; Humanoid; Uncommon,Medium,Bestiary 3 pg. 280
+6,Common,Archer Crew [5-7],Humanoid,Large,Mercenary Marketplace: Example Crews
+6,Common,Bandit Crew [5-7],Humanoid,Large,Mercenary Marketplace: Example Crews
+6,Common,Conjuror Crew [5-6],Humanoid,Large,Mercenary Marketplace: Example Crews
+6,Common,Cutpurse Crew [5-7],Humanoid,Large,Mercenary Marketplace: Example Crews
+6,Common,Doctor Crew [5-7],Humanoid,Large,Mercenary Marketplace: Example Crews
+6,Common,Enforcer Crew [5-7],Humanoid,Large,Mercenary Marketplace: Example Crews
+6,Common,Guardian Crew [5-7],Humanoid,Large,Mercenary Marketplace: Example Crews
+6,Common,Hydromancer Crew [5-6],Humanoid,Large,Mercenary Marketplace: Example Crews
+6,Common,Ragtag Mages [5-6],Humanoid,Large,Mercenary Marketplace: Example Crews
+6,Common,Monk Crew [5-7],Humanoid,Large,Mercenary Marketplace: Example Crews
+6,Common,Necromancer Cabal [5-6],Humanoid,Large,Mercenary Marketplace: Example Crews
+6,Common,Ogre Crew [5-7],Giant; Humanoid,Gargantuan,Mercenary Marketplace: Example Crews
+6,Common,Priestess Circle [5-6],Humanoid,Large,Mercenary Marketplace: Example Crews
+6,Common,Provocateur Troupe [5-6],Humanoid,Large,Mercenary Marketplace: Example Crews
+6,Common,Ravager Crew [5-7],Humanoid,Large,Mercenary Marketplace: Example Crews
+6,Common,Runic Warrior Crew [5-6],Humanoid,Large,Mercenary Marketplace: Example Crews
+6,Common,Tactician Crew [5-7],Humanoid,Large,Mercenary Marketplace: Example Crews
+6,Common,Wrestler Crew [5-7],Humanoid,Large,Mercenary Marketplace: Example Crews
+6,Common,Mercenary Bard [5-6],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+6,Common,Mercenary Cleric of Travel [5-6],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+6,Common,Mercenary Druid [5-6],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+6,Common,Mercenary Sorcerer [5-6],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+6,Common,Mercenary Wizard [5-6],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+6,Common,Necromancer [5-6],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+6,Common,Provocateur [5-6],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+6,Common,Runic Warrior [5-6],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+6,Common,Conjuror [5-6],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+6,Common,Hydromancer [5-6],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+6,Common,Priestess [5-6],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+6,Common,Arcanist [6],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+6,Common,Ecclesiast [6],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+6,Common,Occultist [6],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+6,Common,Primalist [6],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
 7,Common,Solar Ibis,Beast,Medium,The Mwangi Expanse pg. 3062.0
 7,Unique,Snowy Owl,Human; Humanoid; Unique,Medium,Pathfinder #189: Dreamers of the Nameless Spires pg. 7
 7,Unique,Spirit Of Stisshak,Aberration; Air; Unique,Medium,Kingmaker Adventure Path pg. 141
@@ -1152,13 +1282,13 @@ Level,Rarity,Name,Traits,Size,Source
 7,Common,Quetzalcoatlus,Animal,Huge,Bestiary pg. 272
 7,Uncommon,Shaitan,Earth; Elemental; Genie; Uncommon,Large,Bestiary pg. 164
 7,Unique,Yana No-Trail,Humanoid; Kitsune; Unique,Medium,Pathfinder #177: Burning Tundra pg. 7
-7,Common,Azarketi Tide Tamer,Amphibious; Azarketi; Humanoid,Medium,"Absalom, City of Lost Omens pg. 397"
+7,Common,Azarketi Tide Tamer,Amphibious; Azarketi; Humanoid,Medium,Absalom; City of Lost Omens pg. 397
 7,Uncommon,Capstan Swabbie,Construct; Mindless; Uncommon,Large,Pathfinder #188: They Watched the Stars pg. 84
 7,Uncommon,Dark Naga,Aberration; Uncommon,Large,Bestiary pg. 242
 7,Uncommon,Dreamscraper,Aberration; Dream; Uncommon,Large,Pathfinder #189: Dreamers of the Nameless Spires pg. 83
 7,Uncommon,Drow Hunter,Drow; Elf; Humanoid; Uncommon,Medium,Pathfinder #165: Eyes of Empty Death pg. 82
 7,Unique,Drusilla,Fey; Unique,Medium,Pathfinder #182: Graveclaw pg. 9
-7,Common,Eloko,Fey,Small,"The Mwangi Expanse pg. 2952.0 , Pathfinder #146: Cult of Cinders pg. 83"
+7,Common,Eloko,Fey,Small,The Mwangi Expanse pg. 2952.0 ; Pathfinder #146: Cult of Cinders pg. 83
 7,Unique,Evora Yarket,Human; Humanoid; Orc; Unique,Medium,Pathfinder #152: Legacy of the Lost God pg. 52
 7,Common,Frost Drake,Cold; Dragon,Large,Bestiary pg. 134
 7,Uncommon,Giant Bone Skipper,Animal; Uncommon,Large,Pathfinder #158: Sixty Feet Under pg. 80
@@ -1239,13 +1369,18 @@ Level,Rarity,Name,Traits,Size,Source
 7,Unique,Ulgrem-Axaan,Amphibious; Beast; Undead; Unique,Large,Monsters of Myth pg. 118
 7,Rare,Tanglebones,Rare; Undead,Large,Malevolence pg. 71
 7,Common,Cyclops Zombie,Mindless; Undead; Zombie,Large,Kingmaker Adventure Path pg. 275
-7,Uncommon,Excorion,Uncommon; Undead,Medium,"Book of the Dead pg. 91, Pathfinder #158: Sixty Feet Under pg. 82"
+7,Uncommon,Excorion,Uncommon; Undead,Medium,Book of the Dead pg. 91; Pathfinder #158: Sixty Feet Under pg. 82
 7,Uncommon,Tar Zombie Predator,Mindless; Uncommon; Undead; Zombie,Large,Pathfinder #177: Burning Tundra pg. 84
 7,Rare,Ofalth Zombie,Aberration; Mindless; Rare; Undead; Zombie,Large,Pathfinder #158: Sixty Feet Under pg. 47
 7,Unique,Zombie Chuul,Amphibious; Mindless; Undead; Unique; Zombie,Large,Pathfinder #182: Graveclaw pg. 33
 7,Uncommon,Deathless Hierophant of Urgathoa,Uncommon; Undead,Medium,Book of the Dead pg. 88
 7,Uncommon,Dullahan,Uncommon; Undead,Medium,Bestiary pg. 140
 7,Common,Specter,Incorporeal; Undead,Medium,Bestiary 2 pg. 2482.0
+7,Common,Ogre Warrior Crew [6-8],Giant; Humanoid,Gargantuan,Mercenary Marketplace: Example Crews
+7,Common,Arcanist [7],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+7,Common,Ecclesiast [7],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+7,Common,Occultist [7],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+7,Common,Primalist [7],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
 8,Rare,Voidglutton,Aberration; Air; Rare,Medium,Pathfinder #163: Ruins of Gauntlight pg. 87
 8,Common,Hellwasp Swarm,Fiend; Swarm,Large,Bestiary 3 pg. 133
 8,Unique,Pug Tingwheely,Fey; Sprite; Unique,Small,Pathfinder #153: Life's Long Shadows pg. 20
@@ -1315,7 +1450,7 @@ Level,Rarity,Name,Traits,Size,Source
 8,Uncommon,Xulgath Stoneliege,Humanoid; Uncommon; Xulgath,Medium,Pathfinder #153: Life's Long Shadows pg. 84
 8,Common,Young Green Dragon,Amphibious; Dragon,Large,Bestiary pg. 109
 8,Common,Tylosaurus,Animal,Gargantuan,Bestiary 3 pg. 178
-8,Common,Kishi,Fey,Medium,"Bestiary 3 pg. 149, Pathfinder #146: Cult of Cinders pg. 88"
+8,Common,Kishi,Fey,Medium,Bestiary 3 pg. 149; Pathfinder #146: Cult of Cinders pg. 88
 8,Unique,Windchaser,Beast; Unique,Large,Kingmaker Adventure Path pg. 105
 8,Uncommon,Aigamuxa,Giant; Humanoid; Uncommon,Large,The Mwangi Expanse pg. 2922.0
 8,Unique,Ambrost Mugland,Halfling; Humanoid; Unique,Small,Pathfinder #179: Cradle of Quartz pg. 88
@@ -1393,6 +1528,43 @@ Level,Rarity,Name,Traits,Size,Source
 8,Common,Zombie Mammoths,Mindless; Undead; Zombie,Huge,Pathfinder #176: Lost Mammoth Valley pg. 56
 8,Unique,Ulthadar,Incorporeal; Spirit; Undead; Unique,Medium,Pathfinder #152: Legacy of the Lost God pg. 90
 8,Rare,Skeletal Tiger Lord,Rare; Skeleton; Undead,Medium,Kingmaker Adventure Path pg. 327
+8,Common,Conjuror Crew [7-8],Humanoid,Large,Mercenary Marketplace: Example Crews
+8,Common,Hydromancer Crew [7-8],Humanoid,Large,Mercenary Marketplace: Example Crews
+8,Common,Mage Crew [7-8],Humanoid,Large,Mercenary Marketplace: Example Crews
+8,Common,Necromancer Cabal [7-8],Humanoid,Large,Mercenary Marketplace: Example Crews
+8,Common,Priestess Circle [7-8],Humanoid,Large,Mercenary Marketplace: Example Crews
+8,Common,Provocateur Troupe [7-8],Humanoid,Large,Mercenary Marketplace: Example Crews
+8,Common,Runic Warrior Crew [7-8],Humanoid,Large,Mercenary Marketplace: Example Crews
+8,Common,Mercenary Alchemist [7-9],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+8,Common,Mercenary Barbarian [7-9],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+8,Common,Mercenary Bard [7-8],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+8,Common,Mercenary Champion [7-9],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+8,Common,Mercenary Cleric of Travel [7-8],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+8,Common,Mercenary Druid [7-8],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+8,Common,Mercenary Fighter [7-9],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+8,Common,Mercenary Monk [7-9],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+8,Common,Mercenary Ranger [7-9],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+8,Common,Mercenary Rogue [7-9],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+8,Common,Mercenary Sorcerer [7-8],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+8,Common,Mercenary Wizard [7-8],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+8,Common,Tactician [7-9],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+8,Common,Necromancer [7-8],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+8,Common,Archer [7-9],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+8,Common,Cutpurse [7-9],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+8,Common,Doctor [7-9],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+8,Common,Enforcer [7-9],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+8,Common,Provocateur [7-8],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+8,Common,Runic Warrior [7-8],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+8,Common,Wrestler [7-9],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+8,Common,Conjuror [7-8],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+8,Common,Guardian [7-9],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+8,Common,Hydromancer [7-8],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+8,Common,Priestess [7-8],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+8,Common,Ravager [7-9],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+8,Common,Arcanist [8],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+8,Common,Ecclesiast [8],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+8,Common,Occultist [8],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+8,Common,Primalist [8],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
 9,Rare,Yithian,Aberration; Rare,Large,Bestiary 3 pg. 299
 9,Uncommon,Clockwork Mage,Clockwork; Construct; Mindless; Uncommon,Medium,Bestiary 3 pg. 50
 9,Uncommon,Seugathi Reality Warper,Aberration; Seugathi; Uncommon,Large,Pathfinder #164: Hands of the Devil pg. 83
@@ -1406,7 +1578,7 @@ Level,Rarity,Name,Traits,Size,Source
 9,Unique,Valerie (Level 9),Human; Humanoid; Unique,Medium,Kingmaker Companion Guide pg. 83
 9,Common,Animated Furnace,Construct; Mindless,Huge,Bestiary 3 pg. 18
 9,Common,Garuda,Celestial,Medium,Bestiary 3 pg. 104
-9,Common,Osyluth,Devil; Fiend,Large,"Bestiary 2 pg. 732.0 , Pathfinder #147: Tomorrow Must Burn pg. 78"
+9,Common,Osyluth,Devil; Fiend,Large,Bestiary 2 pg. 732.0 ; Pathfinder #147: Tomorrow Must Burn pg. 78
 9,Unique,Pr'rall,Catfolk; Humanoid; Unique,Medium,No-Prep Character: Pr’rall pg. 0
 9,Uncommon,Clockwork Buccaneer,Clockwork; Construct; Mindless; Uncommon,Medium,Pathfinder #180: The Smoking Gun pg. 80
 9,Common,Dragon Turtle,Amphibious; Dragon,Huge,Bestiary pg. 128
@@ -1461,13 +1633,13 @@ Level,Rarity,Name,Traits,Size,Source
 9,Unique,Venexus,Cold; Dragon; Unique,Large,Pathfinder #176: Lost Mammoth Valley pg. 91
 9,Common,Young Blue Dragon,Dragon; Electricity,Large,Bestiary pg. 107
 9,Common,Young Bronze Dragon,Amphibious; Dragon; Water,Large,Bestiary pg. 119
-9,Uncommon,Mokele-Mbembe,Animal; Uncommon,Huge,"Bestiary 3 pg. 171, Pathfinder #146: Cult of Cinders pg. 90"
+9,Uncommon,Mokele-Mbembe,Animal; Uncommon,Huge,Bestiary 3 pg. 171; Pathfinder #146: Cult of Cinders pg. 90
 9,Common,Deinosuchus,Animal,Huge,Bestiary pg. 67
 9,Uncommon,Efreeti,Elemental; Fire; Genie; Uncommon,Large,Bestiary pg. 164
 9,Common,Hesperid,Fey; Light; Nymph,Medium,Bestiary 3 pg. 188
 9,Common,Mastodon,Animal,Huge,Bestiary 2 pg. 1162.0
 9,Uncommon,Teraphant,Beast; Uncommon,Huge,Pathfinder #158: Sixty Feet Under pg. 86
-9,Uncommon,Young Magma Dragon,Dragon; Elemental; Fire; Uncommon,Large,"Bestiary 2 pg. 942.0 , Pathfinder #148: Fires of the Haunted City pg. 80"
+9,Uncommon,Young Magma Dragon,Dragon; Elemental; Fire; Uncommon,Large,Bestiary 2 pg. 942.0 ; Pathfinder #148: Fires of the Haunted City pg. 80
 9,Uncommon,Bregdi,Animal; Aquatic; Uncommon,Large,Pathfinder #159: All or Nothing pg. 81
 9,Unique,Kallas Devil,Amphibious; Hag; Humanoid; Unique,Medium,Monsters of Myth pg. 46
 9,Uncommon,Megalodon,Animal; Aquatic; Uncommon,Gargantuan,Bestiary pg. 291
@@ -1516,6 +1688,20 @@ Level,Rarity,Name,Traits,Size,Source
 9,Common,Zombie Dragon,Dragon; Mindless; Undead; Zombie,Huge,Bestiary 3 pg. 303
 9,Uncommon,Tar Zombie Mammoth,Mindless; Uncommon; Undead; Zombie,Huge,Pathfinder #177: Burning Tundra pg. 85
 9,Uncommon,Dread Wisp,Aberration; Uncommon,Small,Pathfinder #165: Eyes of Empty Death pg. 81
+9,Common,Archer Crew [8-10],Humanoid,Large,Mercenary Marketplace: Example Crews
+9,Common,Cutpurse Crew [8-10],Humanoid,Large,Mercenary Marketplace: Example Crews
+9,Common,Doctor Crew [8-10],Humanoid,Large,Mercenary Marketplace: Example Crews
+9,Common,Enforcer Crew [8-10],Humanoid,Large,Mercenary Marketplace: Example Crews
+9,Common,Guardian Crew [8-10],Humanoid,Large,Mercenary Marketplace: Example Crews
+9,Common,Ragtag Hunters [8-10],Humanoid,Large,Mercenary Marketplace: Example Crews
+9,Common,Monk Crew [8-10],Humanoid,Large,Mercenary Marketplace: Example Crews
+9,Common,Ravager Crew [8-10],Humanoid,Large,Mercenary Marketplace: Example Crews
+9,Common,Tactician Crew [8-10],Humanoid,Large,Mercenary Marketplace: Example Crews
+9,Common,Wrestler Crew [8-10],Humanoid,Large,Mercenary Marketplace: Example Crews
+9,Common,Arcanist [9],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+9,Common,Ecclesiast [9],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+9,Common,Occultist [9],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+9,Common,Primalist [9],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
 10,Common,Shield Archon,Archon; Celestial,Large,Bestiary pg. 29
 10,Unique,Lasheeli Aminda,Aasimar; Human; Humanoid; Unique,Medium,Pathfinder #183: Field of Maidens pg. 90
 10,Unique,Tristian (Level 10),Aasimar; Human; Humanoid; Unique,Medium,Kingmaker Companion Guide pg. 69
@@ -1631,6 +1817,27 @@ Level,Rarity,Name,Traits,Size,Source
 10,Common,Cursed King,Mummy; Undead,Medium,Impossible Lands pg. 525
 10,Rare,Gholdako,Rare; Undead,Huge,Book of the Dead pg. 97
 10,Uncommon,Straugh,Ghoul; Uncommon; Undead,Large,Pathfinder #184: The Ghouls Hunger pg. 88
+10,Common,Conjuror Crew [9-10],Humanoid,Large,Mercenary Marketplace: Example Crews
+10,Common,Hydromancer Crew [9-10],Humanoid,Large,Mercenary Marketplace: Example Crews
+10,Common,Necromancer Cabal [9-10],Humanoid,Large,Mercenary Marketplace: Example Crews
+10,Common,Priestess Circle [9-10],Humanoid,Large,Mercenary Marketplace: Example Crews
+10,Common,Provocateur Troupe [9-10],Humanoid,Large,Mercenary Marketplace: Example Crews
+10,Common,Runic Warrior Crew [9-10],Humanoid,Large,Mercenary Marketplace: Example Crews
+10,Common,Mercenary Bard [9-10],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+10,Common,Mercenary Cleric of Travel [9-10],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+10,Common,Mercenary Druid [9-10],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+10,Common,Mercenary Sorcerer [9-10],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+10,Common,Mercenary Wizard [9-10],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+10,Common,Necromancer [9-10],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+10,Common,Provocateur [9-10],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+10,Common,Runic Warrior [9-10],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+10,Common,Conjuror [9-10],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+10,Common,Hydromancer [9-10],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+10,Common,Priestess [9-10],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+10,Common,Arcanist [10],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+10,Common,Ecclesiast [10],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+10,Common,Occultist [10],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+10,Common,Primalist [10],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
 11,Common,Elemental Hurricane,Air; Elemental,Huge,Bestiary pg. 145
 11,Common,Algea,Monitor; Psychopomp; Swarm,Large,Malevolence pg. 70
 11,Unique,Ancient Tupilaq,Construct; Unique,Medium,Pathfinder #189: Dreamers of the Nameless Spires pg. 56
@@ -1704,13 +1911,13 @@ Level,Rarity,Name,Traits,Size,Source
 11,Rare,Planar Terra-Cotta Soldier,Construct; Rare,Medium,Pathfinder #166: Despair on Danger Island pg. 52
 11,Common,Tallow Ooze,Mindless; Ooze,Medium,Pathfinder #154: Siege of the Dinosaurs pg. 83
 11,Common,Carnivorous Crystal,Earth; Mindless; Ooze,Medium,Pathfinder #148: Fires of the Haunted City pg. 76
-11,Common,Provincial Jiang-Shi,Undead; Vampire,Medium,"Book of the Dead pg. 158, Pathfinder #167: Ready? Fight! pg. 86"
+11,Common,Provincial Jiang-Shi,Undead; Vampire,Medium,Book of the Dead pg. 158; Pathfinder #167: Ready? Fight! pg. 86
 11,Uncommon,Vetalarana Manipulator,Uncommon; Undead; Vampire,Medium,Book of the Dead pg. 163
 11,Uncommon,Seething Spirit,Incorporeal; Spirit; Uncommon; Undead,Medium,Bestiary 3 pg. 228
 11,Common,Xae,Ghost; Incorporeal; Spirit; Undead,Small,Kingmaker Companion Guide pg. 38
 11,Unique,Bishop Keppira D'bear,Shadow; Undead; Unique; Vampire,Medium,Shadows at Sundown pg. 26
 11,Common,Bhuta,Incorporeal; Undead,Medium,Book of the Dead pg. 76
-11,Uncommon,Devourer,Uncommon; Undead,Large,"Bestiary 2 pg. 782.0 , Pathfinder #148: Fires of the Haunted City pg. 79"
+11,Uncommon,Devourer,Uncommon; Undead,Large,Bestiary 2 pg. 782.0 ; Pathfinder #148: Fires of the Haunted City pg. 79
 11,Unique,Equendia,Cold; Mummy; Undead; Unique,Medium,Pathfinder #189: Dreamers of the Nameless Spires pg. 52
 11,Rare,Spawn Of Taon,Rare; Undead,Medium,Pathfinder #173: Doorway to the Red Star pg. 29
 11,Unique,Lintwerth,Air; Earth; Elemental; Unique,Small,Kingmaker Adventure Path pg. 310
@@ -1728,6 +1935,26 @@ Level,Rarity,Name,Traits,Size,Source
 11,Rare,Reborn Sun Warrior,Fire; Rare; Undead,Medium,Pathfinder #172: Secrets of the Temple City pg. 11
 11,Common,Zombie Mammoth,Mindless; Undead; Zombie,Huge,Book of the Dead pg. 173
 11,Rare,Sodden Sentinel,Rare; Undead,Medium,Pathfinder #154: Siege of the Dinosaurs pg. 32
+11,Common,Hunting Party [10-12],Humanoid,Large,Mercenary Marketplace: Example Crews
+11,Common,Mercenary Alchemist [10-12],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+11,Common,Mercenary Barbarian [10-12],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+11,Common,Mercenary Champion [10-12],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+11,Common,Mercenary Fighter [10-12],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+11,Common,Mercenary Monk [10-12],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+11,Common,Mercenary Ranger [10-12],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+11,Common,Mercenary Rogue [10-12],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+11,Common,Tactician [10-12],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+11,Common,Archer [10-12],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+11,Common,Cutpurse [10-12],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+11,Common,Doctor [10-12],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+11,Common,Enforcer [10-12],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+11,Common,Wrestler [10-12],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+11,Common,Guardian [10-12],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+11,Common,Ravager [10-12],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+11,Common,Arcanist [11],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+11,Common,Ecclesiast [11],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+11,Common,Occultist [11],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+11,Common,Primalist [11],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
 12,Rare,Vicious Army Ant Swarm,Animal; Rare; Swarm,Large,Kingmaker Adventure Path pg. 326
 12,Rare,Misery Siktempora,Rare; Siktempora; Time,Large,Bestiary 3 pg. 232
 12,Uncommon,Betobeto-San,Incorporeal; Shadow; Spirit; Uncommon,Medium,Bestiary 3 pg. 31
@@ -1751,7 +1978,7 @@ Level,Rarity,Name,Traits,Size,Source
 12,Rare,Corrupt Guards,Dwarf; Humanoid; Rare,Medium,Pathfinder #148: Fires of the Haunted City pg. 27
 12,Common,Deculi,Beast,Large,Pathfinder #148: Fires of the Haunted City pg. 78
 12,Rare,Grisantian Lion,Beast; Primal; Rare,Huge,Monsters of Myth pg. 34
-12,Common,Interlocutor,Fiend; Velstrac,Large,"Bestiary 2 pg. 2852.0 , Pathfinder #147: Tomorrow Must Burn pg. 84"
+12,Common,Interlocutor,Fiend; Velstrac,Large,Bestiary 2 pg. 2852.0 ; Pathfinder #147: Tomorrow Must Burn pg. 84
 12,Common,Kokogiak,Beast,Huge,Bestiary 3 pg. 151
 12,Common,Kolyarut,Aeon; Inevitable; Monitor,Medium,Bestiary pg. 10
 12,Unique,Ngara,Aberration; Unique,Large,Kingmaker Adventure Path pg. 99
@@ -1777,11 +2004,11 @@ Level,Rarity,Name,Traits,Size,Source
 12,Common,Arboreal Archive,Plant,Huge,Bestiary 3 pg. 21
 12,Uncommon,Drake Courser,Cold; Dragon; Uncommon,Large,Pathfinder #167: Ready? Fight! pg. 13
 12,Uncommon,Drenchdead,Uncommon; Undead; Water,Medium,Pathfinder #172: Secrets of the Temple City pg. 81
-12,Common,Rusalka,Aquatic; Fey; Water,Medium,"Bestiary 2 pg. 2292.0 , Pathfinder #147: Tomorrow Must Burn pg. 81"
+12,Common,Rusalka,Aquatic; Fey; Water,Medium,Bestiary 2 pg. 2292.0 ; Pathfinder #147: Tomorrow Must Burn pg. 81
 12,Unique,Stirvyn Banyan,Human; Humanoid; Unique,Medium,Pathfinder #154: Siege of the Dinosaurs pg. 39
 12,Common,Taiga Giant,Giant; Humanoid,Huge,Bestiary 2 pg. 1262.0
 12,Common,Adult Copper Dragon,Dragon; Earth,Large,Bestiary pg. 122
-12,Uncommon,Calikang,Humanoid; Uncommon,Large,"Bestiary 3 pg. 42, Pathfinder #149: Against the Scarlet Triad pg. 84"
+12,Uncommon,Calikang,Humanoid; Uncommon,Large,Bestiary 3 pg. 42; Pathfinder #149: Against the Scarlet Triad pg. 84
 12,Uncommon,Gimmerling,Fey; Uncommon,Small,Bestiary pg. 177
 12,Unique,Gomwai,Goblin; Humanoid; Unique,Medium,Pathfinder #166: Despair on Danger Island pg. 48
 12,Uncommon,Great Cyclops,Giant; Humanoid; Mutant; Uncommon,Huge,Bestiary pg. 69
@@ -1817,6 +2044,36 @@ Level,Rarity,Name,Traits,Size,Source
 12,Uncommon,Rotbomber,Mindless; Uncommon; Undead,Large,Pathfinder #184: The Ghouls Hunger pg. 87
 12,Common,Tomb Giant,Giant; Humanoid,Large,Bestiary 3 pg. 110
 12,Rare,Relictner Eroder,Dwarf; Humanoid; Mortic; Rare,Medium,Book of the Dead pg. 127
+12,Common,Archer Crew [11-13],Humanoid,Large,Mercenary Marketplace: Example Crews
+12,Common,Conjuror Crew [11-12],Humanoid,Large,Mercenary Marketplace: Example Crews
+12,Common,Cutpurse Crew [11-13],Humanoid,Large,Mercenary Marketplace: Example Crews
+12,Common,Doctor Crew [11-13],Humanoid,Large,Mercenary Marketplace: Example Crews
+12,Common,Enforcer Crew [11-13],Humanoid,Large,Mercenary Marketplace: Example Crews
+12,Common,Guardian Crew [11-13],Humanoid,Large,Mercenary Marketplace: Example Crews
+12,Common,Hydromancer Crew [11-12],Humanoid,Large,Mercenary Marketplace: Example Crews
+12,Common,Monk Crew [11-13],Humanoid,Large,Mercenary Marketplace: Example Crews
+12,Common,Necromancer Cabal [11-12],Humanoid,Large,Mercenary Marketplace: Example Crews
+12,Common,Priestess Circle [11-12],Humanoid,Large,Mercenary Marketplace: Example Crews
+12,Common,Provocateur Troupe [11-12],Humanoid,Large,Mercenary Marketplace: Example Crews
+12,Common,Ravager Crew [11-13],Humanoid,Large,Mercenary Marketplace: Example Crews
+12,Common,Runic Warrior Crew [11-12],Humanoid,Large,Mercenary Marketplace: Example Crews
+12,Common,Tactician Crew [11-13],Humanoid,Large,Mercenary Marketplace: Example Crews
+12,Common,Wrestler Crew [11-13],Humanoid,Large,Mercenary Marketplace: Example Crews
+12,Common,Mercenary Bard [11-12],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+12,Common,Mercenary Cleric of Travel [11-12],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+12,Common,Mercenary Druid [11-12],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+12,Common,Mercenary Sorcerer [11-12],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+12,Common,Mercenary Wizard [11-12],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+12,Common,Necromancer [11-12],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+12,Common,Provocateur [11-12],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+12,Common,Runic Warrior [11-12],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+12,Common,Conjuror [11-12],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+12,Common,Hydromancer [11-12],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+12,Common,Priestess [11-12],Humanoid,Medium,Mercenary Marketplace: NPCs with Jobs
+12,Common,Arcanist [12],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+12,Common,Ecclesiast [12],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+12,Common,Occultist [12],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+12,Common,Primalist [12],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
 13,Unique,Yabin the Just (Level 13),Humanoid; Nagaji; Unique,Medium,Pathfinder #167: Ready? Fight! pg. 27
 13,Uncommon,Agile Warrior,Human; Humanoid; Uncommon,Medium,Pathfinder #166: Despair on Danger Island pg. 23
 13,Uncommon,Archery Specialist,Human; Humanoid; Uncommon,Medium,Pathfinder #166: Despair on Danger Island pg. 24
@@ -1874,13 +2131,13 @@ Level,Rarity,Name,Traits,Size,Source
 13,Unique,Phuthi,Gnoll; Humanoid; Unique,Medium,Pathfinder #167: Ready? Fight! pg. 39
 13,Unique,Skarja,Fiend; Hag; Humanoid; Unique,Medium,Pathfinder #153: Life's Long Shadows pg. 88
 13,Common,Irlgaunt,Aberration; Earth,Large,Bestiary 2 pg. 1482.0
-13,Uncommon,Adult Magma Dragon,Dragon; Elemental; Fire; Uncommon,Huge,"Bestiary 2 pg. 942.0 , Pathfinder #148: Fires of the Haunted City pg. 80"
-13,Uncommon,Jorogumo,Humanoid; Uncommon,Medium,"Bestiary 3 pg. 141, Pathfinder #160: Assault on Hunting Lodge Seven pg. 83"
+13,Uncommon,Adult Magma Dragon,Dragon; Elemental; Fire; Uncommon,Huge,Bestiary 2 pg. 942.0 ; Pathfinder #148: Fires of the Haunted City pg. 80
+13,Uncommon,Jorogumo,Humanoid; Uncommon,Medium,Bestiary 3 pg. 141; Pathfinder #160: Assault on Hunting Lodge Seven pg. 83
 13,Common,Purple Worm,Animal,Gargantuan,Bestiary pg. 56
 13,Common,Thanadaemon,Daemon; Fiend,Medium,Bestiary 2 pg. 602.0
 13,Common,Viper Vine,Plant,Large,Bestiary 2 pg. 2872.0
 13,Common,Millindemalion,Fey,Small,Bestiary 3 pg. 169
-13,Common,Shadow Giant,Giant; Humanoid; Shadow,Large,"Bestiary 2 pg. 1272.0 , Pathfinder #147: Tomorrow Must Burn pg. 79"
+13,Common,Shadow Giant,Giant; Humanoid; Shadow,Large,Bestiary 2 pg. 1272.0 ; Pathfinder #147: Tomorrow Must Burn pg. 79
 13,Common,Glabrezu,Demon; Fiend,Huge,Bestiary pg. 79
 13,Uncommon,Froghemoth,Aberration; Amphibious; Uncommon,Huge,Bestiary 2 pg. 1222.0
 13,Unique,Cocoon Of Lucid Potential,Aberration; Unique,Gargantuan,Dark Archive pg. 17
@@ -1896,7 +2153,7 @@ Level,Rarity,Name,Traits,Size,Source
 13,Uncommon,Bloodshroud,Uncommon; Undead,Medium,Pathfinder #184: The Ghouls Hunger pg. 82
 13,Common,Skeletal Titan,Mindless; Skeleton; Undead,Gargantuan,Book of the Dead pg. 149
 13,Common,Silent Stalker,Undead,Small,Book of the Dead pg. 141
-13,Uncommon,Gashadokuro,Uncommon; Undead,Huge,"Book of the Dead pg. 95, Pathfinder #148: Fires of the Haunted City pg. 84"
+13,Uncommon,Gashadokuro,Uncommon; Undead,Huge,Book of the Dead pg. 95; Pathfinder #148: Fires of the Haunted City pg. 84
 13,Uncommon,Ghoul Razorclaw,Ghoul; Uncommon; Undead,Medium,Pathfinder #184: The Ghouls Hunger pg. 85
 13,Uncommon,Leng Spider,Aberration; Dream; Uncommon,Huge,Bestiary 2 pg. 1572.0
 13,Uncommon,Death Drider,Uncommon; Undead,Large,Pathfinder #155: Lord of the Black Sands pg. 35
@@ -1909,6 +2166,10 @@ Level,Rarity,Name,Traits,Size,Source
 13,Uncommon,Vrykolakas Ancient,Uncommon; Undead; Vampire,Medium,Bestiary 2 pg. 2772.0
 13,Uncommon,Necrohulk Flailer,Mutant; Uncommon; Undead,Large,Pathfinder #185: A Taste of Ashes pg. 86
 13,Common,Vanyver,Darvakka; Shadow; Undead,Huge,Book of the Dead pg. 82
+13,Common,Arcanist [13],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+13,Common,Ecclesiast [13],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+13,Common,Occultist [13],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+13,Common,Primalist [13],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
 14,Unique,Old Man Statue,Construct; Divine; Mindless; Unique,Huge,Pathfinder #166: Despair on Danger Island pg. 20
 14,Rare,Triumph Siktempora,Rare; Siktempora; Time,Small,Bestiary 3 pg. 233
 14,Common,Grikkitog,Aberration; Earth,Huge,Bestiary pg. 195
@@ -1981,9 +2242,9 @@ Level,Rarity,Name,Traits,Size,Source
 14,Rare,Ravener Husk,Dragon; Rare; Undead,Gargantuan,Bestiary 2 pg. 2242.0
 14,Unique,Ran-to,Goblin; Humanoid; Unique,Small,Pathfinder #166: Despair on Danger Island pg. 64
 14,Common,Sepid,Div; Fiend,Large,Bestiary 3 pg. 71
-14,Common,Nalfeshnee,Demon; Fiend,Huge,"Bestiary 2 pg. 682.0 , Pathfinder #149: Against the Scarlet Triad pg. 86"
+14,Common,Nalfeshnee,Demon; Fiend,Huge,Bestiary 2 pg. 682.0 ; Pathfinder #149: Against the Scarlet Triad pg. 86
 14,Common,Gunpowder Ooze,Mindless; Ooze,Large,Impossible Lands pg. 334
-14,Common,Minister Of Tumult,Undead; Vampire,Medium,"Book of the Dead pg. 159, Pathfinder #167: Ready? Fight! pg. 87"
+14,Common,Minister Of Tumult,Undead; Vampire,Medium,Book of the Dead pg. 159; Pathfinder #167: Ready? Fight! pg. 87
 14,Rare,Sorcerous Skull Swarm,Rare; Swarm; Undead,Large,Bestiary 3 pg. 245
 14,Unique,Watchtower Poltergeist,Incorporeal; Spirit; Undead; Unique,Medium,Pathfinder #166: Despair on Danger Island pg. 35
 14,Unique,King Harral,Undead; Unique,Medium,Pathfinder #148: Fires of the Haunted City pg. 42
@@ -1991,13 +2252,35 @@ Level,Rarity,Name,Traits,Size,Source
 14,Uncommon,Death Coach,Incorporeal; Spirit; Uncommon; Undead,Huge,Book of the Dead pg. 86
 14,Unique,Yurgak,Ghoul; Undead; Unique,Medium,Pathfinder #184: The Ghouls Hunger pg. 30
 14,Unique,Falrok,Ghoul; Undead; Unique,Medium,Pathfinder #148: Fires of the Haunted City pg. 46
-14,Uncommon,Obrousian,Amphibious; Uncommon; Undead,Medium,"Book of the Dead pg. 134, Pathfinder #161: Belly of the Black Whale pg. 86"
+14,Uncommon,Obrousian,Amphibious; Uncommon; Undead,Medium,Book of the Dead pg. 134; Pathfinder #161: Belly of the Black Whale pg. 86
 14,Unique,Starved Staff,Undead; Unique,Huge,Pathfinder #154: Siege of the Dinosaurs pg. 16
 14,Common,Tormented,Undead,Medium,Book of the Dead pg. 152
 14,Common,Urdefhan Dominator,Humanoid; Urdefhan,Medium,Pathfinder #155: Lord of the Black Sands pg. 83
 14,Uncommon,Graveknight Warmaster,Uncommon; Undead,Medium,Book of the Dead pg. 110
 14,Rare,Kellid Graveknight,Rare; Undead,Medium,Kingmaker Adventure Path pg. 401
 14,Unique,Sié Goluo,Beast; Incorporeal; Spirit; Unique,Huge,The Mwangi Expanse pg. 3052.0
+14,Common,Conjuror Crew [13-14],Humanoid,Large,Mercenary Marketplace: Example Crews
+14,Common,Hydromancer Crew [13-14],Humanoid,Large,Mercenary Marketplace: Example Crews
+14,Common,Necromancer Cabal [13-14],Humanoid,Large,Mercenary Marketplace: Example Crews
+14,Common,Priestess Circle [13-14],Humanoid,Large,Mercenary Marketplace: Example Crews
+14,Common,Provocateur Troupe [13-14],Humanoid,Large,Mercenary Marketplace: Example Crews
+14,Common,Runic Warrior Crew [13-14],Humanoid,Large,Mercenary Marketplace: Example Crews
+14,Common,Mercenary Alchemist [13-15],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+14,Common,Mercenary Barbarian [13-15],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+14,Common,Mercenary Bard [13-14],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+14,Common,Mercenary Champion [13-15],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+14,Common,Mercenary Cleric of Travel [13-14],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+14,Common,Mercenary Druid [13-14],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+14,Common,Mercenary Fighter [13-15],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+14,Common,Mercenary Monk [13-15],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+14,Common,Mercenary Ranger [13-15],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+14,Common,Mercenary Rogue [13-15],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+14,Common,Mercenary Sorcerer [13-14],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+14,Common,Mercenary Wizard [13-14],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+14,Common,Arcanist [14],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+14,Common,Ecclesiast [14],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+14,Common,Occultist [14],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+14,Common,Primalist [14],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
 15,Unique,Jaiban,Beast; Unique,Gargantuan,Pathfinder #166: Despair on Danger Island pg. 41
 15,Uncommon,Penqual,Fiend; Sahkil; Swarm; Uncommon,Huge,Pathfinder #162: Ruins of the Radiant Siege pg. 84
 15,Rare,Mastiff Of Tindalos,Aberration; Evil; Rare; Time,Medium,Kingmaker Adventure Path pg. 416
@@ -2050,7 +2333,7 @@ Level,Rarity,Name,Traits,Size,Source
 15,Uncommon,Sordesdaemon,Daemon; Fiend; Uncommon,Large,Pathfinder #162: Ruins of the Radiant Siege pg. 78
 15,Common,Quelaunt,Aberration,Large,Bestiary pg. 273
 15,Uncommon,Berberoka,Giant; Humanoid; Uncommon,Huge,Pathfinder #166: Despair on Danger Island pg. 82
-15,Unique,"Redacted, The Weaver In Dreams",Aberration; Human; Humanoid; Unique,Medium,Dark Archive pg. 16
+15,Unique,Redacted; The Weaver In Dreams,Aberration; Human; Humanoid; Unique,Medium,Dark Archive pg. 16
 15,Uncommon,Azure Worm,Amphibious; Animal; Uncommon,Gargantuan,Bestiary pg. 57
 15,Uncommon,Umonlee,Amphibious; Beast; Cold; Uncommon,Huge,Bestiary 2 pg. 2712.0
 15,Rare,Wild Hunt Horse,Fey; Rare; Wild Hunt,Large,Kingmaker Adventure Path pg. 617
@@ -2091,10 +2374,23 @@ Level,Rarity,Name,Traits,Size,Source
 15,Common,Sykever,Darvakka; Shadow; Undead,Huge,Book of the Dead pg. 83
 15,Common,Wemmuth,Plant,Huge,Bestiary pg. 326
 15,Uncommon,Necrohulk Smasher,Mutant; Uncommon; Undead,Large,Pathfinder #185: A Taste of Ashes pg. 87
+15,Common,Archer Crew [14-16],Humanoid,Large,Mercenary Marketplace: Example Crews
+15,Common,Cutpurse Crew [14-16],Humanoid,Large,Mercenary Marketplace: Example Crews
+15,Common,Doctor Crew [14-16],Humanoid,Large,Mercenary Marketplace: Example Crews
+15,Common,Enforcer Crew [14-16],Humanoid,Large,Mercenary Marketplace: Example Crews
+15,Common,Guardian Crew [14-16],Humanoid,Large,Mercenary Marketplace: Example Crews
+15,Common,Monk Crew [14-16],Humanoid,Large,Mercenary Marketplace: Example Crews
+15,Common,Ravager Crew [14-16],Humanoid,Large,Mercenary Marketplace: Example Crews
+15,Common,Tactician Crew [14-16],Humanoid,Large,Mercenary Marketplace: Example Crews
+15,Common,Wrestler Crew [14-16],Humanoid,Large,Mercenary Marketplace: Example Crews
+15,Common,Arcanist [15],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+15,Common,Ecclesiast [15],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+15,Common,Occultist [15],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+15,Common,Primalist [15],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
 16,Rare,Love Siktempora,Rare; Siktempora; Time,Medium,Bestiary 3 pg. 233
 16,Rare,Mithral Golem,Construct; Golem; Mindless; Rare,Huge,Bestiary 3 pg. 117
 16,Unique,Gedovius,Beast; Earth; Unique,Medium,Kingmaker Adventure Path pg. 391
-16,Uncommon,"Elemental Vessel, Water",Aquatic; Elemental; Uncommon; Water,Large,Pathfinder #161: Belly of the Black Whale pg. 82
+16,Uncommon,Elemental Vessel; Water,Aquatic; Elemental; Uncommon; Water,Large,Pathfinder #161: Belly of the Black Whale pg. 82
 16,Uncommon,Obsidian Golem,Construct; Golem; Mindless; Uncommon,Large,Pathfinder #155: Lord of the Black Sands pg. 80
 16,Rare,Wheel Archon,Archon; Celestial; Rare,Huge,Pathfinder #183: Field of Maidens pg. 82
 16,Common,Astradaemon,Daemon; Fiend,Large,Bestiary pg. 73
@@ -2122,7 +2418,7 @@ Level,Rarity,Name,Traits,Size,Source
 16,Unique,Tamikan,Dragon; Unique,Large,Pathfinder #166: Despair on Danger Island pg. 39
 16,Unique,Blue Viper (Level 16),Humanoid; Ratfolk; Unique,Small,Pathfinder #167: Ready? Fight! pg. 36
 16,Unique,Castruccio Irovetti,Human; Humanoid; Unique,Medium,Kingmaker Adventure Path pg. 593
-16,Common,Cornugon,Devil; Fiend,Large,"Bestiary 2 pg. 762.0 , Pathfinder #149: Against the Scarlet Triad pg. 87"
+16,Common,Cornugon,Devil; Fiend,Large,Bestiary 2 pg. 762.0 ; Pathfinder #149: Against the Scarlet Triad pg. 87
 16,Rare,Crawling Slurry,Acid; Mindless; Ooze; Rare,Medium,Pathfinder #174: Shadows of the Ancients pg. 82
 16,Rare,Elder Sphinx,Beast; Rare,Huge,Bestiary 3 pg. 250
 16,Rare,Gray Gardener Director General,Human; Humanoid; Rare,Medium,Night of the Gray Death pg. 21
@@ -2166,6 +2462,21 @@ Level,Rarity,Name,Traits,Size,Source
 16,Rare,Pale Sovereign,Rare; Undead,Medium,Book of the Dead pg. 136
 16,Uncommon,Warsworn,Uncommon; Undead,Gargantuan,Bestiary pg. 323
 16,Uncommon,Rival Corpsekiller,Human; Humanoid; Uncommon,Medium,Pathfinder #186: Ghost King's Rage pg. 30
+16,Common,Conjuror Crew [15-16],Humanoid,Large,Mercenary Marketplace: Example Crews
+16,Common,Hydromancer Crew [15-16],Humanoid,Large,Mercenary Marketplace: Example Crews
+16,Common,Necromancer Cabal [15-16],Humanoid,Large,Mercenary Marketplace: Example Crews
+16,Common,Priestess Circle [15-16],Humanoid,Large,Mercenary Marketplace: Example Crews
+16,Common,Provocateur Troupe [15-16],Humanoid,Large,Mercenary Marketplace: Example Crews
+16,Common,Runic Warrior Crew [15-16],Humanoid,Large,Mercenary Marketplace: Example Crews
+16,Common,Mercenary Bard [15-16],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+16,Common,Mercenary Cleric of Travel [15-16],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+16,Common,Mercenary Druid [15-16],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+16,Common,Mercenary Sorcerer [15-16],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+16,Common,Mercenary Wizard [15-16],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+16,Common,Arcanist [16],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+16,Common,Ecclesiast [16],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+16,Common,Occultist [16],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+16,Common,Primalist [16],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
 17,Unique,Mafika Ayuwari,Human; Humanoid; Unique,Medium,Pathfinder #167: Ready? Fight! pg. 38
 17,Uncommon,Formian Queen,Formian; Uncommon,Large,Pathfinder #173: Doorway to the Red Star pg. 84
 17,Rare,Whimwyrm,Air; Dragon; Rare,Medium,Kingmaker Adventure Path pg. 615
@@ -2214,13 +2525,24 @@ Level,Rarity,Name,Traits,Size,Source
 17,Rare,Fluxwraith,Incorporeal; Rare; Spirit; Undead,Medium,Book of the Dead pg. 93
 17,Rare,Lignified Adamantine Golem,Construct; Golem; Mindless; Rare,Large,Pathfinder #174: Shadows of the Ancients pg. 16
 17,Unique,Dwandek,Undead; Unique,Medium,Pathfinder #173: Doorway to the Red Star pg. 32
-17,Rare,Wyrmwraith,Dragon; Incorporeal; Rare; Undead; Wraith,Gargantuan,"Bestiary 3 pg. 296, Pathfinder #150: Broken Promises pg. 84"
+17,Rare,Wyrmwraith,Dragon; Incorporeal; Rare; Undead; Wraith,Gargantuan,Bestiary 3 pg. 296; Pathfinder #150: Broken Promises pg. 84
 17,Common,Keketar,Monitor; Protean,Large,Bestiary pg. 269
 17,Rare,Ingnovim's Assistants,Human; Humanoid; Rare,Medium,Pathfinder #150: Broken Promises pg. 40
 17,Rare,Drowned Mummy,Amphibious; Mummy; Rare; Undead,Medium,Pathfinder #186: Ghost King's Rage pg. 81
 17,Rare,Gray Gardener Enforcer,Human; Humanoid; Mortic; Rare,Medium,Night of the Gray Death pg. 14
 17,Rare,Tenebric Giant,Rare; Shadow; Undead,Large,Pathfinder #185: A Taste of Ashes pg. 88
 17,Unique,Seldeg Bheldis,Undead; Unique,Medium,Pathfinder #186: Ghost King's Rage pg. 36
+17,Common,Mercenary Alchemist [16-18],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+17,Common,Mercenary Barbarian [16-18],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+17,Common,Mercenary Champion [16-18],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+17,Common,Mercenary Fighter [16-18],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+17,Common,Mercenary Monk [16-18],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+17,Common,Mercenary Ranger [16-18],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+17,Common,Mercenary Rogue [16-18],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+17,Common,Arcanist [17],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+17,Common,Ecclesiast [17],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+17,Common,Occultist [17],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+17,Common,Primalist [17],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
 18,Rare,Hatred Siktempora,Rare; Siktempora; Time,Medium,Bestiary 3 pg. 235
 18,Rare,Ravager Of Tindalos,Aberration; Rare; Time,Large,Pathfinder #173: Doorway to the Red Star pg. 39
 18,Unique,Razu,Humanoid; Tengu; Unique,Medium,Pathfinder #167: Ready? Fight! pg. 90
@@ -2251,7 +2573,7 @@ Level,Rarity,Name,Traits,Size,Source
 18,Rare,Worm Prophet,Human; Humanoid; Rare,Medium,Night of the Gray Death pg. 47
 18,Common,Ghiono,Shadow,Medium,Pathfinder #186: Ghost King's Rage pg. 62
 18,Rare,Cataclysm Beetle,Beast; Rare,Huge,Pathfinder #174: Shadows of the Ancients pg. 40
-18,Common,Duneshaker Solifugid,Animal,Gargantuan,"Bestiary 2 pg. 2462.0 , Pathfinder #149: Against the Scarlet Triad pg. 89"
+18,Common,Duneshaker Solifugid,Animal,Gargantuan,Bestiary 2 pg. 2462.0 ; Pathfinder #149: Against the Scarlet Triad pg. 89
 18,Unique,Ishti,Beast; Unique,Large,Pathfinder #149: Against the Scarlet Triad pg. 47
 18,Unique,Jin-Hae,Ethereal; Phantom; Spirit; Unique,Medium,Pathfinder #168: King of the Mountain pg. 18
 18,Rare,Myrucarx,Aberration; Rare,Large,Pathfinder #161: Belly of the Black Whale pg. 85
@@ -2269,7 +2591,7 @@ Level,Rarity,Name,Traits,Size,Source
 18,Uncommon,Ancient Blue Dragon,Dragon; Electricity; Uncommon,Huge,Bestiary pg. 108
 18,Rare,Wild Hunt Scout,Fey; Rare; Wild Hunt,Medium,Kingmaker Adventure Path pg. 619
 18,Common,Winged Owlbear,Animal,Gargantuan,Kingmaker Adventure Path pg. 451
-18,Rare,Ancient Magma Dragon,Dragon; Elemental; Fire; Rare,Gargantuan,"Bestiary 2 pg. 952.0 , Pathfinder #148: Fires of the Haunted City pg. 81"
+18,Rare,Ancient Magma Dragon,Dragon; Elemental; Fire; Rare,Gargantuan,Bestiary 2 pg. 952.0 ; Pathfinder #148: Fires of the Haunted City pg. 81
 18,Rare,Dragonstorm Fire Giant,Giant; Humanoid; Rare,Huge,Pathfinder #150: Broken Promises pg. 12
 18,Unique,Taljjae,Fey; Unique,Large,Monsters of Myth pg. 100
 18,Rare,Tree That Weeps,Plant; Rare,Gargantuan,Kingmaker Adventure Path pg. 117
@@ -2294,6 +2616,16 @@ Level,Rarity,Name,Traits,Size,Source
 18,Rare,Queen Sluagh,Fey; Rare; Undead,Huge,Book of the Dead pg. 151
 18,Rare,Vitalia,Aberration; Aquatic; Mindless; Rare,Large,Pathfinder #155: Lord of the Black Sands pg. 84
 18,Common,Urveth,Darvakka; Shadow; Undead,Gargantuan,Book of the Dead pg. 84
+18,Common,Monk Crew [17-19],Humanoid,Large,Mercenary Marketplace: Example Crews
+18,Common,Mercenary Bard [17-18],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+18,Common,Mercenary Cleric of Travel [17-18],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+18,Common,Mercenary Druid [17-18],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+18,Common,Mercenary Sorcerer [17-18],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+18,Common,Mercenary Wizard [17-18],Humanoid,Medium,Mercenary Marketplace: NPCs by Class
+18,Common,Arcanist [18],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+18,Common,Ecclesiast [18],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+18,Common,Occultist [18],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+18,Common,Primalist [18],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
 19,Uncommon,Necromancer Troop,Humanoid; Troop; Uncommon,Gargantuan,Pathfinder #186: Ghost King's Rage pg. 40
 19,Unique,Matron Uldrula,Monitor; Psychopomp; Unique,Medium,Pathfinder #186: Ghost King's Rage pg. 90
 19,Uncommon,Sturzstromer,Aberration; Earth; Swarm; Uncommon,Huge,Bestiary 3 pg. 52
@@ -2335,9 +2667,13 @@ Level,Rarity,Name,Traits,Size,Source
 19,Rare,Runecarved Lich,Rare; Undead,Medium,Book of the Dead pg. 122
 19,Unique,Kargstaad,Cold; Giant; Humanoid; Unique,Large,Kingmaker Adventure Path pg. 448
 19,Unique,Dyzallin Shraen,Mummy; Undead; Unique,Medium,Pathfinder #155: Lord of the Black Sands pg. 86
-19,Uncommon,Tzitzimitl,Electricity; Uncommon; Undead,Gargantuan,"Bestiary 3 pg. 279, Pathfinder #150: Broken Promises pg. 82"
+19,Uncommon,Tzitzimitl,Electricity; Uncommon; Undead,Gargantuan,Bestiary 3 pg. 279; Pathfinder #150: Broken Promises pg. 82
 19,Common,Primal Bandersnatch,Beast; Tane,Gargantuan,Kingmaker Adventure Path pg. 610
-19,Unique,"Basiri, Wellspring Keeper",Aquatic; Skeleton; Undead; Unique,Large,Pathfinder #186: Ghost King's Rage pg. 38
+19,Unique,Basiri; Wellspring Keeper,Aquatic; Skeleton; Undead; Unique,Large,Pathfinder #186: Ghost King's Rage pg. 38
+19,Common,Arcanist [19],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+19,Common,Ecclesiast [19],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+19,Common,Occultist [19],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+19,Common,Primalist [19],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
 20,Common,Baomal,Aberration; Aquatic,Gargantuan,Bestiary pg. 35
 20,Rare,Maharaja,Fiend; Rakshasa; Rare,Medium,Bestiary 3 pg. 211
 20,Unique,The Knurly Witch,Hag; Humanoid; Unique,Large,Kingmaker Adventure Path pg. 453
@@ -2384,14 +2720,18 @@ Level,Rarity,Name,Traits,Size,Source
 20,Rare,Shadow Worm,Animal; Rare; Shadow,Gargantuan,Pathfinder #186: Ghost King's Rage pg. 86
 20,Uncommon,Sthira,Cold; Uncommon; Undead,Large,Pathfinder #168: King of the Mountain pg. 87
 20,Common,Nasurgeth,Aquatic; Darvakka; Shadow; Undead,Gargantuan,Book of the Dead pg. 85
+20,Common,Arcanist [20],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+20,Common,Ecclesiast [20],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+20,Common,Occultist [20],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
+20,Common,Primalist [20],Humanoid,Medium,Mercenary Marketplace: Generic Spellcasters by Tradition
 21,Rare,Spirit Turtle,Fey; Rare,Gargantuan,Pathfinder #168: King of the Mountain pg. 86
 21,Rare,Baatamidar,Monitor; Rare,Medium,Pathfinder #162: Ruins of the Radiant Siege pg. 76
 21,Common,Mu Spore,Fungus,Gargantuan,Bestiary pg. 238
 21,Unique,Werendegar,Fey; Unique,Small,Kingmaker Adventure Path pg. 488
 21,Unique,Krampus,Humanoid; Unique,Large,Bestiary 3 pg. 154
-21,Rare,Elysian Titan,Humanoid; Rare; Titan,Gargantuan,"Bestiary 3 pg. 268, Pathfinder #156: The Apocalypse Prophet pg. 82"
+21,Rare,Elysian Titan,Humanoid; Rare; Titan,Gargantuan,Bestiary 3 pg. 268; Pathfinder #156: The Apocalypse Prophet pg. 82
 21,Rare,Ironclad Annihilator Beetle,Beast; Rare,Gargantuan,Pathfinder #174: Shadows of the Ancients pg. 49
-21,Unique,"Kothogaz, Dance Of Disharmony",Beast; Unique,Gargantuan,Monsters of Myth pg. 52
+21,Unique,Kothogaz; Dance Of Disharmony,Beast; Unique,Gargantuan,Monsters of Myth pg. 52
 21,Uncommon,Lophiithu,Aberration; Aquatic; Uncommon,Gargantuan,Pathfinder #168: King of the Mountain pg. 83
 21,Rare,Lesser Jabberwock,Dragon; Rare; Tane,Huge,Kingmaker Adventure Path pg. 440
 21,Uncommon,Tor Linnorm,Dragon; Fire; Uncommon,Gargantuan,Bestiary pg. 227
@@ -2407,19 +2747,20 @@ Level,Rarity,Name,Traits,Size,Source
 21,Unique,Iffdahsil,Aberration; Undead; Unique,Gargantuan,Pathfinder #155: Lord of the Black Sands pg. 81
 21,Rare,Umbraex,Cold; Darvakka; Rare; Shadow; Undead,Gargantuan,Pathfinder #185: A Taste of Ashes pg. 83
 21,Unique,Benthic Reaver,Cold; Undead; Unique,Gargantuan,Impossible Lands pg. 324
+21,Common,Monk Crew [20-22],Humanoid,Large,Mercenary Marketplace: Example Crews
 22,Rare,Rhevanna,Fiend; Rare,Large,Pathfinder #162: Ruins of the Radiant Siege pg. 83
 22,Unique,Dragonshard Guardian,Construct; Unique,Large,Pathfinder #150: Broken Promises pg. 79
 22,Unique,Sarvel Ever-Hunger,Fiend; Humanoid; Unique; Xulgath,Large,Pathfinder #156: The Apocalypse Prophet pg. 90
 22,Rare,Risen Fetch,Fey; Plant; Rare,Large,Kingmaker Adventure Path pg. 613
 22,Unique,Lesser Manifestation Of Dahak,Dragon; Fire; Unique,Gargantuan,Pathfinder #150: Broken Promises pg. 16
-22,Rare,Thanatotic Titan,Humanoid; Rare; Titan,Gargantuan,"Bestiary 3 pg. 268, Pathfinder #156: The Apocalypse Prophet pg. 83"
+22,Rare,Thanatotic Titan,Humanoid; Rare; Titan,Gargantuan,Bestiary 3 pg. 268; Pathfinder #156: The Apocalypse Prophet pg. 83
 22,Unique,Syndara The Sculptor,Aeon; Monitor; Unique,Medium,Pathfinder #168: King of the Mountain pg. 90
 23,Rare,Danava Titan,Humanoid; Rare; Titan; Water,Gargantuan,Bestiary 3 pg. 269
 23,Unique,Nyrissa,Fey; Nymph; Unique,Medium,Kingmaker Adventure Path pg. 602
 23,Rare,Jabberwock,Dragon; Rare; Tane,Huge,Bestiary 2 pg. 1502.0
 23,Rare,Solar,Angel; Celestial; Rare,Large,Bestiary 2 pg. 162.0
 23,Unique,Mengkare,Dragon; Fire; Unique,Gargantuan,Pathfinder #150: Broken Promises pg. 90
-23,Rare,Elder Wyrmwraith,Dragon; Incorporeal; Rare; Undead; Wraith,Gargantuan,"Bestiary 3 pg. 297, Pathfinder #150: Broken Promises pg. 85"
+23,Rare,Elder Wyrmwraith,Dragon; Incorporeal; Rare; Undead; Wraith,Gargantuan,Bestiary 3 pg. 297; Pathfinder #150: Broken Promises pg. 85
 24,Unique,Avatar of the Lantern King,Fey; Fire; Unique,Gargantuan,Kingmaker Adventure Path pg. 600
 24,Unique,Fafnheir,Dragon; Unique,Gargantuan,Monsters of Myth pg. 28
 24,Rare,Hekatonkheires Titan,Aberration; Rare; Titan,Gargantuan,Bestiary 3 pg. 270

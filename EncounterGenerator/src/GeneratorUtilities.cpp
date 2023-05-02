@@ -63,11 +63,11 @@ namespace Pathfinder
     {
         switch (difficulty)
         {
-        case Difficulty::Trivial: return "Easy";
-        case Difficulty::Low: return "Medium";
-        case Difficulty::Moderate: return "Hard";
-        case Difficulty::Severe: return "Deadly";
-        case Difficulty::Extreme: return "Insanity";
+        case Difficulty::Trivial: return "Trivial";
+        case Difficulty::Low: return "Low";
+        case Difficulty::Moderate: return "Moderate";
+        case Difficulty::Severe: return "Severe";
+        case Difficulty::Extreme: return "Extreme";
         default: return "invalid difficulty";
         }
     }
